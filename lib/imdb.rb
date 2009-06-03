@@ -6,8 +6,9 @@ require 'httparty'
 require 'hpricot'
 
 require 'imdb/movie'
+require 'imdb/search'
 require 'imdb/string_extensions'
 
 module Imdb
-  VERSION = '0.0.1'
+  VERSION = '0.0.2'
 end
