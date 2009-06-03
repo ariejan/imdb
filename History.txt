@@ -1,3 +1,7 @@
+== 0.1.0 2009-06-03
+
+* Added Imdb::Search that allows search IMDB for a specific movie.
+
 == 0.0.1 2009-06-03
 
 * First release of the IMDB gem.
