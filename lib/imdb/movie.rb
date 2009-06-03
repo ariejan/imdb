@@ -9,6 +9,11 @@ module Imdb
     # Initialize a new IMDB movie object with it's IMDB id (as a String)
     #
     #   movie = Imdb::Movie.new("0095016")
+    #
+    # Imdb::Movie objects are lazy loading, meaning that no HTTP request
+    # will be performed when a new object is created. Only when you use an 
+    # accessor that needs the remote data, a HTTP request is made (once).
+    #
     def initialize(imdb_id)
       @id = imdb_id
       @url = "http://www.imdb.com/title/tt#{imdb_id}/"
