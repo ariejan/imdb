@@ -1,26 +1,34 @@
 = imdb
 
-* FIX (url)
+* http://github.com/ariejan/imdb
 
 == DESCRIPTION:
 
-FIX (describe your package)
+This packages allows you to easy access publicly available data from IMDB. 
 
 == FEATURES/PROBLEMS:
 
-* FIX (list of features or problems)
+* Searching is not yet supported.
 
 == SYNOPSIS:
 
-  FIX (code sample of usage)
+  i = Imdb::Movie.new("0095016")
+  
+  i.title
+  #=> "Die Hard"
+  i.cast_member.first
+  #=> "Bruce Willis"
 
 == REQUIREMENTS:
 
-* FIX (list of requirements)
+All required gems are installed automagically through RubyGems.
+
+* Hpricot 0.8.1
+* HTTParty 0.4.3
 
 == INSTALL:
 
-* FIX (sudo gem install, anything else)
+* sudo gem install imdb
 
 == LICENSE:
 
