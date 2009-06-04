@@ -2,13 +2,16 @@ History.txt
 Manifest.txt
 README.rdoc
 Rakefile
+bin/imdb
 lib/imdb.rb
+lib/imdb/cli.rb
 lib/imdb/movie.rb
 lib/imdb/search.rb
 lib/imdb/string_extensions.rb
 script/console
 script/destroy
 script/generate
+spec/imdb_cli_spec.rb
 spec/imdb_movie_spec.rb
 spec/imdb_search_spec.rb
 spec/spec.opts
