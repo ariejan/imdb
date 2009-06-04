@@ -1,5 +1,7 @@
 = imdb
 
+The code, issue tracker and wiki can be found at:
+
 * http://github.com/ariejan/imdb
 
 == DESCRIPTION:
@@ -8,9 +10,15 @@ This packages allows you to easy access publicly available data from IMDB.
 
 == FEATURES/PROBLEMS:
 
-* Searching is not yet supported.
+IMDB currently features the following:
+
+* Querying details movie info
+* Searching for movies
+* Command-line utility included.
 
 == SYNOPSIS:
+
+Movies:
 
   i = Imdb::Movie.new("0095016")
   
@@ -18,6 +26,21 @@ This packages allows you to easy access publicly available data from IMDB.
   #=> "Die Hard"
   i.cast_member.first
   #=> "Bruce Willis"
+
+Searching:
+
+    i = Imdb::Search.new("Star Trek")
+
+    i.movies.size
+    #=> 97
+    
+Using the command line utility is quite easy:
+
+    $ imdb Star Trek
+    
+or to get movie info
+
+    $ imdb 0095016
 
 == REQUIREMENTS:
 
