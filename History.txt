@@ -1,3 +1,7 @@
+== 0.3.0
+
+* Fixed typo in CLI field name 'Cast by'
+
 == 0.2.0 2009-06-04
 
 * Added console tool 'imdb' for searching and getting movie info.

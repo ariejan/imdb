@@ -81,8 +81,8 @@ module Imdb
       @stdout.puts "Rating: #{movie.rating}"
       @stdout.puts "Duration: #{movie.length} minutes"
       @stdout.puts "Directed by: #{movie.director}"
-      @stdout.puts "Cast by: #{movie.cast_members[0..4].join(", ")}"
-      @stdout.puts "Genres: #{movie.genres.join(", ")}"
+      @stdout.puts "Cast: #{movie.cast_members[0..4].join(", ")}"
+      @stdout.puts "Genre: #{movie.genres.join(", ")}"
       @stdout.puts "#{movie.plot}"
       @stdout.puts "=" * 72
       @stdout.puts
