@@ -29,7 +29,9 @@ describe "Imdb::Movie" do
   end
   
   it "should find the director" do
-    @movie.director.should =~ /John McTiernan/
+    @movie.director.should be_an(Array)
+    @movie.director.size.should eql(1)
+    @movie.director.first.should =~ /John McTiernan/
   end
   
   it "should find the genres" do
@@ -68,6 +70,19 @@ describe "Imdb::Movie" do
   
   it "should find the year" do
     @movie.year.should eql(1988)
+  end
+  
+  describe "special scenarios" do
+    
+    it "should find multiple directors" do
+      # The Matrix Revolutions (2003)
+      movie = Imdb::Movie.new("0242653")
+      
+      movie.director.should be_an(Array)
+      movie.director.size.should eql(2)
+      movie.director.should include("Larry Wachowski")
+      movie.director.should include("Andy Wachowski")
+    end
   end
   
 end

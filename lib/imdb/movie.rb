@@ -17,7 +17,7 @@ module Imdb
     def initialize(imdb_id, title = nil)
       @id = imdb_id
       @url = "http://www.imdb.com/title/tt#{imdb_id}/"
-      @title = title.gsub(/"/, "")
+      @title = title.nil? ? nil : title.gsub(/"/, "")
     end
     
     # Returns an array with cast members
@@ -27,7 +27,8 @@ module Imdb
     
     # Returns the name of the director
     def director
-      document.at("h5[text()='Director:'] ~ a").innerHTML.strip.imdb_unescape_html rescue nil
+      # document.at("h5[text()='Director:'] ~ a").innerHTML.strip.imdb_unescape_html rescue nil
+      document.search("h5[text()^='Director'] ~ a").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
     end
     
     # Returns an array of genres (as strings)
