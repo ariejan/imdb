@@ -1,3 +1,8 @@
+== 0.2.0 2009-06-04
+
+* Added console tool 'imdb' for searching and getting movie info.
+* Fixed issue #2
+
 == 0.1.0 2009-06-03
 
 * Added Imdb::Search that allows search IMDB for a specific movie.
