@@ -75,16 +75,20 @@ module Imdb
     end
     
     def self.display_movie_details(movie)
+      title = "#{movie.title} (#{movie.year})"
+      id    = "ID #{movie.id}"
+      
       @stdout.puts
-      @stdout.puts "#{movie.title} (#{movie.year})"
-      @stdout.puts "=" * 72
+      @stdout.puts "#{title}#{" " * (75 - 1 - title.length - id.length)}#{id} "
+      @stdout.puts "=" * 75
       @stdout.puts "Rating: #{movie.rating}"
       @stdout.puts "Duration: #{movie.length} minutes"
       @stdout.puts "Directed by: #{movie.director.join(", ")}"
       @stdout.puts "Cast: #{movie.cast_members[0..4].join(", ")}"
       @stdout.puts "Genre: #{movie.genres.join(", ")}"
-      @stdout.puts "#{movie.plot}"
-      @stdout.puts "=" * 72
+      @stdout.puts "Plot: #{movie.plot}"
+      @stdout.puts "IMDB URL: #{movie.url}"
+      @stdout.puts "=" * 75
       @stdout.puts
     end
     
