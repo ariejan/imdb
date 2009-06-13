@@ -1,4 +1,10 @@
-== 0.3.0
+== 0.4.0 2009-06-14
+
+* Updates to the console 'imdb' utility
+  * Show the IMDB ID
+  * Show the full IMDB URL
+
+== 0.3.0 2009-06-07
 
 * Fixed typo in CLI field name 'Cast by'
 * Fixed retrieval of multiple directors. (#1)
