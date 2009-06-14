@@ -4,6 +4,8 @@ module Imdb
   class Search
     include HTTParty
     
+    attr_reader :query
+
     # Initialize a new IMDB search with the specified query
     #
     #   search = Imdb::Search.new("Star Trek")

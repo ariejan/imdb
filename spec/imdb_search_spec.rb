@@ -5,6 +5,10 @@ describe "Imdb::Search with multiple search results" do
   before(:each) do
     @search = Imdb::Search.new("Star Trek")
   end
+
+  it "should remember the query" do
+    @search.query.should == "Star Trek"
+  end
   
   it "should find > 10 results" do
     @search.movies.size.should > 10
