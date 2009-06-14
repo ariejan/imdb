@@ -1,7 +1,7 @@
 module Imdb
   
   # Search IMDB for a title
-  class Search
+  class Search < MovieList
     attr_reader :query
 
     # Initialize a new IMDB search with the specified query
@@ -21,8 +21,7 @@ module Imdb
       @movies ||= (exact_match? ? parse_movie : parse_movies)
     end
     
-    #private
-    
+    private
     def document
       @document ||= Hpricot(Imdb::Search.query(@query))
     end
@@ -31,28 +30,6 @@ module Imdb
       open("http://www.imdb.com/find?q=#{CGI::escape(query)};s=tt")
     end
     
-    def parse_movies
-      document.search('a[@href^="/title/tt"]').reject do |element|
-        element.innerHTML.imdb_strip_tags.empty? ||
-        element.parent.innerHTML =~ /media from/i
-      end.map do |element|
-        id = element['href'][/\d+/]
-        
-        data = element.parent.innerHTML.split("<br />")
-        if !data[0].nil? && !data[1].nil? && data[0] =~ /img/
-          title = data[1]
-        else
-          title = data[0]
-        end
-        
-        title = title.imdb_strip_tags.imdb_unescape_html
-        
-        [id, title]
-      end.uniq.map do |values|
-        Imdb::Movie.new(*values)
-      end
-    end
-
     def parse_movie
       id = document.at("a[@name='poster']")['href'][/\d+$/]
       title = document.at("h1").innerHTML.split('<span').first.strip.imdb_unescape_html

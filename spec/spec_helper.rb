@@ -35,6 +35,8 @@ unless ENV['LIVE_TEST']
       "http://www.imdb.com:80/title/tt0095016/" => "tt0095016",
       "http://www.imdb.com:80/title/tt0242653/" => "tt0242653",
       "http://www.imdb.com:80/title/tt0242653/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfHFzPU1hdHJpeCBSZXZvbHV0aW9uc3xodG1sPTF8c2l0ZT1kZnxxPU1hdHJpeCBSZXZvbHV0aW9uc3xwbj0w;fc=1;ft=20" => "tt0242653",
+      "http://www.imdb.com:80/chart/top" => "top_250",
+      "http://www.imdb.com/title/tt0111161/" => "tt0111161",
     }.each do |url, response|
       FakeWeb.register_uri(:get, url, :response => read_fixture(response))
     end

@@ -1,0 +1,866 @@
+HTTP/1.1 200 OK
+Date: Sun, 14 Jun 2009 14:56:40 GMT
+Server: Server
+Cache-Control: private
+Content-Type: text/html
+Set-Cookie: session-id=71.79.18.25.1244991400359164; path=/; domain=.imdb.com
+Set-Cookie: uu=RGfZ6Z9IQbhV8WgafHwoSgCRSyzjgn26o5L+6aaC7qnjoj68w+Ju/LfGPukmx50bwJFtjNOybrqjwn7Z4DJ+meCRbaoGcS2aoNZb7PiBbbqjEm66I9L+2YAyfpnj0m66A9L+KbAyfpngkW2KBnEtmqDXe20AkW26oLFtuqC3KyrjkW26o+IeOaOyLumggc0ZsLFtuqCRbergwR2Ko=;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=Nka8EOv0HbIkOmyH49Ft/wiOAiSO2RITtsmaRI2aESQNmoG3nnoBB87ZEhQoWVIEjtkkY9vtwiSKLgdDna0hUvmZspcO2SSyblESJI7vJDOO2RIkjvkSJI7ZEmTOiWIUg=;expires=Mon, 15 Jun 2009 07:00:00 GMT;path=/;domain=.imdb.com
+Vary: Accept-Encoding,User-Agent
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="IMDB "
+nnCoection: close
+Transfer-Encoding: chunked
+
+ 
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<title>IMDb Top 250</title>
+<link rel="canonical" href="http://www.imdb.com/chart/top" />
+<meta name="title" content="IMDb Top 250">
+<meta name="description" content="IMDb: The biggest, best, most award-winning movie site on the planet.">
+
+<meta name="keywords" content="movies,films,movie database,actors,actresses,directors,hollywood,stars,quotes">
+<link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SFdac1d3870cf498cb8ed9ea435f7b51e5/css2/consumersite.css" />
+<script type="text/javascript" src="http://i.media-imdb.com/images/SF0a7961f02056ed2d6efc60d346dc0fe9/a/js/ads.js"></script>
+<script type="text/javascript">
+    custom.amazon.request_content("/images/a/js/pa_stub.js?ord=[CLIENT_SIDE_ORD]");
+</script>
+
+<link rel="icon" href="http://i.imdb.com/favicon.ico" />
+<link rel="apple-touch-icon" href="http://i.media-imdb.com/apple-touch-icon.png" />
+<link rel="alternate" type="application/rss+xml" title="IMDb News" href="http://rss.imdb.com/news/" />
+<link rel="alternate" type="application/rss+xml" title="WENN News" href="http://rss.imdb.com/news/wenn/" />
+<link rel="alternate" type="application/rss+xml" title="Studio Briefing News" href="http://rss.imdb.com/news/sb/" />
+<link rel="alternate" type="application/rss+xml" title="Born On This Date" href="http://rss.imdb.com/daily/born/" />
+<link rel="alternate" type="application/rss+xml" title="Died On This Date" href="http://rss.imdb.com/daily/died/" />
+<link rel="alternate" type="application/rss+xml" title="Daily Poll" href="http://rss.imdb.com/daily/poll/" />
+
+
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SFf6c483b1e7cf529cb88a10732f37b355/wheel/widgets.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SF7fe9c4d5300e5a512674311f133bda92/wheel/layout.css" />
+
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SF89a770dc6c9399c865b1dcde50919f2d/wheel/ie.css" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFf4998318a26e5a6e8304e5bbbef6581a/wheel/fixed.css" />
+
+</head>
+
+<body bgcolor="#ffffff" text="#000000" id="styleguide-v2" class="fixed">
+<div id="wrapper">
+
+
+
+<script language="JavaScript" type="text/javascript">ord = ((this.ad_utils) && (this.ad_utils.ord)) ? this.ad_utils.ord : Math.random()*10000000000000000; </script><!-- begin FLOATING1 -->
+<div id="floating1_wrapper">
+<script type="text/javascript"> 
+ad_utils.queue_ad('1','floating1');
+</script>
+<iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.chart/;tile=1;sz=1x1,4x1;p=f1;ifb=pf;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="floating1" name="floating1" class="yesScript" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
+
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.chart/;tile=1;sz=1x1,4x1;p=f1;ifb=pf;ord=332085661814?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.chart/;tile=1;sz=1x1,4x1;p=f1;ifb=pf;ord=332085661814?"  border="0" alt="advertisement" /></a></noscript>
+
+</div>
+<!-- End FLOATING1 -->
+
+
+
+
+
+<div id="root">
+<layer name="root">
+  
+
+<div id="nb15">
+ <div id="nb15supertab">
+
+
+<!-- begin TOP_AD -->
+<div id="top_ad_wrapper">
+<script type="text/javascript"> 
+ad_utils.queue_ad('2','top_ad');
+</script>
+<iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.chart/;tile=2;sz=468x60,728x90,1008x150,9x1;p=t;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="80" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
+
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.chart/;tile=2;sz=468x60,728x90,1008x150,9x1;p=t;ord=332085661814?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.chart/;tile=2;sz=468x60,728x90,1008x150,9x1;p=t;ord=332085661814?"  border="0" alt="advertisement" /></a></noscript>
+
+</div>
+<!-- End TOP_AD -->
+
+</div>
+  <div id="nb15home">
+   <a href="/" onClick="(new Image()).src='/rg/nav-home/navbar/images/b.gif?link=/';"><img src="http://i.media-imdb.com/images/nb15/logo2.gif" alt="Home" 
+   title="The Internet Movie Database" border="0" width="177" height="78"></a>
+  </div>
+ <div id="nb15botbg">
+ 
+  <div id="nb15tabs">
+   <a id="nb15nowplaying" href="/nowplaying/" onClick="(new Image()).src='/rg/nav-nowplaying/navbar/images/b.gif?link=/nowplaying/';"><i>Now Playing</i></a>
+   <a id="nb15news" href="/news/" onClick="(new Image()).src='/rg/nav-news/navbar/images/b.gif?link=/news/';"><i>Movie/TV News</i></a>
+   <a id="nb15mm" href="/mymovies/list" onClick="(new Image()).src='/rg/nav-mymovies/navbar/images/b.gif?link=/mymovies/list';"><i>My Movies</i></a>
+   <a id="nb15dvd" href="/sections/dvd/" onClick="(new Image()).src='/rg/nav-video/navbar/images/b.gif?link=/sections/dvd/';"><i>DVD New Releases</i></a>
+   <a id="nb15imdbtv" href="/sections/tv/" onClick="(new Image()).src='/rg/nav-imdbtv/navbar/images/b.gif?link=/sections/tv/';"><i>IMDbTV</i></a>
+   <a id="nb15boards" href="/boards/" onClick="(new Image()).src='/rg/nav-boards/navbar/images/b.gif?link=/boards/';"><i>Message Boards</i></a>
+   <a id="nb15showtimes" href="/showtimes/" onClick="(new Image()).src='/rg/nav-showtimes/navbar/images/b.gif?link=/showtimes/';"><i>Showtimes &amp; Tickets</i></a>
+   <a id="nb15pro" href="http://pro.imdb.com/r/imdb-nav/" onClick="(new Image()).src='/rg/nav-pro/navbar/images/b.gif?link=http://pro.imdb.com/r/imdb-nav/';"><i>IMDbPro</i></a>
+   <a id="nb15resume" href="http://resume.imdb.com/" onClick="(new Image()).src='/rg/nav-resume/navbar/images/b.gif?link=http://resume.imdb.com/';"><i>IMDb Resume</i></a>
+  </div>
+ 
+  <div id="nb15topbg">
+   <div id="nb15iesux">
+    <div id="nb15personal">
+
+     &nbsp;<span><a href="/register/login" onClick="(new Image()).src='/rg/sub-login/navbar/images/b.gif?link=/register/login';">Login</a> | 
+     <a href="/register/?why=personalize" onClick="(new Image()).src='/rg/sub-register/navbar/images/b.gif?link=/register/?why=personalize';">Register</a></span>
+
+    </div>
+   </div>
+  </div>
+  <div id="nb15sub">
+   <div>
+   <a href="/" onClick="(new Image()).src='/rg/sub-home/navbar/images/b.gif?link=/';">Home</a> |
+   
+    <a href="/chart/" onClick="(new Image()).src='/rg/sub-top/navbar/images/b.gif?link=/chart/';">Top&nbsp;Movies</a> |
+    <a href="/sections/gallery/" onClick="(new Image()).src='/rg/sub-gallery/navbar/images/b.gif?link=/sections/gallery/';">Photos</a> |
+    <a href="/indie/" onClick="(new Image()).src='/rg/sub-indie/navbar/images/b.gif?link=/indie/';">Independent&nbsp;Film</a> |
+    <a href="/features/summermovieguide/2009/" onClick="(new Image()).src='/rg/sub-summermovieguide/navbar/images/b.gif?link=/features/summermovieguide/2009/';">Summer Movie Guide</a> |
+    <a href="/Browse/" onClick="(new Image()).src='/rg/sub-browse/navbar/images/b.gif?link=/Browse/';">Browse</a> |
+   
+   <a href="/help/" onClick="(new Image()).src='/rg/sub-help/navbar/images/b.gif?link=/help/';">Help</a>
+   </div>
+  </div>
+  <div id="nb15search"> 
+   <span class=search><a href="/search" onClick="(new Image()).src='/rg/search-img/navbar/images/b.gif?link=/search';">search</a></span>
+   <form method="get" action="/find" name="find">
+    <select name="s">
+     <option value="all" selected>All</option>
+     <option value="tt">Titles</option>
+     <option value="ep">TV Episodes</option>
+     
+      <option>My Movies</option>
+     
+     <option value="nm">Names</option>
+     <option value="co">Companies</option>
+     
+      <option value="kw">Keywords</option>
+     
+     
+     <option value="char">Characters</option>
+     
+      <option>Quotes</option>
+      <option>Bios</option>
+      <option>Plots</option>
+    
+    </select>
+   <input name="q" size="28" value="">
+    
+    <input type="image"  id="nb15go_image"  src="http://i.media-imdb.com/images/SF3892fa575b88eeb705320cfdeddd1539/intl/en/go.gif" alt="go" value="go" title="go">
+    
+    
+    <span id="nb15searchlinks">
+    
+     <a href="/search" onClick="(new Image()).src='/rg/search-more/navbar/images/b.gif?link=/search';">more</a> | 
+     <a href="/help/show_leaf?searchtips" onClick="(new Image()).src='/rg/search-tips/navbar/images/b.gif?link=/help/show_leaf?searchtips';">tips</a>
+    
+    </span>
+   </form>
+  </div>
+ </div>
+</div>
+
+
+
+<!-- begin NAVSTRIP -->
+<div id="navstrip_wrapper">
+<script type="text/javascript"> 
+ad_utils.queue_ad('3','navstrip');
+</script>
+<iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.chart/;tile=3;sz=1008x40,7x1;p=ns;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="navstrip" name="navstrip" class="yesScript" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
+
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.chart/;tile=3;sz=1008x40,7x1;p=ns;ord=332085661814?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.chart/;tile=3;sz=1008x40,7x1;p=ns;ord=332085661814?"  border="0" alt="advertisement" /></a></noscript>
+
+</div>
+<!-- End NAVSTRIP -->
+
+
+<div id="pagecontent">
+
+<table id="outerbody" border="0" width="100%" cellspacing="0" cellpadding="0" class="outer_body">
+ <tr valign="top" align="left">
+
+  <td valign="top" align="left" style="border-top: 10px solid #fff" 
+   width="170"
+   class="lhscol"
+   
+   >
+   
+     
+   
+<style type="text/css">
+.i18nChartLeftNav h2 {
+  
+  
+  
+  background-image:  url(/images/eyebrowcontainer-i18n.gif);
+  background-color: #6070DF;   
+  background-repeat: no-repeat;
+  color: #FFFFFF;
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 70%;
+  font-weight: bold;
+  line-height: 14px;
+  margin: 0px 0px 0px 0px;
+  overflow: hidden;
+  padding: 3px 3px 3px 7px;
+}
+.i18nFont {
+  font-family: Verdana, Arial, sans-serif;
+}
+</style>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td colspan="2">
+<img src="http://i.imdb.com/f164.gif" height=19 width=170 border=0 alt="IMDb Charts">
+</td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/">Main index</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<img src="http://i.media-imdb.com/f67.gif" width="14" height="11" border="0" align="top" alt="(o)"></td>
+<td class="lhsef" bgcolor="#ffffff" width="156">
+<u>&nbsp;IMDb Top 250</u></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/bottom"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/bottom">IMDb Bottom 100</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<img src="http://i.media-imdb.com/f68.gif" width="14" height="6" border="0" align="top" alt="">
+</td></tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+<imdb:roundend/>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td colspan="2">
+<img src="http://i.imdb.com/f144.gif" height=19 width=170 border=0 alt="USA Box Office">
+</td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/boxoffice/"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/boxoffice/">USA Top 10</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/boxoffice/calendar"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/boxoffice/calendar">USA Archive</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<img src="http://i.media-imdb.com/f68.gif" width="14" height="6" border="0" align="top" alt="">
+</td></tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+<imdb:roundend/>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td colspan="2">
+<img src="http://i.imdb.com/f143.gif" height=19 width=170 border=0 alt="UK Box Office">
+</td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/boxoffice/?region=uk"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/boxoffice/?region=uk">UK Top 10</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/boxoffice/calendar?region=uk"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/boxoffice/calendar?region=uk">UK Archive</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<img src="http://i.media-imdb.com/f68.gif" width="14" height="6" border="0" align="top" alt="">
+</td></tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+<imdb:roundend/>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td colspan="2">
+<img src="http://i.imdb.com/f130.gif" height=19 width=170 border=0 alt="All-Time Box Office">
+</td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/boxoffice/alltimegross"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/boxoffice/alltimegross">USA</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/boxoffice/alltimegross?region=non-us"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/boxoffice/alltimegross?region=non-us">Non-USA</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/boxoffice/alltimegross?region=world-wide"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/boxoffice/alltimegross?region=world-wide">World-wide</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<img src="http://i.media-imdb.com/f68.gif" width="14" height="6" border="0" align="top" alt="">
+</td></tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+<imdb:roundend/>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td colspan="2">
+<img src="http://i.imdb.com/f205.gif" height=19 width=170 border=0 alt="Video Rentals">
+</td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/boxoffice/rentals"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/boxoffice/rentals">USA Weekly Top 20</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/boxoffice/rentalscalendar"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/boxoffice/rentalscalendar">USA Archive</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<img src="http://i.media-imdb.com/f68.gif" width="14" height="6" border="0" align="top" alt="">
+</td></tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+<imdb:roundend/>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td colspan="2">
+<img src="http://i.imdb.com/f178.gif" height=19 width=170 border=0 alt="Votes by genre">
+</td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/action"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/action">Action</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/adventure"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/adventure">Adventure</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/animation"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/animation">Animation</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/biography"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/biography">Biography</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/comedy"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/comedy">Comedy</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/crime"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/crime">Crime</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/documentary"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/documentary">Documentary</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/drama"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/drama">Drama</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/family"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/family">Family</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/fantasy"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/fantasy">Fantasy</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/filmnoir"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/filmnoir">Film-Noir</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/history"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/history">History</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/horror"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/horror">Horror</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/independent"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/independent">Independent</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/music"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/music">Music</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/musical"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/musical">Musical</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/mystery"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/mystery">Mystery</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/romance"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/romance">Romance</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/scifi"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/scifi">Sci-Fi</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/short"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/short">Short</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/sport"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/sport">Sport</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/thriller"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/thriller">Thriller</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/tvminiseries"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/tvminiseries">TV mini-series</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/war"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/war">War</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/western"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/western">Western</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<img src="http://i.media-imdb.com/f68.gif" width="14" height="6" border="0" align="top" alt="">
+</td></tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+<imdb:roundend/>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td colspan="2">
+<img src="http://i.imdb.com/f176.gif" border=0 height=19 width="170" alt="Votes by Decade">
+</td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1910s"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1910s">1910-1919</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1920s"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1920s">1920-1929</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1930s"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1930s">1930-1939</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1940s"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1940s">1940-1949</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1950s"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1950s">1950-1959</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1960s"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1960s">1960-1969</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1970s"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1970s">1970-1979</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1980s"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1980s">1980-1989</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1990s"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1990s">1990-1999</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/2000s"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/2000s">2000-2009</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<img src="http://i.media-imdb.com/f68.gif" width="14" height="6" border="0" align="top" alt="">
+</td></tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+<imdb:roundend/>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td colspan="2">
+<img src="http://i.imdb.com/f177.gif" border=0 height=19 width="170" alt="Votes by gender">
+</td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/male"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/male">Male</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/female"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/female">Female</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<img src="http://i.media-imdb.com/f68.gif" width="14" height="6" border="0" align="top" alt="">
+</td></tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+<imdb:roundend/>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td colspan="2">
+<img src="http://i.imdb.com/f136.gif" border=0 height=19 width="170" alt="Top Genre Searches">
+</td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/action?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/action?mode=popular">Action</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/adventure?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/adventure?mode=popular">Adventure</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/animation?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/animation?mode=popular">Animation</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/biography?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/biography?mode=popular">Biography</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/comedy?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/comedy?mode=popular">Comedy</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/crime?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/crime?mode=popular">Crime</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/documentary?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/documentary?mode=popular">Documentary</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/drama?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/drama?mode=popular">Drama</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/family?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/family?mode=popular">Family</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/fantasy?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/fantasy?mode=popular">Fantasy</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/filmnoir?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/filmnoir?mode=popular">Film-Noir</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/history?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/history?mode=popular">History</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/horror?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/horror?mode=popular">Horror</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/music?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/music?mode=popular">Music</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/musical?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/musical?mode=popular">Musical</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/mystery?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/mystery?mode=popular">Mystery</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/romance?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/romance?mode=popular">Romance</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/scifi?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/scifi?mode=popular">Sci-Fi</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/short?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/short?mode=popular">Short</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/sport?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/sport?mode=popular">Sport</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/thriller?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/thriller?mode=popular">Thriller</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/war?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/war?mode=popular">War</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/western?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/western?mode=popular">Western</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1910s?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1910s?mode=popular">1910-1919</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1920s?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1920s?mode=popular">1920-1929</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1930s?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1930s?mode=popular">1930-1939</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1940s?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1940s?mode=popular">1940-1949</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1950s?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1950s?mode=popular">1950-1959</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1960s?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1960s?mode=popular">1960-1969</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1970s?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1970s?mode=popular">1970-1979</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1980s?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1980s?mode=popular">1980-1989</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/1990s?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/1990s?mode=popular">1990-1999</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<a href="/chart/2000s?mode=popular"><img src="http://i.media-imdb.com/f66.gif" width="14" height="11" border="0" align="top" alt="( )"></a></td>
+<td class="lhsef" width="156">
+&nbsp;<a href="/chart/2000s?mode=popular">2000-2009</a></td></tr>
+
+<tr><td bgcolor="#6677DD" width="14">
+<img src="http://i.media-imdb.com/f68.gif" width="14" height="6" border="0" align="top" alt="">
+</td></tr>
+<tr><td>&nbsp;</td></tr>
+</table>
+<imdb:roundend/>
+ 
+     
+     
+   
+   
+  </td>
+<td bgcolor="#FFFFFF" valign="top" align="left" height="28" width="20"><img alt="" src="http://i.imdb.com/b.gif" width="20" height="28"></td>
+   
+   
+   <td width="100%" valign="top" align="left">
+   
+<br>
+<div id="tn15">
+<table width="100%" border=0 cellpadding=0 cellspacing=0>
+<tr valign=top>
+<td><p><h1>Top 250 movies as voted by our users</h1><i>For this top 250, only votes from regular voters are considered.</i><p><table border="1" cellspacing="0" cellpadding="4" style="margin-right:30px;"><tr bgcolor="#FFFFDB"><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1"><b>Rank</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1"><b>Rating</b></font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><b>Title</b></font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>Votes</b></font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>1.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">9.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0111161/">The Shawshank Redemption</a> (1994)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">428,329</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>2.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">9.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0068646/">The Godfather</a> (1972)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">354,387</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>3.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">9.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0071562/">The Godfather: Part II</a> (1974)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">206,313</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>4.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.9</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0060196/">Il buono, il brutto, il cattivo.</a> (1966)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">126,878</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>5.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.9</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0110912/">Pulp Fiction</a> (1994)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">351,327</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>6.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.9</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0108052/">Schindler&#x27;s List</a> (1993)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">233,520</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>7.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.8</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0468569/">The Dark Knight</a> (2008)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">372,578</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>8.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.8</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0073486/">One Flew Over the Cuckoo&#x27;s Nest</a> (1975)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">179,221</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>9.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.8</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0050083/">12 Angry Men</a> (1957)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">91,708</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>10.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.8</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0080684/">Star Wars: Episode V - The Empire Strikes Back</a> (1980)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">240,635</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>11.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.8</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0034583/">Casablanca</a> (1942)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">146,245</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>12.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.8</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0076759/">Star Wars</a> (1977)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">282,775</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>13.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.8</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0047478/">Shichinin no samurai</a> (1954)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">83,209</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>14.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.8</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0167260/">The Lord of the Rings: The Return of the King</a> (2003)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">308,885</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>15.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.7</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0099685/">Goodfellas</a> (1990)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">192,945</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>16.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.7</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0047396/">Rear Window</a> (1954)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">100,986</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>17.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.7</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0317248/">Cidade de Deus</a> (2002)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">135,176</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>18.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.7</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt1049413/">Up</a> (2009)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">17,311</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>19.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.7</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0082971/">Raiders of the Lost Ark</a> (1981)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">213,750</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>20.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.7</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0064116/">C&#x27;era una volta il West</a> (1968)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">60,095</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>21.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.7</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0120737/">The Lord of the Rings: The Fellowship of the Ring</a> (2001)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">336,518</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>22.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.7</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0137523/">Fight Club</a> (1999)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">318,702</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>23.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.7</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0114814/">The Usual Suspects</a> (1994)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">231,562</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>24.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.7</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0054215/">Psycho</a> (1960)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">121,763</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>25.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.6</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0102926/">The Silence of the Lambs</a> (1991)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">209,255</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>26.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.6</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0043014/">Sunset Blvd.</a> (1950)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">45,345</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>27.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.6</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0057012/">Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</a> (1964)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">137,029</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>28.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.6</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0133093/">The Matrix</a> (1999)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">326,214</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>29.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.6</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0209144/">Memento</a> (2000)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">229,321</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>30.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.6</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0053125/">North by Northwest</a> (1959)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">79,987</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>31.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.6</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0038650/">It&#x27;s a Wonderful Life</a> (1946)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">87,989</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>32.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.6</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0114369/">Se7en</a> (1995)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">232,997</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>33.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.6</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0033467/">Citizen Kane</a> (1941)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">122,522</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>34.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.6</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0167261/">The Lord of the Rings: The Two Towers</a> (2002)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">281,566</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>35.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.6</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0110413/">L&#xE9;on</a> (1994)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">162,102</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>36.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.6</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0078788/">Apocalypse Now</a> (1979)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">149,835</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>37.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0169547/">American Beauty</a> (1999)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">253,751</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>38.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0075314/">Taxi Driver</a> (1976)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">130,345</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>39.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0120586/">American History X</a> (1998)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">186,793</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>40.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0056172/">Lawrence of Arabia</a> (1962)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">69,364</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>41.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0052357/">Vertigo</a> (1958)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">78,240</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>42.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0910970/">WALL&#xB7;E</a> (2008)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">129,896</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>43.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0109830/">Forrest Gump</a> (1994)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">249,773</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>44.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0050825/">Paths of Glory</a> (1957)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">37,589</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>45.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0211915/">Le fabuleux destin d&#x27;Am&#xE9;lie Poulain</a> (2001)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">150,422</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>46.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0022100/">M</a> (1931)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">33,510</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>47.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0036775/">Double Indemnity</a> (1944)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">30,932</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>48.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0056592/">To Kill a Mockingbird</a> (1962)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">71,726</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>49.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0078748/">Alien</a> (1979)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">152,574</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>50.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0066921/">A Clockwork Orange</a> (1971)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">164,793</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>51.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0040897/">The Treasure of the Sierra Madre</a> (1948)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">27,910</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>52.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0081505/">The Shining</a> (1980)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">148,421</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>53.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0407887/">The Departed</a> (2006)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">216,144</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>54.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0041959/">The Third Man</a> (1949)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">43,757</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>55.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0405094/">Das Leben der Anderen</a> (2006)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">56,412</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>56.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.5</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0120815/">Saving Private Ryan</a> (1998)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">232,486</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>57.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0071315/">Chinatown</a> (1974)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">66,574</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>58.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0253474/">The Pianist</a> (2002)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">108,348</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>59.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0103064/">Terminator 2: Judgment Day</a> (1991)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">197,787</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>60.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0245429/">Sen to Chihiro no kamikakushi</a> (2001)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">82,172</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>61.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0338013/">Eternal Sunshine of the Spotless Mind</a> (2004)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">183,930</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>62.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0021749/">City Lights</a> (1931)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">22,179</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>63.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt1010048/">Slumdog Millionaire</a> (2008)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">124,898</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>64.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0090605/">Aliens</a> (1986)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">144,661</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>65.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0180093/">Requiem for a Dream</a> (2000)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">153,400</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>66.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0119488/">L.A. Confidential</a> (1997)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">145,080</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>67.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0082096/">Das Boot</a> (1981)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">61,381</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>68.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0071853/">Monty Python and the Holy Grail</a> (1975)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">136,664</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>69.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0050212/">The Bridge on the River Kwai</a> (1957)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">50,951</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>70.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0105236/">Reservoir Dogs</a> (1992)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">179,929</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>71.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0457430/">El laberinto del fauno</a> (2006)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">124,615</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>72.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0042876/">Rash&#xF4;mon</a> (1950)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">32,223</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>73.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0081398/">Raging Bull</a> (1980)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">76,514</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>74.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0033870/">The Maltese Falcon</a> (1941)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">44,625</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>75.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0042192/">All About Eve</a> (1950)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">30,281</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>76.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0027977/">Modern Times</a> (1936)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">29,429</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>77.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt1205489/">Gran Torino</a> (2008)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">68,099</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>78.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.4</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0045152/">Singin&#x27; in the Rain</a> (1952)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">47,511</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>79.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0032976/">Rebecca</a> (1940)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">30,009</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>80.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0053291/">Some Like It Hot</a> (1959)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">57,506</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>81.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0363163/">Der Untergang</a> (2004)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">66,474</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>82.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0017136/">Metropolis</a> (1927)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">32,863</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>83.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0482571/">The Prestige</a> (2006)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">162,176</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>84.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0086879/">Amadeus</a> (1984)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">83,292</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>85.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0053604/">The Apartment</a> (1960)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">30,298</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>86.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0080678/">The Elephant Man</a> (1980)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">48,394</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>87.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0118799/">La vita &#xE8; bella</a> (1997)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">89,684</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>88.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0062622/">2001: A Space Odyssey</a> (1968)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">138,526</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>89.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0095765/">Nuovo cinema Paradiso</a> (1988)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">37,700</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>90.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0032553/">The Great Dictator</a> (1940)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">30,480</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>91.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0087843/">Once Upon a Time in America</a> (1984)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">60,021</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>92.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0093058/">Full Metal Jacket</a> (1987)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">127,537</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>93.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0057115/">The Great Escape</a> (1963)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">52,740</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>94.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0796366/">Star Trek</a> (2009)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">71,205</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>95.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0040522/">Ladri di biciclette</a> (1948)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">22,050</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>96.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0070735/">The Sting</a> (1973)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">56,382</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>97.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0088763/">Back to the Future</a> (1985)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">169,905</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>98.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0401792/">Sin City</a> (2005)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">216,665</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>99.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0031679/">Mr. Smith Goes to Washington</a> (1939)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">28,614</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>100.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt1125849/">The Wrestler</a> (2008)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">58,483</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>101.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0052311/">Touch of Evil</a> (1958)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">27,862</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>102.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0047296/">On the Waterfront</a> (1954)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">34,802</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>103.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0112573/">Braveheart</a> (1995)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">207,976</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>104.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0050976/">Det sjunde inseglet</a> (1957)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">30,486</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>105.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0395169/">Hotel Rwanda</a> (2004)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">76,340</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>106.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0372784/">Batman Begins</a> (2005)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">230,689</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>107.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0073195/">Jaws</a> (1975)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">118,500</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>108.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0477348/">No Country for Old Men</a> (2007)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">162,041</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>109.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0097576/">Indiana Jones and the Last Crusade</a> (1989)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">150,057</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>110.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0044079/">Strangers on a Train</a> (1951)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">28,584</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>111.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0083658/">Blade Runner</a> (1982)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">160,763</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>112.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0086190/">Star Wars: Episode VI - Return of the Jedi</a> (1983)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">184,533</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>113.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0120689/">The Green Mile</a> (1999)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">163,891</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>114.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.3</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0105695/">Unforgiven</a> (1992)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">81,656</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>115.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0056218/">The Manchurian Candidate</a> (1962)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">30,643</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>116.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0172495/">Gladiator</a> (2000)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">235,408</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>117.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0038787/">Notorious</a> (1946)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">26,559</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>118.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0044706/">High Noon</a> (1952)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">29,276</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>119.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0059578/">Per qualche dollaro in pi&#xF9;</a> (1965)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">33,899</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>120.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0364569/">Oldboy</a> (2003)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">76,134</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>121.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0061512/">Cool Hand Luke</a> (1967)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">38,256</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>122.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0038355/">The Big Sleep</a> (1946)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">24,722</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>123.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0095016/">Die Hard</a> (1988)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">154,281</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>124.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0116282/">Fargo</a> (1996)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">143,427</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>125.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0032138/">The Wizard of Oz</a> (1939)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">88,705</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>126.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0469494/">There Will Be Blood</a> (2007)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">105,410</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>127.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0017925/">The General</a> (1926)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">16,703</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>128.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0119698/">Mononoke-hime</a> (1997)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">54,854</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>129.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0051201/">Witness for the Prosecution</a> (1957)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">14,698</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>130.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt1119646/">The Hangover</a> (2009)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">12,100</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>131.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0246578/">Donnie Darko</a> (2001)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">177,613</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>132.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0050986/">Smultronst&#xE4;llet</a> (1957)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">17,112</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>133.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0055630/">Yojimbo</a> (1961)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">24,633</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>134.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0025316/">It Happened One Night</a> (1934)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">21,017</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>135.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0113277/">Heat</a> (1995)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">122,139</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>136.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0041546/">Kind Hearts and Coronets</a> (1949)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">10,790</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>137.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0075686/">Annie Hall</a> (1977)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">55,428</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>138.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0089881/">Ran</a> (1985)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">29,572</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>139.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0077416/">The Deer Hunter</a> (1978)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">74,760</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>140.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0167404/">The Sixth Sense</a> (1999)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">208,303</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>141.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0052618/">Ben-Hur</a> (1959)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">49,987</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>142.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0266697/">Kill Bill: Vol. 1</a> (2003)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">195,420</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>143.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0091763/">Platoon</a> (1986)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">92,900</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>144.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0758758/">Into the Wild</a> (2007)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">69,820</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>145.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0055031/">Judgment at Nuremberg</a> (1961)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">11,467</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>146.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0046911/">Les diaboliques</a> (1955)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">11,533</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>147.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0046268/">Le salaire de la peur</a> (1953)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">11,406</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>148.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0050783/">Le notti di Cabiria</a> (1957)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">8,820</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>149.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.2</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0405159/">Million Dollar Baby</a> (2004)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">116,149</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>150.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0064115/">Butch Cassidy and the Sundance Kid</a> (1969)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">49,288</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>151.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0440963/">The Bourne Ultimatum</a> (2007)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">118,423</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>152.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0056801/">8&#xBD;</a> (1963)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">23,397</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>153.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0079470/">Life of Brian</a> (1979)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">80,363</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>154.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0032551/">The Grapes of Wrath</a> (1940)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">19,653</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>155.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0118715/">The Big Lebowski</a> (1998)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">148,143</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>156.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0208092/">Snatch.</a> (2000)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">142,161</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>157.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0015864/">The Gold Rush</a> (1925)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">17,377</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>158.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0061722/">The Graduate</a> (1967)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">66,112</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>159.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0048424/">The Night of the Hunter</a> (1955)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">21,084</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>160.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0092005/">Stand by Me</a> (1986)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">76,809</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>161.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0049406/">The Killing</a> (1956)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">20,706</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>162.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0382932/">Ratatouille</a> (2007)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">105,773</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>163.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0266543/">Finding Nemo</a> (2003)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">136,915</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>164.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0245712/">Amores perros</a> (2000)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">51,180</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>165.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0072890/">Dog Day Afternoon</a> (1975)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">49,310</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>166.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0083987/">Gandhi</a> (1982)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">42,559</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>167.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0037558/">Brief Encounter</a> (1945)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">10,821</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>168.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0031381/">Gone with the Wind</a> (1939)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">66,542</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>169.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0117951/">Trainspotting</a> (1996)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">128,575</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>170.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0110357/">The Lion King</a> (1994)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">109,745</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>171.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0086250/">Scarface</a> (1983)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">126,283</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>172.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0065214/">The Wild Bunch</a> (1969)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">26,441</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>173.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0084787/">The Thing</a> (1982)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">63,322</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>174.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0434409/">V for Vendetta</a> (2005)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">183,958</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>175.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0018455/">Sunrise: A Song of Two Humans</a> (1927)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">9,062</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>176.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0107048/">Groundhog Day</a> (1993)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">113,190</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>177.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0088247/">The Terminator</a> (1984)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">149,794</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>178.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0069281/">Sleuth</a> (1972)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">14,270</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>179.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0042546/">Harvey</a> (1950)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">19,747</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>180.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0114709/">Toy Story</a> (1995)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">119,170</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>181.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0093779/">The Princess Bride</a> (1987)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">110,599</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>182.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0012349/">The Kid</a> (1921)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">10,595</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>183.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0421715/">The Curious Case of Benjamin Button</a> (2008)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">93,361</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>184.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0054997/">The Hustler</a> (1961)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">21,623</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>185.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0036342/">Shadow of a Doubt</a> (1943)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">17,653</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>186.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0045274/">Umberto D.</a> (1952)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">7,026</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>187.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0036868/">The Best Years of Our Lives</a> (1946)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">14,838</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>188.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0317705/">The Incredibles</a> (2004)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">133,089</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>189.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0114746/">Twelve Monkeys</a> (1995)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">144,235</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>190.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0206634/">Children of Men</a> (2006)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">130,405</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>191.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0120735/">Lock, Stock and Two Smoking Barrels</a> (1998)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">104,116</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>192.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.1</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt1139797/">L&#xE5;t den r&#xE4;tte komma in</a> (2008)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">25,583</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>193.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0046359/">Stalag 17</a> (1953)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">17,739</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>194.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0036244/">The Ox-Bow Incident</a> (1943)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">7,491</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>195.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0095327/">Hotaru no haka</a> (1988)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">27,765</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>196.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0023969/">Duck Soup</a> (1933)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">22,779</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>197.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0058946/">La battaglia di Algeri</a> (1966)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">10,994</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>198.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0112641/">Casino</a> (1995)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">89,939</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>199.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0030341/">The Lady Vanishes</a> (1938)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">14,882</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>200.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0043265/">The African Queen</a> (1951)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">29,471</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>201.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0046912/">Dial M for Murder</a> (1954)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">24,127</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>202.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0498380/">Letters from Iwo Jima</a> (2006)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">44,997</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>203.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0029843/">The Adventures of Robin Hood</a> (1938)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">19,726</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>204.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0780536/">In Bruges</a> (2008)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">68,652</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>205.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0052561/">Anatomy of a Murder</a> (1959)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">13,397</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>206.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0071360/">The Conversation</a> (1974)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">27,405</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>207.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0044081/">A Streetcar Named Desire</a> (1951)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">28,071</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>208.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0024216/">King Kong</a> (1933)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">32,929</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>209.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0070047/">The Exorcist</a> (1973)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">86,908</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>210.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0401383/">Le scaphandre et le papillon</a> (2007)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">22,339</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>211.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0037884/">The Lost Weekend</a> (1945)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">10,151</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>212.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0109707/">Ed Wood</a> (1994)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">62,570</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>213.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0047528/">La strada</a> (1954)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">14,546</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>214.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0061184/">Who&#x27;s Afraid of Virginia Woolf?</a> (1966)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">15,954</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>215.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0040746/">Rope</a> (1948)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">25,494</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>216.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0032599/">His Girl Friday</a> (1940)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">17,557</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>217.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0020629/">All Quiet on the Western Front</a> (1930)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">17,970</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>218.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0824747/">Changeling</a> (2008)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">39,134</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>219.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0063522/">Rosemary&#x27;s Baby</a> (1968)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">41,123</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>220.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0061418/">Bonnie and Clyde</a> (1967)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">34,417</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>221.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0014429/">Safety Last!</a> (1923)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">4,353</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>222.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0375679/">Crash</a> (2004/I)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">146,735</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>223.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0051036/">Sweet Smell of Success</a> (1957)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">7,395</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>224.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0021884/">Frankenstein</a> (1931)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">19,751</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>225.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0074958/">Network</a> (1976)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">27,126</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>226.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0032904/">The Philadelphia Story</a> (1940)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">24,010</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>227.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0378194/">Kill Bill: Vol. 2</a> (2004)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">152,640</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>228.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0066206/">Patton</a> (1970)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">33,989</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>229.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0079522/">Manhattan</a> (1979)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">32,429</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>230.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0043456/">The Day the Earth Stood Still</a> (1951)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">29,406</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>231.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0175880/">Magnolia</a> (1999)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">106,515</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>232.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0038574/">Great Expectations</a> (1946)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">8,309</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>233.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0319061/">Big Fish</a> (2003)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">115,492</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>234.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0190332/">Wo hu cang long</a> (2000)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">96,696</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>235.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0036613/">Arsenic and Old Lace</a> (1944)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">25,589</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>236.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0449059/">Little Miss Sunshine</a> (2006)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">125,293</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>237.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0013442/">Nosferatu, eine Symphonie des Grauens</a> (1922)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">24,913</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>238.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0037008/">Laura</a> (1944)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">12,020</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>239.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0327056/">Mystic River</a> (2003)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">97,785</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>240.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0097441/">Glory</a> (1989)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">49,269</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>241.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0046250/">Roman Holiday</a> (1953)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">26,192</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>242.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0119217/">Good Will Hunting</a> (1997)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">125,601</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>243.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0061811/">In the Heat of the Night</a> (1967)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">19,608</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>244.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0075148/">Rocky</a> (1976)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">77,162</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>245.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0053779/">La dolce vita</a> (1960)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">16,676</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>246.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0067185/">Harold and Maude</a> (1971)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">24,482</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>247.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0054331/">Spartacus</a> (1960)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">42,976</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>248.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0028010/">My Man Godfrey</a> (1936)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">6,561</font></td></tr><tr bgcolor="#e5e5e5" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>249.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0063442/">Planet of the Apes</a> (1968)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">48,654</font></td></tr><tr bgcolor="#ffffff" valign="top"><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1"><b>250.</b></font></td><td align="center"><font face="Arial, Helvetica, sans-serif" size="-1">8.0</font></td><td><font face="Arial, Helvetica, sans-serif" size="-1"><a href="/title/tt0029947/">Bringing Up Baby</a> (1938)</font></td><td align="right"><font face="Arial, Helvetica, sans-serif" size="-1">20,465</font></td></tr></table></p><p><font face="Arial, Helvetica, sans-serif" size="-1">    The formula for calculating the Top Rated 250 Titles gives a <b>true Bayesian estimate</b>:
+    <pre>
+ weighted rating (WR) = (v &#247; (v+m)) &#215; R + (m &#247; (v+m)) &#215; C
+
+ where:
+  R = average for the movie (mean) = (Rating)
+  v = number of votes for the movie = (votes)
+  m = minimum votes required to be listed in the Top 250 (currently 1300)
+  C = the mean vote across the whole report (currently 6.8)
+</pre>
+ for the Top 250, only votes from regular voters are considered.</font></p>
+</td>
+<td align=right>
+
+
+<!-- begin TOP_RHS -->
+<div id="top_rhs_wrapper">
+<script type="text/javascript"> 
+ad_utils.queue_ad('4','top_rhs');
+</script>
+<iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.chart/;tile=4;sz=160x600,171x600,11x1;p=tr;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
+
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.chart/;tile=4;sz=160x600,171x600,11x1;p=tr;ord=332085661814?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.chart/;tile=4;sz=160x600,171x600,11x1;p=tr;ord=332085661814?"  border="0" alt="advertisement" /></a></noscript>
+
+</div>
+<!-- End TOP_RHS -->
+
+</td>
+</tr>
+</table>
+</div>
+  </td>
+ </tr>
+</table>
+<br style="clear:left;" />
+</div>
+
+<div id="footer" class="ft">
+<hr width="100%" size=1>
+<p class="footer" align="center">
+<a href="/">Home</a>&nbsp;
+  | <a href="/search">Search</A>&nbsp;
+  | <a href="/NowPlaying/">Now Playing</a>&nbsp;
+  | <a href="/News/">News</A>&nbsp;
+  | <a href="/register/?why=mymovies_footer">My Movies</A>&nbsp;
+  | <a href="/Games/">Games</A>&nbsp;
+  | <a href="/boards/">Boards</A>&nbsp;
+| <a href="/help/">Help</a>&nbsp;
+  | <A HREF="/Showtimes">US&nbsp;Movie&nbsp;Showtimes</A>&nbsp;
+| <A HREF="/top_250_films">Top 250</A>&nbsp;
+| <a href="/register/?why=footer">Register</a>&nbsp;
+  | <A HREF="/recommends/">Recommendations</A>&nbsp;
+  | <A HREF="/widgets/">Widgets</A><br>
+  <A HREF="/help/show_article?rssavailable">
+     <img alt="RSS Feeds" width="16" height="16" border="0" align="top" src="http://i.media-imdb.com/images/SF83bea38dbdad58e7004f18ec855697b9/rss2.gif"></A>
+  <A HREF="/help/show_article?rssavailable">RSS</A>
+  | <A HREF="/Charts/">Box&nbsp;Office</A> 
+  | <A HREF="/a2z">Index</A> 
+  | <A HREF="/Sections/Trailers/">Trailers</A> 
+  
+  | <a href="/jobs"><b>Jobs</b></a>&nbsp;
+  | <a href="https://secure.imdb.com/register/subscribe?c=a394d4442664f6f6475627" onClick="(new Image()).src='/rg/PRO_FOOT/FOOTER/images/b.gif?link=https://secure.imdb.com/register/subscribe?c=a394d4442664f6f6475627';">
+    <span style="color:#cc3333"><b>IMDbPro.com&nbsp;-&nbsp;Free&nbsp;Trial</b></span></a> 
+  | <a href="http://resume.imdb.com" onClick="(new Image()).src='/rg/resume-footer/footer/images/b.gif?link=http://resume.imdb.com';"><span style="color:#cc3333"><b>IMDb Resume</b></span></a>
+<br><br>
+<a href="/help/show_article?conditions">Copyright &copy;</a> 1990-2009 
+<a href="/help/">IMDb.com, Inc.</a><br>
+<a href="/help/show_article?conditions">Terms</a> and <a href="/privacy">Privacy Policy</a> under which this service is provided to you.<br>
+An <a href="http://www.amazon.com/exec/obidos/redirect-home/internetmoviedat"><img align="middle" width="86" height="18" border="0" src="http://i.media-imdb.com/images/icons/amazon_logo.gif" alt="Amazon.com"></a> company.&nbsp;
+<a href="/advertising/">Advertise</a> on IMDb.&nbsp;
+<a href="/tiger_redirect?FT_LIC&/licensing/">License</a> our content.
+</p>
+
+</div>
+
+</layer>
+</div>
+
+
+
+<!-- begin BOTTOM_AD -->
+<div id="bottom_ad_wrapper">
+<script type="text/javascript"> 
+ad_utils.queue_ad('5','bottom_ad');
+</script>
+<iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.chart/;tile=5;sz=728x90,2x1;p=b;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
+
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.chart/;tile=5;sz=728x90,2x1;p=b;ord=332085661814?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.chart/;tile=5;sz=728x90,2x1;p=b;ord=332085661814?"  border="0" alt="advertisement" /></a></noscript>
+
+</div>
+<!-- End BOTTOM_AD -->
+
+
+
+
+
+
+
+
+
+
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a08023030393036313430000001037a040379646370000001047&cb=124499140020497" width="1" height="1" alt="" border="0">
+</div> <!-- id="wrapper" -->
+<!-- h=iop529 i=2009-06-13 s=legacy(default) t='Sun Jun 14 07:56:40 2009' wl=8.17 -->
+
+</body>
+</html>
