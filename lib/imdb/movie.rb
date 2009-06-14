@@ -87,7 +87,11 @@ module Imdb
     
     # Convenience method for search
     def self.search(query)
-      Imdb::Search.new(query)
+      Imdb::Search.new(query).movies
+    end
+
+    def self.top_250
+      Imdb::Top250.new.movies
     end
     
   end # Movie

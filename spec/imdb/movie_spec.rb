@@ -78,12 +78,16 @@ describe "Imdb::Movie" do
     end
   end
 
-  describe "search" do
-    it "should provide a convenience method to search" do
-      search = Imdb::Movie.search("Star Trek")
-      search.should respond_to(:movies)
-      search.query.should == "Star Trek"
-    end
+  it "should provide a convenience method to search" do
+    movies = Imdb::Movie.search("Star Trek")
+    movies.should respond_to(:each)
+    movies.each { |movie| movie.should be_an_instance_of(Imdb::Movie) }
+  end
+  
+  it "should provide a convenience method to top 250" do
+    movies = Imdb::Movie.top_250
+    movies.should respond_to(:each)
+    movies.each { |movie| movie.should be_an_instance_of(Imdb::Movie) }
   end
   
 end
