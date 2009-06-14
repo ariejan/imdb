@@ -10,5 +10,5 @@ require 'imdb/search'
 require 'imdb/string_extensions'
 
 module Imdb
-  VERSION = '0.4.0'
+  VERSION = '0.4.1'
 end

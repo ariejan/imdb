@@ -1,23 +1,29 @@
+== 0.4.1 2009-06-14
+
+* Added support for FakeWeb so specs run faster. [mguterl]
+* Cache the search query i Imdb::Search.query. [mguterl]
+* Added a convenience method Imdb::Search.search. [mguterl]
+
 == 0.4.0 2009-06-14
 
-* Updates to the console 'imdb' utility
+* Updates to the console 'imdb' utility [ariejan]
   * Show the IMDB ID
   * Show the full IMDB URL
 
 == 0.3.0 2009-06-07
 
-* Fixed typo in CLI field name 'Cast by'
-* Fixed retrieval of multiple directors. (#1)
+* Fixed typo in CLI field name 'Cast by' [ariejan]
+* Fixed retrieval of multiple directors. (#1) [ariejan]
 
 == 0.2.0 2009-06-04
 
-* Added console tool 'imdb' for searching and getting movie info.
-* Fixed issue #2
+* Added console tool 'imdb' for searching and getting movie info. [ariejan]
+* Fixed issue #2 [ariejan]
 
 == 0.1.0 2009-06-03
 
-* Added Imdb::Search that allows search IMDB for a specific movie.
+* Added Imdb::Search that allows search IMDB for a specific movie. [ariejan]
 
 == 0.0.1 2009-06-03
 
-* First release of the IMDB gem.
+* First release of the IMDB gem. [ariejan]
