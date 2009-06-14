@@ -87,6 +87,11 @@ module Imdb
       get("http://www.imdb.com/title/tt#{imdb_id}/")
     end
     
+    # Convenience method for search
+    def self.search(query)
+      Imdb::Search.new(query)
+    end
+    
   end # Movie
   
 end # Imdb

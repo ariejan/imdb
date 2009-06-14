@@ -77,5 +77,13 @@ describe "Imdb::Movie" do
       movie.director.should include("Andy Wachowski")
     end
   end
+
+  describe "search" do
+    it "should provide a convenience method to search" do
+      search = Imdb::Movie.search("Star Trek")
+      search.should respond_to(:movies)
+      search.query.should == "Star Trek"
+    end
+  end
   
 end
