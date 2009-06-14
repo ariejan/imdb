@@ -1,0 +1,14 @@
+HTTP/1.1 302 Found
+Date: Sun, 14 Jun 2009 00:40:47 GMT
+Server: Server
+Cache-Control: private
+Location: http://www.imdb.com/title/tt0242653/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfHFzPU1hdHJpeCBSZXZvbHV0aW9uc3xodG1sPTF8c2l0ZT1kZnxxPU1hdHJpeCBSZXZvbHV0aW9uc3xwbj0w;fc=1;ft=20
+Cneonction: close
+Content-Type: text/plain
+Set-Cookie: session-id=71.79.18.25.1244940047957001; path=/; domain=.imdb.com
+Set-Cookie: uu=lnLTZH4a/g5eL3XMqdb2tgCRSyzj9026o+JumaOXDrnjoi7506c+/LfGO+y2x50bwJFtjNMSLsqjwn6pgDJ+meCRbaoGcS2aoNZb7PiBbbqj0m66I9LuycAyfpnjki7KA9L++aAyfpngkW2KBnEtmqDXe20AkW26oLFtuqC3Kyrj4W26o7IO+eOyLumggc0ZsLFtuqCRbergwR2Ko=;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Vary: Accept-Encoding,User-Agent
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="IMDB "
+Content-Length: 0
+nnCoection: close
+
