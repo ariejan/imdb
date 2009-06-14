@@ -17,7 +17,7 @@ module Imdb
     def initialize(imdb_id, title = nil)
       @id = imdb_id
       @url = "http://www.imdb.com/title/tt#{imdb_id}/"
-      @title = title.nil? ? nil : title.gsub(/"/, "")
+      @title = title.gsub(/"/, "") if title
     end
     
     # Returns an array with cast members
