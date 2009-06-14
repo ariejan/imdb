@@ -1,12 +1,5 @@
 require File.dirname(__FILE__) + '/spec_helper.rb'
 
-### WARNING: This spec uses live data!
-#
-# Many may object to testing against a live website, and for good reason. 
-# However, the IMDB interface changes over time, and to guarantee the parser
-# works with the currently available IMDB website, tests are run against
-# IMDB.com instead.
-#
 # This test uses "Die hard (1988)" as a testing sample:
 #   
 #     http://www.imdb.com/title/tt0095016/
