@@ -2,8 +2,6 @@ module Imdb
   
   # Search IMDB for a title
   class Search
-    include HTTParty
-    
     attr_reader :query
 
     # Initialize a new IMDB search with the specified query
@@ -30,7 +28,7 @@ module Imdb
     end
     
     def self.query(query)
-      get("http://www.imdb.com/find?q=#{CGI::escape(query)};s=tt")
+      open("http://www.imdb.com/find?q=#{CGI::escape(query)};s=tt")
     end
     
     def parse_movies

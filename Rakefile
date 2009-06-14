@@ -8,7 +8,6 @@ $hoe = Hoe.new('imdb', Imdb::VERSION) do |p|
   p.changes              = p.paragraphs_of("History.txt", 0..1).join("\n\n")
   p.rubyforge_name       = 'imdb'
   p.extra_deps         = [
-    ['httparty','>= 0.4.3'],
     ['hpricot', '>= 0.8.1']
   ]
   p.extra_dev_deps = [

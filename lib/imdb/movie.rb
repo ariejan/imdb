@@ -2,8 +2,6 @@ module Imdb
   
   # Represents a Movie on IMDB.com
   class Movie
-    include HTTParty
-    
     attr_accessor :id, :url, :title
     
     # Initialize a new IMDB movie object with it's IMDB id (as a String)
@@ -84,7 +82,7 @@ module Imdb
     
     # Use HTTParty to fetch the raw HTML for this movie.
     def self.find_by_id(imdb_id)
-      get("http://www.imdb.com/title/tt#{imdb_id}/")
+      open("http://www.imdb.com/title/tt#{imdb_id}/")
     end
     
     # Convenience method for search
