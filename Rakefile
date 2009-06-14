@@ -37,3 +37,13 @@ task :publish_docs => [:clean, :docs] do
   remote_dir = File.join(website_config["remote_dir"], "")
   sh %{rsync -aCv #{local_dir}/ #{host}#{remote_dir}}
 end
+
+desc 'Tag git with the current release'
+task :tag do
+  puts "Tagging REL-#{ENV["VERSION"].to_s}"
+  sh %{git tag REL-#{ENV["VERSION"].to_s}}
+  sh %{git push --tags}
+end
+
+desc 'Do a full release'
+task :full_release => [:release, :tag, :publish_docs, :post_news]

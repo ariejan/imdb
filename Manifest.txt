@@ -10,6 +10,11 @@ lib/imdb/search.rb
 lib/imdb/string_extensions.rb
 script/console
 script/destroy
+spec/fixtures/search_matrix_revolutions
+spec/fixtures/search_star_trek
+spec/fixtures/tt0095016
+spec/fixtures/tt0117731
+spec/fixtures/tt0242653
 script/generate
 spec/imdb_cli_spec.rb
 spec/imdb_movie_spec.rb
