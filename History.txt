@@ -1,3 +1,8 @@
+== 0.5.0 2009-06-17
+
+* Added Top 250 listing [mguterl]
+* Made general improvements to data retrieval [mguterl]
+
 == 0.4.2 2009-06-14
 
 * Updated manifest to include all spec fixtures. [ariejan]
