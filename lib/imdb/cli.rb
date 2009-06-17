@@ -17,16 +17,17 @@ module Imdb
       
       @stdout = stdout
       
+      @stdout.puts "IMDB Scraper #{Imdb::VERSION}"
+      
       options = {
       }
       mandatory_options = %w(  )
       
       parser = OptionParser.new do |opts|
-        opts.banner = <<-BANNER.gsub(/^          /,'')
-          IMDB #{Imdb::VERSION}
+        opts.banner = <<-BANNER.gsub(/^          /,'')          
 
-          Usage: #{File.basename($0)} Search Query
-                 #{File.basename($0)} 0095016
+Usage: #{File.basename($0)} Search Query
+       #{File.basename($0)} 0095016
 
         BANNER
         opts.separator ""
@@ -55,7 +56,8 @@ module Imdb
     end
     
     def self.fetch_movie(imdb_id)
-      @stdout.puts ">> Fetching movie #{imdb_id}"
+      @stdout.puts
+      @stdout.puts " - fetching movie #{imdb_id}"
       
       movie = Imdb::Movie.new(imdb_id)
       
@@ -63,7 +65,8 @@ module Imdb
     end
     
     def self.search_movie(query)
-      @stdout.puts ">> Searching for \"#{query}\""
+      @stdout.puts
+      @stdout.puts " - searching for \"#{query}\""
       
       search = Imdb::Search.new(query)
       
