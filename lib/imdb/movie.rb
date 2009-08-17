@@ -33,6 +33,11 @@ module Imdb
     def genres
       document.search("h5[text()='Genre:'] ~ a[@href*=/Sections/Genres/']").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
     end
+
+    # Returns an array of languages as strings.
+    def languages
+      document.search("h5[text()='Language:'] ~ a[@href*=/Sections/Languages/']").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
+    end
     
     # Returns the duration of the movie in minutes as an integer.
     def length
