@@ -90,6 +90,7 @@ Usage: #{File.basename($0)} Search Query
       @stdout.puts "Cast: #{movie.cast_members[0..4].join(", ")}"
       @stdout.puts "Genre: #{movie.genres.join(", ")}"
       @stdout.puts "Plot: #{movie.plot}"
+      @stdout.puts "Poster URL: #{movie.poster}"
       @stdout.puts "IMDB URL: #{movie.url}"
       @stdout.puts "=" * 75
       @stdout.puts
