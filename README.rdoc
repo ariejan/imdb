@@ -47,11 +47,27 @@ or to get movie info
 All required gems are installed automagically through RubyGems.
 
 * Hpricot 0.8.1
-* HTTParty 0.4.3
 
 == INSTALL:
 
-* sudo gem install imdb
+    $ sudo gem install imdb -s http://gemcutter.org
+
+== TESTING:
+
+You'll need rspec and fakeweb installed to run the specs. Y
+
+    $ gem install rspec fakeweb
+    $ rake spec
+
+Although not recommended, you may run the specs against the live imdb.com 
+website. This will make a lot of calls to imdb.com, use it wisely. 
+
+    $ LIVE_TEST=true rake spec
+
+To update the packaged fixtures files with actual imdb.com samples, use the
+fixtures:refresh rake task
+
+    $ rake fixtures:refresh
 
 == LICENSE:
 

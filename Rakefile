@@ -1,48 +1,56 @@
-%w[rubygems rake rake/clean fileutils newgem rubigen].each { |f| require f }
-require File.dirname(__FILE__) + '/lib/imdb'
+require 'rubygems'
+require 'rake'
+load File.expand_path(File.dirname(__FILE__) + "/tasks/fixtures.rake")
 
-# Generate all the Rake tasks
-# Run 'rake -T' to see list of generated tasks (from gem root directory)
-$hoe = Hoe.new('imdb', Imdb::VERSION) do |p|
-  p.developer('Ariejan de Vroom', 'ariejan@ariejan.net')
-  p.changes              = p.paragraphs_of("History.txt", 0..1).join("\n\n")
-  p.rubyforge_name       = 'imdb'
-  p.extra_deps         = [
-    ['hpricot', '>= 0.8.1']
-  ]
-  p.extra_dev_deps = [
-    ['newgem', ">= #{::Newgem::VERSION}"]
-  ]
-  
-  p.clean_globs |= %w[**/.DS_Store tmp *.log]
-  path = (p.rubyforge_name == p.name) ? p.rubyforge_name : "\#{p.rubyforge_name}/\#{p.name}"
-  p.remote_rdoc_dir = 'clown'
-  p.rsync_args = '-av --delete --ignore-errors'
+begin
+  require 'jeweler'
+  Jeweler::Tasks.new do |gem|
+    gem.name = "imdb"
+    gem.summary = %Q{Easily access the publicly available information on IMDB.}
+    gem.description = %Q{Easily use Ruby or the command line to find information on IMDB.com.}
+    gem.email = "ariejan@ariejan.net"
+    gem.homepage = "http://github.com/ariejan/imdb"
+    gem.authors = ["Ariejan de Vroom"]
+    gem.add_development_dependency "rspec"
+    
+    # Dependencies
+    gem.add_dependency('hpricot', '>= 0.8.1')
+    
+    # Development dependencies
+    gem.add_development_dependency('fakeweb')
+    gem.add_development_dependency('rspec')
+  end
+  Jeweler::GemcutterTasks.new
+rescue LoadError
+  puts "Jeweler (or a dependency) not available. Install it with: sudo gem install jeweler"
 end
 
-require 'newgem/tasks' # load /tasks/*.rake
-Dir['tasks/**/*.rake'].each { |t| load t }
-
-# TODO - want other tests/tasks run by default? Add them to the list
-# task :default => [:spec, :features]
-
-remove_task :publish_docs
-
-desc 'Publish RDoc to RubyForge.'
-task :publish_docs => [:clean, :docs] do
-  local_dir = 'doc'
-  host = website_config["host"]
-  host = host ? "#{host}:" : ""
-  remote_dir = File.join(website_config["remote_dir"], "")
-  sh %{rsync -aCv #{local_dir}/ #{host}#{remote_dir}}
+require 'spec/rake/spectask'
+Spec::Rake::SpecTask.new(:spec) do |spec|
+  spec.libs << 'lib' << 'spec'
+  spec.spec_files = FileList['spec/**/*_spec.rb']
 end
 
-desc 'Tag git with the current release'
-task :tag do
-  puts "Tagging REL-#{ENV["VERSION"].to_s}"
-  sh %{git tag REL-#{ENV["VERSION"].to_s}}
-  sh %{git push --tags}
+Spec::Rake::SpecTask.new(:rcov) do |spec|
+  spec.libs << 'lib' << 'spec'
+  spec.pattern = 'spec/**/*_spec.rb'
+  spec.rcov = true
 end
 
-desc 'Do a full release'
-task :full_release => [:release, :tag, :publish_docs, :post_news]
+task :spec => :check_dependencies
+
+task :default => :spec
+
+require 'rake/rdoctask'
+Rake::RDocTask.new do |rdoc|
+  if File.exist?('VERSION')
+    version = File.read('VERSION')
+  else
+    version = ""
+  end
+
+  rdoc.rdoc_dir = 'rdoc'
+  rdoc.title = "imdb #{version}"
+  rdoc.rdoc_files.include('README*')
+  rdoc.rdoc_files.include('lib/**/*.rb')
+end

@@ -1,16 +1,15 @@
 HTTP/1.1 200 OK
-Date: Sun, 14 Jun 2009 00:41:47 GMT
+Date: Wed, 25 Nov 2009 12:45:54 GMT
 Server: Server
 Cache-Control: private
 Content-Type: text/html
-Set-Cookie: session-id=71.79.18.25.1244940107107188; path=/; domain=.imdb.com
-Set-Cookie: uu=rD67OTGKaG/PPl8b2uFEoACRSyzjAj26o5LuqaPXTqnjoi750/de/LfGPqyGx50bwJFtjNMCbsqjwn6pgDJ+meCRbaoGcS2aoNZb7PiBbbqj0m66I9LuycAyfpnjgm7KA9L++aAyfpngkW2KBnEtmqDXe20AkW26oLFtuqC3Kyrj4W26o7IO6aOyLumggc0ZsLFtuqCRbergwR2Ko=;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
-Set-Cookie: cs=3kblveISzT9kkALaE9t0ignJEiSO2SUS3lFyJI3aYqydSlEnncoxZ87ZIoQumTIkju9Vcg1JEiSJzLcyvb10N9mZsocO2SSyblESJI7vJDOO2RIkjvkSJI7ZEmTOiWIUg=;expires=Sun, 14 Jun 2009 07:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: session-id=82.92.155.84.1259153154370654; path=/; domain=.imdb.com
+Set-Cookie: uu=QhEHez0KpZkw8EetA4DvBwEwXGInphxiBKBfYVS1KgFEhW9hBOA/ZGTwOnRHB3s1d5BqNNTmHGIkhU/xdIVP8Re2vME3hhxiIfBKgmemHCUUppRyJJV/YSSFT/E05rzBNPUvcXSFT/E3lrzBN4YcYieAWvJk5hxiJJWPMXSFT/EHtrzBN4YcYiemHCJn9mxSI=;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=BNJ7tOQHb79Y3SWMfAh8hweBbbqgkVqM8BkNuqPCLTKzgj6Js4JO6TCRXRoA0U26oKcq7CYBbbqjs4nu59HN2ZCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Thu, 26 Nov 2009 08:00:00 GMT;path=/;domain=.imdb.com
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="IMDB "
-nnCoection: close
+Cneonction: close
 Transfer-Encoding: chunked
-
 
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
@@ -25,30 +24,18 @@ Transfer-Encoding: chunked
 <meta name="description" content="Directed by K&#xF4;ji Shiraishi.  With Tsugumi Nagasawa, Hiroaki Kawatsure, Shigeo &#xD4;sako.  Visit IMDb for Photos, Showtimes, Cast, Crew, Reviews, Plot Summary, Comments, Discussions, Taglines, Trailers, Posters, Fan Sites">
 
 <meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits">
-<link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SF05d2bd4730c135f1c4bcebec5f7d8685/css2/consumersite.css" />
-<script type="text/javascript" src="http://i.media-imdb.com/images/SF3ee6861263732f8e66aaecfd1850b466/a/js/ads.js"></script>
 
-<script type="text/javascript">
-    generic.monitoring.set_twilight_info("title", "Other", "d441111b9100cbc03e8ba9cdba0939123ec51bc0", "2009-10-26T06%3A47%3A10GMT", "http://www.imdb.com/twilight/?");
-</script>
 
-<script type="text/javascript">
-    generic.monitoring.start_timing("page_load");
-</script>
-<script type="text/javascript">
-    var aan = {
-        url:"http://aan.amazon.com/2009-05-01/imdb/default?slot=sitewide-iframe&ord=[CLIENT_SIDE_ORD]",
-        oncall:custom.amazon.aan_iframe_oncall
-    }
-</script>
-<iframe src="/images/SFed0def01846066a8fbf875202fe91fcd/a/js/scriptloader.html#aan" style="width:0px;height:0px;display:none"></iframe>
 
+
+<meta name="WT.cg_n" content="title">
+<meta name="WT.cg_s" content="main">
+<meta name="WT.z_const" content="tt1352369">
+<meta name="WT.z_logstat" content="logged out">
+<link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SFb308770c8ad3491935da16b9027c4b4a/css2/consumersite.css" />
 <link rel="icon" href="http://i.imdb.com/favicon.ico" />
 <link rel="apple-touch-icon" href="http://i.media-imdb.com/apple-touch-icon.png" />
-<style type="text/css">.showtimes { font-family: Arial, Helvetica, sans-serif }.showtimes .heading { font-size: 16px; font-weight: bold }.showtimes .time { color: #ff0000 }.tabular { border-collapse: collapse; border: 1px solid #9999ff }.tabular td.heading { background: #bbbbff }.tabular td.heading-right { background: #bbbbff; text-align: right; font-size: small }.tabular td.address { font-size: small; color: #666666; background: #eeeeee }.tabular td.detail { font-size: small; background: #eeeeee }.tabular tr.alternate { background: #eeeeee }.tabular td.item { border: 1px solid #9999ff }</style><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFbba08d9426337da1cff8222d69d46a61/tn15/tn15.css" /><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF1eee71a1e0976edd804b8502c3f47a7b/css2/site/consumer-vote.css" /><script type="text/javascript" src="http://i.media-imdb.com/images/SF796054a7d6bb065a13b6313e891c1901/js/vote.js" /></script><script type="text/javascript">var __vkey = 'HJOh-QXB5gM.jPPOZmG-mwB.qjlz-Vo5czp5ChcuGSpAfhqZ42laOXNayVpDSglaJzn6mmBpWjlgaVoJIDkqCX';var __vrtg = '4.8';</script>
-
-
-
+<style type="text/css">.showtimes { font-family: Arial, Helvetica, sans-serif }.showtimes .heading { font-size: 16px; font-weight: bold }.showtimes .time { color: #ff0000 }.tabular { border-collapse: collapse; border: 1px solid #9999ff }.tabular td.heading { background: #bbbbff }.tabular td.heading-right { background: #bbbbff; text-align: right; font-size: small }.tabular td.address { font-size: small; color: #666666; background: #eeeeee }.tabular td.detail { font-size: small; background: #eeeeee }.tabular tr.alternate { background: #eeeeee }.tabular td.item { border: 1px solid #9999ff }</style><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFda887c91acab2da9a9c3c7c5de08db7a/tn15/tn15.css" /><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF1eee71a1e0976edd804b8502c3f47a7b/css2/site/consumer-vote.css" /><script type="text/javascript" src="http://i.media-imdb.com/images/SF796054a7d6bb065a13b6313e891c1901/js/vote.js" /></script><script type="text/javascript">var __vkey = 'uK-1L1rROHrYknXMMw47DgB.qjlz-Vo5czp5ChcuGSpAfhqZ4ylaOXM6aSojSgmqZzn6mmBpWjlgaVoJIDkqCX';var __vrtg = '4.7';</script>
 
 
 
@@ -82,10 +69,39 @@ Transfer-Encoding: chunked
 <link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SF6c486df5f1b533d141b118846b74341b/wheel/ie.css" />
 <![endif]-->
 <link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF41f82c0c403aef9feb708e266a7fdfbe/wheel/fixed.css" />
+<!-- start m/s/a/_g_a_s , head -->
+<script type="text/javascript" src="/images/SF518aca8a0de66996312d0d8385e3ee60/a/js/ads.js"></script>
+<script type="text/javascript">
+    generic.monitoring.set_twilight_info(
+        "title", 
+        "Other", 
+        "0341fb1e9d348d6ba50e492bd45a4be3da0625e5", 
+        "2009-11-25T12%3A45%3A54GMT", 
+        "http://www.imdb.com/twilight/?");
+
+    generic.monitoring.start_timing("page_load");
+
+    generic.cache.set('aan',{
+        type:"js",
+        url:("http://aan.amazon.com/2009-05-01/imdb/default?slot=sitewide-iframe&ord=[CLIENT_SIDE_ORD]").replace(ad_utils.ord_regex, ad_utils.ord),
+        onCall:custom.amazon.aan_iframe_oncall
+    });
+
+    generic.cache.set('fc',{
+        type:"swf",
+        url:"http://ia.media-imdb.com/media/imdb/01/I/89/76/45/10.swf"
+    });
+</script>
+<!-- end m/s/a/_g_a_s , head -->
 
 </head>
 
 <body bgcolor="#ffffff" text="#000000" id="styleguide-v2" class="fixed">
+<!-- start m/s/a/_g_a_s , body -->
+<iframe src="/images/SFfcfce2d9038a8296b236321c9dbf094e/a/js/scriptloader.html#aan,fc" class="script_loader"
+allowtransparency="true" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe>
+<!-- end m/s/a/_g_a_s , body -->
+
 <div id="wrapper">
 
 
@@ -97,7 +113,7 @@ ad_utils.queue_ad('1','floating1');
 </script>
 <iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="floating1" name="floating1" class="yesScript" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=401057256227?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=401057256227?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=850760106318?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=850760106318?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <!-- End FLOATING1 -->
@@ -118,18 +134,18 @@ ad_utils.queue_ad('1','floating1');
 <script type="text/javascript"> 
 ad_utils.queue_ad('2','top_ad');
 </script>
-<iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.title/maindetails;tile=2;sz=468x60,728x90,1008x150,9x1;p=t;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="75" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
+<iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,9x1;p=t;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="75" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=2;sz=468x60,728x90,1008x150,9x1;p=t;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=401057256227?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=2;sz=468x60,728x90,1008x150,9x1;p=t;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=401057256227?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,9x1;p=t;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=850760106318?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,9x1;p=t;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=850760106318?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <!-- End TOP_AD -->
 
 </div>
 	<div id="navbar">
-		<link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SFef07982647c5befab3bd3570b6adf7aa/css2/site/consumer-navbar.css">
-                <noscript><link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SF10d135249493ecd9c91290ee6aff505b/css2/site/consumer-navbar-no-js.css"></noscript>
-                <!--[if IE]> <link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SFe79ee830c64a949f2242e73dae4a0c8d/css2/site/consumer-navbar-ie.css"><![endif]-->
+		<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFef07982647c5befab3bd3570b6adf7aa/css2/site/consumer-navbar.css">
+                <noscript><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF10d135249493ecd9c91290ee6aff505b/css2/site/consumer-navbar-no-js.css"></noscript>
+                <!--[if IE]> <link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFe79ee830c64a949f2242e73dae4a0c8d/css2/site/consumer-navbar-ie.css"><![endif]-->
 				<span id="home_img_holder"><a id="home_img" title="Home" alt="Home" href="/" onclick="(new Image()).src='/rg/home/navbar/images/b.gif?link=/'"></a></span>
 				<script type="text/javascript">
                                 var home_img_holder = document.getElementById("home_img_holder");
@@ -143,7 +159,7 @@ ad_utils.queue_ad('2','top_ad');
                                 </script>
 				<form method="get" action="/find" onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';">
 				<div id="nb_search">
-				Search
+				<a href="/search"><strong>Search</strong></a>
 
 					<select id="quicksearch" name="s" onchange="jumpMenu(this)">
 					 <option value="all">All</option>
@@ -243,7 +259,7 @@ function jumpMenu(selObj) {
     </li>
 				</ul>
 				</div>
-				<div class="nb_extra"><a href="/rg/NAV_TWITTER/NAV_EXTRA/http://www.twitter.com/imdb" onclick="(new Image()).src='/rg/twitter/navbar/images/b.gif?link=/rg/NAV_TWITTER/NAV_EXTRA/http://www.twitter.com/imdb'">Follow IMDb on Twitter</a></div>
+				<div class="nb_extra"><a href="/rg/NAV_IMDBES/NAV_EXTRA/http://www.imdb.es/" onclick="(new Image()).src='/rg/imdb_es/navbar/images/b.gif?link=/rg/NAV_IMDBES/NAV_EXTRA/http://www.imdb.es/'">IMDb - Now in Spanish</a></div>
 			</div>
 </div>
 <script type="text/javascript" src="http://i.media-imdb.com/images/SFf84dc8673d077c0db8630ccf4488f6ae/js/navbar.js"></script>
@@ -324,6 +340,61 @@ function jumpMenu(selObj) {
  
  
 
+<style type="text/css">
+
+.media_strip_thumbs img {
+    margin-right:0.2em;
+    border:none;
+}
+
+.media_strip_thumbs {
+  overflow: hidden;
+  height: 90px;
+}
+.media_strip_thumb img {
+  margin-right: 0.2em;
+}
+.media_strip_thumb {
+  float: left; 
+  margin-bottom: 50px;
+  text-align: right;
+  font-family: Tahoma,Verdana,sans-serif;
+  font-size: 10pt;
+  color:#333333;
+}
+</style>
+
+<table style="border-collapse:collapse;">
+<tr>
+
+
+<td  class="media_strip_header">
+
+
+<b>Videos</b>
+
+<span>(<a href="/rg/videos-title/gallery-link/title/tt1352369/videogallery">see all 3</a>)</span>
+</td>
+
+</tr>
+<tr>
+
+
+<td>
+<div class="media_strip_thumbs">
+<div class="media_strip_thumb"><link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SFf9efc3f7c142d1579ec0132d918e497b/css2/app/video/single.css">
+<a href=/video/imdblink/vi1969423641/ onClick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdblink%2Fvi1969423641%2F';window.open(this.href+'offsite','_blank','scrollbars=yes,menubar=yes,toolbar=yes,location=yes,resizable=yes,width='+((window.outerWidth?window.outerWidth:document.body.clientWidth)-200)+',height='+((window.outerHeight?window.outerHeight:document.body.clientHeight)-450)+',top=200,left=100');"><img class="video" viconst="vi1969423641" alt="Gurotesuku (2009) -- CineMagia.ro - Trailer (Flash)" title="Gurotesuku (2009) -- CineMagia.ro - Trailer (Flash)" src="http://ia.media-imdb.com/images/M/MV5BMTQ5MzMyODc1NV5BMl5BanBnXkFpbWRi._SX120_SY90_BO120,0,0,0_PIimdb-play-bar2-180,BottomLeft,120,-120_CR120,120,120,90_ZATrailer,37,63,27,83,verdenab,9,255,255,255,1_CR0,14,120,76_BO14,83,105,140_CR14,0,120,90_ZAat%20CineMagia.ro%20%BB,3,0,14,120,verdenab,7,255,255,255,1_.jpg" width="120" height="90"  /></a>
+
+</div>
+</div>
+</td>
+
+</tr>
+</table>
+
+
+
+
 <hr/>
 
 <div id="tn15adrhs">
@@ -337,7 +408,7 @@ ad_utils.queue_ad('3','top_rhs');
 </script>
 <iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=401057256227?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=401057256227?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=850760106318?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=850760106318?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <!-- End TOP_RHS -->
@@ -353,41 +424,43 @@ ad_utils.queue_ad('3','top_rhs');
 <div id="top_center_after" class="after_ad"><div></div></div>
 <h3>Overview</h3>
 
-<div class="info" id="star-rating-info">
-<h5>User Rating:</h5>
-<div id="tn15rating" class="two guest">
-<div class="usr rating">
-
-</div>
-<div class="general rating">
-<div class="starbar static">
-	<div class="outer">
-		<div class="inner" style="width: 96px"></div>
-	</div>
-</div>
-<div class="meta">
-<b>4.8/10</b> 
-
-&nbsp;&nbsp;<a href="ratings" class="tn15more">454 votes</a>
-</div>
-
-<div class="bottom">
-
-<!-- <a class="tn15more" href="ratings">more</a> -->
-
-</div>
-
-</div>
-</div>
+<div class="info-offset" id="star-rating-info">
+  <h5>User Rating:</h5>
+  <div id="tn15rating" class="two guest">
+    <div class="usr rating">
+      
+    </div>
+    <div class="general rating">
+      <div class="starbar static">
+        <div class="outer">
+          <div class="inner" style="width: 94px"></div>
+        </div>
+      </div>
+      <div class="meta">
+        <b>4.7/10</b> 
+           
+           
+           &nbsp;&nbsp;<a href="ratings" class="tn15more">490 votes</a>
+        
+        
+      </div>
+      
+        <div class="bottom">
+          
+        </div>
+      
+    </div> <!-- general rating -->
+  </div> <!-- tn15rating ... -->
 </div> <!-- end info -->
 
-  <div class="info"><h5>MOVIEmeter: <a href="/help/show_leaf?prowhatisstarmeter"><img src="http://i.media-imdb.com/images/tn15/meter_help.gif" width="12" height="12" border="0" alt="?"></a></h5><b>Down 11%</b> in popularity this week. See <a href="/r/movie-con/rg/title-tease/meter-why/title/tt1352369/graph-data">why</a> on <a href="/r/movie-con/rg/title-tease/meter-prolink/">IMDbPro</a>.</div>
+  <div class="info"><h5>MOVIEmeter: <a href="/help/show_leaf?prowhatisstarmeter"><img src="http://i.media-imdb.com/images/tn15/meter_help.gif" width="12" height="12" border="0" alt="?"></a></h5><div class="info-content"><b>Down 21%</b> in popularity this week. See <a href="/r/movie-con/rg/title-tease/meter-why/title/tt1352369/graph-data">why</a> on <a href="/r/movie-con/rg/title-tease/meter-prolink/">IMDbPro</a>.</div></div>
 
     
     
     
         <div id="director-info" class="info">
         <h5>Director:</h5>
+        <div class="info-content">
         
         
             
@@ -396,12 +469,14 @@ ad_utils.queue_ad('3','top_rhs');
         
         
         </div>
+        </div>
     
     
     
     
         <div class="info">
         <h5>Writer:</h5>
+        <div class="info-content">
         
         
             
@@ -410,44 +485,53 @@ ad_utils.queue_ad('3','top_rhs');
         
         
         </div>
+        </div>
     
 <div class="info">
-<h5>Contact:</h5> 
+<h5>Contact:</h5>
+<div class="info-content">
 
   View <a href="/r/contact-con/rg/title-overview/company-contact/title/tt1352369/companycredits">company</a> 
   contact information for Gurotesuku on 
   <a href="/r/contact-con/rg/title-overview/pro-contact/">IMDbPro</a>.
 
 </div>
+</div>
 
 <div class="info">
 <h5>Genre:</h5>
+<div class="info-content">
 <a href="/Sections/Genres/Crime/">Crime</a> | <a href="/Sections/Genres/Horror/">Horror</a> | <a href="/Sections/Genres/Thriller/">Thriller</a> <a class="tn15more inline" href="/title/tt1352369/keywords" onClick="(new Image()).src='/rg/title-tease/keywords/images/b.gif?link=/title/tt1352369/keywords';">more</a>
+</div>
 </div>
 
 <div class="info">
 <h5>Tagline:</h5>
+<div class="info-content">
 King of Japanese Grotesque Movie <a class="tn15more inline" href="/title/tt1352369/taglines" onClick="(new Image()).src='/rg/title-tease/taglines/images/b.gif?link=/title/tt1352369/taglines';">more</a>
+</div>
 </div>
 
 <div class="info">
 <h5>Plot Keywords:</h5>
+<div class="info-content">
 <div id="tn15plotkeywords" style="display:inline;"><span>
 
-<a href="/keyword/power-tool/">Power&#xA0;Tool</a>
+<a href="/keyword/disinfectant/">Disinfectant</a>
  | 
-<a href="/keyword/gore/">Gore</a>
+<a href="/keyword/arm-cut-off/">Arm&#xA0;Cut&#xA0;Off</a>
  | 
-<a href="/keyword/axe/">Axe</a>
+<a href="/keyword/severed-head/">Severed&#xA0;Head</a>
  | 
-<a href="/keyword/scissors/">Scissors</a>
+<a href="/keyword/disembowelment/">Disembowelment</a>
  | 
-<a href="/keyword/banned/">Banned</a>
+<a href="/keyword/smelling-salts/">Smelling&#xA0;Salts</a>
 
 </span></div>
 
 <a class="tn15more inline" href="/title/tt1352369/keywords" onClick="(new Image()).src='/rg/title-tease/keywords/images/b.gif?link=/title/tt1352369/keywords';">more</a>
 
+</div>
 </div>
 
 <script type="text/javascript">
@@ -460,18 +544,22 @@ k.onmouseout=   function() {if (!window.hasVoted) this.className='keyword-spoile
 <h5>NewsDesk<span>:</span><br/>
 <small>(<a onClick="(new Image()).src='/rg/maindetails-count/newsdesk/images/b.gif?link=%2Ftitle%2Ftt1352369%2Fnews';" href="/title/tt1352369/news">2 articles</a>)</small>
 </h5>
+<div class="info-content">
 <strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=%2Ftitle%2Ftt1352369%2Fnews%23ni0943771';" href="/title/tt1352369/news#ni0943771">Japanese horror movie Grotesque banned from release</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=%2Fnews%2Fns0000257%2F';" href="/news/ns0000257/">The Geek Files</a>. 22 August 2009, 12:36 PM, PDT)</small>
 <br/>
 <strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=%2Ftitle%2Ftt1352369%2Fnews%23ni0938553';" href="/title/tt1352369/news#ni0938553">British Censors Bar Japanese Horror Flick</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=%2Fnews%2Fns0000003%2F';" href="/news/ns0000003/">Studio Briefing - Film News</a>. 19 August 2009, 2:41 PM, PDT)</small>
 <br/>
 <div style="width:1px;height:0.5em;"></div></div>
+</div>
 
 <div class="info">
 <h5>User Comments:</h5>
-Infamous and still falling short, &#x22;Grotesque&#x22; is a gross waste of time
+<div class="info-content">
+Ho Hum
 <a class="tn15more inline" href="#comment">more (20 total)</a>
 </div>
-<hr/>  <div class="headerinline"><h3>Cast</h3>&nbsp; <small style="position: relative; bottom: 1px">(Credited cast)</small></div> <div class="info"> <table class="cast">      <tr class="odd"><td class="hs"><a href="http://resume.imdb.com/" onClick="(new Image()).src='/rg/title-tease/resumehead/images/b.gif?link=http://resume.imdb.com/';"><img src="http://i.media-imdb.com/images/tn15/addtiny.gif" width="25" height="31" border="0"></td><td class="nm"><a href="/name/nm2789828/" onclick="(new Image()).src='/rg/castlist/position-1/images/b.gif?link=/name/nm2789828/';">Tsugumi Nagasawa</a></td><td class="ddd"> ... </td><td class="char">Aki</td></tr>  <tr class="even"><td class="hs"><a href="http://resume.imdb.com/" onClick="(new Image()).src='/rg/title-tease/resumehead/images/b.gif?link=http://resume.imdb.com/';"><img src="http://i.media-imdb.com/images/tn15/addtiny.gif" width="25" height="31" border="0"></td><td class="nm"><a href="/name/nm2937406/" onclick="(new Image()).src='/rg/castlist/position-2/images/b.gif?link=/name/nm2937406/';">Hiroaki Kawatsure</a></td><td class="ddd"> ... </td><td class="char">Kazuo</td></tr>  <tr class="odd"><td class="hs"><a href="http://resume.imdb.com/" onClick="(new Image()).src='/rg/title-tease/resumehead/images/b.gif?link=http://resume.imdb.com/';"><img src="http://i.media-imdb.com/images/tn15/addtiny.gif" width="25" height="31" border="0"></td><td class="nm"><a href="/name/nm3258689/" onclick="(new Image()).src='/rg/castlist/position-3/images/b.gif?link=/name/nm3258689/';">Shigeo &#xD4;sako</a></td><td class="ddd"></td><td class="char"></td></tr></table><a class="tn15more" href="fullcredits#cast">more</a></div>   <div><form action="/character/create" method="post"><input type="hidden" name="title" value="tt1352369">Create a character page for:&#32;<select name="name" onchange="if (this.options[this.selectedIndex].value == '...') document.location='fullcredits#cast'"><option>Aki</option><option>Kazuo</option><option disabled="disabled">-----------</option><option value="...">more...</option></select>&#32;<input style="font: Tahoma, Verdana, sans-serif; font-size: 8pt; font-weight: bold; background-color: #eeeeee; border-color: #ccccee; color: black" type="submit" value="Create &raquo;">&#32;<a target="_blank" href="/help/show_leaf?createchar"><img src="http://i.media-imdb.com/images/help13x10.gif" width="13" height="10" border="0" alt="?"></a></form></div>
+</div>
+<hr/>  <div class="headerinline"><h3>Cast</h3>&nbsp; <small style="position: relative; bottom: 1px">(Credited cast)</small></div> <div class="info-offset"> <table class="cast">      <tr class="odd"><td class="hs"><a href="http://resume.imdb.com/" onClick="(new Image()).src='/rg/title-tease/resumehead/images/b.gif?link=http://resume.imdb.com/';"><img src="http://i.media-imdb.com/images/tn15/addtiny.gif" width="25" height="31" border="0"></td><td class="nm"><a href="/name/nm2789828/" onclick="(new Image()).src='/rg/castlist/position-1/images/b.gif?link=/name/nm2789828/';">Tsugumi Nagasawa</a></td><td class="ddd"> ... </td><td class="char">Aki</td></tr>  <tr class="even"><td class="hs"><a href="http://resume.imdb.com/" onClick="(new Image()).src='/rg/title-tease/resumehead/images/b.gif?link=http://resume.imdb.com/';"><img src="http://i.media-imdb.com/images/tn15/addtiny.gif" width="25" height="31" border="0"></td><td class="nm"><a href="/name/nm2937406/" onclick="(new Image()).src='/rg/castlist/position-2/images/b.gif?link=/name/nm2937406/';">Hiroaki Kawatsure</a></td><td class="ddd"> ... </td><td class="char">Kazuo</td></tr>  <tr class="odd"><td class="hs"><a href="http://resume.imdb.com/" onClick="(new Image()).src='/rg/title-tease/resumehead/images/b.gif?link=http://resume.imdb.com/';"><img src="http://i.media-imdb.com/images/tn15/addtiny.gif" width="25" height="31" border="0"></td><td class="nm"><a href="/name/nm3258689/" onclick="(new Image()).src='/rg/castlist/position-3/images/b.gif?link=/name/nm3258689/';">Shigeo &#xD4;sako</a></td><td class="ddd"></td><td class="char"></td></tr></table><a class="tn15more" href="fullcredits#cast">more</a></div>   <div><form action="/character/create" method="post"><input type="hidden" name="title" value="tt1352369">Create a character page for:&#32;<select name="name" onchange="if (this.options[this.selectedIndex].value == '...') document.location='fullcredits#cast'"><option>Aki</option><option>Kazuo</option><option disabled="disabled">-----------</option><option value="...">more...</option></select>&#32;<input style="font: Tahoma, Verdana, sans-serif; font-size: 8pt; font-weight: bold; background-color: #eeeeee; border-color: #ccccee; color: black" type="submit" value="Create &raquo;">&#32;<a target="_blank" href="/help/show_leaf?createchar"><img src="http://i.media-imdb.com/images/help13x10.gif" width="13" height="10" border="0" alt="?"></a></form></div>
 
 
 <!-- sid: test01-channel : MIDDLE_CENTER -->
@@ -485,7 +573,7 @@ afc_data["MIDDLE_CENTER"] = { channel:  "test01-channel",
                        client:   "ca-amazon-imdb_js",
                        title:    "Sponsored Links",
                        help:     "What&#x27;s This?",
-                       hints:    "knocked out,kissing breasts,kidnapping,severed finger,breasts"
+                       hints:    "surgical instruments,knocked out,japanese horror film,hammer,self mutilation"
                      };
 </script>
 
@@ -503,60 +591,76 @@ afc_data["MIDDLE_CENTER"] = { channel:  "test01-channel",
 
 <div class="info">
 
-  <h5>Also Known As:</h5>Grotesque (Japan: English title) (censored version) <br>Grotesque: Unrated Version (Japan: English title)  <br>Gurotesuku (Japan) (censored version) <br>
+  <h5>Also Known As:</h5><div class="info-content">Grotesque (Japan: English title) (censored version) <br>Grotesque: Unrated Version (Japan: English title)  <br>Gurotesuku (Japan) (censored version) <br>
   
   
 <a class="tn15more" href="/title/tt1352369/releaseinfo#akas" onClick="(new Image()).src='/rg/title-tease/akas/images/b.gif?link=/title/tt1352369/releaseinfo#akas';">more</a>
 
 </div>
+</div>
 
 <div class="info">
 <h5>Parents Guide:</h5>
+<div class="info-content">
 <a href="parentalguide">View content advisory for parents</a>
+</div>
 </div>
 
 <div class="info">
 <h5>Runtime:</h5>
+<div class="info-content">
 73 min  | Japan:69 min (censored version)
+</div>
 </div>
 
 <div class="info">
 <h5>Country:</h5>
+<div class="info-content">
 
 <a href="/Sections/Countries/Japan/">
 Japan</a>
 
 </div>
+</div>
 
 <div class="info">
 <h5>Language:</h5>
+<div class="info-content">
 
 <a href="/Sections/Languages/Japanese/">
 Japanese</a>
 
 </div>
+</div>
 
 <div class="info">
 <h5>Color:</h5>
+<div class="info-content">
 
 <a href="/List?color-info=Color&&heading=13;Color">
 Color</a> 
 </div>
+</div>
 
 <div class="info">
 <h5>Aspect Ratio:</h5>
+<div class="info-content">
 2.35 : 1 <a class="tn15more inline" href="/title/tt1352369/technical" onClick="(new Image()).src='/rg/title-tease/aspect/images/b.gif?link=/title/tt1352369/technical';">more</a>
+</div>
 </div>
 
 <div class="info">
 <h5>Sound Mix:</h5>
+<div class="info-content">
 
 <a href="/List?sound-mix=Stereo&&heading=15;Stereo">
 Stereo</a> 
 </div>
+</div>
 
 <div class="info">
 <h5>Certification:</h5>
+<div class="info-content">
 
 <a href="/List?certificates=Japan:Unrated&&heading=14;Japan:Unrated">
 Japan:Unrated</a> <i>(self-rating: R-20)</i> | 
@@ -565,12 +669,15 @@ UK:(Banned)</a>  |
 <a href="/List?certificates=UK:R&&heading=14;UK:R">
 UK:R</a> 
 </div>
+</div>
 
 <div class="info">
 <h5>Company:</h5>
+<div class="info-content">
 <a href="/company/co0148138/">Ace Deuce Entertainment</a>
 
 <a class="tn15more inline" href="/title/tt1352369/companycredits">more</a>
+</div>
 </div>
 
 <hr/> 
@@ -578,15 +685,19 @@ UK:R</a>
 
 <div class="info">
 <h5>Trivia:</h5>
-The film was rejected for UK DVD release by the BBFC in August 2009.
+<div class="info-content">
+Distributors of this movie had hoped to be given an 18 certificate for the film, which involves torture such as amputation and eye-gouging. But the British Board of Film Classification said the film featured sexual sadism for its own sake. Also stated that giving the film a rating would involve a "risk of harm" to those viewing it. Therefore no classification was given and selling or supplying the film would now be illegal.
 <a class="tn15more inline" href="/title/tt1352369/trivia" onClick="(new Image()).src='/rg/title-tease/trivia/images/b.gif?link=/title/tt1352369/trivia';">more</a>
 
 </div>
+</div>
 
 <div class="info">
-<h5>Soundtrack:</h5> 
+<h5>Soundtrack:</h5>
+<div class="info-content">
 Aeka
 <a class="tn15more inline" href="/title/tt1352369/soundtrack" onClick="(new Image()).src='/rg/title-tease/soundtrack/images/b.gif?link=/title/tt1352369/soundtrack';">more</a>
+</div>
 </div>
 
 <hr/>
@@ -622,20 +733,20 @@ function ynd(id, status) {
 //-->
 </script>
 <div class="small">
-3 out of 6 people found the following comment useful.
+10 out of 11 people found the following comment useful.
 </div>
 
-<b>Infamous and still falling short, &#x22;Grotesque&#x22; is a gross waste of time</b>, 6 September 2009
+<b>Ho Hum</b>, 21 August 2009
 <br>
 
-<img width="102" height="12" alt="1/10" src="/images/showtimes/10.gif"><br>
+<img width="102" height="12" alt="3/10" src="/images/showtimes/30.gif"><br>
 
 <div class="small">
 Author:
-<a href="/user/ur9875128/comments">MidnightTrash</a>
+<a href="/user/ur0668495/comments">Paul K</a>
 
 <small>
-from United States
+from United Kingdom
 </small>
 
 </div>
@@ -643,52 +754,23 @@ from United States
 
 </p>
 <p>
-The Japanese have been riding the torture porn pony since way before it
-was (briefly) fashionable, so another plot less entry into the crowded
-&#x22;strangers get cut up&#x22; genre really isn&#x27;t all that noteworthy. Aside
-from Takeshi Miike&#x27;s chilling &#x22;Audition,&#x22; most of these Japanese gore
-films are just too sadistic and one dimensional to bother watching. So
-why bother with &#x22;Grotesque,&#x22; the self-described king of Japanese gore?
-Honestly, had the BBFC not banned &#x22;Grotesque&#x22; in the U.K., calling the
-film &#x22;little more than an unrelenting and escalating scenario of
-humiliation, brutality and sadism,&#x22; this nasty movie wouldn&#x27;t have even
-popped up on anyone&#x27;s radar. But alas, banning a film only makes people
-want to see it even more, so in light of the BBFC&#x27;s decision I had to
-see, is &#x22;Grotesque&#x22; worth watching? That depends. Do you get a sadistic
-thrill out of watching someone get humiliated and tortured to death?
-Have you seen the &#x22;Guinea Pig&#x22; series and still want more? Did you find
-yourself wishing there was less plot and more bloody chainsaws in the
-&#x22;Hostel&#x22; movies? If the answer to any of those questions is yes, then
-you&#x27;ll enjoy &#x22;Grotesque.&#x22; The film is exactly why this particular breed
-of exploitation cinema was branded torture porn. In &#x22;Grotesque&#x22; you&#x27;ve
-got zero narrative, no character development and no idea why any of
-this is happening. Instead, you&#x27;ve got an adult film actress, buckets
-of bodily fluids (we&#x27;re talking everything from vomit to semen here)
-and a sound effects reel that makes every severed finger and oozing
-wound squish and glop.<br/><br/>If any of this sounds like a good night, then you&#x27;ll love &#x22;Grotesque.&#x22;
-You should probably also make an appointment to see a psychiatrist,
-because brother, you&#x27;ve got issues.<br/><br/>For the rest of us, this film is pure, unadulterated trash. &#x22;Grotesque&#x22;
-is a movie with absolutely no redeeming value. It is nothing more than
-a series of sadistic scenes of torture and humiliation. Where &#x22;Hostel&#x22;
-took some time setting up the carnage, &#x22;Grotesque&#x22; gets right down to
-business, meaning that a) there is little in the film&#x27;s scant hour and
-fifteen minute running time but torture and b) viewers have absolutely
-no attachment to any of the characters.<br/><br/>Which brings us the meat of the film itself, the torture scenes. For a
-film that so prides itself on the levels of depravity which it is
-willing to sink, there is little in &#x22;Grotesque&#x22; that hasn&#x27;t been seen
-before. Sure, the film keeps the camera close during the most awful
-bits, but it&#x27;s the same dismemberment theatrics that have been done a
-thousand times over. It&#x27;s a tired exercise that tries to thrill by
-showing &#x22;shocking&#x22; footage that has been seen a thousand times over.
-It&#x27;s cutting up the corpse of a long dead horse, hoping that even more
-graphic violence will revive a genre made for the desensitized. Problem
-is numb is numb and this kind of mean-spirited schlock does little for
-an audience that has already seen it all.<br/><br/>If your curiosity just needs to be satiated, then by all means, check
-out &#x22;Grotesque.&#x22; Everyone else take my advice and stay far, far away.<br/><br/>Taken from http://www.midnighttrash.net/?p=704 MidnightTrash.net Your
-guide to everything under the radar.
+Well, having heard mention of the BBFC banning on Twitter, old school
+curiosity got the better of me. That compounded by being told I&#x27;m not
+allow to, made me watch it.<br/><br/>I have to say I&#x27;m surprised they even bothered going to the expense and
+effort of submitting it to the BBFC. I can&#x27;t see them ever passing it
+really. Its competently made, and fairly well filmed considering
+(compared to the Guinea Pig films at least) but really has no emotional
+content or story. Pretty much just the couple and the torturer, and
+about 3 locations. Admittedly I saw it with no subtitles but there was
+obviously not much going on story wise, just abuse and torture in a
+fairly unpleasant way. As usual for these types of movies, fairly
+boring and pointless, interspersed with endurance pushing scenes of
+torture. The only bit of amusing fun gore was the absurd scenes at the
+end. On the whole not really recommended.<br/><br/>Maybe I&#x27;m getting old, but I really can&#x27;t work out anymore what or who
+this type of film is made for.
 </p>
 
-<div class="yn" id="ynd_2122840">
+<div class="yn" id="ynd_2114780">
 <form method="get" action="/register/">
 <input type="hidden" name="why" value="comment_vote">
 Was the above comment useful to you?
@@ -751,10 +833,6 @@ If you enjoyed this title, our database also recommends:
 <table class="recs">
 <tr class="poster">
 
-<td><a href="/rg/tt-recs/image/title/tt1050160/">
-<img class="poster"     alt="-"     width="93"          src="http://ia.media-imdb.com/media/imdb/01/I/56/67/12/10.gif" >
-</a></td>
-
 <td><a href="/rg/tt-recs/image/title/tt0462499/">
 <img class="poster"     alt="-"     width="93"     height="138"     src="http://ia.media-imdb.com/images/M/MV5BMTU5NjAxMjg3NF5BMl5BanBnXkFtZTcwMjA3MzU1MQ@@._V1._SX93_.jpg" >
 </a></td>
@@ -771,10 +849,12 @@ If you enjoyed this title, our database also recommends:
 <img class="poster"     alt="-"     width="93"     height="152"     src="http://ia.media-imdb.com/images/M/MV5BMTk3ODY4MzkwN15BMl5BanBnXkFtZTcwOTc1MjUxMQ@@._V1._SX93_.jpg" >
 </a></td>
 
+<td><a href="/rg/tt-recs/image/title/tt0296042/">
+<img class="poster"     alt="-"     width="93"     height="133"     src="http://ia.media-imdb.com/images/M/MV5BMTY0MDg2NzE2NF5BMl5BanBnXkFtZTcwNzQ1MTQyMQ@@._V1._SX93_.jpg" >
+</a></td>
+
 </tr>
 <tr>
-
-<td><a href="/rg/tt-recs/link/title/tt1050160/">Kataude mashin g&#xE2;ru</a></td>
 
 <td><a href="/rg/tt-recs/link/title/tt0462499/">Rambo</a></td>
 
@@ -784,16 +864,12 @@ If you enjoyed this title, our database also recommends:
 
 <td><a href="/rg/tt-recs/link/title/tt0116163/">Yi boh lai beng duk</a></td>
 
+<td><a href="/rg/tt-recs/link/title/tt0296042/">Koroshiya 1</a></td>
+
 </tr>
 <tr class="rating">
 
 <td class="first">
-<small>IMDb User Rating:</small>
-<br/>
-<div class="tinystarbar"><div style="width: 60px"></div></div>
-</td>
-
-<td>
 <small>IMDb User Rating:</small>
 <br/>
 <div class="tinystarbar"><div style="width: 73px"></div></div>
@@ -815,6 +891,12 @@ If you enjoyed this title, our database also recommends:
 <small>IMDb User Rating:</small>
 <br/>
 <div class="tinystarbar"><div style="width: 63px"></div></div>
+</td>
+
+<td>
+<small>IMDb User Rating:</small>
+<br/>
+<div class="tinystarbar"><div style="width: 71px"></div></div>
 </td>
 
 </tr>
@@ -855,8 +937,10 @@ If you enjoyed this title, our database also recommends:
   | <a href="/top_250_films">Top 250</a>  | 
 <a href="/sections/tv/">TV</a>
   | <a href="/News/">News</a>
-  | <a href="/features/video/">Video</a>
-  | <a href="/boards/">Message Boards</a>
+  | <a href="/features/video/">Video</a> |
+
+  <a href="/boards/">Message Boards</a>
+
 <br>
 <a href="/register/?why=footer">Register</a>
     | <a href="/help/show_article?rssavailable"><img alt="RSS Feeds" width="16" height="16" border="0" align="top" src="http://i.media-imdb.com/images/SF83bea38dbdad58e7004f18ec855697b9/rss2.gif"></a> <a href="/help/show_article?rssavailable">RSS</a>
@@ -894,7 +978,7 @@ var amznUts = {
   PageId : "tt1352369"
 }
 </script>
-<script type="text/javascript" src="http://z-ecx.images-amazon.com/images/G/01/x-locale/personalization/uts/js/prod-v4.js">
+<script type="text/javascript" src="http://z-ecx.images-amazon.com/images/G/01/x-locale/personalization/uts/js/prod-v10.js">
 </script>
 
 <!-- End UTS code --> 
@@ -917,7 +1001,7 @@ ad_utils.queue_ad('5','bottom_ad');
 </script>
 <iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=401057256227?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=401057256227?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=850760106318?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;coo=jp;g=th;g=h;id=tt1352369;tt=f;k=c;g=cr;ord=850760106318?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <!-- End BOTTOM_AD -->
@@ -931,9 +1015,18 @@ ad_utils.queue_ad('5','bottom_ad');
 
 
 
-<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a08023030393130323530000001037a040379646370000001047&cb=125653963112681" width="1" height="1" alt="" border="0">
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a08023030393131323530000001037a040379646370000001047&cb=12591531543335" width="1" height="1" alt="" border="0">
 </div> <!-- id="wrapper" -->
-<!-- h=iop505 i=2009-10-25 s=legacy(default) t='Sun Oct 25 23:47:10 2009' -->
+<!-- h=iop510 i=2009-11-24 s=legacy(default) t='Wed Nov 25 04:45:54 2009' -->
+<script type="text/javascript" src="http://i.media-imdb.com/images/SF3a147f30fa914eac5b793ad3e2aee87e/js/webtrends/webtrends.js"></script>
+
+<script type="text/javascript">
+var _wt_tag=new WebTrends();
+_wt_tag.dcsCollect();
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcspqo4cm100004bfufqci0k1_8x8h/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2"/></div>
+</noscript>
 
 </body>
 </html>

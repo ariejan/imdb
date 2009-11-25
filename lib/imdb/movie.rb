@@ -41,7 +41,7 @@ module Imdb
     
     # Returns a string containing the plot.
     def plot
-      document.search("//h5[text()^='Plot']/..").innerHTML.split("\n")[2].gsub(/<.+>.+<\/.+>/, '').strip.imdb_unescape_html rescue nil
+      document.search("h5[text()='Plot:'] ~ div").first.innerHTML.gsub(/<.+>.+<\/.+>/, '').strip.imdb_unescape_html rescue nil
     end
     
     # Returns a string containing the URL to the movie poster.
@@ -56,7 +56,7 @@ module Imdb
     
     # Returns a string containing the tagline
     def tagline
-      document.search("//h5[text()^='Tagline']/..").innerHTML.split("\n")[2].gsub(/<.+>.+<\/.+>/, '').strip.imdb_unescape_html rescue nil
+      document.search("h5[text()='Tagline:'] ~ div").first.innerHTML.gsub(/<.+>.+<\/.+>/, '').strip.imdb_unescape_html rescue nil
     end
     
     # Returns a string containing the title

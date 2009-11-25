@@ -1,6 +1,5 @@
 require 'cgi'
 require 'iconv'
-
  
 module Imdb #:nordoc:
   module StringExtensions
