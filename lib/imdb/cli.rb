@@ -49,7 +49,7 @@ Usage: #{File.basename($0)} Search Query
       movie, search = nil, nil
       
       # If ID, fetch movie
-      if query.match(/(\d\d\d\d\d\d\d)/) || query.downcase.match(/^http:\/\/www.imdb.com\/title\/tt(.+)\/$/)
+      if query.match(/(\d\d\d\d\d\d\d)/) || query.downcase.match(/^http:\/\/[www.]*imdb.com\/title\/tt(.+)\/$/)
         fetch_movie($1)
       else
         search_movie(query)
