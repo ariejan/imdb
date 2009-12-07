@@ -9,9 +9,10 @@ module Imdb
     #
     #   imdb Star Trek
     #
-    # Get a movie, supply a 7 digit IMDB id
+    # Get a movie, supply a 7 digit IMDB id or the IMDB URL
     #
     #   imdb 0095016
+    #   imdb http://www.imdb.com/title/tt0796366/
     #
     def self.execute(stdout, arguments=[])
       
@@ -48,8 +49,8 @@ Usage: #{File.basename($0)} Search Query
       movie, search = nil, nil
       
       # If ID, fetch movie
-      if query.match(/\d\d\d\d\d\d\d/)
-        fetch_movie(query)
+      if query.match(/(\d\d\d\d\d\d\d)/) || query.downcase.match(/^http:\/\/www.imdb.com\/title\/tt(.+)\/$/)
+        fetch_movie($1)
       else
         search_movie(query)
       end

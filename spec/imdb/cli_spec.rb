@@ -18,7 +18,7 @@ describe Imdb::CLI, "execute" do
     end
   end
 
-  describe "yield one movie" do
+  describe "yield one movie an ID" do
     before(:each) do
       @stdout_io = StringIO.new
       Imdb::CLI.execute(@stdout_io, ["0117731"])
@@ -30,5 +30,20 @@ describe Imdb::CLI, "execute" do
       @stdout.should =~ /Star Trek\: First Contact \(1996\)/
       @stdout.should =~ /Jonathan Frakes/
     end
+  end
+  
+  describe "yield one movie with an URL" do
+    before(:each) do
+      @stdout_io = StringIO.new
+      Imdb::CLI.execute(@stdout_io, ["http://www.imdb.com/title/tt0117731/"])
+      @stdout_io.rewind
+      @stdout = @stdout_io.read
+    end
+  
+    it "report data" do
+      @stdout.should =~ /Star Trek\: First Contact \(1996\)/
+      @stdout.should =~ /Jonathan Frakes/
+    end
+    
   end
 end
