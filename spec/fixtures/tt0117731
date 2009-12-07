@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Wed, 25 Nov 2009 12:45:52 GMT
+Date: Mon, 07 Dec 2009 13:19:24 GMT
 Server: Server
 Cache-Control: private
 Content-Type: text/html
-Set-Cookie: session-id=82.92.155.84.1259153152581499; path=/; domain=.imdb.com
-Set-Cookie: uu=eI3lxAE0oFLxYDLvtHEg1wEwXGInphxiBMUKdDS1bxE0hW9hJOA/ZGQgT/F3B3s1d5BqNNSGHGIkhU/xdIVP8Re2vME3hhxiIfBKgmemHCUUppRyJJV/YSSFT/E0hrzBNPUvcXSFT/E3lrzBN4YcYieAWvJkhhxiJJWPMXSFT/EHtrzBN4YcYiemHCJn9mxSI=;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
-Set-Cookie: cs=1xR6k2uBMaNiWeBjYx/ljQnJEiSO2SUS3lFyJI2KMqydykEXncoxdx7ZIoQumTIkju9VcgoZEiSIjCYz3VpXQgmZsof+2SSyblESJI7vJDOO2RIkjvkSJI7ZEmTOiWIUg=;expires=Thu, 26 Nov 2009 08:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: session-id=82.92.155.84.1260191964461488; path=/; domain=.imdb.com
+Set-Cookie: uu=uyGNc9ulvSjbanhgmgCBUQEwXGInphxiBJVv4XS1bxFEpRokFOA/dGTVP3FHB3s1d5BqNNTmHGIkxV8RRIV/YRe2vME3hhxiIfBKgmemHCUUppRyJNU/4SSFf2E05rzBNDUP8USFf2E3lrzBN4YcYieAWvJk5hxiJNWfUUSFf2EHtrzBN4YcYiemHCJn9mxSI=;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=cxXYFY8M7fiagOjdg+Bc0wnJEiSO2SUS3lFyJI26UqydyoE3HcoxR47ZIoQumTIkju9VcgqpEiSLrhRGbf/0MmmZsoce2SSyblESJI7vJDOO2RIkjvkSJI7ZEmTOiWIUg=;expires=Tue, 08 Dec 2009 08:00:00 GMT;path=/;domain=.imdb.com
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="IMDB "
 Cneonction: close
@@ -28,6 +28,8 @@ Transfer-Encoding: chunked
 
 
 
+
+
 <meta name="WT.cg_n" content="title">
 <meta name="WT.cg_s" content="main">
 <meta name="WT.z_const" content="tt0117731">
@@ -35,7 +37,7 @@ Transfer-Encoding: chunked
 <link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SFb308770c8ad3491935da16b9027c4b4a/css2/consumersite.css" />
 <link rel="icon" href="http://i.imdb.com/favicon.ico" />
 <link rel="apple-touch-icon" href="http://i.media-imdb.com/apple-touch-icon.png" />
-<style type="text/css">.showtimes { font-family: Arial, Helvetica, sans-serif }.showtimes .heading { font-size: 16px; font-weight: bold }.showtimes .time { color: #ff0000 }.tabular { border-collapse: collapse; border: 1px solid #9999ff }.tabular td.heading { background: #bbbbff }.tabular td.heading-right { background: #bbbbff; text-align: right; font-size: small }.tabular td.address { font-size: small; color: #666666; background: #eeeeee }.tabular td.detail { font-size: small; background: #eeeeee }.tabular tr.alternate { background: #eeeeee }.tabular td.item { border: 1px solid #9999ff }</style><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFda887c91acab2da9a9c3c7c5de08db7a/tn15/tn15.css" /><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF1eee71a1e0976edd804b8502c3f47a7b/css2/site/consumer-vote.css" /><script type="text/javascript" src="http://i.media-imdb.com/images/SF796054a7d6bb065a13b6313e891c1901/js/vote.js" /></script><script type="text/javascript">var __vkey = 'gOeB.bzSIwWrwHid2mkCNgB.qjlzeVo5c3opSkcuGTpgfhqZ40laOXM6aSojSgmqZzn6mmBpWjlgaVoJIDkqCX';var __vrtg = '7.6';</script>
+<style type="text/css">.showtimes { font-family: Arial, Helvetica, sans-serif }.showtimes .heading { font-size: 16px; font-weight: bold }.showtimes .time { color: #ff0000 }.tabular { border-collapse: collapse; border: 1px solid #9999ff }.tabular td.heading { background: #bbbbff }.tabular td.heading-right { background: #bbbbff; text-align: right; font-size: small }.tabular td.address { font-size: small; color: #666666; background: #eeeeee }.tabular td.detail { font-size: small; background: #eeeeee }.tabular tr.alternate { background: #eeeeee }.tabular td.item { border: 1px solid #9999ff }</style><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFda887c91acab2da9a9c3c7c5de08db7a/tn15/tn15.css" /><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF1eee71a1e0976edd804b8502c3f47a7b/css2/site/consumer-vote.css" /><script type="text/javascript" src="http://i.media-imdb.com/images/SF796054a7d6bb065a13b6313e891c1901/js/vote.js" /></script><script type="text/javascript">var __vkey = 'qgRLInhnHDkth0olHFVY5AB.qjlzeVo5c3opSkcuGTpgfhqZ4ylaOXP6SaoTSjk6Zzn6mmBpWjlgaVoJIDkqCX';var __vrtg = '7.6';</script>
 
 
 
@@ -60,9 +62,9 @@ Transfer-Encoding: chunked
 
 
 
-<link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SF773ce4d318a0e418a47fa718d6563c79/wheel/base.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SF7e874f9183ed059088348a868bb3a561/wheel/base.css" />
 
-<link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SF97cc023a0f8090f7941a293e5b722a29/wheel/widgets.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SFe985296043425521208175e82abfb3b7/wheel/widgets.css" />
 <link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SFd3560ce602756fe42845692ba799495b/wheel/layout.css" />
 
 <!--[if IE]>
@@ -75,8 +77,8 @@ Transfer-Encoding: chunked
     generic.monitoring.set_twilight_info(
         "title", 
         "Other", 
-        "c4339d3aadfe121979780be25500d1a94aa0f63f", 
-        "2009-11-25T12%3A45%3A52GMT", 
+        "b4e1ca16aa8fe29061e6209ae2453b486189c4d7", 
+        "2009-12-07T13%3A19%3A24GMT", 
         "http://www.imdb.com/twilight/?");
 
     generic.monitoring.start_timing("page_load");
@@ -113,7 +115,7 @@ ad_utils.queue_ad('1','floating1');
 </script>
 <iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="floating1" name="floating1" class="yesScript" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=706298468257?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=706298468257?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=531394266844?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=531394266844?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <!-- End FLOATING1 -->
@@ -136,17 +138,17 @@ ad_utils.queue_ad('2','top_ad');
 </script>
 <iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,9x1;p=t;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="75" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,9x1;p=t;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=706298468257?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,9x1;p=t;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=706298468257?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,9x1;p=t;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=531394266844?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,9x1;p=t;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=531394266844?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <!-- End TOP_AD -->
 
 </div>
 	<div id="navbar">
-		<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFef07982647c5befab3bd3570b6adf7aa/css2/site/consumer-navbar.css">
-                <noscript><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF10d135249493ecd9c91290ee6aff505b/css2/site/consumer-navbar-no-js.css"></noscript>
+		<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF5dd12adbf242a281a3eaa02534cbd7fa/css2/site/consumer-navbar.css">
+                <noscript><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFead09969ad98114020e0af7cdf34fd4e/css2/site/consumer-navbar-no-js.css"></noscript>
                 <!--[if IE]> <link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFe79ee830c64a949f2242e73dae4a0c8d/css2/site/consumer-navbar-ie.css"><![endif]-->
-				<span id="home_img_holder"><a id="home_img" title="Home" alt="Home" href="/" onclick="(new Image()).src='/rg/home/navbar/images/b.gif?link=/'"></a></span>
+				<span id="home_img_holder"><a id="home_img" title="Home" alt="Home" href="/" onclick="(new Image()).src='/rg/home/navbar/images/b.gif?link=/'"></a><span class="alt_logo"><a title="Home" href="/" onclick="(new Image()).src='/rg/home/navbar/images/b.gif?link=/'"">IMDb</a></span></span>
 				<script type="text/javascript">
                                 var home_img_holder = document.getElementById("home_img_holder");
                                 home_img_holder.onmouseover = function() {
@@ -208,7 +210,7 @@ function jumpMenu(selObj) {
       <li><a href="/showtimes/" onclick="(new Image()).src='/rg/showtimes/navbar/images/b.gif?link=/showtimes/'">Showtimes & Tickets</a></li>
       <li><a href="/mymovies/list" onclick="(new Image()).src='/rg/mymovies/navbar/images/b.gif?link=/mymovies/list'">My Movies</a></li>
       <li><a href="/sections/dvd/" onclick="(new Image()).src='/rg/dvdbluray/navbar/images/b.gif?link=/sections/dvd/'">DVD & Blu-Ray</a></li>
-      <li><a href="/indie/" onclick="(new Image()).src='/rg/independentfilm/navbar/images/b.gif?link=/indie/'">Independent Film</a></li>
+      <li><a href="/sections/indie/" onclick="(new Image()).src='/rg/independentfilm/navbar/images/b.gif?link=/sections/indie/'">Independent Film</a></li>
       <li><a href="/chart/top" onclick="(new Image()).src='/rg/top250/navbar/images/b.gif?link=/chart/top'">Top 250</a></li>
       <li><a href="/Browse/" onclick="(new Image()).src='/rg/browse/navbar/images/b.gif?link=/Browse/'">Browse</a></li>
      </ul>
@@ -259,7 +261,7 @@ function jumpMenu(selObj) {
     </li>
 				</ul>
 				</div>
-				<div class="nb_extra"><a href="/rg/NAV_TWITTER/NAV_EXTRA/http://www.twitter.com/imdb" onclick="(new Image()).src='/rg/twitter/navbar/images/b.gif?link=/rg/NAV_TWITTER/NAV_EXTRA/http://www.twitter.com/imdb'">Follow IMDb on Twitter</a></div>
+				<div class="nb_extra"><a href="/rg/NAV_IMDBES/NAV_EXTRA/http://www.imdb.es/" onclick="(new Image()).src='/rg/imdb_es/navbar/images/b.gif?link=/rg/NAV_IMDBES/NAV_EXTRA/http://www.imdb.es/'">IMDb - Now in Spanish</a></div>
 			</div>
 </div>
 <script type="text/javascript" src="http://i.media-imdb.com/images/SFf84dc8673d077c0db8630ccf4488f6ae/js/navbar.js"></script>
@@ -367,7 +369,7 @@ function jumpMenu(selObj) {
 
 <td width="40%" class="media_strip_header">
 <b>Photos</b>
-<span>(<a href="/rg/photos-title/gallery-link/title/tt0117731/mediaindex">see all 73</a> | <a href="/rg/photos-title/slideshow-link/media/rm2047842304/tt0117731?slideshow=1">slideshow</a>)</span>
+<span>(<a href="/rg/photos-title/gallery-link/title/tt0117731/mediaindex">see all 73</a> | <a href="/rg/photos-title/slideshow-link/media/rm2064619520/tt0117731?slideshow=1">slideshow</a>)</span>
 </td>
 
 <td width="40%" class="media_strip_header">
@@ -383,16 +385,16 @@ function jumpMenu(selObj) {
 
 <td>
 <div class="media_strip_thumbs">
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm2047842304/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTA3NjY4MjU0MTBeQTJeQWpwZ15BbWU2MDc3NTA5Ng@@._V1._CR84,0,307,307_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm2014287872/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTg0Njk1MDA2NF5BMl5BanBnXkFtZTYwMTg1MDk2._V1._CR84,0,306,306_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-3/media/rm2064619520/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ5ODE0MDc2Nl5BMl5BanBnXkFtZTYwNjc1MDk2._V1._CR79,0,317,317_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/behind_the_scenes-4/media/rm1158649856/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTUxMTA1Mzg3OV5BMl5BanBnXkFtZTYwODg1MDk2._V1._CR77,0,320,320_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm2064619520/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ5ODE0MDc2Nl5BMl5BanBnXkFtZTYwNjc1MDk2._V1._CR79,0,317,317_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm2047842304/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTA3NjY4MjU0MTBeQTJeQWpwZ15BbWU2MDc3NTA5Ng@@._V1._CR84,0,307,307_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-3/media/rm2031065088/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjA5ODQ2MDM1NV5BMl5BanBnXkFtZTYwMDg1MDk2._V1._CR82,0,310,310_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm2014287872/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTg0Njk1MDA2NF5BMl5BanBnXkFtZTYwMTg1MDk2._V1._CR84,0,306,306_SS90_.jpg" border="0"></a></div>
 <div class="media_strip_thumb"><a href="/rg/photos-title/behind_the_scenes-5/media/rm1192204288/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTI1MTgzNDMzMV5BMl5BanBnXkFtZTYwNDg1MDk2._V1._CR88,0,298,298_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/event-6/media/rm121477632/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTk5NTQ1NjUxMF5BMl5BanBnXkFtZTYwNDM3MTcz._V1._CR0,0,468,468_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-7/media/rm2031065088/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjA5ODQ2MDM1NV5BMl5BanBnXkFtZTYwMDg1MDk2._V1._CR82,0,310,310_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm1175427072/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTkxODIzMjQ2Nl5BMl5BanBnXkFtZTYwNjg1MDk2._V1._CR69,0,336,336_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/event-9/media/rm87923200/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNDM0NDg4MDc4Nl5BMl5BanBnXkFtZTYwODM3MTcz._V1._CR0,0,468,468_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/event-10/media/rm943561216/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTU1MTcyMzgwMV5BMl5BanBnXkFtZTYwMjM3MTcz._V1._CR0,0,468,468_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm1175427072/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTkxODIzMjQ2Nl5BMl5BanBnXkFtZTYwNjg1MDk2._V1._CR69,0,336,336_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/behind_the_scenes-7/media/rm1158649856/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTUxMTA1Mzg3OV5BMl5BanBnXkFtZTYwODg1MDk2._V1._CR77,0,320,320_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/event-8/media/rm993892864/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTc2MzUxMDA3M15BMl5BanBnXkFtZTYwNjI3MTcz._V1._CR0,0,468,468_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/event-9/media/rm977115648/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTI4MTk0MTMwNl5BMl5BanBnXkFtZTYwODI3MTcz._V1._CR0,0,468,468_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/event-10/media/rm960338432/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTU3OTY3MzMyMl5BMl5BanBnXkFtZTYwMDM3MTcz._V1._CR0,0,468,468_SS90_.jpg" border="0"></a></div>
 </div>
 </td>
 
@@ -424,7 +426,7 @@ ad_utils.queue_ad('3','top_rhs');
 </script>
 <iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=706298468257?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=706298468257?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=531394266844?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=531394266844?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <!-- End TOP_RHS -->
@@ -456,7 +458,7 @@ ad_utils.queue_ad('3','top_rhs');
         <b>7.6/10</b> 
            
            
-           &nbsp;&nbsp;<a href="ratings" class="tn15more">42,677 votes</a>
+           &nbsp;&nbsp;<a href="ratings" class="tn15more">42,773 votes</a>
         
         
       </div>
@@ -469,7 +471,7 @@ ad_utils.queue_ad('3','top_rhs');
   </div> <!-- tn15rating ... -->
 </div> <!-- end info -->
 
-  <div class="info"><h5>MOVIEmeter: <a href="/help/show_leaf?prowhatisstarmeter"><img src="http://i.media-imdb.com/images/tn15/meter_help.gif" width="12" height="12" border="0" alt="?"></a></h5><div class="info-content"><b>Up 17%</b> in popularity this week. See <a href="/r/movie-con/rg/title-tease/meter-why/title/tt0117731/graph-data">why</a> on <a href="/r/movie-con/rg/title-tease/meter-prolink/">IMDbPro</a>.</div></div>
+  <div class="info"><h5>MOVIEmeter: <a href="/help/show_leaf?prowhatisstarmeter"><img src="http://i.media-imdb.com/images/tn15/meter_help.gif" width="12" height="12" border="0" alt="?"></a></h5><div class="info-content"><b>Down 5%</b> in popularity this week. See <a href="/r/movie-con/rg/title-tease/meter-why/title/tt0117731/graph-data">why</a> on <a href="/r/movie-con/rg/title-tease/meter-prolink/">IMDbPro</a>.</div></div>
 
     
     
@@ -554,13 +556,13 @@ Capt. Picard and his crew pursue the Borg back in time to stop them from prevent
 
 <a href="/keyword/borg/">Borg</a>
  | 
-<a href="/keyword/first-contact/">First&#xA0;Contact</a>
+<a href="/keyword/first-contact/">First Contact</a>
  | 
 <a href="/keyword/alien/">Alien</a>
  | 
 <a href="/keyword/captain/">Captain</a>
  | 
-<a href="/keyword/nuclear-missile/">Nuclear&#xA0;Missile</a>
+<a href="/keyword/nuclear-missile/">Nuclear Missile</a>
 
 </span></div>
 
@@ -601,7 +603,7 @@ Nominated for Oscar.
 <div class="info">
 <h5>User Comments:</h5>
 <div class="info-content">
-Perhaps the best Star Trek film to date
+The Next Generation's Finest Moment...
 <a class="tn15more inline" href="#comment">more (238 total)</a>
 </div>
 </div>
@@ -619,7 +621,7 @@ afc_data["MIDDLE_CENTER"] = { channel:  "test01-channel",
                        client:   "ca-amazon-imdb_js",
                        title:    "Sponsored Links",
                        help:     "What&#x27;s This?",
-                       hints:    "borg,robot,nightmare,alternative history,eighth part"
+                       hints:    "alien,invasion,title spoken by character,post nuclear war,obsession"
                      };
 </script>
 
@@ -641,8 +643,8 @@ afc_data["MIDDLE_CENTER"] = { channel:  "test01-channel",
   
   
 <a class="tn15more" href="/title/tt0117731/releaseinfo#akas" onClick="(new Image()).src='/rg/title-tease/akas/images/b.gif?link=/title/tt0117731/releaseinfo#akas';">more</a>
-
 </div>
+
 </div>
 
 <div class="info">
@@ -783,7 +785,7 @@ Angeles National Forest, California, USA</a>
 <div class="info">
 <h5>Trivia:</h5>
 <div class="info-content">
-All the scenes filmed inside the silo and of the "Phoenix" were taken at the "Titan Missile Museum", located in Green Valley, 20 miles South of Tucson, Arizona. This site is the only Intercontinental Missile (ICBM) silo complex in the world that is open to the public. The 110 foot tall Titan II rocket has been "de-militarized" (no fuel or nuclear payload) and, per the SALT treaty and SMART (Strategic Missile Arms Reduction Treaty), one of the two silo doors must remain blocked open for Russian satellite verification.
+Toward the beginning of the film, when Lilly Sloane pointed to the sky and asked Zephram Cochrane about the newly arrived Borg ship, Zephram replied that it was the constellation Leo. Leo contains several bright objects and would be visible from northern Montana during evenings in April, which was when and where the story took place. The star system nearest to Leo is Wolf 359, the site of the Borg's first major incursion into Federation space after they abducted and forced Captain Picard's cooperation.
 <a class="tn15more inline" href="/title/tt0117731/trivia" onClick="(new Image()).src='/rg/title-tease/trivia/images/b.gif?link=/title/tt0117731/trivia';">more</a>
 
 </div>
@@ -814,7 +816,7 @@ I am Locutus of Borg. Resistance is futile.<br>
 <div class="info">
 <h5>Movie Connections:</h5>
 <div class="info-content">
-Referenced in <a href="/title/tt0705925/">&#x22;South Park: Follow That Egg (#9.10)&#x22;</a> (2005)
+Featured in <a href="/title/tt0947189/">&#x22;Biography: Leonard Nimoy: Spock and Beyond&#x22;</a> (1996)
 <a class="tn15more inline" href="/title/tt0117731/movieconnections" onClick="(new Image()).src='/rg/title-tease/movieconnections/images/b.gif?link=/title/tt0117731/movieconnections';">more</a>
 </div>
 </div>
@@ -853,26 +855,26 @@ function ynd(id, status) {
   while (d.childNodes.length) d.removeChild(d.childNodes[0]);
   var s = document.createElement('span');
   if (!status) s.setAttribute('class', 'error');
-  var t = document.createTextNode(status ? 'Thank you, your vote will be counted and appear on this page within 24 hours.' : 'Sorry, there was a problem collecting your vote.');
-  s.appendChild(t);
+  s.innerHTML = status ? 'Thank you, your vote will be counted and appear on this page within 24 hours.' : 'Sorry, there was a problem collecting your vote.';
   d.appendChild(s);
 }
 //-->
 </script>
 <div class="small">
-64 out of 74 people found the following comment useful.
+45 out of 55 people found the following comment useful.
 </div>
 
-<b>Perhaps the best Star Trek film to date</b>, 29 January 2003
+<b>The Next Generation's Finest Moment...</b>, 2 December 2003
 <br>
 
+<img width="102" height="12" alt="9/10" src="/images/showtimes/90.gif"><br>
 
 <div class="small">
 Author:
-<a href="/user/ur1984650/comments">Colin Tucker</a>
+<a href="/user/ur0649119/comments">Ben Burgraff (cariart)</a>
 
 <small>
-from Canberra, Australia
+from Las Vegas, Nevada
 </small>
 
 </div>
@@ -880,60 +882,66 @@ from Canberra, Australia
 
 </p>
 <p>
-
-Star Trek: First Contact represents, at least to me, the pinnacle of the
-Star Trek movie franchise.  This film was, in my opinion, -by far- the
-best
-of the &quot;next generation&quot; outings, and perhaps the finest from the entire
-collection of silver-screen Treks.<br/><br/>The Borg, a futuristic race of half-man, half-machine cyborgs from the
-other
-side of the galaxy, try once again to conquer the Federation, by attacking
-it at it's very core, our beloved Earth.  This time, however, the Borg
-have
-a &quot;plan B&quot; up their sleeve.  After the destruction of their main vessel,
-they send a small group of Borg back in time to 2063, a time when Earth is
-vulnerable after suffering massive casualties due to World War III.  Once
-there they intend to prevent &quot;first contact&quot;, an event that dramatically
-changes the course of human history, when friendly aliens discover
-humankind
-has learned how to travel faster-than-light, and make contact with the
-inventor of the warp drive, Dr Zefram Cochrane.<br/><br/>Of course the Enterprise crew must once again save humanity from certain
-destruction, by &quot;following them back and repairing whatever damage they've
-done&quot;.  When they reach the 21st century, however, the Borg find
-resistance
-is not so futile, and begin to take over the crippled Enterprise, deck by
-deck.  Directing every move is the evil Borg Queen, played excellently by
-Alice Krige.<br/><br/>Patrick Stewart is, as always, fantastic as Captain Jean-Luc Picard.
-Stewart's background in the dramatic arts shines as he convincingly
-portrays
-a somewhat troubled and vengeful Picard, determined to destroy the
-insidious
-Borg once and for all.<br/><br/>The direction of Jonathan Frakes is flawless considering this film was his
-first attempt at directing on the big screen.  In a few scenes I get the
-feeling that Frakes was committed to squeezing the absolute best out of
-Stewart, and this he did, apparently with ease (earning him the nickname
-&quot;Two-Takes Frakes&quot; from production members).<br/><br/>This film has it all.  A well-conceived, intricate and dramatic plot,
-excellent acting, fantastic special effects, and real emotion on-screen.
-Picard's chilling &quot;the line must be drawn here&quot; monologue to Lily
-represents
-a scene with such dramatic quality that is rarely seen in science-fiction
-films. You can completely suspend disbelief and feel the anger, the pain,
-the sheer hunger for revenge in this broken man.  You are there with him,
-the future of humanity is on the line, and not for a second will you think
-otherwise.<br/><br/>Whether you are a &quot;Trekkie&quot; or not, this is a film you will enjoy, and
-while
-there are references to previous Trek happenings in the film (such as when
-Picard was captured and assimilated by the Borg several years earlier),
-non-Trekkie's should definitely be able to follow what's going
-on.<br/><br/>All-in-all this is one of my favourite films of all time, and one that I
-can
-watch over and over and never get tired of.  If you haven't seen it, why
-not
-grab a copy and check it out?  I give it a well-deserved 9 out of
-10.
+Star Trek's successor to Gene Roddenberry, Rick Berman, never allowed
+the poor reviews for STAR TREK: GENERATIONS to upset him; he had been
+given an 'obligation' to provide a transition film between the original
+cast's series, and his own 'Next Generation' films, and 'killing' James
+Kirk freed him to focus on the film he REALLY wanted to make, STAR
+TREK: FIRST CONTACT. And he created a classic, a film that for many
+fans has become the 'definitive' STAR TREK movie.<br/><br/>From the opening scenes, which re-introduce the 'Next Generation's'
+greatest villains, the Borg, finally achieving their long-time goal of
+attacking Earth, and literally tearing Starfleet to shreds, as Picard
+and the Enterprise are ordered to stand down (Picard had been
+'assimilated' once by the cyborgs, and the success of his
+'deprogramming' was in question), there was an intensity that 'Trek'
+films hadn't shown since THE WRATH OF KHAN. When Picard decides to
+disobey orders and go 'in Harm's Way', you nearly want to cheer!
+Turning the battle around, the Enterprise sees victory at hand...until
+they discover that the 'core' of the Borg mother ship has plunged into
+Earth's atmosphere, and gone back in time. As the crew glimpses a
+'changed' Earth, with humanity totally assimilated by the Borg, they
+plunge after the mother ship, to prevent history from being rewritten.<br/><br/>Quite an opening scene!<br/><br/>The film breaks into two stories, each entertaining. In an era two
+hundred years earlier, with Earth reeling from internal wars that have
+devastated much of the planet, Picard realizes that the Borg is
+attempting to prevent warp drive creator Dr. Zefram Cochrane from ever
+completing his prototype spaceship, thus denying the galaxy to the
+human race, and leaving them defenseless against the Borg. As First
+Officer Riker and most of the series' regulars protect the feisty
+engineer (first introduced in the original 'Trek' TV series by hunky
+Glenn Corbett; in FIRST CONTACT, the role is played by James Cromwell,
+hawk-nosed, antisocial, and hooked on ancient Rock n' Roll music), Data
+and Picard must deal with the growing Borg infiltration and
+assimilation of the Enterprise, and the imperious Borg Queen (lovely
+Alice Krige), who seduces Data with a chance to become 'human'.<br/><br/>Jonathan Frakes proves an excellent director, balancing the action,
+comic, and dramatic elements with sensitivity and skill. While most of
+the series' regulars have little to do (a problem that would never be
+resolved in the 'Next Generation' films), Frakes still manages to give
+each a bit of on-screen time to at least remind fans that they are
+present, and he even manages to provide a brief but funny cameo by
+semi-regular fan favorite Dwight Schultz, as the terminally shy Lt.
+Reggie Barclay.<br/><br/>FIRST CONTACT has so many memorable moments that it is nearly
+impossible to pick a single favorite one out. Cochrane's use of
+Steppenwolf's 'Magic Carpet Ride' as launch music for his guided
+missile/spaceship...Alfre Woodard's Lily Sloane, hiding in terror from
+the Borg, but still able to lecture Picard on doing the 'right
+thing'...'Star Trek: Voyager' regular Robert Picardo in a cameo as his
+medical hologram character, at a key moment...Data delivering the
+famous Borg 'tag line'...the Vulcan science party (led, although
+unmentioned, by Sarek, Spock's father), bemused at meeting the 'new
+kids on the block' for the first time...this movie has it all!<br/><br/>There is only one major continuity error; the Borg, as cyborgs, depend
+on their human 'host' bodies to survive (a key factor in the film's
+climax), yet in one whole sequence they operate in the vacuum of space
+WITHOUT spacesuits! I cringe each time I see the scene, but I STILL
+love the movie!<br/><br/>One other key element of the film cannot be praised enough; Jerry
+Goldsmith's score is one of his finest, combining the best elements of
+the STAR TREK: THE MOTION PICTURE theme with a sweeping inspirational
+hymn for Cochrane, and eerie, discordant music for the Borg. The score
+is so profoundly moving that it could stand alone, as a symphonic work.<br/><br/>Sadly, Berman and company never achieved the same heights with either
+of the subsequent 'Trek' films, but at least we have FIRST CONTACT, to
+show that a 'Next Generation' feature could be done 'right'.
 </p>
 
-<div class="yn" id="ynd_396383">
+<div class="yn" id="ynd_396400">
 <form method="get" action="/register/">
 <input type="hidden" name="why" value="comment_vote">
 Was the above comment useful to you?
@@ -956,33 +964,33 @@ Discuss this movie with other users on <a href="/title/tt0117731/board" onClick=
 <tr><th class="left">Recent Posts (updated daily)</th><th class="right">User</th></tr>
 
 <tr class="odd">
+<td><a href="/rg/title-tease/boards-subject/title/tt0117731/board/nest/152481916">Time travel and mass attack</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur4427809/boards/profile">kulpatron1</a></td>
+</tr>
+
+<tr class="even">
+<td><a href="/rg/title-tease/boards-subject/title/tt0117731/board/nest/152446327">replicating guns</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur10251497/boards/profile">secracium</a></td>
+</tr>
+
+<tr class="odd">
+<td><a href="/rg/title-tease/boards-subject/title/tt0117731/board/nest/74143950">Lt. Sean Hawk... a gay and I have the proof...</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur11081150/boards/profile">JuanWhitfield2005</a></td>
+</tr>
+
+<tr class="even">
 <td><a href="/rg/title-tease/boards-subject/title/tt0117731/board/nest/151280984">Didn't the Vulcans notice the Enterprise?</a></td>
 <td><a href="/rg/title-tease/boards-user/user/ur8851275/boards/profile">clp31</a></td>
 </tr>
 
-<tr class="even">
+<tr class="odd">
 <td><a href="/rg/title-tease/boards-subject/title/tt0117731/board/nest/151552942">This movie was great but.......</a></td>
 <td><a href="/rg/title-tease/boards-user/user/ur5419231/boards/profile">neomac316</a></td>
 </tr>
 
-<tr class="odd">
+<tr class="even">
 <td><a href="/rg/title-tease/boards-subject/title/tt0117731/board/nest/137516127">Borg on non-human chassis?</a></td>
 <td><a href="/rg/title-tease/boards-user/user/ur7042353/boards/profile">doublejake</a></td>
-</tr>
-
-<tr class="even">
-<td><a href="/rg/title-tease/boards-subject/title/tt0117731/board/nest/145627117">If you see any of your fellow crew members...</a></td>
-<td><a href="/rg/title-tease/boards-user/user/ur2463274/boards/profile">shockabsorber</a></td>
-</tr>
-
-<tr class="odd">
-<td><a href="/rg/title-tease/boards-subject/title/tt0117731/board/nest/144960476">Tough little ship</a></td>
-<td><a href="/rg/title-tease/boards-user/user/ur2428941/boards/profile">revengine</a></td>
-</tr>
-
-<tr class="even">
-<td><a href="/rg/title-tease/boards-subject/title/tt0117731/board/nest/74143950">Lt. Sean Hawk... a gay and I have the proof...</a></td>
-<td><a href="/rg/title-tease/boards-user/user/ur11081150/boards/profile">JuanWhitfield2005</a></td>
 </tr>
 
 </table>
@@ -1145,12 +1153,7 @@ var amznUts = {
 </script>
 
 <!-- End UTS code --> 
-<script>
-generic.monitoring.stop_timing('page_load', '', true);
-</script>
-<script>
-generic.monitoring.all_events_started();    
-</script>
+
 <!-- End ads_footer -->
 </layer>
 </div>
@@ -1164,7 +1167,7 @@ ad_utils.queue_ad('5','bottom_ad');
 </script>
 <iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=706298468257?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=706298468257?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=531394266844?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;ord=531394266844?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <!-- End BOTTOM_AD -->
@@ -1178,18 +1181,28 @@ ad_utils.queue_ad('5','bottom_ad');
 
 
 
-<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a08023030393131323530000001037a040379646370000001047&cb=125915315225002" width="1" height="1" alt="" border="0">
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a08023030393132303730000001037a040379646370000001047&cb=126019196414213" width="1" height="1" alt="" border="0">
 </div> <!-- id="wrapper" -->
-<!-- h=iop601 i=2009-11-24 s=legacy(default) t='Wed Nov 25 04:45:52 2009' -->
-<script type="text/javascript" src="http://i.media-imdb.com/images/SF3a147f30fa914eac5b793ad3e2aee87e/js/webtrends/webtrends.js"></script>
+<!-- h=iop606 i=2009-12-06 s=legacy(default) t='Mon Dec  7 05:19:24 2009' -->
+
+
+<script type="text/javascript" src="http://i.media-imdb.com/images/SF6e77f150220431a5de25baf77a862728/js/webtrends/webtrends.js"></script>
 
 <script type="text/javascript">
+if(typeof(generic) != 'undefined') {
+    generic.monitoring.start_timing("webtrends_execute");
+}
+
 var _wt_tag=new WebTrends();
 _wt_tag.dcsCollect();
+
+if(typeof(generic) != 'undefined') {
+    generic.monitoring.stop_timing("webtrends_execute", '', false);
+}
 </script>
 <noscript>
 <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcspqo4cm100004bfufqci0k1_8x8h/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2"/></div>
 </noscript>
-
+<script type="text/javascript">generic.monitoring.stop_timing('page_load', '', true);</script><script type="text/javascript">generic.monitoring.all_events_started();</script>
 </body>
 </html>
