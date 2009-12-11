@@ -1,12 +1,12 @@
 HTTP/1.1 302 Found
-Date: Mon, 07 Dec 2009 13:19:31 GMT
+Date: Fri, 11 Dec 2009 15:35:50 GMT
 Server: Server
 Cache-Control: private
 Location: http://www.imdb.com/title/tt0330508/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfGh0bWw9MXxjaD0xfGNvPTF8cG49MHxmdD0xfGt3PTF8cXM9S2FubmV0aGlyZXkgVGhvbmRyaW5hbHxzaXRlPWRmfHE9S2FubmV0aGlyZXkgVGhvbmRyaW5hbHxubT0x;fc=1;ft=1
 nnCoection: close
 Content-Type: text/plain
-Set-Cookie: session-id=82.92.155.84.1260191971635470; path=/; domain=.imdb.com
-Set-Cookie: uu=Vq6l7I6joVEQRJ84CGbmhwEwXGInphxiBLVvUWSlXwR0pRoxFOA/dGQwKlFnB3s1d5BqNNS2HGIkxV8RVIV/YRe2vME3hhxiIfBKgmemHCUUppRyJNU/4SSFf2E0trzBNDUP8VSFf2E3lrzBN4YcYieAWvJkthxiJNWfUVSFf2EHtrzBN4YcYiemHCJn9mxSI=;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: session-id=82.92.155.84.1260545750779371; path=/; domain=.imdb.com
+Set-Cookie: uu=RS17pKbvLiM89K0rjp/nKAEwXGInphxiBJVP4RS1X2RkxXohROA/QQGAegRHB3s1d5BqNNSmHGIktZ8xdIV/YVe2vME3hhxiIfBKgmemHCUUppRyJLWfISSFf2F0przBNOVPEXSFf2F3lrzBN4YcYieAWvJkphxiJJU/cXSFf2FHtrzBN4YcYiemHCJn9mxSI=;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="IMDB "
 Content-Length: 0

@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{imdb}
-  s.version = "0.6.0"
+  s.version = "0.6.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ariejan de Vroom"]
-  s.date = %q{2009-12-07}
+  s.date = %q{2009-12-08}
   s.default_executable = %q{imdb}
   s.description = %q{Easily use Ruby or the command line to find information on IMDB.com.}
   s.email = %q{ariejan@ariejan.net}

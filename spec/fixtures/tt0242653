@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Mon, 07 Dec 2009 13:19:30 GMT
+Date: Fri, 11 Dec 2009 15:35:49 GMT
 Server: Server
 Cache-Control: private
 Content-Type: text/html
-Set-Cookie: session-id=82.92.155.84.1260191970495193; path=/; domain=.imdb.com
-Set-Cookie: uu=oeGEoWeckOeeWR3czAvG6wEwXGInphxiBJUfAbSlXzEUpRoxBOA/dGTVjzEnB3s1d5BqNNSmHGIkxV8RVIV/YRe2vME3hhxiIfBKgmemHCUUppRyJNU/4SSFf2E0przBNDUP8VSFf2E3lrzBN4YcYieAWvJkphxiJNWfUVSFf2EHtrzBN4YcYiemHCJn9mxSI=;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
-Set-Cookie: cs=C49KUGtjUULJE0ceE1MlngbGfbqgkW2NmIHl2qMCHrojkn4psDJ+mcCRbYoGES2aoJFb/fTCXbqj1Xs5l9HNycCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Tue, 08 Dec 2009 08:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: session-id=82.92.155.84.1260545749603845; path=/; domain=.imdb.com
+Set-Cookie: uu=ozlQJVbJP6cqYgcmotGIJwEwXGInphxiBJBadHSlXzFExXohdOA/QQQ1WiFnB3s1d5BqNNQ2HGIktZ8xZIV/YVe2vME3hhxiIfBKgmemHCUUppRyJLWfISSFf2F0NrzBNOVPEWSFf2F3lrzBN4YcYieAWvJkNhxiJJU/cWSFf2FHtrzBN4YcYiemHCJn9mxSI=;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=Q89ZvwaPMYa2v28h7pF6sAiOAiSO2RITtsmaRI2qUbQN2kFn3noBB+7ZEhQoWVIEjtkkY9tdwiSKbfRn/VoFgSmZspfe2SSyblESJI7vJDOO2RIkjvkSJI7ZEmTOiWIUg=;expires=Sat, 12 Dec 2009 08:00:00 GMT;path=/;domain=.imdb.com
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="IMDB "
 Cneonction: close
@@ -37,7 +37,7 @@ Transfer-Encoding: chunked
 <link rel="stylesheet" type="text/css" media="screen" href="http://i.media-imdb.com/images/SFb308770c8ad3491935da16b9027c4b4a/css2/consumersite.css" />
 <link rel="icon" href="http://i.imdb.com/favicon.ico" />
 <link rel="apple-touch-icon" href="http://i.media-imdb.com/apple-touch-icon.png" />
-<style type="text/css">.showtimes { font-family: Arial, Helvetica, sans-serif }.showtimes .heading { font-size: 16px; font-weight: bold }.showtimes .time { color: #ff0000 }.tabular { border-collapse: collapse; border: 1px solid #9999ff }.tabular td.heading { background: #bbbbff }.tabular td.heading-right { background: #bbbbff; text-align: right; font-size: small }.tabular td.address { font-size: small; color: #666666; background: #eeeeee }.tabular td.detail { font-size: small; background: #eeeeee }.tabular tr.alternate { background: #eeeeee }.tabular td.item { border: 1px solid #9999ff }</style><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFda887c91acab2da9a9c3c7c5de08db7a/tn15/tn15.css" /><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF1eee71a1e0976edd804b8502c3f47a7b/css2/site/consumer-vote.css" /><script type="text/javascript" src="http://i.media-imdb.com/images/SF796054a7d6bb065a13b6313e891c1901/js/vote.js" /></script><script type="text/javascript">var __vkey = 'xCIaP6ch1009OEtTRGWJYwB.qjlzWVo5cyp5WicuGTpQfhqZ42laOXP6SaoDSjk6Zzn6mmBpWjlgaVoJIDkqCX';var __vrtg = '6.5';</script>
+<style type="text/css">.showtimes { font-family: Arial, Helvetica, sans-serif }.showtimes .heading { font-size: 16px; font-weight: bold }.showtimes .time { color: #ff0000 }.tabular { border-collapse: collapse; border: 1px solid #9999ff }.tabular td.heading { background: #bbbbff }.tabular td.heading-right { background: #bbbbff; text-align: right; font-size: small }.tabular td.address { font-size: small; color: #666666; background: #eeeeee }.tabular td.detail { font-size: small; background: #eeeeee }.tabular tr.alternate { background: #eeeeee }.tabular td.item { border: 1px solid #9999ff }</style><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFda887c91acab2da9a9c3c7c5de08db7a/tn15/tn15.css" /><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF1eee71a1e0976edd804b8502c3f47a7b/css2/site/consumer-vote.css" /><script type="text/javascript" src="http://i.media-imdb.com/images/SF796054a7d6bb065a13b6313e891c1901/js/vote.js" /></script><script type="text/javascript">var __vkey = 'WJTsddsO5uk0ZPbGeMkheAB.qjlzWVo5cyp5WicuGTpQfhqZ4.laOXMqCUozSjk6Jzn6mmBpWjlgaVoJIDkqCX';var __vrtg = '6.5';</script>
 
 
 
@@ -77,8 +77,8 @@ Transfer-Encoding: chunked
     generic.monitoring.set_twilight_info(
         "title", 
         "Other", 
-        "96731b59410b22d29d08c92e70aa1463af88045f", 
-        "2009-12-07T13%3A19%3A30GMT", 
+        "e9850f875816e509d9f3af6e2624ca64873f1259", 
+        "2009-12-11T15%3A35%3A49GMT", 
         "http://www.imdb.com/twilight/?");
 
     generic.monitoring.start_timing("page_load");
@@ -115,7 +115,7 @@ ad_utils.queue_ad('1','floating1');
 </script>
 <iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="floating1" name="floating1" class="yesScript" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=197786217410?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=197786217410?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=699339212705?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=1;sz=1x1,4x1;p=f1;ifb=pf;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=699339212705?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <!-- End FLOATING1 -->
@@ -138,7 +138,7 @@ ad_utils.queue_ad('2','top_ad');
 </script>
 <iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,9x1;p=t;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="75" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,9x1;p=t;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=197786217410?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,9x1;p=t;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=197786217410?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,9x1;p=t;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=699339212705?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=2;sz=728x90,1008x150,1008x200,9x1;p=t;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=699339212705?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <!-- End TOP_AD -->
@@ -213,6 +213,7 @@ function jumpMenu(selObj) {
       <li><a href="/sections/indie/" onclick="(new Image()).src='/rg/independentfilm/navbar/images/b.gif?link=/sections/indie/'">Independent Film</a></li>
       <li><a href="/chart/top" onclick="(new Image()).src='/rg/top250/navbar/images/b.gif?link=/chart/top'">Top 250</a></li>
       <li><a href="/Browse/" onclick="(new Image()).src='/rg/browse/navbar/images/b.gif?link=/Browse/'">Browse</a></li>
+      <li><a href="/features/rto/2010/" onclick="(new Image()).src='/rg/roadtotheglobes/navbar/images/b.gif?link=/features/rto/2010/'">Road to the Globes</a></li>
      </ul>
     </li>
     <li>
@@ -261,7 +262,7 @@ function jumpMenu(selObj) {
     </li>
 				</ul>
 				</div>
-				<div class="nb_extra"><a href="/rg/NAV_TWITTER/NAV_EXTRA/http://www.twitter.com/imdb" onclick="(new Image()).src='/rg/twitter/navbar/images/b.gif?link=/rg/NAV_TWITTER/NAV_EXTRA/http://www.twitter.com/imdb'">Follow IMDb on Twitter</a></div>
+				<div class="nb_extra"><a href="/rg/NAV_IMDBES/NAV_EXTRA/http://www.imdb.es/" onclick="(new Image()).src='/rg/imdb_es/navbar/images/b.gif?link=/rg/NAV_IMDBES/NAV_EXTRA/http://www.imdb.es/'">IMDb - Now in Spanish</a></div>
 			</div>
 </div>
 <script type="text/javascript" src="http://i.media-imdb.com/images/SFf84dc8673d077c0db8630ccf4488f6ae/js/navbar.js"></script>
@@ -301,12 +302,12 @@ function jumpMenu(selObj) {
 </div>
 
 <h6 style="margin-top: 4px">Quicklinks</h6><form><select id="quicklinks_select" onchange="document.location = this.options[this.selectedIndex].value">
-<option value="maindetails" selected>main details</option><option value="combined">combined details</option><option value="fullcredits">full cast and crew</option><option value="companycredits">company credits</option><option value="usercomments">usercomments</option><option value="externalreviews">external reviews</option><option value="newsgroupreviews">newsgroup reviews</option><option value="awards">awards</option><option value="ratings">user ratings</option><option value="parentalguide">parents guide</option><option value="recommendations">recommendations</option><option value="board">message board</option><option value="plotsummary">plot summary</option><option value="synopsis">synopsis</option><option value="keywords">plot keywords</option><option value="quotes">memorable quotes</option><option value="trivia">trivia</option><option value="goofs">goofs</option><option value="soundtrack">soundtrack listing</option><option value="crazycredits">crazy credits</option><option value="alternateversions">alternate versions</option><option value="movieconnections">movie connections</option><option value="faq">FAQ</option><option value="sales">merchandising links</option><option value="business">box office/business</option><option value="releaseinfo">release dates</option><option value="locations">filming locations</option><option value="technical">technical specs</option><option value="dvd">DVD details</option><option value="literature">literature listings</option><option value="news">NewsDesk</option><option value="taglines">taglines</option><option value="trailers">trailers and videos</option><option value="posters">posters</option><option value="photogallery">photo gallery</option><option value="officialsites">official sites</option><option value="miscsites">miscellaneous</option><option value="photosites">photographs</option><option value="soundsites">sound clips</option><option value="videosites">video clips</option>
+<option value="maindetails" selected>main details</option><option value="combined">combined details</option><option value="fullcredits">full cast and crew</option><option value="companycredits">company credits</option><option value="tvschedule">tv schedule</option><option value="usercomments">usercomments</option><option value="externalreviews">external reviews</option><option value="newsgroupreviews">newsgroup reviews</option><option value="awards">awards</option><option value="ratings">user ratings</option><option value="parentalguide">parents guide</option><option value="recommendations">recommendations</option><option value="board">message board</option><option value="plotsummary">plot summary</option><option value="synopsis">synopsis</option><option value="keywords">plot keywords</option><option value="quotes">memorable quotes</option><option value="trivia">trivia</option><option value="goofs">goofs</option><option value="soundtrack">soundtrack listing</option><option value="crazycredits">crazy credits</option><option value="alternateversions">alternate versions</option><option value="movieconnections">movie connections</option><option value="faq">FAQ</option><option value="sales">merchandising links</option><option value="business">box office/business</option><option value="releaseinfo">release dates</option><option value="locations">filming locations</option><option value="technical">technical specs</option><option value="dvd">DVD details</option><option value="literature">literature listings</option><option value="news">NewsDesk</option><option value="taglines">taglines</option><option value="trailers">trailers and videos</option><option value="posters">posters</option><option value="photogallery">photo gallery</option><option value="officialsites">official sites</option><option value="miscsites">miscellaneous</option><option value="photosites">photographs</option><option value="soundsites">sound clips</option><option value="videosites">video clips</option>
 </select></form>
 <h6>Top Links</h6>
 <a onClick="(new Image()).src='/rg/title-top-links/trailers/images/b.gif?link=/title/tt0242653/trailers';" href="/title/tt0242653/trailers" class="link">trailers and videos</a><a onClick="(new Image()).src='/rg/title-top-links/fullcredits/images/b.gif?link=/title/tt0242653/fullcredits';" href="/title/tt0242653/fullcredits" class="link">full cast and crew</a><a onClick="(new Image()).src='/rg/title-top-links/trivia/images/b.gif?link=/title/tt0242653/trivia';" href="/title/tt0242653/trivia" class="link">trivia</a><a onClick="(new Image()).src='/rg/title-top-links/officialsites/images/b.gif?link=/title/tt0242653/officialsites';" href="/title/tt0242653/officialsites" class="link">official sites</a><a onClick="(new Image()).src='/rg/title-top-links/quotes/images/b.gif?link=/title/tt0242653/quotes';" href="/title/tt0242653/quotes" class="link">memorable quotes</a>
 <h6>Overview</h6>
-<a href="maindetails" class="link selected">main details</a><a href="combined" class="link">combined details</a><a href="fullcredits" class="link">full cast and crew</a><a href="companycredits" class="link">company credits</a><a href="tvschedule" class="link empty">tv schedule</a>
+<a href="maindetails" class="link selected">main details</a><a href="combined" class="link">combined details</a><a href="fullcredits" class="link">full cast and crew</a><a href="companycredits" class="link">company credits</a><a href="tvschedule" class="link">tv schedule</a>
 <h6>Awards &#x26; Reviews</h6>
 <a href="usercomments" class="link">user comments</a><a href="externalreviews" class="link">external reviews</a><a href="newsgroupreviews" class="link">newsgroup reviews</a><a href="awards" class="link">awards</a><a href="ratings" class="link">user ratings</a><a href="parentalguide" class="link">parents guide</a><a href="recommendations" class="link">recommendations</a><a href="board" class="link">message board</a>
 <h6>Plot &#x26; Quotes</h6>
@@ -434,7 +435,7 @@ ad_utils.queue_ad('3','top_rhs');
 </script>
 <iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=197786217410?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=197786217410?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=699339212705?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=3;sz=300x250,300x600,160x600,120x600,11x1;p=tr;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=699339212705?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <!-- End TOP_RHS -->
@@ -466,7 +467,7 @@ ad_utils.queue_ad('3','top_rhs');
         <b>6.5/10</b> 
            
            
-           &nbsp;&nbsp;<a href="ratings" class="tn15more">112,820 votes</a>
+           &nbsp;&nbsp;<a href="ratings" class="tn15more">112,966 votes</a>
         
         
       </div>
@@ -479,7 +480,7 @@ ad_utils.queue_ad('3','top_rhs');
   </div> <!-- tn15rating ... -->
 </div> <!-- end info -->
 
-  <div class="info"><h5>MOVIEmeter: <a href="/help/show_leaf?prowhatisstarmeter"><img src="http://i.media-imdb.com/images/tn15/meter_help.gif" width="12" height="12" border="0" alt="?"></a></h5><div class="info-content"><b>Down 18%</b> in popularity this week. See <a href="/r/movie-con/rg/title-tease/meter-why/title/tt0242653/graph-data">why</a> on <a href="/r/movie-con/rg/title-tease/meter-prolink/">IMDbPro</a>.</div></div>
+  <div class="info"><h5>MOVIEmeter: <a href="/help/show_leaf?prowhatisstarmeter"><img src="http://i.media-imdb.com/images/tn15/meter_help.gif" width="12" height="12" border="0" alt="?"></a></h5><div class="info-content"><b>Down 29%</b> in popularity this week. See <a href="/r/movie-con/rg/title-tease/meter-why/title/tt0242653/graph-data">why</a> on <a href="/r/movie-con/rg/title-tease/meter-prolink/">IMDbPro</a>.</div></div>
 
     
     
@@ -601,12 +602,12 @@ k.onmouseout=   function() {if (!window.hasVoted) this.className='keyword-spoile
 </div>
 <div class="info">
 <h5>NewsDesk<span>:</span><br/>
-<small>(<a onClick="(new Image()).src='/rg/maindetails-count/newsdesk/images/b.gif?link=%2Ftitle%2Ftt0242653%2Fnews';" href="/title/tt0242653/news">70 articles</a>)</small>
+<small>(<a onClick="(new Image()).src='/rg/maindetails-count/newsdesk/images/b.gif?link=%2Ftitle%2Ftt0242653%2Fnews';" href="/title/tt0242653/news">72 articles</a>)</small>
 </h5>
 <div class="info-content">
-<strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=%2Ftitle%2Ftt0242653%2Fnews%23ni1136125';" href="/title/tt0242653/news#ni1136125">Jackson Film In Less-than-Thriller Start</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=%2Fnews%2Fns0000003%2F';" href="/news/ns0000003/">Studio Briefing - Film News</a>. 29 October 2009, 4:29 PM, PDT)</small>
+<strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=%2Ftitle%2Ftt0242653%2Fnews%23ni1274160';" href="/title/tt0242653/news#ni1274160">New Wachowski Brothers Movie Being Filmed?</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=%2Fnews%2Fns0000111%2F';" href="/news/ns0000111/">ReelzChannel</a>. 8 December 2009, 4:23 AM, PST)</small>
 <br/>
-<strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=%2Ftitle%2Ftt0242653%2Fnews%23ni1110806';" href="/title/tt0242653/news#ni1110806">&#x27;30 Days of Night Dark Days&#x27; Officially Announced</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=%2Fnews%2Fns0000017%2F';" href="/news/ns0000017/">Bloody-Disgusting.com</a>. 22 October 2009, 2:36 PM, PDT)</small>
+<strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=%2Ftitle%2Ftt0242653%2Fnews%23ni1136125';" href="/title/tt0242653/news#ni1136125">Jackson Film In Less-than-Thriller Start</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=%2Fnews%2Fns0000003%2F';" href="/news/ns0000003/">Studio Briefing - Film News</a>. 29 October 2009, 4:29 PM, PDT)</small>
 <br/>
 <div style="width:1px;height:0.5em;"></div></div>
 </div>
@@ -614,7 +615,7 @@ k.onmouseout=   function() {if (!window.hasVoted) this.className='keyword-spoile
 <div class="info">
 <h5>User Comments:</h5>
 <div class="info-content">
-Action-Packed Tedium
+Better They Had Stuck To One Super Matrix Film
 <a class="tn15more inline" href="#comment">more (2103 total)</a>
 </div>
 </div>
@@ -632,7 +633,7 @@ afc_data["MIDDLE_CENTER"] = { channel:  "test01-channel",
                        client:   "ca-amazon-imdb_js",
                        title:    "Sponsored Links",
                        help:     "What&#x27;s This?",
-                       hints:    "death of protagonist,heroism,parallel world,blindness,kung fu"
+                       hints:    "main characters killed off,agent,artificial intelligence,karma,love"
                      };
 </script>
 
@@ -834,7 +835,7 @@ Alameda, California, USA</a>
 <div class="info">
 <h5>Trivia:</h5>
 <div class="info-content">
-Composer <a href="/name/nm0204485/">Don Davis</a> thought it would be wasteful for the choir to be singing simple "ooohs" and "aaahs" during the climactic battle cue, "Neodämmerung". He asked that the Wachowski Brothers (<a href="/name/nm0905152/">Andy Wachowski</a> and <a href="/name/nm0905154/">Larry Wachowski</a>) bring him some sort of text appropriate to the movie, which the choir would sing. They returned with extracts from the Upanisads which reflect the themes of the trilogy. The full lyrics of Neodämmerung are available on Davis's website.
+A machine called "The Tuning Fork" (rotatable at 360 degrees) was specially constructed for the effect of Neo and Smith fighting in the air, heading upwards into the sky
 <a class="tn15more inline" href="/title/tt0242653/trivia" onClick="(new Image()).src='/rg/title-tease/trivia/images/b.gif?link=/title/tt0242653/trivia';">more</a>
 
 </div>
@@ -843,7 +844,7 @@ Composer <a href="/name/nm0204485/">Don Davis</a> thought it would be wasteful f
 <div class="info">
 <h5>Goofs:</h5>
 <div class="info-content">
-Continuity: As the Hammer is reaching the gate to Zion, the hovercraft's gravity pads (glowing pods) switch between being damaged and fully functional. In addition, all of the aft pads were damaged at one point and the hovercraft was seen dragging the tail end on the tunnel. However, once the ship reached the gate, all pads, including the damaged rear pads, were shown to be fully functional.
+Continuity: Neo takes a suitcase belonging to the Indian family when the Train Man takes them away. This suitcase can be seen on the platform after they leave, but then it disappears when Neo attempts to run through the tunnel and runs back into the shot.
 <a class="tn15more inline" href="/title/tt0242653/goofs" onClick="(new Image()).src='/rg/title-tease/goofs/images/b.gif?link=/title/tt0242653/goofs';">more</a>
 
 </div>
@@ -863,7 +864,7 @@ I got nothing, sir. No sign of Niobe or Ghost. Nothin' but blue pills.<br>
 <div class="info">
 <h5>Movie Connections:</h5>
 <div class="info-content">
-References <a href="/title/tt0094625/">Akira</a> (1988)
+Referenced in <a href="/title/tt1213644/">Disaster Movie</a> (2008)
 <a class="tn15more inline" href="/title/tt0242653/movieconnections" onClick="(new Image()).src='/rg/title-tease/movieconnections/images/b.gif?link=/title/tt0242653/movieconnections';">more</a>
 </div>
 </div>
@@ -871,7 +872,7 @@ References <a href="/title/tt0094625/">Akira</a> (1988)
 <div class="info">
 <h5>Soundtrack:</h5>
 <div class="info-content">
-Hell Club
+Navras
 <a class="tn15more inline" href="/title/tt0242653/soundtrack" onClick="(new Image()).src='/rg/title-tease/soundtrack/images/b.gif?link=/title/tt0242653/soundtrack';">more</a>
 </div>
 </div>
@@ -911,19 +912,20 @@ function ynd(id, status) {
 //-->
 </script>
 <div class="small">
-55 out of 81 people found the following comment useful.
+44 out of 73 people found the following comment useful.
 </div>
 
-<b>Action-Packed Tedium</b>, 28 August 2004
+<b>Better They Had Stuck To One Super Matrix Film</b>, 23 October 2006
 <br>
 
+<img width="102" height="12" alt="6/10" src="/images/showtimes/60.gif"><br>
 
 <div class="small">
 Author:
-<a href="/user/ur3864649/comments">pietzsche</a>
+<a href="/user/ur4445210/comments">ccthemovieman-1</a>
 
 <small>
-from Bardoville, California
+from Lockport, NY, United States
 </small>
 
 </div>
@@ -931,32 +933,19 @@ from Bardoville, California
 
 </p>
 <p>
-
-It is hard to believe that the original Matrix's philosophical subtlety
-came from the same authors of the two sequels.<br/><br/>It seems the brothers must have cribbed the original story for the
-first Matrix, since the last 2 show none of the original's subtlety or
-interest, just rehashing and CGI multiplication.<br/><br/>One evil robot, two evil robots, many many evil robots. Wow, what an
-idea, what creativity!<br/><br/>Viewing the behind-the-scenes on DVD disc 2, you can see the reasons
-for the incoherence of story and scenes - the huge fractured design
-team, numerous 'senior this' 'senior that', all contributing to some
-corporate creation lacking any inspiration. Maybe the corporate
-cube-farm culture works for making cars, but it doesn't seem to work for
-films.<br/><br/>I would have liked to have seen another level of reality exposed behind
-the mindless machines, and why are they so mindlessly evil when they
-can think up such a subtle ruse to enslave the humans? It isn't
-consistent. Why not introduce an alien ET culture who is really the
-master culture enslaving the machine culture by some similar
-hallucinatory ruse. Or, have the humans escape by transcending their
-bodies, as in all the traditional gnostic spiritualities.<br/><br/>All in all, the Matrix is just a retread of the movie TRON. TRON at
-least had some insight into what the machine mindset and motivation for
-domination might be, e.g. tyrannical game addiction, much like the
-decadent Roman emperors. The Matrix, after the first film, gives no
-thought to any subtle motivations of the machine culture, preferring
-the tired clich&eacute; of 'alien villain = mindless unrelenting violence'.
-
+I found this better than the second Matrix film (&quot;Reloaded&quot;) but not
+anywhere as intriguing as the first film. Perhaps they shouldn&#39;t have
+made ANY sequels.<br/><br/>Once again you have the same problems: too much verbiage that you can&#39;t
+make sense of, and too much violence. Regarding all the techno-talk,
+what good is it if you audience doesn&#39;t understand what&#39;s going on and
+are lost most of the time?<br/><br/>After awhile, frankly, especially with the unlikable lead characters, I
+didn&#39;t care what happened. As I said in the second movie&#39;s review, they
+should have made just one tremendous Matrix movie, even if it were an
+hour longer. The sequels did nothing to enhance the legacy of that
+film.
 </p>
 
-<div class="yn" id="ynd_721483">
+<div class="yn" id="ynd_1504355">
 <form method="get" action="/register/">
 <input type="hidden" name="why" value="comment_vote">
 Was the above comment useful to you?
@@ -1177,7 +1166,7 @@ ad_utils.queue_ad('5','bottom_ad');
 </script>
 <iframe src="/images/SFb73c79d3e365f1c3c3ff02bc85d516ed/a/ifb/doubleclick/expand.html#imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;[PASEGMENTS];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.resize_iframe(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=197786217410?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=197786217410?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=699339212705?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=5;sz=728x90,2x1;p=b;g=th;g=ad;k=m;g=ac;m=R;g=sf;tt=f;k=r;coo=au;id=tt0242653;coo=usa;k=c;g=baa;ord=699339212705?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <!-- End BOTTOM_AD -->
@@ -1191,9 +1180,9 @@ ad_utils.queue_ad('5','bottom_ad');
 
 
 
-<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a08023030393132303730000001037a040379646370000001047&cb=126019197012393" width="1" height="1" alt="" border="0">
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a08023030393132313130000001037a040379646370000001047&cb=126054574915790" width="1" height="1" alt="" border="0">
 </div> <!-- id="wrapper" -->
-<!-- h=iop107 i=2009-12-06 s=legacy(default) t='Mon Dec  7 05:19:30 2009' -->
+<!-- h=iop110 i=2009-12-10 s=legacy(default) t='Fri Dec 11 07:35:49 2009' -->
 
 
 <script type="text/javascript" src="http://i.media-imdb.com/images/SF6e77f150220431a5de25baf77a862728/js/webtrends/webtrends.js"></script>
