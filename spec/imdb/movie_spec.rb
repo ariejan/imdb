@@ -105,6 +105,18 @@ describe "Imdb::Movie" do
     end
   end
   
+  describe "mpaa rating" do
+    it "should find the mpaa rating when present" do
+      movie = Imdb::Movie.new("0111161")
+      movie.mpaa_rating.should == "Rated R for language and prison violence."
+    end
+    
+    it "should be nil when not present" do
+      movie = Imdb::Movie.new("0095016")
+      movie.mpaa_rating.should be_nil
+    end
+  end
+  
   describe "with no submitted poster" do
     
     before(:each) do 
