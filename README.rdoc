@@ -52,6 +52,10 @@ All required gems are installed automagically through RubyGems.
 
     $ sudo gem install imdb -s http://gemcutter.org
 
+== DOCUMENTATION:
+
+This README and generated RDoc documentation are available from http://rdoc.info/projects/ariejan/imdb
+
 == TESTING:
 
 You'll need rspec and fakeweb installed to run the specs. Y
