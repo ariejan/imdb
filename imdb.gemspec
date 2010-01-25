@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{imdb}
-  s.version = "0.6.3"
+  s.version = "0.6.4"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ariejan de Vroom"]
@@ -50,6 +50,7 @@ Gem::Specification.new do |s|
      "spec/fixtures/tt0330508",
      "spec/fixtures/tt1352369",
      "spec/imdb/cli_spec.rb",
+     "spec/imdb/imdb_spec.rb",
      "spec/imdb/movie_spec.rb",
      "spec/imdb/search_spec.rb",
      "spec/imdb/top_250_spec.rb",
@@ -65,6 +66,7 @@ Gem::Specification.new do |s|
   s.summary = %q{Easily access the publicly available information on IMDB.}
   s.test_files = [
     "spec/imdb/cli_spec.rb",
+     "spec/imdb/imdb_spec.rb",
      "spec/imdb/movie_spec.rb",
      "spec/imdb/search_spec.rb",
      "spec/imdb/top_250_spec.rb",
