@@ -75,7 +75,7 @@ describe "Imdb::Movie" do
       
         movie.director.should be_an(Array)
         movie.director.size.should eql(2)
-        movie.director.should include("Larry Wachowski")
+        movie.director.should include("Lana Wachowski")
         movie.director.should include("Andy Wachowski")
       end
     end
