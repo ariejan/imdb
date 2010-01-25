@@ -38,7 +38,17 @@ describe "Imdb::Movie" do
       genres.should include('Drama')
       genres.should include('Thriller')
     end
-  
+
+    it "should find the languages" do
+      languages = @movie.languages
+
+      languages.should be_an(Array)
+      languages.size.should eql(3)
+      languages.should include('English')
+      languages.should include('German')
+      languages.should include('Italian')
+    end
+
     it "should find the length (in minutes)" do
       @movie.length.should eql(131)
     end
