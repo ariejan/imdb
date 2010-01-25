@@ -12,5 +12,5 @@ require 'imdb/top_250'
 require 'imdb/string_extensions'
 
 module Imdb
-  VERSION = '0.6.1'
+  VERSION = '0.6.3'
 end
