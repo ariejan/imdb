@@ -51,7 +51,7 @@ module Imdb
     
     # Returns a float containing the average user rating
     def rating
-      document.at(".general.rating b").innerHTML.strip.imdb_unescape_html.split('/').first.to_f rescue nil
+      document.at(".starbar-meta b").innerHTML.strip.imdb_unescape_html.split('/').first.to_f rescue nil
     end
     
     # Returns a string containing the tagline
@@ -99,6 +99,7 @@ module Imdb
                                    
       the_plot = the_plot.gsub(/add\ssummary|full\ssummary/i, "")
       the_plot = the_plot.gsub(/add\ssynopsis|full\ssynopsis/i, "")
+      the_plot = the_plot.gsub(/more/i, "")
       the_plot = the_plot.gsub(/\|/i, "")
       
       the_plot = the_plot.strip.imdb_unescape_html

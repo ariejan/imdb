@@ -98,6 +98,11 @@ describe "Imdb::Movie" do
       movie = Imdb::Movie.new("0083987")
       movie.plot.should eql("Biography of Mahatma Gandhi, the lawyer who became the famed leader of the Indian revolts against the British through his philosophy of non-violent protest.")
     end
+    
+    it "should not have a 'more' link in the plot" do
+      movie = Imdb::Movie.new("0036855")
+      movie.plot.should eql("Paula's aunt Alice Alquist, a famous entertainer, is murdered in her home. Paula, who lives with her aunt finds the body...")      
+    end
   end
   
   describe "with no submitted poster" do
