@@ -24,7 +24,7 @@ Movies:
   
   i.title
   #=> "Die Hard"
-  i.cast_member.first
+  i.cast_members.first
   #=> "Bruce Willis"
 
 Searching:
