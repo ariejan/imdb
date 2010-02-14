@@ -82,7 +82,12 @@ module Imdb
     def year
       document.search('a[@href^="/Sections/Years/"]').innerHTML.to_i
     end
-        
+    
+    # Returns release date for the movie.
+    def release_date
+      Hpricot(document.search('h5[text()*=Release Date]').first.next_sibling.to_s.gsub(/<a.*a>/,'')).inner_text.strip rescue nil
+    end
+
     private
     
     # Returns a new Hpricot document for parsing.

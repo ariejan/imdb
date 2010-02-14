@@ -145,5 +145,10 @@ describe "Imdb::Movie" do
     it "should return nil as poster url" do
       @movie.poster.should be_nil
     end
+
+    it "should return the release date for movies" do
+      movie = Imdb::Movie.new('0111161')
+      movie.release_date.should eql("23 September 1994 (USA)")
+    end
   end
 end

@@ -1,3 +1,8 @@
+== 0.5.0 patch-1 2010-02-14
+
+* Added methods for fetching release date [if available] from IMDB
+* Added Testcase for the same as well. 
+
 == 0.5.0 2009-06-17
 
 * Added Top 250 listing [mguterl]
