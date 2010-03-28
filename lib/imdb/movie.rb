@@ -23,6 +23,10 @@ module Imdb
       document.search("table.cast td.nm a").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
     end
     
+    def cast_member_ids
+      document.search("table.cast td.nm a").map {|l| l['href'].sub(%r{^/name/(.*)/}, '\1') }
+    end
+    
     # Returns the name of the director
     def director
       # document.at("h5[text()='Director:'] ~ a").innerHTML.strip.imdb_unescape_html rescue nil

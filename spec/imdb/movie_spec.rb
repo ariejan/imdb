@@ -22,7 +22,24 @@ describe "Imdb::Movie" do
       cast.should include("Bonnie Bedelia")
       cast.should include("Alan Rickman")
     end
-  
+
+    describe 'fetching a list of imdb actor ids for the cast members' do
+      it 'should not require arguments' do
+        lambda { @movie.cast_member_ids }.should_not raise_error(ArgumentError)
+      end
+      
+      it 'should not allow arguments' do
+        lambda { @movie.cast_member_ids(:foo) }.should raise_error(ArgumentError)
+      end
+
+      it 'should return the imdb actor number for each cast member' do
+        @movie.cast_member_ids.sort.should == [
+          "nm0000246", "nm0000889", "nm0001817", "nm0322339", "nm0924691", "nm0040472", "nm0000952", 
+          "nm0793363", "nm0000614", "nm0324231", "nm0236525", "nm0936591", "nm0319739", "nm0687270", "nm0127960"
+        ].sort
+      end
+    end
+   
     it "should find the director" do
       @movie.director.should be_an(Array)
       @movie.director.size.should eql(1)
