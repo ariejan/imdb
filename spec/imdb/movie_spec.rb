@@ -151,4 +151,15 @@ describe "Imdb::Movie" do
       movie.release_date.should eql("23 September 1994 (USA)")
     end
   end
+
+  describe "with an old poster (no @@)" do
+    before(:each) do
+      # Pulp Fiction (1994)
+      @movie = Imdb::Movie.new("0110912")
+    end
+
+    it "should have a poster" do
+      @movie.poster.should eql("http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4.jpg")
+    end
+  end
 end

@@ -51,7 +51,13 @@ module Imdb
     
     # Returns a string containing the URL to the movie poster.
     def poster
-      document.at("a[@name='poster'] img")['src'][/http:.+@@/] + '.jpg' rescue nil
+      src = document.at("a[@name='poster'] img")['src'] rescue nil
+      case src
+      when /^(http:.+@@)/
+        $1 + '.jpg'
+      when /^(http:.+?)\.[^\/]+$/
+        $1 + '.jpg'
+      end
     end
     
     # Returns a float containing the average user rating
