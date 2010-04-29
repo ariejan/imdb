@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{imdb}
-  s.version = "0.6.4"
+  s.version = "0.6.5"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ariejan de Vroom"]
-  s.date = %q{2010-01-25}
+  s.date = %q{2010-04-29}
   s.default_executable = %q{imdb}
   s.description = %q{Easily use Ruby or the command line to find information on IMDB.com.}
   s.email = %q{ariejan@ariejan.net}
@@ -44,6 +44,7 @@ Gem::Specification.new do |s|
      "spec/fixtures/tt0036855",
      "spec/fixtures/tt0083987",
      "spec/fixtures/tt0095016",
+     "spec/fixtures/tt0110912",
      "spec/fixtures/tt0111161",
      "spec/fixtures/tt0117731",
      "spec/fixtures/tt0242653",
@@ -62,7 +63,7 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://github.com/ariejan/imdb}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
-  s.rubygems_version = %q{1.3.5}
+  s.rubygems_version = %q{1.3.6}
   s.summary = %q{Easily access the publicly available information on IMDB.}
   s.test_files = [
     "spec/imdb/cli_spec.rb",
