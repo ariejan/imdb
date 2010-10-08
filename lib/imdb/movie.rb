@@ -29,23 +29,23 @@ module Imdb
     
     # Returns the name of the director
     def director
-      # document.at("h5[text()='Director:'] ~ a").innerHTML.strip.imdb_unescape_html rescue nil
-      document.search("h5[text()^='Director'] ~ a").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
+      # document.at("h4[text()='Director:'] ~ a").innerHTML.strip.imdb_unescape_html rescue nil
+      document.search("h4[text()^='Director'] ~ a").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
     end
     
     # Returns an array of genres (as strings)
     def genres
-      document.search("h5[text()='Genre:'] ~ a[@href*=/Sections/Genres/']").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
+      document.search("h4[text()='Genre:'] ~ a[@href*=/Sections/Genres/']").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
     end
 
     # Returns an array of languages as strings.
     def languages
-      document.search("h5[text()='Language:'] ~ a[@href*=/Sections/Languages/']").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
+      document.search("h4[text()='Language:'] ~ a[@href*=/Sections/Languages/']").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
     end
     
     # Returns the duration of the movie in minutes as an integer.
     def length
-      document.search("//h5[text()^='Runtime']/..").innerHTML[/\d+ min/].to_i rescue nil
+      document.search("//h4[text()^='Runtime']/..").innerHTML[/\d+ min/].to_i rescue nil
     end
     
     # Returns a string containing the plot.
@@ -71,7 +71,7 @@ module Imdb
     
     # Returns a string containing the tagline
     def tagline
-      document.search("h5[text()='Tagline:'] ~ div").first.innerHTML.gsub(/<.+>.+<\/.+>/, '').strip.imdb_unescape_html rescue nil
+      document.search("h4[text()='Tagline:'] ~ div").first.innerHTML.gsub(/<.+>.+<\/.+>/, '').strip.imdb_unescape_html rescue nil
     end
     
     # Returns a string containing the mpaa rating and reason for rating
