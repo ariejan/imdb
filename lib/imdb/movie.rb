@@ -66,7 +66,7 @@ module Imdb
 
     # Returns a float containing the average user rating
     def rating
-      document.at(".starbar-meta b").innerHTML.strip.imdb_unescape_html.split('/').first.to_f rescue nil
+      document.at(".rating-rating").innerHTML.strip.imdb_unescape_html.split('/').first.to_f rescue nil
     end
 
     # Returns a string containing the tagline
