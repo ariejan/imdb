@@ -1,12 +1,13 @@
 HTTP/1.1 302 Found
-Date: Sun, 24 Oct 2010 23:15:14 GMT
+Date: Sat, 06 Nov 2010 01:42:00 GMT
 Server: Server
 Cache-Control: private
 Location: http://www.imdb.com/title/tt0330508/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfGh0bWw9MXxjaD0xfGNvPTF8cG49MHxmdD0xfGt3PTF8cXM9S2FubmV0aGlyZXkgVGhvbmRyaW5hbHxzaXRlPWFrYXxxPUthbm5ldGhpcmV5IFRob25kcmluYWx8bm09MQ__;fc=1;ft=1
 nnCoection: close
 Content-Type: text/plain
-Set-Cookie: session-id=190.210.0.97.1287962114739171; path=/; domain=.imdb.com
-Set-Cookie: uu=/oQkwdD4YCs7SkXiJsL4HgEwXGInphxiBNA/5ESwPzGxgE9hBOAqUWGFT/F3B3s1d5BqNNTmHGIklV/xNIWf4Te2vME3hhxiIfBKgmemHCUUppRyJKUvASSFnxG05rzBNMU/cTSFnxG3lrzBN4YcYieAWvJk5hxiJOWfMTSFn+EntrzBN4YcYiemHCJn9mxSI=;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: uu=wwTT0MnGILk5eu/NKiqYPgC3+/qjkW26prIbrJMSe5nz106Zw+IrjOfCXsy2Yczd8JFbzPAxbbqjE47Z0DEPafPTjukwMQ9plhf7zCfRze3Ho4tc9+eanBZ3i+3mBmt8tIRNG7AxbRqEBEnvlHWYjrAlSO7ycv7KA4JvWaMCb1mDkc15swJ+yYOy/vmwMc0ZsLFtuqbHO1rgkW39k5HlqqPSbvmjsu45M5HNGbOSHsmDsu4poKHNGbCxbbqgtysq45FtuqMCLqmDsu4poIHNGbCxbbqgkW364MEdiq;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: session-id=645-9007720-0227816;path=/;domain=.imdb.com
+Set-Cookie: session-id-time=1289094120;path=/;domain=.imdb.com
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Content-Length: 0

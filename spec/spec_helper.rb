@@ -25,13 +25,13 @@ end
 
 IMDB_SAMPLES = { 
   "http://www.imdb.com:80/find?q=Kannethirey+Thondrinal;s=tt" => "search_kannethirey_thondrinal",
-  "http://www.imdb.com/title/tt0330508/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfGh0bWw9MXxjaD0xfGNvPTF8cG49MHxmdD0xfGt3PTF8cXM9S2FubmV0aGlyZXkgVGhvbmRyaW5hbHxzaXRlPWRmfHE9S2FubmV0aGlyZXkgVGhvbmRyaW5hbHxubT0x;fc=1;ft=1" => "tt0330508",
+  "http://www.imdb.com/title/tt0330508/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfGh0bWw9MXxjaD0xfGNvPTF8cG49MHxmdD0xfGt3PTF8cXM9S2FubmV0aGlyZXkgVGhvbmRyaW5hbHxzaXRlPWFrYXxxPUthbm5ldGhpcmV5IFRob25kcmluYWx8bm09MQ__;fc=1;ft=1" => "tt0330508",
   "http://www.imdb.com:80/find?q=Matrix+Revolutions;s=tt" => "search_matrix_revolutions",
   "http://www.imdb.com:80/find?q=Star+Trek;s=tt" => "search_star_trek",
   "http://www.imdb.com:80/title/tt0117731/combined" => "tt0117731",
   "http://www.imdb.com:80/title/tt0095016/combined" => "tt0095016",
   "http://www.imdb.com:80/title/tt0242653/combined" => "tt0242653",
-  "http://www.imdb.com/title/tt0242653/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfGh0bWw9MXxjaD0xfGNvPTF8cG49MHxmdD0xfGt3PTF8cXM9TWF0cml4IFJldm9sdXRpb25zfHNpdGU9ZGZ8cT1NYXRyaXggUmV2b2x1dGlvbnN8bm09MQ__;fc=1;ft=20" => "tt0242653",
+  "http://www.imdb.com/title/tt0242653/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfGh0bWw9MXxjaD0xfGNvPTF8cG49MHxmdD0xfGt3PTF8cXM9TWF0cml4IFJldm9sdXRpb25zfHNpdGU9YWthfHE9TWF0cml4IFJldm9sdXRpb25zfG5tPTE_;fc=1;ft=20" => "tt0242653",
   "http://www.imdb.com:80/chart/top" => "top_250",
   "http://www.imdb.com/title/tt0111161/combined" => "tt0111161",
   "http://www.imdb.com/title/tt1352369/combined" => "tt1352369",
