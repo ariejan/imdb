@@ -15,10 +15,7 @@ begin
     
     # Dependencies
     gem.add_dependency('hpricot', '>= 0.8.1')
-    
-    # Development dependencies
-    gem.add_development_dependency('fakeweb')
-    gem.add_development_dependency('rspec')
+
   end
   Jeweler::GemcutterTasks.new
 rescue LoadError
@@ -36,8 +33,6 @@ Spec::Rake::SpecTask.new(:rcov) do |spec|
   spec.pattern = 'spec/**/*_spec.rb'
   spec.rcov = true
 end
-
-task :spec => :check_dependencies
 
 task :default => :spec
 
