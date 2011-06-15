@@ -42,7 +42,7 @@ describe "Imdb::Movie" do
           "nm0441665", "nm0484360", "nm0484650", "nm0493493", "nm0502959", "nm0503610", "nm0504342", 
           "nm0539639", "nm0546076", "nm0546747", "nm0662568", "nm0669625", "nm0681604", "nm0687270", 
           "nm0688235", "nm0718021", "nm0731114", "nm0748041", "nm0776208", "nm0793363", "nm0852311", 
-          "nm0870729", "nm0882139", "nm0902455", "nm0907234", "nm0924691", "nm0936591", "nm0958105", 
+          "nm0870729", "nm0882139", "nm0902455", "nm0907234", "nm0924636", "nm0936591", "nm0958105", 
           "nm2476262", "nm2565888"
         ].sort
       end
@@ -59,7 +59,6 @@ describe "Imdb::Movie" do
     
       genres.should be_an(Array)
       genres.should include('Action')
-      genres.should include('Crime')
       genres.should include('Thriller')
     end
 
@@ -142,7 +141,7 @@ describe "Imdb::Movie" do
   describe "mpaa rating" do
     it "should find the mpaa rating when present" do
       movie = Imdb::Movie.new("0111161")
-      movie.mpaa_rating.should == "Rated R for language and prison violence."
+      movie.mpaa_rating.should == "Rated R for language and prison violence (certificate 33087)"
     end
     
     it "should be nil when not present" do
