@@ -1,4 +1,4 @@
-require File.dirname(__FILE__) + '/../spec_helper.rb'
+require File.expand_path(File.dirname(__FILE__) + '/../spec_helper.rb')
 
 # This test uses "Die hard (1988)" as a testing sample:
 #   
@@ -34,8 +34,7 @@ describe "Imdb::Movie" do
 
       it 'should return the imdb actor number for each cast member' do
         @movie.cast_member_ids.sort.should == [
-          "nm0000246", "nm0000889", "nm0001817", "nm0322339", "nm0924691", "nm0040472", "nm0000952", 
-          "nm0793363", "nm0000614", "nm0324231", "nm0236525", "nm0936591", "nm0319739", "nm0687270", "nm0127960"
+          "nm0000246", "nm0000614", "nm0000889", "nm0000952", "nm0001817", "nm0040472", "nm0127960", "nm0236525", "nm0319739", "nm0322339", "nm0324231", "nm0687270", "nm0793363", "nm0924636", "nm0936591"
         ].sort
       end
     end
@@ -51,8 +50,6 @@ describe "Imdb::Movie" do
     
       genres.should be_an(Array)
       genres.should include('Action')
-      genres.should include('Crime')
-      genres.should include('Drama')
       genres.should include('Thriller')
     end
 
@@ -87,7 +84,9 @@ describe "Imdb::Movie" do
     end
   
     it "should find the tagline" do
-      @movie.tagline.should =~ /It will blow you through the back wall of the theater/
+      #TODO: in live they are rotating so we should check for more
+      @movie.tagline.should =~ /40 Stories Of Sheer Adventure!/
+      #@movie.tagline.should =~ /It will blow you through the back wall of the theater/
     end
   
     it "should find the year" do
@@ -127,15 +126,15 @@ describe "Imdb::Movie" do
     end
     
     it "should not have a 'more' link in the plot" do
-      movie = Imdb::Movie.new("0036855")
-      movie.plot.should eql("Paula's aunt Alice Alquist, a famous entertainer, is murdered in her home. Paula, who lives with her aunt finds the body...")      
+      movie = Imdb::Movie.new("1352369")
+      movie.plot.should eql("An unnamed doctor has always had everything he's ever wanted, but that has only made him develop more extreme and depraved needs...")      
     end
   end
   
   describe "mpaa rating" do
     it "should find the mpaa rating when present" do
       movie = Imdb::Movie.new("0111161")
-      movie.mpaa_rating.should == "Rated R for language and prison violence."
+      movie.mpaa_rating.should == "Rated R for language and prison violence (certificate 33087)"
     end
     
     it "should be nil when not present" do
@@ -148,15 +147,15 @@ describe "Imdb::Movie" do
     
     before(:each) do 
       # Grotesque (2009)
-      @movie = Imdb::Movie.new("1352369")
+      @movie = Imdb::Movie.new("0330508")
     end
     
     it "should have a title" do
-      @movie.title(true).should =~ /Gurotesuku/
+      @movie.title(true).should =~ /Kannethirey Thondrinal/
     end
     
     it "should have a year" do 
-      @movie.year.should eql(2009)
+      @movie.year.should eql(1998)
     end
     
     it "should return nil as poster url" do
@@ -165,7 +164,7 @@ describe "Imdb::Movie" do
 
     it "should return the release date for movies" do
       movie = Imdb::Movie.new('0111161')
-      movie.release_date.should eql("23 September 1994 (USA)")
+      movie.release_date.should eql("3 March 1995 (Sweden)")
     end
   end
 

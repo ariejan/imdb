@@ -20,42 +20,42 @@ module Imdb
     
     # Returns an array with cast members
     def cast_members
-      document.search("table.cast td.nm a").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
+      document.search("table.cast_list td.name a").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
     end
     
     def cast_member_ids
-      document.search("table.cast td.nm a").map {|l| l['href'].sub(%r{^/name/(.*)/}, '\1') }
+      document.search("table.cast_list td.name a").map {|l| l['href'].sub(%r{^/name/(.*)/}, '\1') }
     end
     
     # Returns the name of the director
     def director
-      # document.at("h5[text()='Director:'] ~ a").innerHTML.strip.imdb_unescape_html rescue nil
-      document.search("h5[text()^='Director'] ~ a").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
+      # document.at("h4[text()='Director:'] ~ a").innerHTML.strip.imdb_unescape_html rescue nil
+      document.search("h4[text()^='Director'] ~ a").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
     end
     
     # Returns an array of genres (as strings)
     def genres
-      document.search("h5[text()='Genre:'] ~ a[@href*=/Sections/Genres/']").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
+      document.search("h4[text()='Genres:'] ~ a[@href*='/genre/']").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
     end
 
     # Returns an array of languages as strings.
     def languages
-      document.search("h5[text()='Language:'] ~ a[@href*=/Sections/Languages/']").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
+      document.search("h4[text()='Language:'] ~ a[@href*='/language/']").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
     end
     
     # Returns the duration of the movie in minutes as an integer.
     def length
-      document.search("//h5[text()^='Runtime']/..").innerHTML[/\d+ min/].to_i rescue nil
+      document.search("//h4[text()^='Runtime']/..").innerHTML[/\d+ min/].to_i rescue nil
     end
     
     # Returns a string containing the plot.
     def plot
-      sanitize_plot(document.search("h5[text()='Plot:'] ~ div").first.innerHTML) rescue nil
+      sanitize_plot(document.search("div.star-box ~ p")[1].innerHTML.strip) rescue nil
     end
     
     # Returns a string containing the URL to the movie poster.
     def poster
-      src = document.at("a[@name='poster'] img")['src'] rescue nil
+      src = document.at("td#img_primary a img")['src'] rescue nil
       case src
       when /^(http:.+@@)/
         $1 + '.jpg'
@@ -66,17 +66,17 @@ module Imdb
     
     # Returns a float containing the average user rating
     def rating
-      document.at(".starbar-meta b").innerHTML.strip.imdb_unescape_html.split('/').first.to_f rescue nil
+      document.at(".rating-rating").innerHTML.strip.imdb_unescape_html.split('/').first.to_f rescue nil
     end
     
     # Returns a string containing the tagline
     def tagline
-      document.search("h5[text()='Tagline:'] ~ div").first.innerHTML.gsub(/<.+>.+<\/.+>/, '').strip.imdb_unescape_html rescue nil
+      document.search("h4[text()='Taglines:']").first.next_node.to_s.strip.imdb_unescape_html rescue nil
     end
     
     # Returns a string containing the mpaa rating and reason for rating
     def mpaa_rating
-      document.search("h5[text()='MPAA:'] ~ div").first.innerHTML.strip.imdb_unescape_html rescue nil
+      document.search("h4[text()*='Motion Picture Rating']").first.next_node.to_s.strip.imdb_unescape_html rescue nil
     end
     
     # Returns a string containing the title
@@ -95,7 +95,7 @@ module Imdb
     
     # Returns release date for the movie.
     def release_date
-      sanitize_release_date(document.search('h5[text()*=Release Date]').first.next_sibling.innerHTML.to_s) rescue nil
+      sanitize_release_date(document.search("h4[text()*='Release Date']").first.next_node.to_s) rescue nil
     end
 
     private
@@ -120,23 +120,15 @@ module Imdb
     end
     
     def sanitize_plot(the_plot)
-      the_plot = the_plot.imdb_strip_tags
-                                   
-      the_plot = the_plot.gsub(/add\ssummary|full\ssummary/i, "")
-      the_plot = the_plot.gsub(/add\ssynopsis|full\ssynopsis/i, "")
-      the_plot = the_plot.gsub(/&nbsp;|&raquo;/i, "")
-      the_plot = the_plot.gsub(/see|more/i, "")
-      the_plot = the_plot.gsub(/\|/i, "")
-      
+      the_plot = the_plot.gsub(/<a\s+href="plotsummary">.+<\/.+>/, '')
+      the_plot = the_plot.imdb_strip_tags                                  
+
+      the_plot = the_plot.gsub(/&nbsp;&raquo;$/i, "")
       the_plot = the_plot.strip.imdb_unescape_html
     end
     
-    def sanitize_release_date(the_release_date)
-      the_release_date = the_release_date.gsub(/<a.*a>/,"")
-      the_release_date = the_release_date.gsub(/&nbsp;|&raquo;/i, "")
-      the_release_date = the_release_date.gsub(/see|more/i, "")
-      
-      the_release_date = the_release_date.strip.imdb_unescape_html
+    def sanitize_release_date(date)
+      date.strip.imdb_unescape_html.gsub("\n",' ')
     end
     
   end # Movie
