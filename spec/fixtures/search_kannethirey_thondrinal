@@ -1,14 +1,14 @@
 HTTP/1.1 302 Found
-Date: Tue, 09 Mar 2010 18:43:48 GMT
+Date: Wed, 15 Jun 2011 21:26:27 GMT
 Server: Server
 Cache-Control: private
-Location: http://www.imdb.com/title/tt0330508/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfGh0bWw9MXxjaD0xfGNvPTF8cG49MHxmdD0xfGt3PTF8cXM9S2FubmV0aGlyZXkgVGhvbmRyaW5hbHxzaXRlPWRmfHE9S2FubmV0aGlyZXkgVGhvbmRyaW5hbHxubT0x;fc=1;ft=1
+Location: http://www.imdb.com/title/tt0330508/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfGh0bWw9MXxjaD0xfGNvPTF8cG49MHxmdD0xfGt3PTF8cXM9S2FubmV0aGlyZXkgVGhvbmRyaW5hbHxzaXRlPWFrYXxxPUthbm5ldGhpcmV5IFRob25kcmluYWx8bm09MQ__;fc=1;ft=1
 nnCoection: close
 Content-Type: text/plain
-Set-Cookie: session-id=66.49.247.123.1268160228485411; path=/; domain=.imdb.com
-Set-Cookie: uu=3zLR/wjel857l2AXJR2ZuQEwXGInphxiBKVfUVS1KjRkNXoxZOA/8UTVb3RnB3s1d5BqNNQmHGIklS9hBIV/4Re2vME3hhxiIfBKgmemHCUUppRyJIUPASSFf+E0JrzBNMUfQQSFf+E3lrzBN4YcYieAWvJkJhxiJOV/AQSFf+EHtrzBN4YcYiemHCJn9mxSI=;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: uu=BCYgkEnFyAbnTgPRer3qYCbQWOiZfWyMlMW3WUc7qNRSLgyO8LtISVRj2exmLe9Mlg0cl2N4kR0gbVtpAuTykpkj3vHpBrJf4TSbWhUSOt4LWY-780WSNiStiE-Mh-3sNTx9Esu334S737-AazIZTsLsNKm9V4xUw6h_J45jUn3nHOewwyasW4tbWqmUSKP15g6VWRwPPeIz2ljRZp7walrbHg2beX4bq5rTELis4PzJIe9FRRxLgGlloeYXUOAHlGAe;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: session-id=346-8173187-3992937;path=/;domain=.imdb.com;expires=Mon, 13 Jun 2016 14:26:27 GMT
+Set-Cookie: session-id-time=1465853187;path=/;domain=.imdb.com;expires=Mon, 13 Jun 2016 14:26:27 GMT
 Vary: Accept-Encoding,User-Agent
-P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="IMDB "
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Content-Length: 0
-Cneonction: close
 
