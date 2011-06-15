@@ -42,7 +42,7 @@ end
 describe "Imdb::Search with an exact match" do
   
   before(:each) do
-    @search = Imdb::Search.new("Matrix Revolutions")
+    @search = Imdb::Search.new("I killed my lesbian wife")
   end
   
   it "should find one result" do
@@ -50,6 +50,6 @@ describe "Imdb::Search with an exact match" do
   end
   
   it "should have the corrected title" do
-    @search.movies.first.title.should =~ /The Matrix Revolutions/i
+    @search.movies.first.title.should =~ /I Killed My Lesbian Wife/i
   end
 end
