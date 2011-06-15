@@ -11,7 +11,6 @@ begin
     gem.email = "ariejan@ariejan.net"
     gem.homepage = "http://github.com/ariejan/imdb"
     gem.authors = ["Ariejan de Vroom"]
-    gem.add_development_dependency "rspec"
     
     # Dependencies
     gem.add_dependency('hpricot', '>= 0.8.1')
