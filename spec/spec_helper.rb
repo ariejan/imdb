@@ -34,7 +34,7 @@ IMDB_SAMPLES = {
   "http://akas.imdb.com/title/tt0166222/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfGh0bWw9MXxjaD0xfGNvPTF8cG49MHxmdD0xfGt3PTF8cXM9SSBraWxsZWQgbXkgbGVzYmlhbiB3aWZlfHNpdGU9YWthfHE9SSBraWxsZWQgbXkgbGVzYmlhbiB3aWZlfG5tPTE_;fc=1;ft=7" => "tt0166222",
   "http://akas.imdb.com:80/chart/top" => "top_250",
   "http://akas.imdb.com/title/tt0111161/combined" => "tt0111161",
-  "http://akas.imdb.com/title/tt1352369/combined" => "tt1352369",
+  "http://akas.imdb.com/title/tt1401252/combined" => "tt1401252",
   "http://akas.imdb.com/title/tt0083987/combined" => "tt0083987",
   "http://akas.imdb.com/title/tt0036855/combined" => "tt0036855",
   "http://akas.imdb.com/title/tt0110912/combined" => "tt0110912"

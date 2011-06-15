@@ -154,16 +154,16 @@ describe "Imdb::Movie" do
   describe "with no submitted poster" do
     
     before(:each) do 
-      # Grotesque (2009)
-      @movie = Imdb::Movie.new("1352369")
+      # Up Is Down (1969)
+      @movie = Imdb::Movie.new("1401252")
     end
     
     it "should have a title" do
-      @movie.title(true).should =~ /Gurotesuku/
+      @movie.title(true).should =~ /Up Is Down/
     end
     
     it "should have a year" do 
-      @movie.year.should eql(2009)
+      @movie.year.should eql(1969)
     end
     
     it "should return nil as poster url" do
