@@ -15,7 +15,9 @@ describe Imdb::Top250 do
 
   it "should provide array like access to the movies" do
     @first = @movies.first
-    @first.title.should == "The Shawshank Redemption"
+    #@first.title.should == "The Shawshank Redemption" #not good as the titles are i18n
+    @first.id.should == "0111161"
+    @first.title.should_not be_empty
     @first.genres.should include("Drama")
   end
 end
