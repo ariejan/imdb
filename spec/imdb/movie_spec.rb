@@ -88,6 +88,10 @@ describe "Imdb::Movie" do
       @movie.rating.should eql(8.3)
     end
   
+    it "should find number of votes" do
+      @movie.votes.should be_close(210000, 100000)
+    end
+  
     it "should find the title" do
       @movie.title.should =~ /Die Hard/
     end
