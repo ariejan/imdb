@@ -2,7 +2,7 @@ require File.dirname(__FILE__) + '/../spec_helper.rb'
 
 # This test uses "Die hard (1988)" as a testing sample:
 #   
-#     http://www.imdb.com/title/tt0095016/combined
+#     http://akas.imdb.com/title/tt0095016/combined
 #
 
 describe "Imdb::Movie" do
