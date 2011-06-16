@@ -27,7 +27,7 @@ module Imdb
     end
     
     def self.query(query)
-      open("http://www.imdb.com/find?q=#{CGI::escape(query)};s=tt")
+      open("http://akas.imdb.com/find?q=#{CGI::escape(query)};s=tt")
     end
     
     def parse_movie
@@ -38,7 +38,7 @@ module Imdb
     
     # Returns true if the search yielded only one result, an exact match
     def exact_match?
-      !document.at("//h3[text()^='Overview']/..").nil?
+      !document.at("//table[@id='title-overview-widget-layout']").nil?
     end
     
   end # Search
