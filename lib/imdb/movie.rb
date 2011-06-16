@@ -12,10 +12,18 @@ module Imdb
     # will be performed when a new object is created. Only when you use an 
     # accessor that needs the remote data, a HTTP request is made (once).
     #
-    def initialize(imdb_id, title = nil)
+    def initialize(imdb_id, attributes={})
       @id = imdb_id
       @url = "http://www.imdb.com/title/tt#{imdb_id}/"
-      @title = title.gsub(/"/, "") if title
+      attributes={:title => attributes} if attributes.kind_of?(String)
+      @attributes=attributes
+      @attributes[:title] = @attributes[:title].gsub(/"/, "") if @attributes[:title]
+    end
+    
+    def reload
+      @attributes={}
+      @document=nil
+      self
     end
     
     # Returns an array with cast members
@@ -80,17 +88,13 @@ module Imdb
     end
     
     # Returns a string containing the title
-    def title(force_refresh = false)
-      if @title && !force_refresh
-        @title
-      else
-        @title = document.at("h1").innerHTML.split('<span').first.strip.imdb_unescape_html rescue nil 
-      end
+    def title
+      @attributes[:title] ||= (document.at("h1").innerHTML.split('<span').first.strip.imdb_unescape_html rescue nil)
     end
     
     # Returns an integer containing the year (CCYY) the movie was released in.
     def year
-      document.search('a[@href^="/year/"]').innerHTML.to_i
+      @attributes[:year] ||= (document.search('a[@href^="/year/"]').innerHTML.to_i rescue nil)
     end
     
     # Returns release date for the movie.

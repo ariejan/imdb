@@ -32,8 +32,7 @@ module Imdb
     
     def parse_movie
       id = document.at("head/link[@rel='canonical']")['href'][/\d+/]
-      title = document.at("h1").innerHTML.split('<span').first.strip.imdb_unescape_html
-      [Imdb::Movie.new(id, title)]
+      [Imdb::Movie.new(id)]
     end
     
     # Returns true if the search yielded only one result, an exact match

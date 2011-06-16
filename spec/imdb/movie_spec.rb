@@ -151,7 +151,7 @@ describe "Imdb::Movie" do
     end
     
     it "should have a title" do
-      @movie.title(true).should =~ /Kannethirey Thondrinal/
+      @movie.title.should =~ /Kannethirey Thondrinal/
     end
     
     it "should have a year" do 

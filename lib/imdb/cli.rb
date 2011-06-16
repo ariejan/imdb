@@ -101,7 +101,7 @@ Usage: #{File.basename($0)} Search Query
       movies = movies[0..9] # limit to ten top hits
       
       movies.each do |movie|
-        @stdout.puts " > #{movie.id} | #{movie.title}"
+        @stdout.puts " > #{movie.id} | #{movie.title} (#{movie.year})"
       end
     end
     
