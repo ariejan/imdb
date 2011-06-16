@@ -38,7 +38,7 @@ module Imdb
     
     # Returns true if the search yielded only one result, an exact match
     def exact_match?
-      !document.at("//h3[text()^='Overview']/..").nil?
+      !document.at("div.star-box").nil?
     end
     
   end # Search

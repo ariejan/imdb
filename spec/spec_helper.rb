@@ -25,7 +25,6 @@ end
 
 IMDB_SAMPLES = { 
   "http://www.imdb.com:80/find?q=Kannethirey+Thondrinal;s=tt" => "search_kannethirey_thondrinal",
-  "http://www.imdb.com/title/tt0330508/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfGh0bWw9MXxjaD0xfGNvPTF8cG49MHxmdD0xfGt3PTF8cXM9S2FubmV0aGlyZXkgVGhvbmRyaW5hbHxzaXRlPWRmfHE9S2FubmV0aGlyZXkgVGhvbmRyaW5hbHxubT0x;fc=1;ft=1" => "tt0330508",
   "http://www.imdb.com:80/find?q=Matrix+Revolutions;s=tt" => "search_matrix_revolutions",
   "http://www.imdb.com:80/find?q=Star+Trek;s=tt" => "search_star_trek",
   "http://www.imdb.com:80/title/tt0117731/" => "tt0117731",
@@ -38,7 +37,8 @@ IMDB_SAMPLES = {
   "http://www.imdb.com/title/tt0083987/" => "tt0083987",
   "http://www.imdb.com/title/tt0036855/" => "tt0036855",
   "http://www.imdb.com/title/tt0110912/" => "tt0110912",
-  "http://www.imdb.com/title/tt0330508/" => "tt0330508"
+  "http://www.imdb.com/title/tt0330508/" => "tt0330508",
+  "http://www.imdb.com/title/tt0330508/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfGh0bWw9MXxjaD0xfGNvPTF8cG49MHxmdD0xfGt3PTF8cXM9S2FubmV0aGlyZXkgVGhvbmRyaW5hbHxzaXRlPWFrYXxxPUthbm5ldGhpcmV5IFRob25kcmluYWx8bm09MQ__;fc=1;ft=1" => "tt0330508"
 }
 
 unless ENV['LIVE_TEST']

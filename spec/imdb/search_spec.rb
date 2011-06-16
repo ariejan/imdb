@@ -22,9 +22,19 @@ describe "Imdb::Search with multiple search results" do
     @search.movies.each { |movie| movie.title.should_not be_blank }
   end
   
+  it "should set the title of the movie" do
+    @search.movies.first.title.should_not be_nil
+  end
+  
+  it "should extract the title correctly (no aka)" do
+    @search.movies.each do |movie|
+      movie.title.should_not match(/\saka\s/)
+    end
+  end
+  
 end
 
-describe "Imdb::Search with an exact match and no poster" do
+describe "Imdb::Search with an exact match" do
   
   it "should not raise an exception" do
     lambda {
@@ -36,20 +46,10 @@ describe "Imdb::Search with an exact match and no poster" do
     @search = Imdb::Search.new("Kannethirey Thondrinal")
     @search.movies.first.id.should eql("0330508")
   end
-  
+
+  it "should have one movie" do  
+    @search = Imdb::Search.new("Kannethirey Thondrinal")
+    @search.movies.size.should == 1
+  end
 end
 
-describe "Imdb::Search with an exact match" do
-  
-  before(:each) do
-    @search = Imdb::Search.new("Matrix Revolutions")
-  end
-  
-  it "should find one result" do
-    @search.movies.size.should eql(1)
-  end
-  
-  it "should have the corrected title" do
-    @search.movies.first.title.should =~ /The Matrix Revolutions/i
-  end
-end
