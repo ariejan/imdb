@@ -14,7 +14,7 @@ module Imdb
     #
     def initialize(imdb_id, title = nil)
       @id = imdb_id
-      @url = "http://www.imdb.com/title/tt#{imdb_id}/"
+      @url = "http://akas.imdb.com/title/tt#{imdb_id}/combined"
       @title = title.gsub(/"/, "") if title
     end
     
@@ -29,7 +29,6 @@ module Imdb
     
     # Returns the name of the director
     def director
-      # document.at("h5[text()='Director:'] ~ a").innerHTML.strip.imdb_unescape_html rescue nil
       document.search("h5[text()^='Director'] ~ a").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
     end
     
@@ -40,12 +39,12 @@ module Imdb
 
     # Returns an array of languages as strings.
     def languages
-      document.search("h5[text()='Language:'] ~ a[@href*=/Sections/Languages/']").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
+      document.search("h5[text()='Language:'] ~ a[@href*=/language/']").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
     end
     
     # Returns the duration of the movie in minutes as an integer.
     def length
-      document.search("//h5[text()^='Runtime']/..").innerHTML[/\d+ min/].to_i rescue nil
+      document.search("//h5[text()='Runtime:']/..").innerHTML[/\d+ min/].to_i rescue nil
     end
     
     # Returns a string containing the plot.
@@ -68,7 +67,12 @@ module Imdb
     def rating
       document.at(".starbar-meta b").innerHTML.strip.imdb_unescape_html.split('/').first.to_f rescue nil
     end
-    
+
+    # Returns an int containing the number of user ratings
+    def votes
+      document.at("#tn15rating .tn15more").innerHTML.strip.imdb_unescape_html.gsub(/[^\d+]/, "").to_i rescue nil
+    end
+
     # Returns a string containing the tagline
     def tagline
       document.search("h5[text()='Tagline:'] ~ div").first.innerHTML.gsub(/<.+>.+<\/.+>/, '').strip.imdb_unescape_html rescue nil
@@ -107,7 +111,7 @@ module Imdb
     
     # Use HTTParty to fetch the raw HTML for this movie.
     def self.find_by_id(imdb_id)
-      open("http://www.imdb.com/title/tt#{imdb_id}/")
+      open("http://akas.imdb.com/title/tt#{imdb_id}/combined")
     end
     
     # Convenience method for search
