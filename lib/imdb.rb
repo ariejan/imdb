@@ -2,10 +2,10 @@ $:.unshift(File.dirname(__FILE__)) unless
   $:.include?(File.dirname(__FILE__)) || $:.include?(File.expand_path(File.dirname(__FILE__)))
 
 require 'open-uri'
-require 'net/http'
 require 'rubygems'
 require 'hpricot'
 
+require 'imdb/utils'
 require 'imdb/config'
 require 'imdb/movie'
 require 'imdb/movie_list'
