@@ -58,7 +58,7 @@ module Imdb
     
     # Returns a string containing the plot.
     def plot
-      sanitize_plot(document.search("div.star-box ~ p")[1].innerHTML.strip) rescue nil
+      sanitize_plot(document.search("div.star-box ~ p")[1].innerHTML.strip) #rescue nil
     end
     
     # Returns a string containing the URL to the movie poster.
@@ -109,9 +109,11 @@ module Imdb
       @document ||= Hpricot(Imdb::Movie.find_by_id(@id))
     end
     
-    # Use HTTParty to fetch the raw HTML for this movie.
+    # Fetch the raw body of the movie
     def self.find_by_id(imdb_id)
-      open("http://www.imdb.com/title/tt#{imdb_id}/")
+      http=Net::HTTP.new("www.imdb.com")
+      header={"Accept-Language" => "#{Imdb::Config.accept_language};q=0.8,en;q=0.5"} unless Imdb::Config.accept_language == 'en'
+      http.get("/title/tt#{imdb_id}/",header).body
     end
     
     # Convenience method for search
