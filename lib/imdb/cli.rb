@@ -36,6 +36,8 @@ Usage: #{File.basename($0)} Search Query
                 "Show the current version.") { stdout.puts "IMDB #{Imdb::VERSION}"; exit }
         opts.on("-h", "--help",
                 "Show this help message.") { stdout.puts opts; exit }
+        opts.on("-l", "--locale LOCALE", String,
+                "Language (de,en,de-de)") { |_locale| Imdb::Config.accept_language = _locale }
         opts.parse!(arguments)
 
         if mandatory_options && mandatory_options.find { |option| options[option.to_sym].nil? }
@@ -82,7 +84,7 @@ Usage: #{File.basename($0)} Search Query
       title = "#{movie.title} (#{movie.year})"
       id    = "ID #{movie.id}"
       
-      @stdout.puts
+      @stdout.puts "Locale: #{Imdb::Config.accept_language}"
       @stdout.puts "#{title}#{" " * (75 - 1 - title.length - id.length)}#{id} "
       @stdout.puts "=" * 75
       @stdout.puts "Rating: #{movie.rating}"
