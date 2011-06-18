@@ -6,7 +6,7 @@ group :development do
   gem "fakeweb","1.3.0"
   gem "rspec","1.3.2"
   gem "jeweler","1.6.2"
-#  gem "ruby-debug19"
+  gem "ruby-debug19"
 end
 
 gemspec

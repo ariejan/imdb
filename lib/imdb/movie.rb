@@ -12,12 +12,17 @@ module Imdb
     # will be performed when a new object is created. Only when you use an 
     # accessor that needs the remote data, a HTTP request is made (once).
     #
+    # params:
+    # attributes a hash of Symbol => value
+    # attributes[:locale] the locale to use for the DB query
     def initialize(imdb_id, attributes={})
       @id = imdb_id
       @url = "http://www.imdb.com/title/tt#{imdb_id}/"
       attributes={:title => attributes} if attributes.kind_of?(String)
+      @locale = attributes.delete(:locale)
       @attributes=attributes
       @attributes[:title] = @attributes[:title].gsub(/"/, "") if @attributes[:title]
+
     end
     
     def reload
@@ -114,7 +119,7 @@ module Imdb
     
     # Fetch the raw body of the movie
     def self.find_by_id(imdb_id)
-      Imdb::Utils.get_page("/title/tt#{imdb_id}/")
+      Imdb::Utils.get_page("/title/tt#{imdb_id}/",@locale)
     end
     
     # Convenience method for search
