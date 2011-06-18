@@ -153,7 +153,8 @@ describe "Imdb::Movie" do
     it "should have a title" do
       @movie.title.should =~ /Kannethirey Thondrinal/
     end
-    
+
+        
     it "should have a year" do 
       @movie.year.should eql(1998)
     end
@@ -178,4 +179,10 @@ describe "Imdb::Movie" do
       @movie.poster.should eql("http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4.jpg")
     end
   end
+
+    it "should hav an original_title" do
+      @movie = Imdb::Movie.new("0036855")
+      @movie.original_title.should == "Gaslight"
+    end
+  
 end

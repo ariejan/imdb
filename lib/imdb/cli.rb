@@ -87,6 +87,7 @@ Usage: #{File.basename($0)} Search Query
       @stdout.puts "Locale: #{Imdb::Config.accept_language}"
       @stdout.puts "#{title}#{" " * (75 - 1 - title.length - id.length)}#{id} "
       @stdout.puts "=" * 75
+      @stdout.puts "Original title: #{movie.original_title}"
       @stdout.puts "Rating: #{movie.rating}"
       @stdout.puts "Duration: #{movie.length} minutes"
       @stdout.puts "Directed by: #{movie.director.join(", ")}"

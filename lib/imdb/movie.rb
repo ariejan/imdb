@@ -91,7 +91,10 @@ module Imdb
     def title
       @attributes[:title] ||= (document.at("h1").innerHTML.split('<span').first.strip.imdb_unescape_html rescue nil)
     end
-    
+
+    def original_title
+      @attributes[:original_title] ||= (document.at("span.title-extra").innerText.gsub(/\(.*\)\s*$/,'').strip.imdb_unescape_html rescue nil)
+    end    
     # Returns an integer containing the year (CCYY) the movie was released in.
     def year
       @attributes[:year] ||= (document.search('a[@href^="/year/"]').innerHTML.to_i rescue nil)
