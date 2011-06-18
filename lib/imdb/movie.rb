@@ -112,7 +112,7 @@ module Imdb
     # Fetch the raw body of the movie
     def self.find_by_id(imdb_id)
       http=Net::HTTP.new("www.imdb.com")
-      header={"Accept-Language" => "#{Imdb::Config.accept_language};q=0.8,en;q=0.5"} unless Imdb::Config.accept_language == 'en'
+      header= {"Accept-Language" => "#{Imdb::Config.accept_language};q=0.8,en;q=0.5"}
       http.get("/title/tt#{imdb_id}/",header).body
     end
     
