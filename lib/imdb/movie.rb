@@ -114,12 +114,7 @@ module Imdb
     
     # Returns a new Hpricot document for parsing.
     def document
-      @document ||= Hpricot(Imdb::Movie.find_by_id(@id))
-    end
-    
-    # Fetch the raw body of the movie
-    def self.find_by_id(imdb_id)
-      Imdb::Utils.get_page("/title/tt#{imdb_id}/",@locale)
+      @document ||= Hpricot(Imdb::Utils.get_page("/title/tt#{@id}/",@locale))
     end
     
     # Convenience method for search
