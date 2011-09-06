@@ -10,7 +10,4 @@ require 'imdb/movie_list'
 require 'imdb/search'
 require 'imdb/top_250'
 require 'imdb/string_extensions'
-
-module Imdb
-  VERSION = File.open(File.join(File.dirname(__FILE__), '..', 'VERSION'), 'r') { |f| f.read.strip }
-end
+require 'imdb/version'

@@ -1,29 +1,7 @@
-require 'rubygems'
-require 'rake'
-load File.expand_path(File.dirname(__FILE__) + "/tasks/fixtures.rake")
+require 'bundler'
+Bundler::GemHelper.install_tasks
 
-begin
-  require 'jeweler'
-  Jeweler::Tasks.new do |gem|
-    gem.name = "imdb"
-    gem.summary = %Q{Easily access the publicly available information on IMDB.}
-    gem.description = %Q{Easily use Ruby or the command line to find information on IMDB.com.}
-    gem.email = "ariejan@ariejan.net"
-    gem.homepage = "http://github.com/ariejan/imdb"
-    gem.authors = ["Ariejan de Vroom"]
-    gem.add_development_dependency "rspec"
-    
-    # Dependencies
-    gem.add_dependency('hpricot', '>= 0.8.1')
-    
-    # Development dependencies
-    gem.add_development_dependency('fakeweb')
-    gem.add_development_dependency('rspec')
-  end
-  Jeweler::GemcutterTasks.new
-rescue LoadError
-  puts "Jeweler (or a dependency) not available. Install it with: sudo gem install jeweler"
-end
+load File.expand_path(File.dirname(__FILE__) + "/tasks/fixtures.rake")
 
 require 'spec/rake/spectask'
 Spec::Rake::SpecTask.new(:spec) do |spec|
@@ -37,20 +15,13 @@ Spec::Rake::SpecTask.new(:rcov) do |spec|
   spec.rcov = true
 end
 
-task :spec => :check_dependencies
-
 task :default => :spec
 
-require 'rake/rdoctask'
-Rake::RDocTask.new do |rdoc|
-  if File.exist?('VERSION')
-    version = File.read('VERSION')
-  else
-    version = ""
-  end
-
+require 'imdb/version'
+require 'rdoc/task'
+RDoc::Task.new do |rdoc|
   rdoc.rdoc_dir = 'rdoc'
-  rdoc.title = "imdb #{version}"
+  rdoc.title = "imdb #{Imdb::VERSION}"
   rdoc.rdoc_files.include('README*')
   rdoc.rdoc_files.include('lib/**/*.rb')
 end
