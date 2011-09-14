@@ -144,7 +144,7 @@ describe "Imdb::Movie" do
   describe "plot" do
     it "should find a correct plot when HTML links are present" do
       movie = Imdb::Movie.new("0083987")
-      movie.plot.should eql("Biography of Mahatma Gandhi, the lawyer who became the famed leader of the Indian revolts against the British through his philosophy of non-violent protest.")
+      movie.plot.should eql("Biography of 'Mahatma Gandhi' , the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of non-violent protest.")
     end
     
     it "should not have a 'more' link in the plot" do
@@ -187,7 +187,7 @@ describe "Imdb::Movie" do
     it "should return the release date for movies" do
       movie = Imdb::Movie.new('0111161')
       # FIXME: this date is geo-localized, leading to false positives
-      movie.release_date.should eql("9 March 1995 (Germany)")
+      movie.release_date.should eql("2 March 1995 (Netherlands)")
     end
   end
 
