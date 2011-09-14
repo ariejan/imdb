@@ -23,7 +23,15 @@ module Imdb
         title = title.imdb_strip_tags.imdb_unescape_html
         title.gsub!(/\s+\(\d\d\d\d\)$/, '')
         
-        [id, title]
+        alternative_titles = []
+
+        if title =~ /\saka\s/
+          titles = title.split(/\saka\s/)
+          title = titles.shift.strip.imdb_unescape_html
+          alternative_titles = titles.map { |t| t.strip.imdb_strip_tags.imdb_unescape_html }
+        end
+        
+        [id, title, alternative_titles]
       end.uniq.map do |values|
         Imdb::Movie.new(*values)
       end

@@ -22,6 +22,29 @@ describe "Imdb::Search with multiple search results" do
     @search.movies.each { |movie| movie.title.should_not be_blank }
   end
   
+  it "should return only the title of the result" do
+    @search.movies.first.title.should eql("Star Trek (1966) (TV series)")
+  end
+  
+  it "should return aka titles as well" do
+    alt_titles = [
+      '"Star Trek: TOS" - USA (promotional abbreviation)',
+      '"Star Trek: The Original Series" - USA (informal title)',
+      '"Viaje a las estrellas" - Argentina, Mexico',
+      '"Jornada nas Estrelas" - Brazil',
+      '"La conquista del espacio" - Spain',
+      '"La patrouille du cosmos" - Canada (French title)',
+      '"Raumschiff Enterprise" - West Germany',
+      '"Star Trek" - France',
+      '"Star Trek" - Greece',
+      '"Star Trek" - Italy',
+      '"Star Trek: The Original Series" - Spain',
+      '"Uchuu Daisakusen" - Japan (first season title)',
+      '"Uzay yolu" - Turkey (Turkish title)']
+      
+    alt_titles.each { |aka| @search.movies.first.also_known_as.should include(aka) }
+  end
+  
 end
 
 describe "Imdb::Search with an exact match and no poster" do
