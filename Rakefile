@@ -18,10 +18,18 @@ end
 task :default => :spec
 
 require 'imdb/version'
-require 'rdoc/task'
-RDoc::Task.new do |rdoc|
+require 'hanna/rdoctask'
+Rake::RDocTask.new(:rdoc) do |rdoc|
   rdoc.rdoc_dir = 'rdoc'
-  rdoc.title = "imdb #{Imdb::VERSION}"
+  rdoc.title = "imdb #{Imdb::VERSION} documentation"
   rdoc.rdoc_files.include('README*')
   rdoc.rdoc_files.include('lib/**/*.rb')
+  rdoc.options << '--webcvs=http://github.com/ariejan/imdb/tree/master/'
+end
+
+require 'gokdok'
+Gokdok::Dokker.new do |gd|
+  gd.repo_url = "git@github.com:ariejan/imdb.git"
+  gd.doc_home = "rdoc"
+  gd.remote_path = "."
 end

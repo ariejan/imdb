@@ -1,6 +1,8 @@
 pkg/*
 doc/*
+rdoc/*
 *.gem
 .bundle
 Gemfile.lock
 .rvmrc
+.gh_pages
