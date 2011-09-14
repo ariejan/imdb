@@ -71,6 +71,17 @@ describe "Imdb::Movie" do
       languages.should include('German')
       languages.should include('Italian')
     end
+    
+    it "should find the countries" do
+      # The Dark Knight (2008)
+      @movie = Imdb::Movie.new("0468569")
+      countries = @movie.countries
+
+      countries.should be_an(Array)
+      countries.size.should eql(2)
+      countries.should include('USA')
+      countries.should include('UK')
+    end    
 
     it "should find the length (in minutes)" do
       @movie.length.should eql(131)
