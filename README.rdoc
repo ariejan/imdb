@@ -1,8 +1,10 @@
 = imdb
 
-The code, issue tracker and wiki can be found at:
+Allows you to search and inspect movies from IMDB.com.
 
-* http://github.com/ariejan/imdb
+The code, issue tracker and wiki can be found at: http://github.com/ariejan/imdb
+
+API documentation is available at http://ariejan.github.com/imdb/
 
 == DESCRIPTION:
 
@@ -54,13 +56,13 @@ All required gems are installed automagically through RubyGems.
 
 == DOCUMENTATION:
 
-This README and generated RDoc documentation are available from http://rdoc.info/projects/ariejan/imdb
+This README and generated RDoc documentation are available from http://ariejan.github.com/imdb/
 
 == TESTING:
 
 You'll need rspec and fakeweb installed to run the specs. Y
 
-    $ gem install rspec fakeweb
+    $ bundle install
     $ rake spec
 
 Although not recommended, you may run the specs against the live imdb.com 
