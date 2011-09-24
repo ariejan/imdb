@@ -27,7 +27,23 @@ module Imdb
     def cast_member_ids
       document.search("table.cast td.nm a").map {|l| l['href'].sub(%r{^/name/(.*)/}, '\1') }
     end
+
+    # Returns an array with cast characters
+    def cast_characters
+      document.search("table.cast td.char").map { |link| link.innerText } rescue []
+    end
     
+    # Returns an array with cast members and characters
+    def cast_members_characters(sep = '=>')
+      memb_char = Array.new
+      i = 0
+      self.cast_members.each{|m|
+        memb_char[i] = "#{self.cast_members[i]} #{sep} #{self.cast_characters[i]}"
+        i=i+1
+      }
+      return memb_char
+    end
+
     # Returns the name of the director
     def director
       document.search("h5[text()^='Director'] ~ a").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
