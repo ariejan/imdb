@@ -7,6 +7,7 @@ require 'hpricot'
 
 require 'imdb/imdb_base'
 require 'imdb/episode'
+require 'imdb/season'
 require 'imdb/movie'
 require 'imdb/serie'
 require 'imdb/movie_list'

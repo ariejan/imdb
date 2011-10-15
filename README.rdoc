@@ -1,10 +1,6 @@
 = imdb
 
-Allows you to search and inspect movies from IMDB.com.
-
-The code, issue tracker and wiki can be found at: http://github.com/ariejan/imdb
-
-API documentation is available at http://ariejan.github.com/imdb/
+Allows you to search and inspect movies and series from IMDB.com.
 
 == DESCRIPTION:
 
@@ -17,6 +13,7 @@ IMDB currently features the following:
 * Querying details movie info
 * Searching for movies
 * Command-line utility included.
+* Quering details serie info (season, episode)
 
 == SYNOPSIS:
 
@@ -28,6 +25,17 @@ Movies:
   #=> "Die Hard"
   i.cast_members.first
   #=> "Bruce Willis"
+
+Serie:
+
+  s = Imdb::Serie.new("0773262")
+  season = s.seasons.first
+  e = season.episodes.last
+
+  e.title
+  #=> "Born Free"
+  e.synopsis
+  #=> "Dexter races against the clock..."
 
 Searching:
 
@@ -56,7 +64,6 @@ All required gems are installed automagically through RubyGems.
 
 == DOCUMENTATION:
 
-This README and generated RDoc documentation are available from http://ariejan.github.com/imdb/
 
 == TESTING:
 

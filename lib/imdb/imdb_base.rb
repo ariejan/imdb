@@ -1,6 +1,6 @@
 module Imdb
   
-  # Represents a Movie on IMDB.com
+  # Represents a ImdbBase
   class ImdbBase
     attr_accessor :id, :url, :title, :also_known_as
     
