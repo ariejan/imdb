@@ -103,9 +103,28 @@ module Imdb
       document.search('a[@href^="/year/"]').innerHTML.to_i
     end
     
-    # Returns release date for the movie.
-    def release_date
-      sanitize_release_date(document.search('h5[text()*=Release Date]').first.next_sibling.innerHTML.to_s) rescue nil
+    # Returns date of the movie release (either if full date or month and year available)
+    # See http://www.imdb.com/country/ for a list of countries to use as an argument
+    def release_date(country = nil)
+      if country.nil?
+        Date.parse(release_info.at("td[@align*=right]").inner_text) rescue nil
+      else
+        countries = []
+        dates = []
+        
+        release_info.search("a[@href*=calendar]").each do |x| 
+          (countries << x.inner_text.downcase) rescue []
+        end
+        
+        release_info.search("td[@align*=right]").each do |x|
+          (dates << x.inner_text) rescue []
+        end
+        
+        i = countries.index(country.downcase) rescue nil
+        return nil if i.nil?
+        return nil if year_only?(dates[i])
+        Date.parse(dates[i]) rescue nil
+      end
     end
 
     private
@@ -115,9 +134,13 @@ module Imdb
       @document ||= Hpricot(Imdb::Movie.find_by_id(@id))
     end
     
+    def release_info
+      @release_info ||= Hpricot(Imdb::Movie.find_by_id(@id, "releaseinfo"))
+    end
+    
     # Use HTTParty to fetch the raw HTML for this movie.
-    def self.find_by_id(imdb_id)
-      open("http://akas.imdb.com/title/tt#{imdb_id}/combined")
+    def self.find_by_id(imdb_id, page = "combined")
+      open("http://akas.imdb.com/title/tt#{imdb_id}/#{page}")
     end
     
     # Convenience method for search
@@ -141,12 +164,8 @@ module Imdb
       the_plot = the_plot.strip.imdb_unescape_html
     end
     
-    def sanitize_release_date(the_release_date)
-      the_release_date = the_release_date.gsub(/<a.*a>/,"")
-      the_release_date = the_release_date.gsub(/&nbsp;|&raquo;/i, "")
-      the_release_date = the_release_date.gsub(/see|more/i, "")
-      
-      the_release_date = the_release_date.strip.imdb_unescape_html
+    def year_only?(string)
+      (string =~ /^\d{4}$/) != nil
     end
     
   end # Movie
