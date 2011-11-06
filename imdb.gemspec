@@ -3,14 +3,14 @@ $:.push File.expand_path("../lib", __FILE__)
 require "imdb/version"
 
 Gem::Specification.new do |s|
-  s.name        = "imdb"
+  s.name        = "imdb_parser"
   s.version     = Imdb::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Ariejan de Vroom"]
-  s.email       = ["ariejan@ariejan.net"]
-  s.homepage    = "http://github.com/ariejan/imdb"
-  s.summary     = %q{Easily access the publicly available information on IMDB.}
-  s.description = %q{Easily use Ruby or the command line to find information on IMDB.com.}
+  s.authors     = ["Matthieu Lamarque"]
+  s.email       = ["lamarque.matthieu@gmail.com"]
+  s.homepage    = "http://github.com/mlamarque/imdb"
+  s.summary     = %q{Access to Movie, Serie on Imdb.com}
+  s.description = %q{Easily use Ruby or the command line to find Movie, Serie information on IMDB.com.}
 
   s.rubyforge_project = "imdb"
 
