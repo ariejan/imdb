@@ -1,5 +1,5 @@
 require File.dirname(__FILE__) + '/../spec_helper.rb'
-
+require 'active_support/core_ext'
 # This test uses "Die hard (1988)" as a testing sample:
 #   
 #     http://akas.imdb.com/title/tt0095016/combined
@@ -50,7 +50,7 @@ describe "Imdb::Movie" do
    
     it "should find the director" do
       @movie.director.should be_an(Array)
-      @movie.director.size.should eql(1)
+      @movie.director.size.should == 1
       @movie.director.first.should =~ /John McTiernan/
     end
   
@@ -78,13 +78,13 @@ describe "Imdb::Movie" do
       countries = @movie.countries
 
       countries.should be_an(Array)
-      countries.size.should eql(2)
+      countries.size.should == 2
       countries.should include('USA')
       countries.should include('UK')
     end    
 
     it "should find the length (in minutes)" do
-      @movie.length.should eql(131)
+      @movie.length.should == 131
     end
   
     it "should find the plot" do
@@ -96,11 +96,11 @@ describe "Imdb::Movie" do
     end
   
     it "should find the rating" do
-      @movie.rating.should eql(8.3)
+      @movie.rating.should == 8.3
     end
   
     it "should find number of votes" do
-      @movie.votes.should be_close(210000, 100000)
+      @movie.votes.should be_within(100000).of(210000)
     end
   
     it "should find the title" do
@@ -112,7 +112,7 @@ describe "Imdb::Movie" do
     end
   
     it "should find the year" do
-      @movie.year.should eql(1988)
+      @movie.year.should == 1988
     end
     
     describe "special scenarios" do
@@ -122,7 +122,7 @@ describe "Imdb::Movie" do
         movie = Imdb::Movie.new("0242653")
       
         movie.director.should be_an(Array)
-        movie.director.size.should eql(2)
+        movie.director.size.should == 2
         movie.director.should include("Lana Wachowski")
         movie.director.should include("Andy Wachowski")
       end
@@ -144,12 +144,12 @@ describe "Imdb::Movie" do
   describe "plot" do
     it "should find a correct plot when HTML links are present" do
       movie = Imdb::Movie.new("0083987")
-      movie.plot.should eql("Biography of 'Mahatma Gandhi' , the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of non-violent protest.")
+      movie.plot.should == "Biography of 'Mahatma Gandhi' , the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of non-violent protest."
     end
     
     it "should not have a 'more' link in the plot" do
       movie = Imdb::Movie.new("0036855")
-      movie.plot.should eql("Years after her aunt was murdered in her home, a young woman moves back into the house with her new husband. However, he has a secret which he will do anything to protect, even if that means driving his wife insane.")
+      movie.plot.should == "Years after her aunt was murdered in her home, a young woman moves back into the house with her new husband. However, he has a secret which he will do anything to protect, even if that means driving his wife insane."
     end
   end
   
@@ -165,6 +165,74 @@ describe "Imdb::Movie" do
     end
   end
   
+  describe "release date" do
+    it "should be a Date type" do
+      # The Matrix Revolutions (2003)
+      @movie = Imdb::Movie.new("0242653")
+      @movie.release_date.should be_a(Date)
+    end
+    
+    it "should return original movie release date" do
+      # The Matrix Revolutions (2003)
+      @movie = Imdb::Movie.new("0242653")
+      @movie.release_date.should == "2003-10-27".to_date
+    end
+    
+    it "should return movie release date for a specific country" do
+      # The Matrix Revolutions (2003)
+      @movie = Imdb::Movie.new("0242653")
+      @movie.release_date("Malta").should == "2003-11-19".to_date
+    end
+    
+    it "should return original movie release date if no exact date available" do
+      # Pulp Fiction (1994)
+      @movie = Imdb::Movie.new("0110912")
+      @movie.release_date.should == "1994-05-01".to_date
+    end
+    
+    it "should return movie release date for a specific country if no exact date available" do
+      # Pulp Fiction (1994)
+      @movie = Imdb::Movie.new("0110912")
+      @movie.release_date("Spain").should == "1994-09-01".to_date
+    end
+    
+    it "should return first release date if more then one date available for a specific country" do
+      # Pulp Fiction (1994)
+      @movie = Imdb::Movie.new("0110912")
+      @movie.release_date("USA").should == "1994-09-23".to_date
+    end
+    
+    it "should return nil for a specific country if only the year available" do
+      # Pulp Fiction (1994)
+      @movie = Imdb::Movie.new("0110912")
+      @movie.release_date("Peru").should be_nil
+    end
+    
+    it "should return nil if only the year available" do
+      # Up is Down (1969)
+      @movie = Imdb::Movie.new("1401252")
+      @movie.release_date.should be_nil
+    end
+    
+    it "should return nil for a specific country where movie was not released" do
+      # Pulp Fiction (1994)
+      @movie = Imdb::Movie.new("0110912")
+      @movie.release_date("Zimbabwe").should be_nil
+    end
+    
+    it "should return nil if no release dates available at all" do
+      # The Tao of Pez (2009)
+      @movie = Imdb::Movie.new("1403252")
+      @movie.release_date.should be_nil
+    end
+    
+    it "should return correct release date for a country regardless of the case" do
+      # Pulp Fiction (1994)
+      @movie = Imdb::Movie.new("0110912")
+      @movie.release_date("sOuTh KOREA").should == "1994-09-10".to_date
+    end
+  end
+  
   describe "with no submitted poster" do
     
     before(:each) do 
@@ -177,18 +245,13 @@ describe "Imdb::Movie" do
     end
     
     it "should have a year" do 
-      @movie.year.should eql(1969)
+      @movie.year.should == 1969
     end
     
     it "should return nil as poster url" do
       @movie.poster.should be_nil
     end
 
-    it "should return the release date for movies" do
-      movie = Imdb::Movie.new('0111161')
-      # FIXME: this date is geo-localized, leading to false positives
-      movie.release_date.should eql("2 March 1995 (Netherlands)")
-    end
   end
 
   describe "with an old poster (no @@)" do
@@ -198,7 +261,7 @@ describe "Imdb::Movie" do
     end
 
     it "should have a poster" do
-      @movie.poster.should eql("http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4.jpg")
+      @movie.poster.should == "http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4.jpg"
     end
   end
 end
