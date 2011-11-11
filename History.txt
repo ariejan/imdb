@@ -2,6 +2,7 @@
 
 -> No history was kept, so here's a short changelog since 2010-02-14 based on git:
 
+mlamarque - 2011-11-06 22:45:00 - Add Serie Support
 ariejan - 2011-09-14 21:37:06 +0200 - Tested against latest IMDB site
 ariejan - 2011-09-14 21:30:51 +0200 - Ignore .rvmrc
 ariejan - 2011-09-14 12:27:16 -0700 - Merge pull request #21 from defeed/master
