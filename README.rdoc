@@ -63,7 +63,7 @@ This README and generated RDoc documentation are available from http://ariejan.g
 You'll need rspec and fakeweb installed to run the specs. Y
 
     $ bundle install
-    $ rake spec
+    $ bundle exec spec spec
 
 Although not recommended, you may run the specs against the live imdb.com 
 website. This will make a lot of calls to imdb.com, use it wisely. 
