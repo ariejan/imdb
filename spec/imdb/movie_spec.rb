@@ -1,4 +1,4 @@
-require File.dirname(__FILE__) + '/../spec_helper.rb'
+require 'spec_helper'
 
 # This test uses "Die hard (1988)" as a testing sample:
 #

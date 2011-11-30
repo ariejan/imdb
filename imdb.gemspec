@@ -21,9 +21,9 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'hpricot', '~> 0.8.4'
 
-  s.add_development_dependency 'rdoc'
-  s.add_development_dependency 'hanna'
-  s.add_development_dependency 'gokdok'
+  s.add_development_dependency 'rake', '~> 0.9.2'
   s.add_development_dependency 'rspec', '~> 1.3.2'
+  s.add_development_dependency 'gokdok'
+  s.add_development_dependency 'rdoc', '~> 3.11'
   s.add_development_dependency 'fakeweb'
 end

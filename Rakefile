@@ -18,8 +18,8 @@ end
 task :default => :spec
 
 require 'imdb/version'
-require 'hanna/rdoctask'
-Rake::RDocTask.new(:rdoc) do |rdoc|
+require 'rdoc/task'
+RDoc::Task.new(:rdoc) do |rdoc|
   rdoc.rdoc_dir = 'rdoc'
   rdoc.title = "imdb #{Imdb::VERSION} documentation"
   rdoc.rdoc_files.include('README*')
