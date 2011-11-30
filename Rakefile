@@ -20,6 +20,7 @@ task :default => :spec
 require 'imdb/version'
 require 'rdoc/task'
 RDoc::Task.new(:rdoc) do |rdoc|
+  rdoc.main = 'README.rdoc'
   rdoc.rdoc_dir = 'rdoc'
   rdoc.title = "imdb #{Imdb::VERSION} documentation"
   rdoc.rdoc_files.include('README*')

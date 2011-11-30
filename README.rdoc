@@ -1,16 +1,14 @@
 = imdb
 
-Allows you to search and inspect movies from IMDB.com.
+home :: http://github.com/ariejan/imdb
+rdoc :: http://ariejan.github.com/imdb/
+bugs :: http://github.com/ariejan/imdb/issues
 
-The code, issue tracker and wiki can be found at: http://github.com/ariejan/imdb
+== Description
 
-API documentation is available at http://ariejan.github.com/imdb/
+This gem allows you to easy access publicly available data from IMDB.
 
-== DESCRIPTION:
-
-This packages allows you to easy access publicly available data from IMDB. 
-
-== FEATURES/PROBLEMS:
+== Features
 
 IMDB currently features the following:
 
@@ -18,16 +16,16 @@ IMDB currently features the following:
 * Searching for movies
 * Command-line utility included.
 
-== SYNOPSIS:
+== Synopsis
 
 Movies:
 
-  i = Imdb::Movie.new("0095016")
-  
-  i.title
-  #=> "Die Hard"
-  i.cast_members.first
-  #=> "Bruce Willis"
+    i = Imdb::Movie.new("0095016")
+    
+    i.title
+    #=> "Die Hard"
+    i.cast_members.first
+    #=> "Bruce Willis"
 
 Searching:
 
@@ -35,38 +33,32 @@ Searching:
 
     i.movies.size
     #=> 97
-    
+
 Using the command line utility is quite easy:
 
     $ imdb Star Trek
-    
+
 or to get movie info
 
     $ imdb 0095016
 
-== REQUIREMENTS:
+== Installation
 
-All required gems are installed automagically through RubyGems.
+    $ gem install imdb
 
-* Hpricot 0.8.1
-
-== INSTALL:
-
-    $ sudo gem install imdb -s http://gemcutter.org
-
-== DOCUMENTATION:
+== Documentation
 
 This README and generated RDoc documentation are available from http://ariejan.github.com/imdb/
 
-== TESTING:
+== Running tests
 
-You'll need rspec and fakeweb installed to run the specs. Y
+You'll need rspec and fakeweb installed to run the specs.
 
     $ bundle install
     $ bundle exec rake spec
 
 Although not recommended, you may run the specs against the live imdb.com 
-website. This will make a lot of calls to imdb.com, use it wisely. 
+website. This will make a lot of calls to imdb.com, use it wisely.
 
     $ LIVE_TEST=true bundle exec rake spec
 
@@ -75,7 +67,7 @@ fixtures:refresh rake task
 
     $ bundle exec rake fixtures:refresh
 
-== LICENSE:
+== License
 
 (The MIT License)
 
