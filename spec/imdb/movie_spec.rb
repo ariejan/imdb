@@ -22,6 +22,32 @@ describe "Imdb::Movie" do
       cast.should include("Bonnie Bedelia")
       cast.should include("Alan Rickman")
     end
+  
+    it "should find the cast characters" do
+      char = @movie.cast_characters
+    
+      char.should be_an(Array)
+      char.should include("Karl")
+      char.should include("Officer John McClane")
+      char.should include("Police Detective (uncredited)")
+      char.should include("Hostage")
+    end
+
+    it "should associates the cast members to the charachters" do
+      cast = @movie.cast_members
+      char = @movie.cast_characters
+      cast_char = @movie.cast_members_characters
+      
+      cast_char[0].should eql("#{cast[0]} => #{char[0]}")
+      cast_char[10].should eql("#{cast[10]} => #{char[10]}")
+      cast_char[-1].should eql("#{cast[-1]} => #{char[-1]}")
+      
+      cast_char = @movie.cast_members_characters('as')
+
+      cast_char[1].should eql("#{cast[1]} as #{char[1]}")
+      cast_char[11].should eql("#{cast[11]} as #{char[11]}")
+      cast_char[-2].should eql("#{cast[-2]} as #{char[-2]}")
+    end
 
     describe 'fetching a list of imdb actor ids for the cast members' do
       it 'should not require arguments' do
