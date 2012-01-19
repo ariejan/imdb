@@ -168,6 +168,16 @@ describe "Imdb::Movie" do
         # The Matrix Revolutions (2003)
         movie = Imdb::Movie.new("0242653")
 
+        movie.directors.should be_an(Array)
+        movie.directors.size.should eql(2)
+        movie.directors.should include({:name=>"Lana Wachowski", :imdb_id=>"nm0905154"})
+        movie.directors.should include({:name=>"Andy Wachowski", :imdb_id=>"nm0905152"})
+      end
+      
+      it "should find multiple directors" do
+        # The Matrix Revolutions (2003)
+        movie = Imdb::Movie.new("0242653")
+
         movie.director.should be_an(Array)
         movie.director.size.should eql(2)
         movie.director.should include("Lana Wachowski")
