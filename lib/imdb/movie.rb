@@ -19,6 +19,22 @@ module Imdb
       @also_known_as = also_known_as
     end
 
+    # Returns an array of cast members hashes
+    def actors
+      cast = []
+      document.search("table.cast tr").each do |tr|
+        member = {}
+        tr.search("td.nm a") do |td|
+          member[:name] = td.innerHTML.strip.imdb_unescape_html  
+          member[:imdb_id] = td['href'].sub(%r{^/name/(.*)/}, '\1') 
+        end
+        member[:character] = tr.search("td.char a").innerHTML.strip.imdb_unescape_html   
+        cast << member
+      end
+      cast
+      rescue []
+    end
+
     # Returns an array with cast members
     def cast_members
       document.search("table.cast td.nm a").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
@@ -43,7 +59,20 @@ module Imdb
       }
       return memb_char
     end
-
+    
+    # Returns a array of the director hashes
+    def directors
+      directors = []
+      document.search("h5[text()^='Director'] ~ a").each do |a|
+        director = {}
+        director[:name] = a.innerHTML.strip.imdb_unescape_html
+        director[:imdb_id] = a['href'].sub(%r{^/name/(.*)/}, '\1') 
+        directors << director
+      end
+      directors
+      rescue []
+    end
+    
     # Returns the name of the director
     def director
       document.search("h5[text()^='Director'] ~ a").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
