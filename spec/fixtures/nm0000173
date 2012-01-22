@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 22 Jan 2012 03:16:09 GMT
+Server: Server
+Cache-Control: private
+Location: http://akas.imdb.com/name/nm0000173/
+Cneonction: close
+Content-Type: text/plain
+Set-Cookie: uu=BCYiIJs_kzGZ_kw26eHINVAt-HFRhQVKz4ephQXXIR8VAgKygSHxqxAFRm7WqMeRHAoHfp1gzphEuDWfRR_5-iiByoXOqIkaajQfvhENy1pd5Uz9wvO5gpsIVBTQFcy_Jy5opROj2db6gDERSP-tAG7xzCbk8o4uw3Sq9xTAaurA7H8;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Vary: Accept-Encoding,User-Agent
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Content-Length: 0
+

@@ -6,3 +6,4 @@ rdoc/*
 Gemfile.lock
 .rvmrc
 .gh_pages
+*.swp
