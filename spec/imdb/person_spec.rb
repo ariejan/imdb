@@ -28,7 +28,14 @@ describe "Imdb::Person" do
       dob.should include("1967-06-20")
     end
 
-    it "should get a list of the person's roles"
+    it "should get a list of the person's roles" do
+      roles = @person.roles
+
+      roles.should be_an(Array)
+      roles.should include("Actress")
+      roles.should include("Producer")
+      roles.should include("Soundtrack")
+    end
 
   end
 

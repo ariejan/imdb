@@ -31,6 +31,12 @@ module Imdb
       document.search("time[@itemprop=birthDate]").map { |link| link.get_attribute("datetime").to_s }[0]
     end
 
+    def roles
+      rolestring = document.search("div[@class=infobar]").map { |link| link.innerText }
+      roles = rolestring[0].split("|")
+      roles.map { |r| r.gsub(/[^[A-Za-z]]/, '') }
+    end
+
     # Returns a new Hpricot document for parsing.
     def document
       @document ||= Hpricot(Imdb::Person.find_by_id(@id))
