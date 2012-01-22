@@ -27,6 +27,10 @@ module Imdb
       end
     end
 
+    def birth_date
+      document.search("time[@itemprop=birthDate]").map { |link| link.get_attribute("datetime").to_s }[0]
+    end
+
     # Returns a new Hpricot document for parsing.
     def document
       @document ||= Hpricot(Imdb::Person.find_by_id(@id))
