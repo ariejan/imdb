@@ -14,7 +14,7 @@ module Imdb
     #
     def initialize(imdb_id, name = nil)
       @id = imdb_id
-      @url = "http://akas.imdb.com/name/nm#{imdb_id}"
+      @url = "http://akas.imdb.com/name/nm#{imdb_id}/"
       @name = name.gsub(/"/, "") if name
     end
 
@@ -44,7 +44,7 @@ module Imdb
 
     # Use HTTParty to fetch the raw HTML for this person.
     def self.find_by_id(imdb_id)
-      open("http://akas.imdb.com/name/nm#{imdb_id}")
+      open("http://akas.imdb.com/name/nm#{imdb_id}/")
     end
 
   end # Person
