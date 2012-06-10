@@ -14,6 +14,15 @@ describe "Imdb::Movie" do
       @movie = Imdb::Movie.new("0095016")
     end
 
+    it "should find the actors list" do
+      cast = @movie.actors
+
+      cast.should be_an(Array)
+      cast.should include({:name=>"Bruce Willis", :character=>"Officer John McClane", :imdb_id=>"nm0000246" })
+      cast.should include({:name=>"Bonnie Bedelia", :imdb_id=>"nm0000889", :character=>"Holly Gennaro McClane"})
+      cast.should include({:name=>"Alan Rickman", :imdb_id=>"nm0000614", :character=>"Hans Gruber"})
+    end
+
     it "should find the cast members" do
       cast = @movie.cast_members
 
@@ -77,6 +86,13 @@ describe "Imdb::Movie" do
     it "returns the url to the movie trailer" do
       @movie.trailer_url.should be_an(String)
       @movie.trailer_url.should == 'http://imdb.com/video/screenplay/vi581042457/'
+    end
+
+    it "should find the directors" do
+      @movie.directors.should be_an(Array)
+      @movie.directors.size.should eql(1)
+
+      @movie.directors.should include({:name=>"John McTiernan", :imdb_id=>"nm0001532" })
     end
 
     it "should find the director" do
@@ -148,6 +164,16 @@ describe "Imdb::Movie" do
 
     describe "special scenarios" do
 
+      it "should find multiple directors" do
+        # The Matrix Revolutions (2003)
+        movie = Imdb::Movie.new("0242653")
+
+        movie.directors.should be_an(Array)
+        movie.directors.size.should eql(2)
+        movie.directors.should include({:name=>"Lana Wachowski", :imdb_id=>"nm0905154"})
+        movie.directors.should include({:name=>"Andy Wachowski", :imdb_id=>"nm0905152"})
+      end
+      
       it "should find multiple directors" do
         # The Matrix Revolutions (2003)
         movie = Imdb::Movie.new("0242653")
