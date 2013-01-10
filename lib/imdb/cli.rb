@@ -12,7 +12,7 @@ module Imdb
     # Get a movie, supply a 7 digit IMDB id or the IMDB URL
     #
     #   imdb 0095016
-    #   imdb http://akas.imdb.com/title/tt0796366/
+    #   imdb http://www.imdb.com/title/tt0796366/
     #
     def self.execute(stdout, arguments=[])
       
