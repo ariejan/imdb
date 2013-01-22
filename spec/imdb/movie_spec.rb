@@ -122,6 +122,14 @@ describe "Imdb::Movie" do
       @movie.plot.should eql("New York cop John McClane gives terrorists a dose of their own medicine as they hold hostages in an LA office building.")
     end
 
+    it "should find plot synopsis" do
+      @movie.plot_synopsis.should =~ /John McClane, a detective with the New York City Police Department, arrives in Los Angeles to attempt a Christmas reunion and reconciliation with his estranged wife Holly, who is attending a party thrown by her employer, the Nakatomi Corporation at its still-unfinished American branch office headquarters, the high-rise Nakatomi Plaza. When McClane refreshes himself from the flight in Holly's corporate room, they have an argument over the use of her maiden name, Gennero, but Holly is called away/
+    end
+
+    it "should find plot summary" do
+      @movie.plot_summary.should eql("New York City Detective John McClane has just arrived in Los Angeles to spend Christmas with his wife. Unfortunatly, it is not going to be a Merry Christmas for everyone. A group of terrorists, led by Hans Gruber is holding everyone in the Nakatomi Plaza building hostage. With no way of anyone getting in or out, it's up to McClane to stop them all. All 12!")
+    end
+
     it "should find the poster" do
       @movie.poster.should eql("http://ia.media-imdb.com/images/M/MV5BMTIxNTY3NjM0OV5BMl5BanBnXkFtZTcwNzg5MzY0MQ@@.jpg")
     end

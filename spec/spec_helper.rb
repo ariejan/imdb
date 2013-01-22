@@ -30,6 +30,8 @@ IMDB_SAMPLES = {
   "http://akas.imdb.com:80/find?q=Star+Trek;s=tt" => "search_star_trek",
   "http://akas.imdb.com:80/title/tt0117731/combined" => "tt0117731",
   "http://akas.imdb.com:80/title/tt0095016/combined" => "tt0095016",
+  "http://akas.imdb.com/title/tt0095016/synopsis" => "synopsis",
+  "http://akas.imdb.com/title/tt0095016/plotsummary" => "plotsummary",
   "http://akas.imdb.com:80/title/tt0242653/combined" => "tt0242653",
   "http://akas.imdb.com/title/tt0166222/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfGh0bWw9MXxjaD0xfGNvPTF8cG49MHxmdD0xfGt3PTF8cXM9SSBraWxsZWQgbXkgbGVzYmlhbiB3aWZlfHNpdGU9YWthfHE9SSBraWxsZWQgbXkgbGVzYmlhbiB3aWZlfG5tPTE_;fc=1;ft=7" => "tt0166222",
   "http://akas.imdb.com:80/chart/top" => "top_250",
