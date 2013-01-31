@@ -74,9 +74,9 @@ module Imdb
       document.search("//h5[text()='Runtime:']/..").innerHTML[/\d+ min/].to_i rescue nil
     end
 
-    # Returns the production company
-    def production_company
-      document.search("h5[text()='Production Co:'] ~ a[@href*=/company/']").map { |link| link.innerHTML.strip.imdb_unescape_html } rescue []
+    # Returns the company
+    def company
+      document.search("h5[text()='Company:'] ~ a[@href*=/company/']").map { |link| link.innerHTML.strip.imdb_unescape_html }.first rescue nil
     end
 
     # Returns a string containing the plot.
