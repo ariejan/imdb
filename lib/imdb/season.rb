@@ -17,7 +17,7 @@ module Imdb
 
       document.search("div.eplist a[@itemprop*=name]").each_with_index do |link, index|
         @episodes << Imdb::Episode.new(
-          link[:href].scan(/\d+/),
+          link[:href].scan(/\d+/).first,
           @season_number,
           index + 1,
           link.innerHTML.strip.imdb_unescape_html

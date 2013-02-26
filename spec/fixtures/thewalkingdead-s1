@@ -1,12 +1,12 @@
 HTTP/1.1 200 OK
-Date: Tue, 26 Feb 2013 21:44:53 GMT
+Date: Tue, 26 Feb 2013 22:32:46 GMT
 Server: Server
 Content-Type: text/html;charset=UTF-8
 Content-Language: en-US
 Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYk8M9dUmS910CTrzC7Y%2FC1ckwOgOOFzjQBmBWs7kUSjrdMK29AdIF57YIldDXsx9QPz4UBiPQ0%0D%0Aq%2Ba6m5ISlcWbAPH3rHl0vbpe%2BeUXIxjJMRQaGGvK73rv7Uf0v25THdxEUmQby14BRDLNTA7kcF29%0D%0AjepFSXYFdZbyS4Sv%2F70J6SAQkHcqCP3m89MZX0IY1t4FzwPqsgzkGvgotbnCvXccxibjYF6gjTtl%0D%0AES%2Bcxq6nl7ZdZDwFac5jsRBZbnnaoNJ2jgSJv8cQTuaqRaWqfe3qpQ%3D%3D%0D%0A; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 00:59:00 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 00:59:00 GMT; Path=/
-Set-Cookie: session-id-time=1519681493; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 00:59:00 GMT; Path=/
+Set-Cookie: uu=BCYr4TTYxGoucA53jiomaph57GOQ2hPjHKEU2KPyFyqkP%2FTC02pybAhfXB0wAYT2X645bare960E%0D%0AuAjo%2BpRB4bonL1VYzh5xg%2BQTdQlk4bFX1fwLLvvsjkrnsMZFYtjY8%2FZ1yfY3Mh%2BNGSHJhOiX7PBe%0D%0ASkDICaf%2FRwMyLQoscu8BUnktYiARHKbtR%2BYdvUdmVHTqx7m2LEvMXW8idDtR%2BPKhpGOYJLhIGqcm%0D%0AvDN8GbDB2DKdKRySHNA7NgXNBQWWxYkFn2FlbgvaTRAPjjziCMEbjQ%3D%3D%0D%0A; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 01:46:53 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 01:46:53 GMT; Path=/
+Set-Cookie: session-id-time=1519684366; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 01:46:53 GMT; Path=/
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
 
@@ -48,11 +48,11 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
             <meta name="description" content="" />
             <meta property="og:description" content="" />
             <meta name="keywords" content="Episodes" />
-            <meta name="request_id" content="100F005NNGSECPTKREDV" />
+            <meta name="request_id" content="187D7ZQFHVA9R8PQJY21" />
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
 <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/imdb/css/collections/consumersite-965481657._V376216331_.css" />
-<!-- h=ics-1e-i-8eaa44fe.us-east-1 -->
+<!-- h=ics-1a-i-00ac4270.us-east-1 -->
 <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/imdb/css/collections/title-532087438._V376216329_.css" />
 <!--[if IE]><link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/imdb/css/collections/ie-1730957785._V376796174_.css" /><![endif]-->
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
@@ -75,13 +75,13 @@ generic.monitoring.set_forester_info("title");
 generic.monitoring.set_twilight_info(
 "title_subpage",
 "NL",
-"5bc82ec4612c242053d9e15314e399a37ea8228b",
-"2013-02-26T21%3A44%3A53GMT",
+"c09fe09fb360caeb97e53cbc2a542ed4c8481beb",
+"2013-02-26T22%3A32%3A46GMT",
 "http://s.media-imdb.com/twilight/?");
 generic.send_csm_head_metrics && generic.send_csm_head_metrics();
 generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 36907;
-generic.days_to_midnight = 0.4271643459796906;
+generic.seconds_to_midnight = 34034;
+generic.days_to_midnight = 0.3939120471477508;
 custom.full_page.data_url = "http://z-ecx.images-amazon.com/images/G/01/imdbads/js/graffiti_data-2891791370._V397576203_.js";
 ad_utils.ad_prediction.init();
 consoleLog('advertising initialized','ads');
@@ -130,7 +130,7 @@ oncall();
 ad_utils.register_ad('top_ad');
 </script>
 <iframe data-dart-params="#imdb2.consumer.tv/episodes;!TILE!;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
-<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.tv/episodes;tile=10;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;ord=059560145347?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.tv/episodes;tile=10;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;ord=059560145347?" border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.tv/episodes;tile=10;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;ord=281572781859?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.tv/episodes;tile=10;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;ord=281572781859?" border="0" alt="advertisement" /></a></noscript>
 </div>
 <div id="top_ad_reflow_helper"></div>
 <script>ad_utils.render_ad_fast('top_ad');</script>
@@ -615,7 +615,7 @@ itemprop="name">TS-19</a></strong>
 ad_utils.register_ad('top_rhs');
 </script>
 <iframe data-dart-params="#imdb2.consumer.tv/episodes;!TILE!;sz=300x250,300x600,11x1;p=tr;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
-<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.tv/episodes;tile=1;sz=300x250,300x600,11x1;p=tr;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;ord=059560145347?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.tv/episodes;tile=1;sz=300x250,300x600,11x1;p=tr;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;ord=059560145347?" border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.tv/episodes;tile=1;sz=300x250,300x600,11x1;p=tr;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;ord=281572781859?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.tv/episodes;tile=1;sz=300x250,300x600,11x1;p=tr;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;ord=281572781859?" border="0" alt="advertisement" /></a></noscript>
 </div>
 <div id="top_rhs_reflow_helper"></div>
 <script>ad_utils.render_ad_fast('top_rhs');</script>
@@ -1231,7 +1231,7 @@ c15:""
 ad_utils.register_ad('bottom_ad');
 </script>
 <iframe data-dart-params="#imdb2.consumer.tv/episodes;!TILE!;sz=728x90,2x1;p=b;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
-<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.tv/episodes;tile=5;sz=728x90,2x1;p=b;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;ord=059560145347?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.tv/episodes;tile=5;sz=728x90,2x1;p=b;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;ord=059560145347?" border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.tv/episodes;tile=5;sz=728x90,2x1;p=b;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;ord=281572781859?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.tv/episodes;tile=5;sz=728x90,2x1;p=b;g=h;g=th;g=dr;tt=tv;coo=us;b=t25;b=t250a;b=glbst;b=falltv;fv=1;id=tt1520211;ab=f;bpx=1;ord=281572781859?" border="0" alt="advertisement" /></a></noscript>
 </div>
 <div id="bottom_ad_reflow_helper"></div>
 <script>ad_utils.render_ad_fast('bottom_ad');</script>
@@ -1289,7 +1289,7 @@ jQuery(document).ready(function(){
 <script>(function(g){window.jQuery && jQuery(function(){g.document_is_ready()});g.monitoring.stop_timing('page_load','',true);g.monitoring.all_events_started();})(generic);</script>
 <!-- end ads footer -->
 
-<div id="servertime" time="76"/>
+<div id="servertime" time="52"/>
     </body>
 </html>
 
