@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Tue, 26 Feb 2013 21:05:08 GMT
+Date: Tue, 26 Feb 2013 21:44:48 GMT
 Server: Server
 Cache-Control: private
 Cneonction: close
 Content-Type: text/html
-Set-Cookie: uu=BCYtppKxvUXwl7LHK-gvOCnFW9JqQfTu7vbi7ZZDmpC2RS0TP1nSxhZEY1oGXtphl0CRAu8QMXcIDdgpqMTuKHamBQrhMdvrvR3rP3zWRNKCVHjxk1s55yY6lGmtXA4SqSbAa0gzTzVrmxQn9f7pdXTAHtIYmZhDMYLOAxlKvGhm_t4;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
-Set-Cookie: cs=QXZ9smzWS/2uyilsc7FK2geBbbqgkVqM8BkNuqOS7TKzAn6Z04Je2bCRXRoA0U26oKcq7CYxbbqjpO9f19HN2TCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: uu=BCYlqwWBPB-bZksBOMNdDrptiTIKGF2FNABNHfLyMn_Tiug8TVzRrN3rGtvZNG3ARk2W6QGWIbjVapB6FVf6QrmWNzSFDiLw2t1zYXKA3NhH8GqiSEqyG5wTQGsh0EbNeZrvhSWaVAXvp8vDSIzcgp6GjLVreMhVRLrQMPsBa2L6K6w;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=JyeVjDs89QqJ92NnmHJ+9wenOqqgkW26kBl9MsPCbjkj8n4psDHOqZCRbbqXx+36gJFtjOT1mKqjBe9Nx9HNOSCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
@@ -20,7 +20,7 @@ Transfer-Encoding: chunked
 <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
 <script>
 var addClickstreamHeadersToAjax = function(xhr) {
-    xhr.setRequestHeader("x-imdb-parent-id", "16GH40MCY32GP19TV43X");
+    xhr.setRequestHeader("x-imdb-parent-id", "1A12DHF5P2DE7CBR5M28");
 };
 </script>
 
@@ -54,7 +54,7 @@ var addClickstreamHeadersToAjax = function(xhr) {
 <link rel="search" type="application/opensearchdescription+xml"
       href="http://i.media-imdb.com/images/SFccbe1e4d909ef8b8077201c3c5aac349/imdbsearch.xml" title="IMDb" />
 <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
-<script type="text/javascript">var __vkey = 'DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '8.1';</script>
+<script type="text/javascript">var __vkey = 'LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '8.1';</script>
 <meta property="og:type" content="movie" />
 <meta property="fb:app_id" content="115109575169727" />
 <meta property="og:title" content="Gandhi (1982)" />
@@ -68,15 +68,15 @@ generic.monitoring.set_forester_info("title");
 generic.monitoring.set_twilight_info(
     "title_subpage", 
     "Other", 
-    "33e7f9be1d633b21ffa24f6f791b71d27a0b1ab1", 
-    "2013-02-26T21%3A05%3A08GMT", 
+    "c6c3748d76785e22ad3a2474afc799c03f164772", 
+    "2013-02-26T21%3A44%3A48GMT", 
     "http://s.media-imdb.com/twilight/?");
 
 generic.send_csm_head_metrics && generic.send_csm_head_metrics();
 
 generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 42952;
-generic.days_to_midnight = 0.49712962962963;
+generic.seconds_to_midnight = 40572;
+generic.days_to_midnight = 0.469583333333333;
 custom.full_page.data_url = "http://i.media-imdb.com/images/SF52343caf319e887027f13568332cdfd7/a/js/graffiti_data.js";
 ad_utils.ad_prediction.init();
 consoleLog('advertising initialized','ads');
@@ -146,7 +146,7 @@ ad_utils.register_ad('top_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-original-width="0" data-original-height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;ord=263944725389?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;ord=263944725389?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;ord=876304035424?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;ord=876304035424?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_ad_reflow_helper"></div>
@@ -522,7 +522,7 @@ ad_utils.register_ad('top_ad');
 
 <div id="action-box" class="action-box">
 <a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Famazon%2Fvi389455897%2F';window.open(this.href+'offsite','_blank');
-                 return false;"     href="/video/amazon/vi389455897/"    class="linkasbutton-primary" data-rid="16GH40MCY32GP19TV43X" data-video="vi389455897" data-context="amazon" >Watch It</a>
+                 return false;"     href="/video/amazon/vi389455897/"    class="linkasbutton-primary" data-rid="1A12DHF5P2DE7CBR5M28" data-video="vi389455897" data-context="amazon" >Watch It</a>
 
   <p>at Amazon</p>
 
@@ -608,7 +608,7 @@ ad_utils.register_ad('top_ad');
 
 <td width="40%" class="media_strip_header">
 <b>Photos</b>
-<span>(<a href="/rg/photos-title/gallery-link/title/tt0083987/mediaindex">See all 107</a> | <a href="/rg/photos-title/slideshow-link/media/rm2762846976/tt0083987?slideshow=1">slideshow</a>)</span>
+<span>(<a href="/rg/photos-title/gallery-link/title/tt0083987/mediaindex">See all 107</a> | <a href="/rg/photos-title/slideshow-link/media/rm2578297600/tt0083987?slideshow=1">slideshow</a>)</span>
 </td>
 
 <td width="40%" class="media_strip_header">
@@ -624,16 +624,16 @@ ad_utils.register_ad('top_ad');
 
 <td>
 <div class="media_strip_thumbs">
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm2762846976/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM2MTQ3Njc2NV5BMl5BanBnXkFtZTcwMTU0NDcwNw@@._V1._CR357,0,1333,1333_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm2561520384/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTgxMzAwMTc1OF5BMl5BanBnXkFtZTcwNTU1NDcwNw@@._V1._CR0,0,1349,1349_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-3/media/rm2595074816/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTgxMjQyMzg2NF5BMl5BanBnXkFtZTcwMzU1NDcwNw@@._V1._CR0,0,1109,1109_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm4205687552/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTgxNzU3MDQ2Nl5BMl5BanBnXkFtZTcwMDk1NDcwNw@@._V1._CR338,0,1372,1372_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm867087104/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjMxNDUxMjA0NF5BMl5BanBnXkFtZTcwNDk2NDcwNw@@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm4289573632/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTk1OTMwNTUyMl5BMl5BanBnXkFtZTcwNDg1NDcwNw@@._V1._CR343,0,1361,1361_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-7/media/rm2947396352/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BODM1MjY1NzI0Nl5BMl5BanBnXkFtZTcwNzU0NDcwNw@@._V1._CR0,0,1374,1374_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm4037915392/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM3MDcwNzMxMV5BMl5BanBnXkFtZTcwMzg1NDcwNw@@._V1._CR348,0,1351,1351_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-9/media/rm766423808/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM5NzIwMzEzOF5BMl5BanBnXkFtZTcwMTg2NDcwNw@@._V1._CR335,0,1378,1378_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm3853366016/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjIyMDU3NzE0OF5BMl5BanBnXkFtZTcwOTU1NDcwNw@@._V1._CR349,0,1349,1349_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm2578297600/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTk0MjI0MzcwM15BMl5BanBnXkFtZTcwNDU1NDcwNw@@._V1._CR335,0,1378,1378_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm2947396352/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BODM1MjY1NzI0Nl5BMl5BanBnXkFtZTcwNzU0NDcwNw@@._V1._CR0,0,1374,1374_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-3/media/rm2645406464/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjA4NjI0OTkwMV5BMl5BanBnXkFtZTcwMDU1NDcwNw@@._V1._CR350,0,1348,1348_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm4172133120/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM1NjQ5ODA5MV5BMl5BanBnXkFtZTcwMjk1NDcwNw@@._V1._CR350,0,1347,1347_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm4256019200/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTg1MjI2NjI0OF5BMl5BanBnXkFtZTcwNjg1NDcwNw@@._V1._CR346,0,1355,1355_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm833532672/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjIxNTU2OTc2Nl5BMl5BanBnXkFtZTcwODk2NDcwNw@@._V1._CR340,0,1368,1368_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-7/media/rm4272796416/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTc1NjQ3OTAwOV5BMl5BanBnXkFtZTcwNTg1NDcwNw@@._V1._CR0,0,1375,1375_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm2695738112/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTU0MDEzNTcwNF5BMl5BanBnXkFtZTcwNjU0NDcwNw@@._V1._CR293,0,1116,1116_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-9/media/rm4222464768/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjExMjk3OTgzM15BMl5BanBnXkFtZTcwOTg1NDcwNw@@._V1._CR347,0,1353,1353_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm3870143232/tt0083987"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ5OTYzNjI3MV5BMl5BanBnXkFtZTcwODU1NDcwNw@@._V1._CR0,0,1338,1338_SS90_.jpg" border="0"></a></div>
 </div>
 </td>
 
@@ -642,7 +642,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi1044512793%2F';"     href="/video/imdb/vi1044512793/"    data-rid="16GH40MCY32GP19TV43X" data-video="vi1044512793" data-context="imdb" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi1044512793%2F';"     href="/video/imdb/vi1044512793/"    data-rid="1A12DHF5P2DE7CBR5M28" data-video="vi1044512793" data-context="imdb" ><img 
      height="90" 
      width="120"
      alt="Gandhi -- A biography of Mahatma Gandhi, the lawyer who became the famed leader of the Indian revolts against the British through his philosophy of non-violent protest." title="Gandhi -- A biography of Mahatma Gandhi, the lawyer who became the famed leader of the Indian revolts against the British through his philosophy of non-violent protest."
@@ -654,7 +654,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi94569241%2F';"     href="/video/screenplay/vi94569241/"    data-rid="16GH40MCY32GP19TV43X" data-video="vi94569241" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi94569241%2F';"     href="/video/screenplay/vi94569241/"    data-rid="1A12DHF5P2DE7CBR5M28" data-video="vi94569241" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="Gandhi -- Clip: He is coming" title="Gandhi -- Clip: He is coming"
@@ -666,7 +666,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi4171301657%2F';"     href="/video/screenplay/vi4171301657/"    data-rid="16GH40MCY32GP19TV43X" data-video="vi4171301657" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi4171301657%2F';"     href="/video/screenplay/vi4171301657/"    data-rid="1A12DHF5P2DE7CBR5M28" data-video="vi4171301657" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="Gandhi -- Clip: Lie down" title="Gandhi -- Clip: Lie down"
@@ -709,7 +709,7 @@ ad_utils.register_ad('top_rhs');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-original-width="300" data-original-height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;ord=263944725389?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;ord=263944725389?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;ord=876304035424?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;ord=876304035424?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_rhs_reflow_helper"></div>
@@ -748,7 +748,7 @@ ad_utils.register_ad('top_rhs');
         <div class="outer">
           <div id="general-voting-stars" class="inner" style="width: 162px"></div>
           <div class="starbar-votes">
-            <a title="10" href="vote?v=10;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+            <a title="10" href="vote?v=10;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
           </div>
         </div>
       </div>
@@ -757,7 +757,7 @@ ad_utils.register_ad('top_rhs');
         <b>8.1/10</b> 
            
            
-           &nbsp;&nbsp;<a href="ratings" class="tn15more">94,204 votes</a>&nbsp;&raquo;
+           &nbsp;&nbsp;<a href="ratings" class="tn15more">94,291 votes</a>&nbsp;&raquo;
         
         
       </div>
@@ -770,7 +770,7 @@ ad_utils.register_ad('top_rhs');
         <div class="outer">
           <div id="personal-voting-stars" class="inner" style="width: 0px"></div>
           <div class="starbar-votes">
-            <a title="10" href="vote?v=10;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+            <a title="10" href="vote?v=10;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
           </div>
         </div>
       </div>
@@ -780,7 +780,7 @@ ad_utils.register_ad('top_rhs');
         <div class="user">
           <div class="extra">
             <b><span id="voteuser"></span>/10</b>
-            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=DSA4xBmi1hhCQOPnhY%2FDugB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6eUpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
+            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=LaKSRzEZaEieDo%2Bq0IgbtgB%2FqjlzGVo5c%2BppqvcuGTpwfhqZ4%2BlaOXN6CTrzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
              | <a href="/list/ratings">history</a>)
           </div>
         </div>
@@ -936,7 +936,7 @@ A great epic; Kingsley's best performance
                             client:   "ca-amazon-imdb_js",    
                             title:    "Sponsored Links",    
                             help:     "What&#x27;s This?",    
-                            hints:    "british india,photographer,viceroy,hinduism,islam"   
+                            hints:    "british military,political prisoner,nonlinear timeline,newsreel footage,religion"   
                           };     
      </script>   
          
@@ -948,7 +948,7 @@ A great epic; Kingsley's best performance
              src="/images/a/ifb/google_afc.html#key:MIDDLE_CENTER">     
      </iframe>   
 
-<hr />      <h3>Additional Details</h3><div class="info"><h5>Also Known As:</h5><div class="info-content">                           "Richard Attenborough&#x27;s Film: Gandhi" - USA <em>(complete title)</em><br>      "Gandhi" - Argentina, Peru, Spain<br>     "Gandhi" - Canada <em>(French title)</em>, France<br>    "&#x393;&#x3BA;&#x3AC;&#x3BD;&#x3C4;&#x3B9;" - Greece<br>    "&#x413;&#x430;&#x43D;&#x434;&#x438;" - Bulgaria <em>(Bulgarian title)</em><br>    "Gandhi" - Denmark<br>    "Gandhi" - Hungary<br>    "Gandhi" - Greece <em>(alternative transliteration)</em><br>    "Gandhi" - Finland<br>    "Gandhi" - Japan <em>(English title)</em><br>    "Gandhi" - Turkey <em>(Turkish title)</em><br>    "Gandhi" - Portugal <em>(imdb display title)</em><br>    "Gandi" - Serbia <em>(imdb display title)</em><br> <a class="tn15more" href="/title/tt0083987/releaseinfo#akas" onClick="(new Image()).src='/rg/title-tease/akas/images/b.gif?link=/title/tt0083987/releaseinfo#akas';">See more</a>&nbsp;&raquo;</div></div>  <div class="info"><h5>Parents Guide:</h5><div class="info-content"><a href="parentalguide">View content advisory for parents</a></div></div> <div class="info"><h5>Runtime:</h5><div class="info-content">191 min </div></div><div class="info"><h5>Country:</h5><div class="info-content"><a href="/country/gb">UK</a> | <a href="/country/in">India</a></div></div><div class="info"><h5>Language:</h5><div class="info-content"><a href="/language/en">English</a></div></div><div class="info"><h5>Color:</h5><div class="info-content"><a href="/search/title?colors=black_and_white">Black and White</a>  | <a href="/search/title?colors=color">Color</a> <i>(Technicolor)</i></div></div><div class="info"><h5>Aspect Ratio:</h5><div class="info-content">2.20 : 1 <a class="tn15more inline" href="/title/tt0083987/technical" onClick="(new Image()).src='/rg/title-tease/aspect/images/b.gif?link=/title/tt0083987/technical';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Sound Mix:</h5><div class="info-content"><a href="/search/title?sound_mixes=dolby">Dolby</a> <i>(35 mm prints) (as Dolby Stereo)</i> | <a href="/search/title?sound_mixes=70_mm_6_track">70 mm 6-Track</a> <i>(70 mm prints)</i></div></div><div class="info"><h5>Certification:</h5><div class="info-content"><a href="/search/title?certificates=is:l">Iceland:L</a>  | <a href="/search/title?certificates=pt:m_12">Portugal:M/12</a>  | <a href="/search/title?certificates=es:t">Spain:T</a>  | <a href="/search/title?certificates=br:14">Brazil:14</a>  | <a href="/search/title?certificates=nl:12">Netherlands:12</a>  | <a href="/search/title?certificates=nl:al">Netherlands:AL</a> <i>(DVD rating) (2001)</i> | <a href="/search/title?certificates=nz:pg">New Zealand:PG</a>  | <a href="/search/title?certificates=ar:atp">Argentina:Atp</a> <i>(re-rating)</i> | <a href="/search/title?certificates=pe:pt">Peru:PT</a>  | <a href="/search/title?certificates=ar:13">Argentina:13</a> <i>(original rating)</i> | <a href="/search/title?certificates=au:m">Australia:M</a> <i>(original rating)</i> | <a href="/search/title?certificates=au:pg">Australia:PG</a> <i>(video rating)</i> | <a href="/search/title?certificates=ca:pg">Canada:PG</a>  | <a href="/search/title?certificates=cl:14">Chile:14</a>  | <a href="/search/title?certificates=fi:k_12">Finland:K-12</a>  | <a href="/search/title?certificates=ie:pg">Ireland:PG</a>  | <a href="/search/title?certificates=no:11">Norway:11</a>  | <a href="/search/title?certificates=no:12">Norway:12</a> <i>(1983)</i> | <a href="/search/title?certificates=sg:pg">Singapore:PG</a>  | <a href="/search/title?certificates=kr:12">South Korea:12</a>  | <a href="/search/title?certificates=se:11">Sweden:11</a>  | <a href="/search/title?certificates=gb:pg">UK:PG</a>  | <a href="/search/title?certificates=us:pg">USA:PG</a>  | <a href="/search/title?certificates=imdb_wg:12">West Germany:12</a> </div></div><div class="info"><h5>Filming Locations:</h5><div class="info-content"><a  href="/search/title?locations=Aga%20Khan%20Palace,%20Nagar%20Rd,%20Pune,%20Maharashtra,%20India">Aga Khan Palace, Nagar Rd, Pune, Maharashtra, India</a><a class="tn15more inline" href="/title/tt0083987/locations" onClick="(new Image()).src='/rg/title-tease/locations/images/b.gif?link=/title/tt0083987/locations';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Company:</h5><div class="info-content"><a href="/company/co0024716/">International Film Investors</a><a class="tn15more inline" href="/title/tt0083987/companycredits">See more</a>&nbsp;&raquo;</div></div><hr/><h3>Did You Know?</h3> <div class="info"><h5>Trivia:</h5><div class="info-content">In <a href="/name/nm0001652/">John Ratzenberger</a>&#x27;s brief scene, his voice is dubbed.<a class="tn15more inline" href="/title/tt0083987/trivia" onClick="(new Image()).src='/rg/title-tease/trivia/images/b.gif?link=/title/tt0083987/trivia';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Goofs:</h5><div class="info-content">Revealing mistakes: In the massacre scene Gen. Dyer is pacing back and forth between the two rows of firing soldiers. Right before the cut to the crowd he steps in front of a standing soldier firing.<a class="tn15more inline"href="/title/tt0083987/trivia?tab=gf&" onClick="(newImage()).src='/rg/title-tease/goofs/images/b.gif?link=/title/tt0083987/trivia?tab=gf&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Quotes:</h5><div class="info-content">[<i class="fine">first lines</i>] <br><b>Title Card</b>:No man&#x27;s life can be encompassed in one telling. There is no way to give each year its allotted weight, to include each event, each person who helped to shape a lifetime. What can be done is to be faithful in spirit to the record and try to find one&#x27;s way to the heart of the man...<br><a class="tn15more" href="/title/tt0083987/quotes" onClick="(new Image()).src='/rg/title-tease/quotes/images/b.gif?link=/title/tt0083987/quotes';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Movie Connections:</h5><div class="info-content">Featured in <a href="/title/tt0369200/">AFI&#x27;s 100 Years... 100 Heroes &#x26; Villains</a> (2003) (TV)<a class="tn15more inline"href="/title/tt0083987/trivia?tab=mc&" onClick="(newImage()).src='/rg/title-tease/movieconnections/images/b.gif?link=/title/tt0083987/trivia?tab=mc&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Soundtrack:</h5><div class="info-content">God Save the King!<a class="tn15more inline" href="/title/tt0083987/soundtrack" onClick="(new Image()).src='/rg/title-tease/soundtrack/images/b.gif?link=/title/tt0083987/soundtrack';">See more</a>&nbsp;&raquo;</div></div> 
+<hr />      <h3>Additional Details</h3><div class="info"><h5>Also Known As:</h5><div class="info-content">                           "Richard Attenborough&#x27;s Film: Gandhi" - USA <em>(complete title)</em><br>      "Gandhi" - Argentina, Peru, Spain<br>     "Gandhi" - Canada <em>(French title)</em>, France<br>    "&#x393;&#x3BA;&#x3AC;&#x3BD;&#x3C4;&#x3B9;" - Greece<br>    "&#x413;&#x430;&#x43D;&#x434;&#x438;" - Bulgaria <em>(Bulgarian title)</em><br>    "Gandhi" - Denmark<br>    "Gandhi" - Hungary<br>    "Gandhi" - Greece <em>(alternative transliteration)</em><br>    "Gandhi" - Finland<br>    "Gandhi" - Japan <em>(English title)</em><br>    "Gandhi" - Turkey <em>(Turkish title)</em><br>    "Gandhi" - Portugal <em>(imdb display title)</em><br>    "Gandi" - Serbia <em>(imdb display title)</em><br> <a class="tn15more" href="/title/tt0083987/releaseinfo#akas" onClick="(new Image()).src='/rg/title-tease/akas/images/b.gif?link=/title/tt0083987/releaseinfo#akas';">See more</a>&nbsp;&raquo;</div></div>  <div class="info"><h5>Parents Guide:</h5><div class="info-content"><a href="parentalguide">View content advisory for parents</a></div></div> <div class="info"><h5>Runtime:</h5><div class="info-content">191 min </div></div><div class="info"><h5>Country:</h5><div class="info-content"><a href="/country/gb">UK</a> | <a href="/country/in">India</a></div></div><div class="info"><h5>Language:</h5><div class="info-content"><a href="/language/en">English</a></div></div><div class="info"><h5>Color:</h5><div class="info-content"><a href="/search/title?colors=black_and_white">Black and White</a>  | <a href="/search/title?colors=color">Color</a> <i>(Technicolor)</i></div></div><div class="info"><h5>Aspect Ratio:</h5><div class="info-content">2.20 : 1 <a class="tn15more inline" href="/title/tt0083987/technical" onClick="(new Image()).src='/rg/title-tease/aspect/images/b.gif?link=/title/tt0083987/technical';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Sound Mix:</h5><div class="info-content"><a href="/search/title?sound_mixes=dolby">Dolby</a> <i>(35 mm prints) (as Dolby Stereo)</i> | <a href="/search/title?sound_mixes=70_mm_6_track">70 mm 6-Track</a> <i>(70 mm prints)</i></div></div><div class="info"><h5>Certification:</h5><div class="info-content"><a href="/search/title?certificates=is:l">Iceland:L</a>  | <a href="/search/title?certificates=pt:m_12">Portugal:M/12</a>  | <a href="/search/title?certificates=es:t">Spain:T</a>  | <a href="/search/title?certificates=br:14">Brazil:14</a>  | <a href="/search/title?certificates=nl:12">Netherlands:12</a>  | <a href="/search/title?certificates=nl:al">Netherlands:AL</a> <i>(DVD rating) (2001)</i> | <a href="/search/title?certificates=nz:pg">New Zealand:PG</a>  | <a href="/search/title?certificates=ar:atp">Argentina:Atp</a> <i>(re-rating)</i> | <a href="/search/title?certificates=pe:pt">Peru:PT</a>  | <a href="/search/title?certificates=ar:13">Argentina:13</a> <i>(original rating)</i> | <a href="/search/title?certificates=au:m">Australia:M</a> <i>(original rating)</i> | <a href="/search/title?certificates=au:pg">Australia:PG</a> <i>(video rating)</i> | <a href="/search/title?certificates=ca:pg">Canada:PG</a>  | <a href="/search/title?certificates=cl:14">Chile:14</a>  | <a href="/search/title?certificates=fi:k_12">Finland:K-12</a>  | <a href="/search/title?certificates=ie:pg">Ireland:PG</a>  | <a href="/search/title?certificates=no:11">Norway:11</a>  | <a href="/search/title?certificates=no:12">Norway:12</a> <i>(1983)</i> | <a href="/search/title?certificates=sg:pg">Singapore:PG</a>  | <a href="/search/title?certificates=kr:12">South Korea:12</a>  | <a href="/search/title?certificates=se:11">Sweden:11</a>  | <a href="/search/title?certificates=gb:pg">UK:PG</a>  | <a href="/search/title?certificates=us:pg">USA:PG</a>  | <a href="/search/title?certificates=imdb_wg:12">West Germany:12</a> </div></div><div class="info"><h5>Filming Locations:</h5><div class="info-content"><a  href="/search/title?locations=Aga%20Khan%20Palace,%20Nagar%20Rd,%20Pune,%20Maharashtra,%20India">Aga Khan Palace, Nagar Rd, Pune, Maharashtra, India</a><a class="tn15more inline" href="/title/tt0083987/locations" onClick="(new Image()).src='/rg/title-tease/locations/images/b.gif?link=/title/tt0083987/locations';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Company:</h5><div class="info-content"><a href="/company/co0024716/">International Film Investors</a><a class="tn15more inline" href="/title/tt0083987/companycredits">See more</a>&nbsp;&raquo;</div></div><hr/><h3>Did You Know?</h3> <div class="info"><h5>Trivia:</h5><div class="info-content"><a href="/name/nm0003987/">Mohandas K. Gandhi</a> (played by <a href="/name/nm0001426/">Ben Kingsley</a>) travels to London, he stays at Kingsley Hall. This is a historical coincidence, and not a cute reference by the filmmakers.<a class="tn15more inline" href="/title/tt0083987/trivia" onClick="(new Image()).src='/rg/title-tease/trivia/images/b.gif?link=/title/tt0083987/trivia';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Goofs:</h5><div class="info-content">Factual errors: In the movie, The South African police were shown both arresting and beating <a href="/name/nm0003987/">Mohandas K. Gandhi</a> for burning passes during his protest of the Pass Law. Although Gandhi and his fellow protesters were arrested for burning the passes, in reality neither Gandhi or any of the protesters were ever beaten by the police during the protest.<a class="tn15more inline"href="/title/tt0083987/trivia?tab=gf&" onClick="(newImage()).src='/rg/title-tease/goofs/images/b.gif?link=/title/tt0083987/trivia?tab=gf&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Quotes:</h5><div class="info-content">[<i class="fine">first lines</i>] <br><b>Title Card</b>:No man&#x27;s life can be encompassed in one telling. There is no way to give each year its allotted weight, to include each event, each person who helped to shape a lifetime. What can be done is to be faithful in spirit to the record and try to find one&#x27;s way to the heart of the man...<br><a class="tn15more" href="/title/tt0083987/quotes" onClick="(new Image()).src='/rg/title-tease/quotes/images/b.gif?link=/title/tt0083987/quotes';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Movie Connections:</h5><div class="info-content">Referenced in <a href="/title/tt0462446/">Nas: Video Anthology Vol. 1</a> (2004) (V)<a class="tn15more inline"href="/title/tt0083987/trivia?tab=mc&" onClick="(newImage()).src='/rg/title-tease/movieconnections/images/b.gif?link=/title/tt0083987/trivia?tab=mc&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Soundtrack:</h5><div class="info-content">God Save the King!<a class="tn15more inline" href="/title/tt0083987/soundtrack" onClick="(new Image()).src='/rg/title-tease/soundtrack/images/b.gif?link=/title/tt0083987/soundtrack';">See more</a>&nbsp;&raquo;</div></div> 
 <hr/>
 <h3>FAQ</h3>
 
@@ -1048,13 +1048,13 @@ Discuss this movie with other users on <a href="/title/tt0083987/board" onClick=
 <tr><th class="left">Recent Posts (updated daily)</th><th class="right">User</th></tr>
 
 <tr class="odd">
-<td><a href="/rg/title-tease/boards-subject/title/tt0083987/board/nest/210148344">Just a propaganda film</a></td>
-<td><a href="/rg/title-tease/boards-user/user/ur40491777/boards/profile">ved036</a></td>
+<td><a href="/rg/title-tease/boards-subject/title/tt0083987/board/nest/211181184">John Ratzenberger</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur2543085/boards/profile">LesterFester</a></td>
 </tr>
 
 <tr class="even">
-<td><a href="/rg/title-tease/boards-subject/title/tt0083987/board/nest/201206748">Gandhi defeat Hitler? Don't think so.</a></td>
-<td><a href="/rg/title-tease/boards-user/user/ur17873330/boards/profile">ozzjim</a></td>
+<td><a href="/rg/title-tease/boards-subject/title/tt0083987/board/nest/211175465">Biography?</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur1490869/boards/profile">Banquo13</a></td>
 </tr>
 
 <tr class="odd">
@@ -1063,8 +1063,8 @@ Discuss this movie with other users on <a href="/title/tt0083987/board" onClick=
 </tr>
 
 <tr class="even">
-<td><a href="/rg/title-tease/boards-subject/title/tt0083987/board/nest/127133795">Is this based on a true story?</a></td>
-<td><a href="/rg/title-tease/boards-user/user/ur4047413/boards/profile">Moneymaker</a></td>
+<td><a href="/rg/title-tease/boards-subject/title/tt0083987/board/nest/205362434">Could Gandhi have done more to stop religious violence?</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur13056211/boards/profile">kag2-1</a></td>
 </tr>
 
 <tr class="odd">
@@ -1073,8 +1073,8 @@ Discuss this movie with other users on <a href="/title/tt0083987/board" onClick=
 </tr>
 
 <tr class="even">
-<td><a href="/rg/title-tease/boards-subject/title/tt0083987/board/nest/207718522">Would Gandhi agree with the Iraqi war? (quote)</a></td>
-<td><a href="/rg/title-tease/boards-user/user/ur14778525/boards/profile">bizso09</a></td>
+<td><a href="/rg/title-tease/boards-subject/title/tt0083987/board/nest/210148344">Just a propaganda film</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur40491777/boards/profile">ved036</a></td>
 </tr>
 
 </table>
@@ -1186,7 +1186,7 @@ If you enjoyed this title, our database also recommends:
  </div>
 </div>
 
-<div id="servertime" time="563.14" treatment="control"></div>
+<div id="servertime" time="254.8" treatment="control"></div>
 
 <div id="criticalcontent" data-selector="#primary-poster, #title-media-strip img"></div>
 
@@ -1339,7 +1339,7 @@ ad_utils.register_ad('bottom_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=728x90,2x1;p=b;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-original-width="728" data-original-height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;ord=263944725389?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;ord=263944725389?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;ord=876304035424?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=bi;id=tt0083987;coo=in;tt=f;b=t250;k=r;k=p;g=dr;g=hi;k=c;coo=uk;fv=1;ka=0;ord=876304035424?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="bottom_ad_reflow_helper"></div>
@@ -1357,9 +1357,9 @@ ad_utils.register_ad('bottom_ad');
 
 </layer>
 </div>
-<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=136191270913189" width="1" height="1" alt="" border="0">
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=13619150882443" width="1" height="1" alt="" border="0">
 </div> <!-- id="wrapper" -->
-<!-- h=iop748 i=2013-02-25 s=legacy(akas) t='Tue Feb 26 13:05:08 2013' -->
+<!-- h=iop125 i=2013-02-26 s=legacy(akas) t='Tue Feb 26 13:44:48 2013' -->
 <script src="http://i.media-imdb.com/images/SF539be3987208630802e712857c51a6c9/js/jquery.js" ></script><script src="http://i.media-imdb.com/images/SF144de7d1cf27a8b0d644dc29e818bb29/js/cc/title/main.js" ></script><script src="http://i.media-imdb.com/images/SF4f789f206c87a31b26eb8666da48322e/js/app/win7/sitemode.js" ></script><script src="http://i.media-imdb.com/images/SF72867cac47f3d7e883837477537ab0a1/js/vote.js" ></script><script type="text/javascript">jQuery(function(){generic.document_is_ready()})</script><!-- Begin SIS-SW code --> 
 <iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 

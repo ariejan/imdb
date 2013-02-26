@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Tue, 26 Feb 2013 21:05:13 GMT
+Date: Tue, 26 Feb 2013 21:44:52 GMT
 Server: Server
 Cache-Control: private
 Cneonction: close
 Content-Type: text/html
-Set-Cookie: uu=BCYo0bGATiXm4v47FT1An2j1Q_l4VluiRW27k0gYCLlqRC4p4I8oRN-FgNN5TtmbBm9tsvtg2w54lB9k4487L7_Pn2AnCEWCyfbdqHoyPtWzjE50Ew447s0fDtW94hoyWRjzkwyximgevGsL48xoIAPc7-Apz4g4c-dVu2bnuqbYZxQ;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
-Set-Cookie: cs=pWwgbKcAdoAqKbN2W5u92AeBbbqgkVqM8BkNuqOCXTKzAn6Z04Je2bCRXRoA0U26oKcq7CJxbbqjpZscZ9HN2ZCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: uu=BCYqjqOH8AwQ18tBRPo1XQA2hPkCOj0_Ihaz16aqPn7TUncaE4R5MI0M83hrEyfBobwt68GZDoqG6iluSER2SL0U-RK4cRkUZs-m-1PG6NKXgvRZm3YXkk_f-WsGvC0uTVQ_MDQHti0Wwz3wc_2aIeoOp62YbXC00XCWYUwKq3WjoDo;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=L47eLdKU1S+XxyGKB2gHPAiOAiSO2RITtsmaRI3agQQNyoE33noBF+7ZEhQoWVIEjtkkY9gtkiSJX5cCPf2WgjmZspf+2SSyblESJI7vJDOO2RIkjvkSJI7ZEmTOiWIUg=;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
@@ -20,7 +20,7 @@ Transfer-Encoding: chunked
 <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
 <script>
 var addClickstreamHeadersToAjax = function(xhr) {
-    xhr.setRequestHeader("x-imdb-parent-id", "1N4VSS9MRQE238A620M6");
+    xhr.setRequestHeader("x-imdb-parent-id", "07F118QP0DXQ8V9BYZ06");
 };
 </script>
 
@@ -54,7 +54,7 @@ var addClickstreamHeadersToAjax = function(xhr) {
 <link rel="search" type="application/opensearchdescription+xml"
       href="http://i.media-imdb.com/images/SFccbe1e4d909ef8b8077201c3c5aac349/imdbsearch.xml" title="IMDb" />
 <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
-<script type="text/javascript">var __vkey = 'guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '8.8';</script>
+<script type="text/javascript">var __vkey = 'jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '8.8';</script>
 <meta property="og:type" content="tv_show" />
 <meta property="fb:app_id" content="115109575169727" />
 <meta property="og:title" content="&#x22;The Walking Dead&#x22; (2010)" />
@@ -68,15 +68,15 @@ generic.monitoring.set_forester_info("title");
 generic.monitoring.set_twilight_info(
     "title_subpage", 
     "Other", 
-    "9fcb2e5a7ed35ccf8df0a8632be41611c86c272b", 
-    "2013-02-26T21%3A05%3A13GMT", 
+    "cd5c4134f8ed05d1bd53f4aecb607c876558fe2f", 
+    "2013-02-26T21%3A44%3A52GMT", 
     "http://s.media-imdb.com/twilight/?");
 
 generic.send_csm_head_metrics && generic.send_csm_head_metrics();
 
 generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 42947;
-generic.days_to_midnight = 0.497071759259259;
+generic.seconds_to_midnight = 40568;
+generic.days_to_midnight = 0.469537037037037;
 custom.full_page.data_url = "http://i.media-imdb.com/images/SF52343caf319e887027f13568332cdfd7/a/js/graffiti_data.js";
 ad_utils.ad_prediction.init();
 consoleLog('advertising initialized','ads');
@@ -146,7 +146,7 @@ ad_utils.register_ad('top_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.tv/combined;!TILE!;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-original-width="0" data-original-height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.tv/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=842173016280?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.tv/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=842173016280?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.tv/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=998137138667?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.tv/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=998137138667?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_ad_reflow_helper"></div>
@@ -609,7 +609,7 @@ Watch It</a>
 
 <td width="40%" class="media_strip_header">
 <b>Photos</b>
-<span>(<a href="/rg/photos-title/gallery-link/title/tt1520211/mediaindex">See all 617</a> | <a href="/rg/photos-title/slideshow-link/media/rm3658850816/tt1520211?slideshow=1">slideshow</a>)</span>
+<span>(<a href="/rg/photos-title/gallery-link/title/tt1520211/mediaindex">See all 621</a> | <a href="/rg/photos-title/slideshow-link/media/rm897426176/tt1520211?slideshow=1">slideshow</a>)</span>
 </td>
 
 <td width="40%" class="media_strip_header">
@@ -625,16 +625,16 @@ Watch It</a>
 
 <td>
 <div class="media_strip_thumbs">
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm3658850816/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTk3MjE4MjY0MF5BMl5BanBnXkFtZTcwNjU2MTcwOQ@@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm863871744/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTU1NDY2MzQ0MV5BMl5BanBnXkFtZTcwNzA2OTMxOQ@@._V1._CR346,0,1356,1356_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/event-3/media/rm758037760/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTYxMTY3NDY0Nl5BMl5BanBnXkFtZTcwODk2NDc4Ng@@._V1._CR0,0,1473,1473_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm2621222656/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQwMDg1ODUwNl5BMl5BanBnXkFtZTcwNDU4ODI3OA@@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm3725959680/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ4Mzc4OTYwOV5BMl5BanBnXkFtZTcwMjU2MTcwOQ@@._V1._CR344,0,1359,1359_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm2558439168/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM1OTkzMTc4NF5BMl5BanBnXkFtZTcwNDA4MjA3OA@@._V1._CR0,0,1362,1362_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-7/media/rm2554113792/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTk4MzUzMTcwNl5BMl5BanBnXkFtZTcwMDY4ODI3OA@@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm2302455552/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQxMDc3ODYyM15BMl5BanBnXkFtZTcwNzM4ODI3OA@@._V1._CR0,0,1362,1362_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-9/media/rm3783175936/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjMxOTc4MDYyNl5BMl5BanBnXkFtZTcwNTI4MjA3OA@@._V1._CR344,0,1359,1359_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm3879513856/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjMyMzcwMDY0OF5BMl5BanBnXkFtZTcwMTY4ODI3OA@@._V1._CR346,0,1356,1356_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm897426176/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTY2NDEzNzA3MF5BMl5BanBnXkFtZTcwODk1OTMxOQ@@._V1._CR0,0,1362,1362_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm3984502528/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQwMDYyNDcxNl5BMl5BanBnXkFtZTcwOTI4MjA3OA@@._V1._CR344,0,1359,1359_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/event-3/media/rm599567104/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNzc1ODI4Mzc4OV5BMl5BanBnXkFtZTcwNjQ1NDMxOA@@._V1._CR0,0,1365,1365_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm3709182464/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTAxNDU1MzY1MTBeQTJeQWpwZ15BbWU3MDM1NjE3MDk@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm2621222656/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQwMDg1ODUwNl5BMl5BanBnXkFtZTcwNDU4ODI3OA@@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm3867062016/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjE1NDQ5MTE1MV5BMl5BanBnXkFtZTcwNjA4MjA3OA@@._V1._CR346,0,1356,1356_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-7/media/rm2302455552/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQxMDc3ODYyM15BMl5BanBnXkFtZTcwNzM4ODI3OA@@._V1._CR0,0,1362,1362_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm3934170880/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTgzNDU2OTkyNF5BMl5BanBnXkFtZTcwMjM4MjA3OA@@._V1._CR0,0,1362,1362_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-9/media/rm739680768/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjEzMDE1MDU0M15BMl5BanBnXkFtZTcwNjc2MTcwOQ@@._V1._CR344,0,1359,1359_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm813540096/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTExMTYwNzUxODZeQTJeQWpwZ15BbWU3MDExNjkzMTk@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
 </div>
 </td>
 
@@ -643,7 +643,7 @@ Watch It</a>
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi517579801%2F';"     href="/video/imdb/vi517579801/"    data-rid="1N4VSS9MRQE238A620M6" data-video="vi517579801" data-context="imdb" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi517579801%2F';"     href="/video/imdb/vi517579801/"    data-rid="07F118QP0DXQ8V9BYZ06" data-video="vi517579801" data-context="imdb" ><img 
      height="90" 
      width="120"
      alt="The Walking Dead: :  -- Watch an exclusive trailer from the upcoming season of &#x22;The Walking Dead&#x22;!" title="The Walking Dead: :  -- Watch an exclusive trailer from the upcoming season of &#x22;The Walking Dead&#x22;!"
@@ -655,7 +655,7 @@ Watch It</a>
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi2420546585%2F';"     href="/video/imdb/vi2420546585/"    data-rid="1N4VSS9MRQE238A620M6" data-video="vi2420546585" data-context="imdb" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi2420546585%2F';"     href="/video/imdb/vi2420546585/"    data-rid="07F118QP0DXQ8V9BYZ06" data-video="vi2420546585" data-context="imdb" ><img 
      height="90" 
      width="120"
      alt="The Walking Dead: :  -- Check out the new trailer for season two of The Walking Dead, airing Sundays on AMC. " title="The Walking Dead: :  -- Check out the new trailer for season two of The Walking Dead, airing Sundays on AMC. "
@@ -667,7 +667,7 @@ Watch It</a>
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi2445478169%2F';"     href="/video/imdb/vi2445478169/"    data-rid="1N4VSS9MRQE238A620M6" data-video="vi2445478169" data-context="imdb" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi2445478169%2F';"     href="/video/imdb/vi2445478169/"    data-rid="07F118QP0DXQ8V9BYZ06" data-video="vi2445478169" data-context="imdb" ><img 
      height="90" 
      width="120"
      alt="The Walking Dead: :  -- Watch The Walking Dead, the new AMC series, beginning Sunday October 31st" title="The Walking Dead: :  -- Watch The Walking Dead, the new AMC series, beginning Sunday October 31st"
@@ -679,7 +679,7 @@ Watch It</a>
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi717817369%2F';"     href="/video/imdb/vi717817369/"    data-rid="1N4VSS9MRQE238A620M6" data-video="vi717817369" data-context="imdb" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi717817369%2F';"     href="/video/imdb/vi717817369/"    data-rid="07F118QP0DXQ8V9BYZ06" data-video="vi717817369" data-context="imdb" ><img 
      height="90" 
      width="120"
      alt="The Walking Dead: :  -- Catch the full Comic-Con preview trailer for AMC&#x27;s upcoming original series, &#x22;The Walking Dead,&#x22; premiering on Halloween." title="The Walking Dead: :  -- Catch the full Comic-Con preview trailer for AMC&#x27;s upcoming original series, &#x22;The Walking Dead,&#x22; premiering on Halloween."
@@ -691,7 +691,7 @@ Watch It</a>
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi2721948697%2F';"     href="/video/imdb/vi2721948697/"    data-rid="1N4VSS9MRQE238A620M6" data-video="vi2721948697" data-context="imdb" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi2721948697%2F';"     href="/video/imdb/vi2721948697/"    data-rid="07F118QP0DXQ8V9BYZ06" data-video="vi2721948697" data-context="imdb" ><img 
      height="90" 
      width="120"
      alt="The Walking Dead: :  -- Watch the latest trailer from AMC&#x27;s &#x22;The Walking Dead&#x22;!" title="The Walking Dead: :  -- Watch the latest trailer from AMC&#x27;s &#x22;The Walking Dead&#x22;!"
@@ -734,7 +734,7 @@ ad_utils.register_ad('top_rhs');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.tv/combined;!TILE!;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-original-width="300" data-original-height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.tv/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=842173016280?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.tv/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=842173016280?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.tv/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=998137138667?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.tv/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=998137138667?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_rhs_reflow_helper"></div>
@@ -767,7 +767,7 @@ ad_utils.register_ad('top_rhs');
         <div class="outer">
           <div id="general-voting-stars" class="inner" style="width: 176px"></div>
           <div class="starbar-votes">
-            <a title="10" href="vote?v=10;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+            <a title="10" href="vote?v=10;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
           </div>
         </div>
       </div>
@@ -789,7 +789,7 @@ ad_utils.register_ad('top_rhs');
         <div class="outer">
           <div id="personal-voting-stars" class="inner" style="width: 0px"></div>
           <div class="starbar-votes">
-            <a title="10" href="vote?v=10;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+            <a title="10" href="vote?v=10;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
           </div>
         </div>
       </div>
@@ -799,7 +799,7 @@ ad_utils.register_ad('top_rhs');
         <div class="user">
           <div class="extra">
             <b><span id="voteuser"></span>/10</b>
-            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
+            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=jwvmgpUYkazpRHn488UiegB%2FqjlzeVo5c0pZGmcuGSogfhqZ40laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
              | <a href="/list/ratings">history</a>)
           </div>
         </div>
@@ -917,14 +917,14 @@ Nominated for Golden Globe.
 </div>
 <div class="info">
 <h5>NewsDesk<span>:</span><br/>
-<small>(<a onClick="(new Image()).src='/rg/maindetails-count/newsdesk/images/b.gif?link=    %2Ftitle%2Ftt1520211%2Fnews';"     href="/title/tt1520211/news"    >11070 articles</a>)</small>
+<small>(<a onClick="(new Image()).src='/rg/maindetails-count/newsdesk/images/b.gif?link=    %2Ftitle%2Ftt1520211%2Fnews';"     href="/title/tt1520211/news"    >11072 articles</a>)</small>
 </h5>
 <div class="info-content">
 <strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=    %2Ftitle%2Ftt1520211%2Fnews%23ni47895819';"     href="/title/tt1520211/news#ni47895819"    >Telltale&#x27;s The Walking Dead May See More Action Before Season 2</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=    %2Fnews%2Fns0000039%2F';"     href="/news/ns0000039/"    >Dread Central</a>. 26 February 2013, 11:46 AM, PST)</small>
 <br/>
 <strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=    %2Ftitle%2Ftt1520211%2Fnews%23ni47895124';"     href="/title/tt1520211/news#ni47895124"    >&#x27;Sons of Anarchy&#x27; Creator Developing New Horror Series for FX</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=    %2Fnews%2Fns0000195%2F';"     href="/news/ns0000195/"    >FEARnet</a>. 26 February 2013, 11:30 AM, PST)</small>
 <br/>
-<strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=    %2Ftitle%2Ftt1520211%2Fnews%23ni47892760';"     href="/title/tt1520211/news#ni47892760"    >AMC Q4 Profit Down as Battle With Dish Takes a Toll</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=    %2Fnews%2Fns0000236%2F';"     href="/news/ns0000236/"    >The Wrap</a>. 26 February 2013, 10:28 AM, PST)</small>
+<strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=    %2Ftitle%2Ftt1520211%2Fnews%23ni47900162';"     href="/title/tt1520211/news#ni47900162"    >&#x27;Walking Dead&#x27; ratings: Oscars competition can&#x27;t keep this monster down</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=    %2Fnews%2Fns0000065%2F';"     href="/news/ns0000065/"    >Zap2It - From Inside the Box</a>. 26 February 2013, 10:58 AM, PST)</small>
 <br/>
 <div style="width:1px;height:0.5em;"></div></div>
 </div>
@@ -950,7 +950,7 @@ Superb. It&#x27;s about time
                             client:   "ca-amazon-imdb_js",    
                             title:    "Sponsored Links",    
                             help:     "What&#x27;s This?",    
-                            hints:    "mother son relationship,walking dead,three word title,zombie apocalypse,husband wife relationship"   
+                            hints:    "flesh eating zombie,based on comic book,father son relationship,zombie,undead"   
                           };     
      </script>   
          
@@ -966,13 +966,13 @@ Superb. It&#x27;s about time
 <hr/>
 <h3>FAQ</h3>
 
-<a href="/title/tt1520211/faq#.2.1.35" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt1520211/faq#.2.1.35';">Have they/will they explain how the ZA started?</a>
+<a href="/title/tt1520211/faq#.2.1.7" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt1520211/faq#.2.1.7';">Is the show true to the comic series?</a>
 <br/>
 
-<a href="/title/tt1520211/faq#.2.1.16" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt1520211/faq#.2.1.16';">In the comics, Hershel has a much bigger family.... where is everyone?</a>
+<a href="/title/tt1520211/faq#.2.1.30" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt1520211/faq#.2.1.30';">Who has died so far, and how?</a>
 <br/>
 
-<a href="/title/tt1520211/faq#.2.1.10" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt1520211/faq#.2.1.10';">What are the differences between the International Version and the US Version?</a>
+<a href="/title/tt1520211/faq#.2.1.19" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt1520211/faq#.2.1.19';">What happened to Sophia?</a>
 <br/>
 
 <a class="tn15more" href="/title/tt1520211/faq" onClick="(new Image()).src='/rg/title-tease/faq-more/images/b.gif?link=/title/tt1520211/faq';">See more</a>&nbsp;&raquo;
@@ -1215,7 +1215,7 @@ If you enjoyed this title, our database also recommends:
  </div>
 </div>
 
-<div id="servertime" time="4323.815" treatment="control"></div>
+<div id="servertime" time="648.985" treatment="control"></div>
 
 <div id="criticalcontent" data-selector="#primary-poster, #title-media-strip img"></div>
 
@@ -1368,7 +1368,7 @@ ad_utils.register_ad('bottom_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.tv/combined;!TILE!;sz=728x90,2x1;p=b;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-original-width="728" data-original-height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.tv/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=842173016280?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.tv/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=842173016280?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.tv/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=998137138667?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.tv/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=998137138667?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="bottom_ad_reflow_helper"></div>
@@ -1386,9 +1386,9 @@ ad_utils.register_ad('bottom_ad');
 
 </layer>
 </div>
-<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=136191271718001" width="1" height="1" alt="" border="0">
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=136191509319265" width="1" height="1" alt="" border="0">
 </div> <!-- id="wrapper" -->
-<!-- h=iop636 i=2013-02-26 s=legacy(akas) t='Tue Feb 26 13:05:13 2013' -->
+<!-- h=iop614 i=2013-02-26 s=legacy(akas) t='Tue Feb 26 13:44:52 2013' -->
 <script src="http://i.media-imdb.com/images/SF539be3987208630802e712857c51a6c9/js/jquery.js" ></script><script src="http://i.media-imdb.com/images/SF144de7d1cf27a8b0d644dc29e818bb29/js/cc/title/main.js" ></script><script src="http://i.media-imdb.com/images/SF4f789f206c87a31b26eb8666da48322e/js/app/win7/sitemode.js" ></script><script src="http://i.media-imdb.com/images/SF72867cac47f3d7e883837477537ab0a1/js/vote.js" ></script><script type="text/javascript">jQuery(function(){generic.document_is_ready()})</script><!-- Begin SIS-SW code --> 
 <iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 

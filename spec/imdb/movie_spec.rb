@@ -142,7 +142,7 @@ describe "Imdb::Movie" do
     end
 
     it "should find number of votes" do
-      @movie.votes.should eql(343179)
+      @movie.votes.should be_within(10000).of(343463)
     end
 
     it "should find the title" do

@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Tue, 26 Feb 2013 21:05:11 GMT
+Date: Tue, 26 Feb 2013 21:44:50 GMT
 Server: Server
 Cache-Control: private
 Cneonction: close
 Content-Type: text/html
-Set-Cookie: uu=BCYg_mDpqkkpVSPlke4WqBz_YHvonsUyk96TzjhUcPXV1CxfVTkw0Qxv2gja-wGE8hRvuY4_t9qrvLuzmwUavZySTvGv0Y21s8AYu6i08gawUc0YOzC9l_YS2lxj2ON8K1P6xkT5cZwjNNbGmZ4-lK6QAbCqWLpWTO134Cur3gRDzxE;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
-Set-Cookie: cs=8DvYIWAIiQw8A6XU8VXhOgenOqqgkW26kBl9MsOyHqmz8n4psDHOqZCRbbqXx+36gJFtjOTH2zqjlhg+t9HNOfCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: uu=BCYoyGjygnUS9ECsPM1krDXRQTVAGZS4Lojpe8nH7-eNqp28GVBc282PX8_ajQmucIU2Zyx7iiJyVXQJOSl8oWhIWrpsIE8NCMwommxXwqb7K5PPo76G6I5wxrgoNtLbh-FNuv6uSDmm4-L3b_w9Gdf8wfmk6uwbKhaT4OwuQ2pQCcs;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=PaJ/gpoFbF5YnARMVpsp3AiOAiSO2RITtsmaRI3agSQNyoE33noBF+7ZEhQoWVIEjtkkY9uqEiSIf0dwbUwHMZmZspee2SSyblESJI7vJDOO2RIkjvkSJI7ZEmTOiWIUg=;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
@@ -20,7 +20,7 @@ Transfer-Encoding: chunked
 <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
 <script>
 var addClickstreamHeadersToAjax = function(xhr) {
-    xhr.setRequestHeader("x-imdb-parent-id", "0WW73J4TKE9T6WEX2R99");
+    xhr.setRequestHeader("x-imdb-parent-id", "11K1BNV99B6HYF30GM7H");
 };
 </script>
 
@@ -54,7 +54,7 @@ var addClickstreamHeadersToAjax = function(xhr) {
 <link rel="search" type="application/opensearchdescription+xml"
       href="http://i.media-imdb.com/images/SFccbe1e4d909ef8b8077201c3c5aac349/imdbsearch.xml" title="IMDb" />
 <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
-<script type="text/javascript">var __vkey = '0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '9.0';</script>
+<script type="text/javascript">var __vkey = 'yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '9.0';</script>
 <meta property="og:type" content="movie" />
 <meta property="fb:app_id" content="115109575169727" />
 <meta property="og:title" content="Pulp Fiction (1994)" />
@@ -68,15 +68,15 @@ generic.monitoring.set_forester_info("title");
 generic.monitoring.set_twilight_info(
     "title_subpage", 
     "Other", 
-    "3fb05a745d46ac140ee4ebd31522cc88a26b6c34", 
-    "2013-02-26T21%3A05%3A11GMT", 
+    "b2821bc90ec987944a83b9861ed824e2d88b4493", 
+    "2013-02-26T21%3A44%3A50GMT", 
     "http://s.media-imdb.com/twilight/?");
 
 generic.send_csm_head_metrics && generic.send_csm_head_metrics();
 
 generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 42949;
-generic.days_to_midnight = 0.497094907407407;
+generic.seconds_to_midnight = 40570;
+generic.days_to_midnight = 0.469560185185185;
 custom.full_page.data_url = "http://i.media-imdb.com/images/SF52343caf319e887027f13568332cdfd7/a/js/graffiti_data.js";
 ad_utils.ad_prediction.init();
 consoleLog('advertising initialized','ads');
@@ -146,7 +146,7 @@ ad_utils.register_ad('top_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-original-width="0" data-original-height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=595483415410?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=595483415410?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=960676245275?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=960676245275?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_ad_reflow_helper"></div>
@@ -522,7 +522,7 @@ ad_utils.register_ad('top_ad');
 
 <div id="action-box" class="action-box">
 <a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Famazon%2Fvi1374790425%2F';window.open(this.href+'offsite','_blank');
-                 return false;"     href="/video/amazon/vi1374790425/"    class="linkasbutton-primary" data-rid="0WW73J4TKE9T6WEX2R99" data-video="vi1374790425" data-context="amazon" >Watch It</a>
+                 return false;"     href="/video/amazon/vi1374790425/"    class="linkasbutton-primary" data-rid="11K1BNV99B6HYF30GM7H" data-video="vi1374790425" data-context="amazon" >Watch It</a>
 
   <p>at Amazon</p>
 
@@ -608,7 +608,7 @@ ad_utils.register_ad('top_ad');
 
 <td width="40%" class="media_strip_header">
 <b>Photos</b>
-<span>(<a href="/rg/photos-title/gallery-link/title/tt0110912/mediaindex">See all 88</a> | <a href="/rg/photos-title/slideshow-link/media/rm327987712/tt0110912?slideshow=1">slideshow</a>)</span>
+<span>(<a href="/rg/photos-title/gallery-link/title/tt0110912/mediaindex">See all 88</a> | <a href="/rg/photos-title/slideshow-link/media/rm143438336/tt0110912?slideshow=1">slideshow</a>)</span>
 </td>
 
 <td width="40%" class="media_strip_header">
@@ -624,16 +624,16 @@ ad_utils.register_ad('top_ad');
 
 <td>
 <div class="media_strip_thumbs">
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm327987712/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM3MzA5MDQxMF5BMl5BanBnXkFtZTcwMjE0MzU5Ng@@._V1._CR339,0,1369,1369_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm361542144/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTU2Mjc0MTg4MF5BMl5BanBnXkFtZTcwOTA0MzU5Ng@@._V1._CR0,0,1310,1310_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-3/media/rm395096576/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTg3MDQ5NTgwOV5BMl5BanBnXkFtZTcwNzA0MzU5Ng@@._V1._CR364,0,1320,1320_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm143438336/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNzg1MTgwMTUzM15BMl5BanBnXkFtZTcwNjA0MzU5Ng@@._V1._CR323,0,1402,1402_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm378319360/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjIyNTU4MjY4NF5BMl5BanBnXkFtZTcwODA0MzU5Ng@@._V1._CR337,0,1373,1373_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm597602304/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM0NzI1NDgzM15BMl5BanBnXkFtZTcwMzgxMjIyNw@@._V1._CR337,0,1374,1374_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm143438336/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNzg1MTgwMTUzM15BMl5BanBnXkFtZTcwNjA0MzU5Ng@@._V1._CR323,0,1402,1402_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm327987712/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM3MzA5MDQxMF5BMl5BanBnXkFtZTcwMjE0MzU5Ng@@._V1._CR339,0,1369,1369_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-3/media/rm378319360/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjIyNTU4MjY4NF5BMl5BanBnXkFtZTcwODA0MzU5Ng@@._V1._CR337,0,1373,1373_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm361542144/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTU2Mjc0MTg4MF5BMl5BanBnXkFtZTcwOTA0MzU5Ng@@._V1._CR0,0,1310,1310_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm597602304/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM0NzI1NDgzM15BMl5BanBnXkFtZTcwMzgxMjIyNw@@._V1._CR337,0,1374,1374_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm395096576/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTg3MDQ5NTgwOV5BMl5BanBnXkFtZTcwNzA0MzU5Ng@@._V1._CR364,0,1320,1320_SS90_.jpg" border="0"></a></div>
 <div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-7/media/rm344764928/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTUwNTE0NjU2Ml5BMl5BanBnXkFtZTcwMDE0MzU5Ng@@._V1._CR353,0,1341,1341_SS90_.jpg" border="0"></a></div>
 <div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm580825088/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTUzNjMxNjUwN15BMl5BanBnXkFtZTcwNDgxMjIyNw@@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-9/media/rm572424192/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ1Mzc5NjU5NF5BMl5BanBnXkFtZTcwMzAzNDY3Mw@@._V1._CR136,0,387,387_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm555646976/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNzU4MDkzNzEwOV5BMl5BanBnXkFtZTcwNDAzNDY3Mw@@._V1._CR136,0,387,387_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-9/media/rm706641920/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjEyMDg3ODkyNl5BMl5BanBnXkFtZTcwMTEzNDY3Mw@@._V1._CR136,0,387,387_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm790528000/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM2MDI0MDA5MV5BMl5BanBnXkFtZTcwNjAzNDY3Mw@@._V1._CR136,0,387,387_SS90_.jpg" border="0"></a></div>
 </div>
 </td>
 
@@ -642,7 +642,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi164666905%2F';"     href="/video/screenplay/vi164666905/"    data-rid="0WW73J4TKE9T6WEX2R99" data-video="vi164666905" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi164666905%2F';"     href="/video/screenplay/vi164666905/"    data-rid="11K1BNV99B6HYF30GM7H" data-video="vi164666905" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="Pulp Fiction -- Trailer" title="Pulp Fiction -- Trailer"
@@ -654,7 +654,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi232824345%2F';"     href="/video/imdb/vi232824345/"    data-rid="0WW73J4TKE9T6WEX2R99" data-video="vi232824345" data-context="imdb" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi232824345%2F';"     href="/video/imdb/vi232824345/"    data-rid="11K1BNV99B6HYF30GM7H" data-video="vi232824345" data-context="imdb" ><img 
      height="90" 
      width="120"
      alt="Pulp Fiction -- Eric Stoltz discusses watching films with Quentin Tarantino." title="Pulp Fiction -- Eric Stoltz discusses watching films with Quentin Tarantino."
@@ -666,7 +666,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi282107417%2F';"     href="/video/screenplay/vi282107417/"    data-rid="0WW73J4TKE9T6WEX2R99" data-video="vi282107417" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi282107417%2F';"     href="/video/screenplay/vi282107417/"    data-rid="11K1BNV99B6HYF30GM7H" data-video="vi282107417" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="Pulp Fiction -- Trailer" title="Pulp Fiction -- Trailer"
@@ -678,7 +678,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi2554960921%2F';"     href="/video/screenplay/vi2554960921/"    data-rid="0WW73J4TKE9T6WEX2R99" data-video="vi2554960921" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi2554960921%2F';"     href="/video/screenplay/vi2554960921/"    data-rid="11K1BNV99B6HYF30GM7H" data-video="vi2554960921" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="Pulp Fiction -- Trailer for Pulp Fiction" title="Pulp Fiction -- Trailer for Pulp Fiction"
@@ -690,7 +690,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi647011097%2F';"     href="/video/screenplay/vi647011097/"    data-rid="0WW73J4TKE9T6WEX2R99" data-video="vi647011097" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi647011097%2F';"     href="/video/screenplay/vi647011097/"    data-rid="11K1BNV99B6HYF30GM7H" data-video="vi647011097" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="Pulp Fiction -- Trailer for Pulp Fiction" title="Pulp Fiction -- Trailer for Pulp Fiction"
@@ -733,7 +733,7 @@ ad_utils.register_ad('top_rhs');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-original-width="300" data-original-height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=595483415410?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=595483415410?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=960676245275?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=960676245275?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_rhs_reflow_helper"></div>
@@ -772,7 +772,7 @@ ad_utils.register_ad('top_rhs');
         <div class="outer">
           <div id="general-voting-stars" class="inner" style="width: 180px"></div>
           <div class="starbar-votes">
-            <a title="10" href="vote?v=10;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+            <a title="10" href="vote?v=10;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
           </div>
         </div>
       </div>
@@ -781,7 +781,7 @@ ad_utils.register_ad('top_rhs');
         <b>9.0/10</b> 
            
            
-           &nbsp;&nbsp;<a href="ratings" class="tn15more">719,280 votes</a>&nbsp;&raquo;
+           &nbsp;&nbsp;<a href="ratings" class="tn15more">719,867 votes</a>&nbsp;&raquo;
         
         
       </div>
@@ -794,7 +794,7 @@ ad_utils.register_ad('top_rhs');
         <div class="outer">
           <div id="personal-voting-stars" class="inner" style="width: 0px"></div>
           <div class="starbar-votes">
-            <a title="10" href="vote?v=10;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+            <a title="10" href="vote?v=10;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
           </div>
         </div>
       </div>
@@ -804,7 +804,7 @@ ad_utils.register_ad('top_rhs');
         <div class="user">
           <div class="extra">
             <b><span id="voteuser"></span>/10</b>
-            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
+            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=yoB3iHTLzZ1GWWcwfPOStAB%2FqjlzSVo5c3pZqmcuGTpgfhqZ42laOXN6CTrjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
              | <a href="/list/ratings">history</a>)
           </div>
         </div>
@@ -964,7 +964,7 @@ Simply The Best
                             client:   "ca-amazon-imdb_js",    
                             title:    "Sponsored Links",    
                             help:     "What&#x27;s This?",    
-                            hints:    "apartment building,diner,n word,nosebleed,torture"   
+                            hints:    "sprite soda,military officer,running for your life,uzi,husband wife relationship"   
                           };     
      </script>   
          
@@ -976,17 +976,17 @@ Simply The Best
              src="/images/a/ifb/google_afc.html#key:MIDDLE_CENTER">     
      </iframe>   
 
-<hr />      <h3>Additional Details</h3><div class="info"><h5>Also Known As:</h5><div class="info-content">                                          "Tiempos violentos" - Argentina, Chile, Mexico, Peru <em>(imdb display title)</em><br>      "Pulp Fiction" - Austria, Germany<br>     "&#x41A;&#x440;&#x438;&#x43C;&#x438;&#x43D;&#x430;&#x43B;&#x435;" - Bulgaria <em>(Bulgarian title)</em><br>    "&#x41A;&#x440;&#x438;&#x43C;&#x438;&#x43D;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;&#x435; &#x447;&#x442;&#x438;&#x432;&#x43E;" - Russia<br>    "&#x41A;&#x440;&#x438;&#x43C;i&#x43D;&#x430;&#x43B;&#x44C;&#x43D;&#x435; &#x447;&#x442;&#x438;&#x432;&#x43E;" - Ukraine<br>    "Fiction pulpeuse" - Canada <em>(French title)</em><br>    "Lubene" - Latvia <em>(imdb display title)</em><br>    "Makulatura" - Georgia <em>(imdb display title)</em><br>    "Pakleni &#x161;und" - Croatia<br>    "Petpara&#x10D;ke pri&#x10D;e" - Serbia<br>    "Ponyvareg&#xE9;ny" - Hungary<br>    "Pulp Fiction" - Poland<br>    "Pulp Fiction" - Spain<br>    "Pulp Fiction" - France<br>    "Pulp Fiction" - Finland <em>(TV title)</em><br>    "Pulp Fiction" - Italy<br>    "Pulp Fiction" - Portugal <em>(imdb display title)</em><br>    "Pulp Fiction" - Czech Republic<br>    "Pulp Fiction" - Greece<br>    "Pulp Fiction" - Denmark<br>    "Pulp Fiction" - Estonia<br>    "Pulp Fiction" - Japan <em>(English title)</em><br>    "Pulp Fiction - Historky z podsvetia" - Slovakia<br>    "Pulp Fiction - Tarinoita v&#xE4;kivallasta" - Finland <em>(imdb display title)</em><br>    "Pulp Fiction - Tempo de Viol&#xEA;ncia" - Brazil <em>(imdb display title)</em><br>    "Sifrut Zolla" - Israel <em>(Hebrew title)</em><br>    "Sund" - Slovenia<br>    "Ucuz roman" - Turkey <em>(Turkish title)</em><br> <a class="tn15more" href="/title/tt0110912/releaseinfo#akas" onClick="(new Image()).src='/rg/title-tease/akas/images/b.gif?link=/title/tt0110912/releaseinfo#akas';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5><a href="/mpaa">MPAA</a>:</h5><div class="info-content">Rated R for strong graphic violence and drug use, pervasive strong language and some sexuality</div></div> <div class="info"><h5>Parents Guide:</h5><div class="info-content"><a href="parentalguide">View content advisory for parents</a></div></div> <div class="info"><h5>Runtime:</h5><div class="info-content">154 min  | USA:168 min (special edition)</div></div><div class="info"><h5>Country:</h5><div class="info-content"><a href="/country/us">USA</a></div></div><div class="info"><h5>Language:</h5><div class="info-content"><a href="/language/en">English</a> | <a href="/language/es">Spanish</a> | <a href="/language/fr">French</a></div></div><div class="info"><h5>Color:</h5><div class="info-content"><a href="/search/title?colors=color">Color</a> </div></div><div class="info"><h5>Aspect Ratio:</h5><div class="info-content">2.35 : 1 <a class="tn15more inline" href="/title/tt0110912/technical" onClick="(new Image()).src='/rg/title-tease/aspect/images/b.gif?link=/title/tt0110912/technical';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Sound Mix:</h5><div class="info-content"><a href="/search/title?sound_mixes=dolby_digital">Dolby Digital</a> </div></div><div class="info"><h5>Certification:</h5><div class="info-content"><a href="/search/title?certificates=ca:18a">Canada:18A</a> <i>(re-rating)</i> | <a href="/search/title?certificates=ca:r">Canada:R</a> <i>(original rating)</i> | <a href="/search/title?certificates=mx:c">Mexico:C</a>  | <a href="/search/title?certificates=sg:r21">Singapore:R21</a> <i>(re-rating) (uncut)</i> | <a href="/search/title?certificates=au:r">Australia:R</a>  | <a href="/search/title?certificates=br:18">Brazil:18</a>  | <a href="/search/title?certificates=hu:18">Hungary:18</a>  | <a href="/search/title?certificates=it:vm14">Italy:VM14</a> <i>(re-rating after appeal) (1997)</i> | <a href="/search/title?certificates=it:vm18">Italy:VM18</a> <i>(original rating)</i> | <a href="/search/title?certificates=fi:k_16">Finland:K-16</a> <i>(video rating) (1995) (cut)</i> | <a href="/search/title?certificates=fi:k_18">Finland:K-18</a> <i>(original rating) (1995) (uncut)</i> | <a href="/search/title?certificates=ph:r_18">Philippines:R-18</a>  | <a href="/search/title?certificates=in:a">India:A</a>  | <a href="/search/title?certificates=za:18">South Africa:18</a>  | <a href="/search/title?certificates=ca:18a">Canada:18A</a> <i>(Alberta) (2009)</i> | <a href="/search/title?certificates=pe:18">Peru:18</a>  | <a href="/search/title?certificates=us:r">USA:R</a> <i>(certificate #33107)</i> | <a href="/search/title?certificates=ar:18">Argentina:18</a>  | <a href="/search/title?certificates=ca:16+">Canada:16+</a> <i>(Quebec)</i> | <a href="/search/title?certificates=cl:18">Chile:18</a>  | <a href="/search/title?certificates=dk:15">Denmark:15</a>  | <a href="/search/title?certificates=fr:_12">France:-12</a>  | <a href="/search/title?certificates=de:16">Germany:16</a>  | <a href="/search/title?certificates=hk:iii">Hong Kong:III</a>  | <a href="/search/title?certificates=is:16">Iceland:16</a>  | <a href="/search/title?certificates=ie:18">Ireland:18</a>  | <a href="/search/title?certificates=il:18">Israel:18</a>  | <a href="/search/title?certificates=jp:r_15">Japan:R-15</a>  | <a href="/search/title?certificates=nl:16">Netherlands:16</a>  | <a href="/search/title?certificates=nz:r18">New Zealand:R18</a>  | <a href="/search/title?certificates=no:18">Norway:18</a>  | <a href="/search/title?certificates=pl:15">Poland:15</a>  | <a href="/search/title?certificates=pt:m_16">Portugal:M/16</a>  | <a href="/search/title?certificates=pt:m_18">Portugal:M/18</a> <i>(Qualidade)</i> | <a href="/search/title?certificates=sg:r(a)">Singapore:R(A)</a> <i>(original rating) (cut)</i> | <a href="/search/title?certificates=kr:18">South Korea:18</a>  | <a href="/search/title?certificates=es:18">Spain:18</a>  | <a href="/search/title?certificates=se:15">Sweden:15</a>  | <a href="/search/title?certificates=ch:16">Switzerland:16</a>  | <a href="/search/title?certificates=gb:18">UK:18</a> <i>(original rating)</i> | <a href="/search/title?certificates=gb:18">UK:18</a> <i>(video rating) (1995) (cut)</i></div></div><div class="info"><h5>Filming Locations:</h5><div class="info-content"><a  href="/search/title?locations=1525%20N.%20Van%20Ness%20Avenue,%20Los%20Angeles,%20California,%20USA">1525 N. Van Ness Avenue, Los Angeles, California, USA</a><a class="tn15more inline" href="/title/tt0110912/locations" onClick="(new Image()).src='/rg/title-tease/locations/images/b.gif?link=/title/tt0110912/locations';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Company:</h5><div class="info-content"><a href="/company/co0019267/">A Band Apart</a><a class="tn15more inline" href="/title/tt0110912/companycredits">See more</a>&nbsp;&raquo;</div></div><hr/><h3>Did You Know?</h3> <div class="info"><h5>Trivia:</h5><div class="info-content">Jules&#x27; car, a 1974 Chevy Nova, is never seen in full frame; only the interior or parts of the exterior are visible.<a class="tn15more inline" href="/title/tt0110912/trivia" onClick="(new Image()).src='/rg/title-tease/trivia/images/b.gif?link=/title/tt0110912/trivia';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Goofs:</h5><div class="info-content">Continuity: In the &#x22;gold Watch&#x22; scene, Butch falls asleep in the hotel room, and on his night stand there is a book that is opened faced down. When he wakes up the book is closed.<a class="tn15more inline"href="/title/tt0110912/trivia?tab=gf&" onClick="(newImage()).src='/rg/title-tease/goofs/images/b.gif?link=/title/tt0110912/trivia?tab=gf&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Quotes:</h5><div class="info-content">[<i class="fine">first lines</i>] <br><b><a href="/name/nm0000619/">Pumpkin</a></b>:Forget it. Too risky. I&#x27;m through doing that shit. <br><b><a href="/name/nm0001625/">Yolanda</a></b>:You always say that. That same thing every time, &#x22;I&#x27;m through, never again, too dangerous&#x22;. <br><b><a href="/name/nm0000619/">Pumpkin</a></b>:I know that&#x27;s what I always say. I&#x27;m always right, too. <br><b><a href="/name/nm0001625/">Yolanda</a></b>:But you forget about it in a day or two. <br><b><a href="/name/nm0000619/">Pumpkin</a></b>:Yeah, well the days of me forgetting are over, and the days of me remembering have just begun.<br><a class="tn15more" href="/title/tt0110912/quotes" onClick="(new Image()).src='/rg/title-tease/quotes/images/b.gif?link=/title/tt0110912/quotes';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Movie Connections:</h5><div class="info-content">References <a href="/title/tt0076637/">Rolling Thunder</a> (1977)<a class="tn15more inline"href="/title/tt0110912/trivia?tab=mc&" onClick="(newImage()).src='/rg/title-tease/movieconnections/images/b.gif?link=/title/tt0110912/trivia?tab=mc&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Soundtrack:</h5><div class="info-content">Out Of Limits<a class="tn15more inline" href="/title/tt0110912/soundtrack" onClick="(new Image()).src='/rg/title-tease/soundtrack/images/b.gif?link=/title/tt0110912/soundtrack';">See more</a>&nbsp;&raquo;</div></div> 
+<hr />      <h3>Additional Details</h3><div class="info"><h5>Also Known As:</h5><div class="info-content">                                          "Tiempos violentos" - Argentina, Chile, Mexico, Peru <em>(imdb display title)</em><br>      "Pulp Fiction" - Austria, Germany<br>     "&#x41A;&#x440;&#x438;&#x43C;&#x438;&#x43D;&#x430;&#x43B;&#x435;" - Bulgaria <em>(Bulgarian title)</em><br>    "&#x41A;&#x440;&#x438;&#x43C;&#x438;&#x43D;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;&#x435; &#x447;&#x442;&#x438;&#x432;&#x43E;" - Russia<br>    "&#x41A;&#x440;&#x438;&#x43C;i&#x43D;&#x430;&#x43B;&#x44C;&#x43D;&#x435; &#x447;&#x442;&#x438;&#x432;&#x43E;" - Ukraine<br>    "Fiction pulpeuse" - Canada <em>(French title)</em><br>    "Lubene" - Latvia <em>(imdb display title)</em><br>    "Makulatura" - Georgia <em>(imdb display title)</em><br>    "Pakleni &#x161;und" - Croatia<br>    "Petpara&#x10D;ke pri&#x10D;e" - Serbia<br>    "Ponyvareg&#xE9;ny" - Hungary<br>    "Pulp Fiction" - Poland<br>    "Pulp Fiction" - Spain<br>    "Pulp Fiction" - France<br>    "Pulp Fiction" - Finland <em>(TV title)</em><br>    "Pulp Fiction" - Italy<br>    "Pulp Fiction" - Portugal <em>(imdb display title)</em><br>    "Pulp Fiction" - Czech Republic<br>    "Pulp Fiction" - Greece<br>    "Pulp Fiction" - Denmark<br>    "Pulp Fiction" - Estonia<br>    "Pulp Fiction" - Japan <em>(English title)</em><br>    "Pulp Fiction - Historky z podsvetia" - Slovakia<br>    "Pulp Fiction - Tarinoita v&#xE4;kivallasta" - Finland <em>(imdb display title)</em><br>    "Pulp Fiction - Tempo de Viol&#xEA;ncia" - Brazil <em>(imdb display title)</em><br>    "Sifrut Zolla" - Israel <em>(Hebrew title)</em><br>    "Sund" - Slovenia<br>    "Ucuz roman" - Turkey <em>(Turkish title)</em><br> <a class="tn15more" href="/title/tt0110912/releaseinfo#akas" onClick="(new Image()).src='/rg/title-tease/akas/images/b.gif?link=/title/tt0110912/releaseinfo#akas';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5><a href="/mpaa">MPAA</a>:</h5><div class="info-content">Rated R for strong graphic violence and drug use, pervasive strong language and some sexuality</div></div> <div class="info"><h5>Parents Guide:</h5><div class="info-content"><a href="parentalguide">View content advisory for parents</a></div></div> <div class="info"><h5>Runtime:</h5><div class="info-content">154 min  | USA:168 min (special edition)</div></div><div class="info"><h5>Country:</h5><div class="info-content"><a href="/country/us">USA</a></div></div><div class="info"><h5>Language:</h5><div class="info-content"><a href="/language/en">English</a> | <a href="/language/es">Spanish</a> | <a href="/language/fr">French</a></div></div><div class="info"><h5>Color:</h5><div class="info-content"><a href="/search/title?colors=color">Color</a> </div></div><div class="info"><h5>Aspect Ratio:</h5><div class="info-content">2.35 : 1 <a class="tn15more inline" href="/title/tt0110912/technical" onClick="(new Image()).src='/rg/title-tease/aspect/images/b.gif?link=/title/tt0110912/technical';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Sound Mix:</h5><div class="info-content"><a href="/search/title?sound_mixes=dolby_digital">Dolby Digital</a> </div></div><div class="info"><h5>Certification:</h5><div class="info-content"><a href="/search/title?certificates=ca:18a">Canada:18A</a> <i>(re-rating)</i> | <a href="/search/title?certificates=ca:r">Canada:R</a> <i>(original rating)</i> | <a href="/search/title?certificates=mx:c">Mexico:C</a>  | <a href="/search/title?certificates=sg:r21">Singapore:R21</a> <i>(re-rating) (uncut)</i> | <a href="/search/title?certificates=au:r">Australia:R</a>  | <a href="/search/title?certificates=br:18">Brazil:18</a>  | <a href="/search/title?certificates=hu:18">Hungary:18</a>  | <a href="/search/title?certificates=it:vm14">Italy:VM14</a> <i>(re-rating after appeal) (1997)</i> | <a href="/search/title?certificates=it:vm18">Italy:VM18</a> <i>(original rating)</i> | <a href="/search/title?certificates=fi:k_16">Finland:K-16</a> <i>(video rating) (1995) (cut)</i> | <a href="/search/title?certificates=fi:k_18">Finland:K-18</a> <i>(original rating) (1995) (uncut)</i> | <a href="/search/title?certificates=ph:r_18">Philippines:R-18</a>  | <a href="/search/title?certificates=in:a">India:A</a>  | <a href="/search/title?certificates=za:18">South Africa:18</a>  | <a href="/search/title?certificates=ca:18a">Canada:18A</a> <i>(Alberta) (2009)</i> | <a href="/search/title?certificates=pe:18">Peru:18</a>  | <a href="/search/title?certificates=us:r">USA:R</a> <i>(certificate #33107)</i> | <a href="/search/title?certificates=ar:18">Argentina:18</a>  | <a href="/search/title?certificates=ca:16+">Canada:16+</a> <i>(Quebec)</i> | <a href="/search/title?certificates=cl:18">Chile:18</a>  | <a href="/search/title?certificates=dk:15">Denmark:15</a>  | <a href="/search/title?certificates=fr:_12">France:-12</a>  | <a href="/search/title?certificates=de:16">Germany:16</a>  | <a href="/search/title?certificates=hk:iii">Hong Kong:III</a>  | <a href="/search/title?certificates=is:16">Iceland:16</a>  | <a href="/search/title?certificates=ie:18">Ireland:18</a>  | <a href="/search/title?certificates=il:18">Israel:18</a>  | <a href="/search/title?certificates=jp:r_15">Japan:R-15</a>  | <a href="/search/title?certificates=nl:16">Netherlands:16</a>  | <a href="/search/title?certificates=nz:r18">New Zealand:R18</a>  | <a href="/search/title?certificates=no:18">Norway:18</a>  | <a href="/search/title?certificates=pl:15">Poland:15</a>  | <a href="/search/title?certificates=pt:m_16">Portugal:M/16</a>  | <a href="/search/title?certificates=pt:m_18">Portugal:M/18</a> <i>(Qualidade)</i> | <a href="/search/title?certificates=sg:r(a)">Singapore:R(A)</a> <i>(original rating) (cut)</i> | <a href="/search/title?certificates=kr:18">South Korea:18</a>  | <a href="/search/title?certificates=es:18">Spain:18</a>  | <a href="/search/title?certificates=se:15">Sweden:15</a>  | <a href="/search/title?certificates=ch:16">Switzerland:16</a>  | <a href="/search/title?certificates=gb:18">UK:18</a> <i>(original rating)</i> | <a href="/search/title?certificates=gb:18">UK:18</a> <i>(video rating) (1995) (cut)</i></div></div><div class="info"><h5>Filming Locations:</h5><div class="info-content"><a  href="/search/title?locations=1525%20N.%20Van%20Ness%20Avenue,%20Los%20Angeles,%20California,%20USA">1525 N. Van Ness Avenue, Los Angeles, California, USA</a><a class="tn15more inline" href="/title/tt0110912/locations" onClick="(new Image()).src='/rg/title-tease/locations/images/b.gif?link=/title/tt0110912/locations';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Company:</h5><div class="info-content"><a href="/company/co0019267/">A Band Apart</a><a class="tn15more inline" href="/title/tt0110912/companycredits">See more</a>&nbsp;&raquo;</div></div><hr/><h3>Did You Know?</h3> <div class="info"><h5>Trivia:</h5><div class="info-content">A &#x22;KILLIANS RED&#x22; neon sign at the pawn shop is partially lit. It reads: &#x22;KILL ED&#x22;.<a class="tn15more inline" href="/title/tt0110912/trivia" onClick="(new Image()).src='/rg/title-tease/trivia/images/b.gif?link=/title/tt0110912/trivia';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Goofs:</h5><div class="info-content">Continuity: In the &#x22;gold Watch&#x22; scene, Butch gets out of the cab, then it cuts to Butch paying Esmarelda Villalobos. When the view returns to the whole cab again, you can tell the cab is moved back from when they first arrived.<a class="tn15more inline"href="/title/tt0110912/trivia?tab=gf&" onClick="(newImage()).src='/rg/title-tease/goofs/images/b.gif?link=/title/tt0110912/trivia?tab=gf&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Quotes:</h5><div class="info-content">[<i class="fine">first lines</i>] <br><b><a href="/name/nm0000619/">Pumpkin</a></b>:Forget it. Too risky. I&#x27;m through doing that shit. <br><b><a href="/name/nm0001625/">Yolanda</a></b>:You always say that. That same thing every time, &#x22;I&#x27;m through, never again, too dangerous&#x22;. <br><b><a href="/name/nm0000619/">Pumpkin</a></b>:I know that&#x27;s what I always say. I&#x27;m always right, too. <br><b><a href="/name/nm0001625/">Yolanda</a></b>:But you forget about it in a day or two. <br><b><a href="/name/nm0000619/">Pumpkin</a></b>:Yeah, well the days of me forgetting are over, and the days of me remembering have just begun.<br><a class="tn15more" href="/title/tt0110912/quotes" onClick="(new Image()).src='/rg/title-tease/quotes/images/b.gif?link=/title/tt0110912/quotes';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Movie Connections:</h5><div class="info-content">References <a href="/title/tt0053221/">Rio Bravo</a> (1959)<a class="tn15more inline"href="/title/tt0110912/trivia?tab=mc&" onClick="(newImage()).src='/rg/title-tease/movieconnections/images/b.gif?link=/title/tt0110912/trivia?tab=mc&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Soundtrack:</h5><div class="info-content">If Love Is A Red Dress (Hang Me In Rags)<a class="tn15more inline" href="/title/tt0110912/soundtrack" onClick="(new Image()).src='/rg/title-tease/soundtrack/images/b.gif?link=/title/tt0110912/soundtrack';">See more</a>&nbsp;&raquo;</div></div> 
 <hr/>
 <h3>FAQ</h3>
 
 <a href="/title/tt0110912/faq#.2.1.16" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0110912/faq#.2.1.16';">What's the deal with the guy in black?</a>
 <br/>
 
-<a href="/title/tt0110912/faq#.2.1.22" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0110912/faq#.2.1.22';">How could Mia have OD'd?</a>
+<a href="/title/tt0110912/faq#.2.1.28" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0110912/faq#.2.1.28';">How much sex, violence, and profanity are in this movie?</a>
 <br/>
 
-<a href="/title/tt0110912/faq#.2.1.36" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0110912/faq#.2.1.36';">What Tarantino characters are related?</a>
+<a href="/title/tt0110912/faq#.2.1.20" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0110912/faq#.2.1.20';">Why does Marsellus have a Band-Aid on the back of his neck?</a>
 <br/>
 
 <a class="tn15more" href="/title/tt0110912/faq" onClick="(new Image()).src='/rg/title-tease/faq-more/images/b.gif?link=/title/tt0110912/faq';">See more</a>&nbsp;&raquo;
@@ -1081,6 +1081,16 @@ Discuss this movie with other users on <a href="/title/tt0110912/board" onClick=
 <tr><th class="left">Recent Posts (updated daily)</th><th class="right">User</th></tr>
 
 <tr class="odd">
+<td><a href="/rg/title-tease/boards-subject/title/tt0110912/board/nest/211166226">An aquired taste?</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur22966940/boards/profile">maxair732865</a></td>
+</tr>
+
+<tr class="even">
+<td><a href="/rg/title-tease/boards-subject/title/tt0110912/board/nest/206896872">Rank Tarantino's films in order (Either directed or written or both)</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur31961162/boards/profile">chrisdmeads-304-886334</a></td>
+</tr>
+
+<tr class="odd">
 <td><a href="/rg/title-tease/boards-subject/title/tt0110912/board/nest/211150432">How much cooler would it be....</a></td>
 <td><a href="/rg/title-tease/boards-user/user/ur31271175/boards/profile">rileyshingler</a></td>
 </tr>
@@ -1093,16 +1103,6 @@ Discuss this movie with other users on <a href="/title/tt0110912/board" onClick=
 <tr class="odd">
 <td><a href="/rg/title-tease/boards-subject/title/tt0110912/board/nest/207638950">Not aging well</a></td>
 <td><a href="/rg/title-tease/boards-user/user/ur3438222/boards/profile">jboxer11111</a></td>
-</tr>
-
-<tr class="even">
-<td><a href="/rg/title-tease/boards-subject/title/tt0110912/board/nest/206896872">Rank Tarantino's films in order (Either directed or written or both)</a></td>
-<td><a href="/rg/title-tease/boards-user/user/ur31961162/boards/profile">chrisdmeads-304-886334</a></td>
-</tr>
-
-<tr class="odd">
-<td><a href="/rg/title-tease/boards-subject/title/tt0110912/board/nest/210980301">Pulp Fiction vs. Reservoir Dogs</a></td>
-<td><a href="/rg/title-tease/boards-user/user/ur24637512/boards/profile">emoviebuff</a></td>
 </tr>
 
 </table>
@@ -1214,7 +1214,7 @@ If you enjoyed this title, our database also recommends:
  </div>
 </div>
 
-<div id="servertime" time="324.899" treatment="control"></div>
+<div id="servertime" time="522.504" treatment="control"></div>
 
 <div id="criticalcontent" data-selector="#primary-poster, #title-media-strip img"></div>
 
@@ -1367,7 +1367,7 @@ ad_utils.register_ad('bottom_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=728x90,2x1;p=b;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-original-width="728" data-original-height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=595483415410?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=595483415410?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=960676245275?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=960676245275?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="bottom_ad_reflow_helper"></div>
@@ -1385,9 +1385,9 @@ ad_utils.register_ad('bottom_ad');
 
 </layer>
 </div>
-<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=136191271120583" width="1" height="1" alt="" border="0">
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=13619150905831" width="1" height="1" alt="" border="0">
 </div> <!-- id="wrapper" -->
-<!-- h=iop121 i=2013-02-25 s=legacy(akas) t='Tue Feb 26 13:05:11 2013' -->
+<!-- h=iop133 i=2013-02-26 s=legacy(akas) t='Tue Feb 26 13:44:50 2013' -->
 <script src="http://i.media-imdb.com/images/SF539be3987208630802e712857c51a6c9/js/jquery.js" ></script><script src="http://i.media-imdb.com/images/SF144de7d1cf27a8b0d644dc29e818bb29/js/cc/title/main.js" ></script><script src="http://i.media-imdb.com/images/SF4f789f206c87a31b26eb8666da48322e/js/app/win7/sitemode.js" ></script><script src="http://i.media-imdb.com/images/SF72867cac47f3d7e883837477537ab0a1/js/vote.js" ></script><script type="text/javascript">jQuery(function(){generic.document_is_ready()})</script><!-- Begin SIS-SW code --> 
 <iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
