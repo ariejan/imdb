@@ -1,0 +1,18 @@
+language: ruby
+
+notifications:
+  email: false
+
+rvm:
+  - 1.9.2
+  - 1.9.3
+  - ruby-head
+  - rbx-19mode
+
+matrix:
+  allow_failures:
+    - rvm: rbx-19mode
+
+script:
+  - "bundle exec rake spec"
+
