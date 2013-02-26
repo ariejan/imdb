@@ -7,6 +7,7 @@ require 'hpricot'
 
 require 'imdb/movie'
 require 'imdb/movie_list'
+require 'imdb/person'
 require 'imdb/search'
 require 'imdb/top_250'
 require 'imdb/string_extensions'
