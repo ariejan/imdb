@@ -15,7 +15,7 @@ module Imdb
     def initialize(imdb_id, title = nil, also_known_as = [])
       @id = imdb_id
       @url = "http://akas.imdb.com/title/tt#{imdb_id}/combined"
-      @title = title.gsub(/"/, "") if title
+      @title = title.gsub(/"/, "").strip if title
       @also_known_as = also_known_as
     end
 

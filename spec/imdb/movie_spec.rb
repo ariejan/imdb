@@ -60,17 +60,16 @@ describe "Imdb::Movie" do
 
       it 'should return the imdb actor number for each cast member' do
         @movie.cast_member_ids.sort.should == [
-          "nm0000246", "nm0000614", "nm0000889", "nm0000952", "nm0001108", "nm0001817", "nm0005598",
-          "nm0033749", "nm0040472", "nm0048326", "nm0072054", "nm0094770", "nm0101088", "nm0112505",
-          "nm0112779", "nm0119594", "nm0127960", "nm0142420", "nm0160690", "nm0162041", "nm0234426",
-          "nm0236525", "nm0239958", "nm0278010", "nm0296791", "nm0319739", "nm0322339", "nm0324231",
-          "nm0326276", "nm0338808", "nm0356114", "nm0370729", "nm0383487", "nm0416429", "nm0421114",
-          "nm0441665", "nm0484360", "nm0484650", "nm0493493", "nm0502959", "nm0503610", "nm0504342",
-          "nm0539639", "nm0546076", "nm0546747", "nm0662568", "nm0669625", "nm0681604", "nm0687270",
-          "nm0688235", "nm0718021", "nm0731114", "nm0748041", "nm0776208", "nm0793363", "nm0852311",
-          "nm0870729", "nm0882139", "nm0902455", "nm0907234", "nm0924636", "nm0936591", "nm0958105",
-          "nm2476262", "nm2565888"
-        ].sort
+         "nm0000246", "nm0000614", "nm0000889", "nm0000952", "nm0001108", "nm0001817", "nm0005598",
+         "nm0033749", "nm0040472", "nm0048326", "nm0072054", "nm0094770", "nm0101088", "nm0112505",
+         "nm0112779", "nm0119594", "nm0127960", "nm0142420", "nm0160690", "nm0162041", "nm0234426",
+         "nm0236525", "nm0239958", "nm0278010", "nm0296791", "nm0319739", "nm0322339", "nm0324231",
+         "nm0326276", "nm0338808", "nm0356114", "nm0370729", "nm0383487", "nm0416429", "nm0421114",
+         "nm0441665", "nm0484360", "nm0484650", "nm0493493", "nm0502959", "nm0503610", "nm0504342",
+         "nm0539639", "nm0546076", "nm0546747", "nm0662568", "nm0669625", "nm0681604", "nm0687270",
+         "nm0688235", "nm0718021", "nm0731114", "nm0776208", "nm0793363", "nm0852311", "nm0870729",
+         "nm0882139", "nm0902455", "nm0907234", "nm0924636", "nm0936591", "nm0958105", "nm2143912",
+         "nm2476262", "nm2565888"].sort
       end
     end
 
@@ -119,11 +118,11 @@ describe "Imdb::Movie" do
     end
 
     it "should find the plot" do
-      @movie.plot.should eql("New York cop John McClane gives terrorists a dose of their own medicine as they hold hostages in an LA office building.")
+      @movie.plot.should eql("John McClane, officer of the NYPD, tries to save wife Holly Gennaro and several others, taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.")
     end
 
     it "should find the poster" do
-      @movie.poster.should eql("http://ia.media-imdb.com/images/M/MV5BMTIxNTY3NjM0OV5BMl5BanBnXkFtZTcwNzg5MzY0MQ@@.jpg")
+      @movie.poster.should eql("http://ia.media-imdb.com/images/M/MV5BMTY4ODM0OTc2M15BMl5BanBnXkFtZTcwNzE0MTk3OA@@.jpg")
     end
 
     it "should find the rating" do
@@ -131,7 +130,7 @@ describe "Imdb::Movie" do
     end
 
     it "should find number of votes" do
-      @movie.votes.should be_within(100000).of(210000)
+      @movie.votes.should eql(343179)
     end
 
     it "should find the title" do
@@ -160,7 +159,7 @@ describe "Imdb::Movie" do
     end
 
     it "should provide a convenience method to search" do
-      movies = Imdb::Movie.search("Star Trek")
+      movies = Imdb::Movie.search("Star Trek: TOS")
       movies.should respond_to(:each)
       movies.each { |movie| movie.should be_an_instance_of(Imdb::Movie) }
     end
@@ -175,7 +174,7 @@ describe "Imdb::Movie" do
   describe "plot" do
     it "should find a correct plot when HTML links are present" do
       movie = Imdb::Movie.new("0083987")
-      movie.plot.should eql("Biography of 'Mahatma Gandhi' , the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of non-violent protest.")
+      movie.plot.should eql("Biography of Mohandas K. Gandhi, the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of non-violent protest.")
     end
 
     it "should not have a 'more' link in the plot" do
@@ -217,8 +216,7 @@ describe "Imdb::Movie" do
 
     it "should return the release date for movies" do
       movie = Imdb::Movie.new('0111161')
-      # FIXME: this date is geo-localized, leading to false positives
-      movie.release_date.should eql("2 March 1995 (Netherlands)")
+      movie.release_date.should eql("14 October 1994 (USA)")
     end
   end
 
