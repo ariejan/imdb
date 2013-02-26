@@ -1,5 +1,7 @@
 = imdb
 
+{<img src="https://travis-ci.org/ariejan/imdb.png?branch=master" alt="Build Status" />}[https://travis-ci.org/ariejan/imdb]
+
 home :: http://github.com/ariejan/imdb
 rdoc :: http://ariejan.github.com/imdb/
 bugs :: http://github.com/ariejan/imdb/issues
