@@ -1,13 +1,14 @@
 HTTP/1.1 200 OK
-Date: Tue, 26 Feb 2013 20:19:03 GMT
+Date: Tue, 26 Feb 2013 20:33:34 GMT
 Server: Server
 Cache-Control: private
 Cneonction: close
 Content-Type: text/html
-Set-Cookie: uu=BCYufkmGshbK3FEh-RT2XqhFrk1gsr2sTFr11xUD8ftcjBh3y6JSuUjZsoSNPmOiHRDMV6lEIs5qBlB3sA-d-8u1FhebjvwQIJb8BPHhopVGU2rTsUEapfei7VLg7iuTcJDVosWeBX02_OTPtgZ_9sxtgMCVCTm1-oIOkQITp2SJAhs;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
-Set-Cookie: cs=zVrz+jdp4CFhdCA1NT5ijgnJEiSO2SUS3lFyJI2aIqydShG3HcohR57ZIoQumTIkju9Vcg2ZEiSLz+YzHa/EExmZsoe+2SSyblESJI7vJDOO2RIkjvkSJI7ZEmTOiWIUg=;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: uu=BCYqYforhmE3MPZeFIazMmlkfDaknu4Tu-HvTqB3elIK5_j66H81kgO_NkNLm7d-uz_YbZMYqioB0_C1sR6a9-Mal2OgBBOdH7iem_ymuo_Tnu6R30zqtU6mYPlxmDW_yLM6rYLyW8doNs1PJQDB-guJetg66K6lAIC0oT5Z_Ah8Pc0;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=4Rvff5/6WjCes7d9JmafcgeBbbqgkVqM8BkNuqOCLTKzAn65I4Je2bCRXRoA0U26oKcq7CORbbqj5Ok8Z9HN2SCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Cneonction: close
 Transfer-Encoding: chunked
 
  
@@ -21,7 +22,7 @@ Transfer-Encoding: chunked
 <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
 <script>
 var addClickstreamHeadersToAjax = function(xhr) {
-    xhr.setRequestHeader("x-imdb-parent-id", "1PHJ4KAECSJX21J0HHF7");
+    xhr.setRequestHeader("x-imdb-parent-id", "1TNP8C8PCQGH0N8YVWMJ");
 };
 </script>
 
@@ -104,15 +105,15 @@ generic.monitoring.set_forester_info("main");
 generic.monitoring.set_twilight_info(
     "main", 
     "Other", 
-    "8c9f3c92a911b8ae51f045c26fb7d96427398826", 
-    "2013-02-26T20%3A19%3A03GMT", 
+    "db89b76831913e37113c60e197bbee42855388a3", 
+    "2013-02-26T20%3A33%3A34GMT", 
     "http://s.media-imdb.com/twilight/?");
 
 generic.send_csm_head_metrics && generic.send_csm_head_metrics();
 
 generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 45717;
-generic.days_to_midnight = 0.529131944444444;
+generic.seconds_to_midnight = 44846;
+generic.days_to_midnight = 0.519050925925926;
 custom.full_page.data_url = "http://i.media-imdb.com/images/SF52343caf319e887027f13568332cdfd7/a/js/graffiti_data.js";
 ad_utils.ad_prediction.init();
 consoleLog('advertising initialized','ads');
@@ -182,7 +183,7 @@ ad_utils.register_ad('top_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.main/chart;!TILE!;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-original-width="0" data-original-height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.main/chart;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;fv=1;ka=0;ord=164272108197?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.main/chart;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;fv=1;ka=0;ord=164272108197?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.main/chart;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;fv=1;ka=0;ord=442594538059?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.main/chart;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;fv=1;ka=0;ord=442594538059?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_ad_reflow_helper"></div>
@@ -904,7 +905,7 @@ ad_utils.register_ad('top_rhs');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.main/chart;!TILE!;sz=300x250,11x1;p=tr;p=tc;ct=com;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-original-width="300" data-original-height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.main/chart;tile=3;sz=300x250,11x1;p=tr;p=tc;ct=com;fv=1;ka=0;ord=164272108197?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.main/chart;tile=3;sz=300x250,11x1;p=tr;p=tc;ct=com;fv=1;ka=0;ord=164272108197?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.main/chart;tile=3;sz=300x250,11x1;p=tr;p=tc;ct=com;fv=1;ka=0;ord=442594538059?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.main/chart;tile=3;sz=300x250,11x1;p=tr;p=tc;ct=com;fv=1;ka=0;ord=442594538059?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_rhs_reflow_helper"></div>
@@ -1060,7 +1061,7 @@ ad_utils.register_ad('bottom_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.main/chart;!TILE!;sz=728x90,2x1;p=b;ct=com;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-original-width="728" data-original-height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.main/chart;tile=1;sz=728x90,2x1;p=b;ct=com;fv=1;ka=0;ord=164272108197?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.main/chart;tile=1;sz=728x90,2x1;p=b;ct=com;fv=1;ka=0;ord=164272108197?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.main/chart;tile=1;sz=728x90,2x1;p=b;ct=com;fv=1;ka=0;ord=442594538059?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.main/chart;tile=1;sz=728x90,2x1;p=b;ct=com;fv=1;ka=0;ord=442594538059?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="bottom_ad_reflow_helper"></div>
@@ -1078,9 +1079,9 @@ ad_utils.register_ad('bottom_ad');
 
 </layer>
 </div>
-<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=136190994316507" width="1" height="1" alt="" border="0">
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=1361910815348" width="1" height="1" alt="" border="0">
 </div> <!-- id="wrapper" -->
-<!-- h=iop2030 i=2013-02-25 s=legacy(akas) t='Tue Feb 26 12:19:03 2013' -->
+<!-- h=iop744 i=2013-02-25 s=legacy(akas) t='Tue Feb 26 12:33:34 2013' -->
 <script src="http://i.media-imdb.com/images/SF539be3987208630802e712857c51a6c9/js/jquery.js" ></script><script src="http://i.media-imdb.com/images/SF4f789f206c87a31b26eb8666da48322e/js/app/win7/sitemode.js" ></script><script type="text/javascript">jQuery(function(){generic.document_is_ready()})</script><!-- Begin SIS-SW code --> 
 <iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
