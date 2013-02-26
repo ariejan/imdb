@@ -79,6 +79,17 @@ module Imdb
       sanitize_plot(document.search("h5[text()='Plot:'] ~ div").first.innerHTML) rescue nil
     end
 
+    # Returns a string containing the plot summary
+    def plot_synopsis
+      doc = Hpricot(Imdb::Movie.find_by_id(@id, :synopsis))
+      doc.search("div[@id='swiki.2.1']").innerHTML.strip.imdb_unescape_html.imdb_strip_tags rescue nil
+    end
+
+    def plot_summary
+      doc = Hpricot(Imdb::Movie.find_by_id(@id, :plotsummary))
+      doc.search("p[@class='plotpar']").first.innerHTML.gsub(/<i.*/im, '').strip.imdb_unescape_html rescue nil
+    end
+
     # Returns a string containing the URL to the movie poster.
     def poster
       src = document.at("a[@name='poster'] img")['src'] rescue nil
@@ -137,8 +148,8 @@ module Imdb
     end
 
     # Use HTTParty to fetch the raw HTML for this movie.
-    def self.find_by_id(imdb_id)
-      open("http://akas.imdb.com/title/tt#{imdb_id}/combined")
+    def self.find_by_id(imdb_id, page = :combined)
+      open("http://akas.imdb.com/title/tt#{imdb_id}/#{page}")
     end
 
     # Convenience method for search
