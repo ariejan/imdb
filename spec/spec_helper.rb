@@ -8,13 +8,7 @@
 # no changes to the IMDB.com interface have affected the parser.
 ###
 
-begin
-  require 'spec'
-rescue LoadError
-  require 'rubygems'
-  gem 'rspec'
-  require 'spec'
-end
+require 'rspec'
 
 $:.unshift(File.dirname(__FILE__) + '/../lib')
 require 'imdb'
@@ -23,7 +17,7 @@ def read_fixture(path)
   File.read(File.expand_path(File.join(File.dirname(__FILE__), "fixtures", path)))
 end
 
-IMDB_SAMPLES = { 
+IMDB_SAMPLES = {
   "http://akas.imdb.com:80/find?q=Kannethirey+Thondrinal;s=tt" => "search_kannethirey_thondrinal",
   "http://akas.imdb.com/title/tt0330508/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfGh0bWw9MXxjaD0xfGNvPTF8cG49MHxmdD0xfGt3PTF8cXM9S2FubmV0aGlyZXkgVGhvbmRyaW5hbHxzaXRlPWFrYXxxPUthbm5ldGhpcmV5IFRob25kcmluYWx8bm09MQ__;fc=1;ft=1" => "tt0330508",
   "http://akas.imdb.com:80/find?q=I+killed+my+lesbian+wife;s=tt" => "search_killed_wife",
@@ -45,7 +39,7 @@ unless ENV['LIVE_TEST']
   begin
     require 'rubygems'
     require 'fakeweb'
-    
+
     FakeWeb.allow_net_connect = false
     IMDB_SAMPLES.each do |url, response|
       FakeWeb.register_uri(:get, url, :response => read_fixture(response))

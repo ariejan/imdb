@@ -22,10 +22,10 @@ describe "Imdb::Movie" do
       cast.should include("Bonnie Bedelia")
       cast.should include("Alan Rickman")
     end
-  
+
     it "should find the cast characters" do
       char = @movie.cast_characters
-    
+
       char.should be_an(Array)
       char.should include("Karl")
       char.should include("Officer John McClane")
@@ -37,11 +37,11 @@ describe "Imdb::Movie" do
       cast = @movie.cast_members
       char = @movie.cast_characters
       cast_char = @movie.cast_members_characters
-      
+
       cast_char[0].should eql("#{cast[0]} => #{char[0]}")
       cast_char[10].should eql("#{cast[10]} => #{char[10]}")
       cast_char[-1].should eql("#{cast[-1]} => #{char[-1]}")
-      
+
       cast_char = @movie.cast_members_characters('as')
 
       cast_char[1].should eql("#{cast[1]} as #{char[1]}")
@@ -131,7 +131,7 @@ describe "Imdb::Movie" do
     end
 
     it "should find number of votes" do
-      @movie.votes.should be_close(210000, 100000)
+      @movie.votes.should be_within(100000).of(210000)
     end
 
     it "should find the title" do
