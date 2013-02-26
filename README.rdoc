@@ -88,6 +88,16 @@ fixtures:refresh rake task
 
     $ bundle exec rake fixtures:refresh
 
+== Disclaimer
+
+I, or any developer who contributed to this project, accepts any kind of 
+liabilty for your use of this library.
+
+IMDB does not permit use of its data by third parties without their consent.
+
+Using this library for anything other than limited personal use may result
+in an IP ban to the IMDB website.
+
 == License
 
 (The MIT License)
