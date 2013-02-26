@@ -84,6 +84,10 @@ describe "Imdb::Movie" do
       @movie.director.first.should =~ /John McTiernan/
     end
 
+    it "should find the company info" do
+      @movie.company.should eql("Twentieth Century Fox Film Corporation")
+    end
+
     it "should find the genres" do
       genres = @movie.genres
 
