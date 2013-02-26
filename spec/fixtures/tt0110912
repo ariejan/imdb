@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Tue, 26 Feb 2013 20:33:38 GMT
+Date: Tue, 26 Feb 2013 21:05:11 GMT
 Server: Server
 Cache-Control: private
 Cneonction: close
 Content-Type: text/html
-Set-Cookie: uu=BCYi64nINXKQ5iICuQUm20hgaMAZeN5NdsTXyNUW5tLrJuXVIyQckTmJTqdqYkrVAy2tPZSMBQDEc6IVE5vy8mz-_PKWUJQ35AwPkk0E8E5I-RFch2E-BhMUas4AsDtb8g8hkRrCdp349Qw17G4yOBU8En2WGbk7SB4tROQFm7OyXBE;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
-Set-Cookie: cs=dx9VoMiMd0hobkZX5pWZMgeBbbqgkVqM8BkNuqOC7TKzAn65I4Je2bCRXRoA0U26oKcq7CcxbbqjkukZl9HN2TCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: uu=BCYg_mDpqkkpVSPlke4WqBz_YHvonsUyk96TzjhUcPXV1CxfVTkw0Qxv2gja-wGE8hRvuY4_t9qrvLuzmwUavZySTvGv0Y21s8AYu6i08gawUc0YOzC9l_YS2lxj2ON8K1P6xkT5cZwjNNbGmZ4-lK6QAbCqWLpWTO134Cur3gRDzxE;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=8DvYIWAIiQw8A6XU8VXhOgenOqqgkW26kBl9MsOyHqmz8n4psDHOqZCRbbqXx+36gJFtjOTH2zqjlhg+t9HNOfCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
@@ -20,7 +20,7 @@ Transfer-Encoding: chunked
 <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
 <script>
 var addClickstreamHeadersToAjax = function(xhr) {
-    xhr.setRequestHeader("x-imdb-parent-id", "1K9P0A4M9HWG0WRMX788");
+    xhr.setRequestHeader("x-imdb-parent-id", "0WW73J4TKE9T6WEX2R99");
 };
 </script>
 
@@ -54,7 +54,7 @@ var addClickstreamHeadersToAjax = function(xhr) {
 <link rel="search" type="application/opensearchdescription+xml"
       href="http://i.media-imdb.com/images/SFccbe1e4d909ef8b8077201c3c5aac349/imdbsearch.xml" title="IMDb" />
 <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
-<script type="text/javascript">var __vkey = 'GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '9.0';</script>
+<script type="text/javascript">var __vkey = '0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '9.0';</script>
 <meta property="og:type" content="movie" />
 <meta property="fb:app_id" content="115109575169727" />
 <meta property="og:title" content="Pulp Fiction (1994)" />
@@ -68,15 +68,15 @@ generic.monitoring.set_forester_info("title");
 generic.monitoring.set_twilight_info(
     "title_subpage", 
     "Other", 
-    "3f8a16951f25ebdec9ac26bec70a097b29330a62", 
-    "2013-02-26T20%3A33%3A39GMT", 
+    "3fb05a745d46ac140ee4ebd31522cc88a26b6c34", 
+    "2013-02-26T21%3A05%3A11GMT", 
     "http://s.media-imdb.com/twilight/?");
 
 generic.send_csm_head_metrics && generic.send_csm_head_metrics();
 
 generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 44841;
-generic.days_to_midnight = 0.518993055555556;
+generic.seconds_to_midnight = 42949;
+generic.days_to_midnight = 0.497094907407407;
 custom.full_page.data_url = "http://i.media-imdb.com/images/SF52343caf319e887027f13568332cdfd7/a/js/graffiti_data.js";
 ad_utils.ad_prediction.init();
 consoleLog('advertising initialized','ads');
@@ -146,7 +146,7 @@ ad_utils.register_ad('top_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-original-width="0" data-original-height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=830617656814?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=830617656814?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=595483415410?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=595483415410?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_ad_reflow_helper"></div>
@@ -522,7 +522,7 @@ ad_utils.register_ad('top_ad');
 
 <div id="action-box" class="action-box">
 <a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Famazon%2Fvi1374790425%2F';window.open(this.href+'offsite','_blank');
-                 return false;"     href="/video/amazon/vi1374790425/"    class="linkasbutton-primary" data-rid="1K9P0A4M9HWG0WRMX788" data-video="vi1374790425" data-context="amazon" >Watch It</a>
+                 return false;"     href="/video/amazon/vi1374790425/"    class="linkasbutton-primary" data-rid="0WW73J4TKE9T6WEX2R99" data-video="vi1374790425" data-context="amazon" >Watch It</a>
 
   <p>at Amazon</p>
 
@@ -608,7 +608,7 @@ ad_utils.register_ad('top_ad');
 
 <td width="40%" class="media_strip_header">
 <b>Photos</b>
-<span>(<a href="/rg/photos-title/gallery-link/title/tt0110912/mediaindex">See all 88</a> | <a href="/rg/photos-title/slideshow-link/media/rm395096576/tt0110912?slideshow=1">slideshow</a>)</span>
+<span>(<a href="/rg/photos-title/gallery-link/title/tt0110912/mediaindex">See all 88</a> | <a href="/rg/photos-title/slideshow-link/media/rm327987712/tt0110912?slideshow=1">slideshow</a>)</span>
 </td>
 
 <td width="40%" class="media_strip_header">
@@ -624,15 +624,15 @@ ad_utils.register_ad('top_ad');
 
 <td>
 <div class="media_strip_thumbs">
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm395096576/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTg3MDQ5NTgwOV5BMl5BanBnXkFtZTcwNzA0MzU5Ng@@._V1._CR364,0,1320,1320_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm378319360/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjIyNTU4MjY4NF5BMl5BanBnXkFtZTcwODA0MzU5Ng@@._V1._CR337,0,1373,1373_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-3/media/rm580825088/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTUzNjMxNjUwN15BMl5BanBnXkFtZTcwNDgxMjIyNw@@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm361542144/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTU2Mjc0MTg4MF5BMl5BanBnXkFtZTcwOTA0MzU5Ng@@._V1._CR0,0,1310,1310_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm597602304/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM0NzI1NDgzM15BMl5BanBnXkFtZTcwMzgxMjIyNw@@._V1._CR337,0,1374,1374_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm143438336/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNzg1MTgwMTUzM15BMl5BanBnXkFtZTcwNjA0MzU5Ng@@._V1._CR323,0,1402,1402_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm327987712/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM3MzA5MDQxMF5BMl5BanBnXkFtZTcwMjE0MzU5Ng@@._V1._CR339,0,1369,1369_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm361542144/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTU2Mjc0MTg4MF5BMl5BanBnXkFtZTcwOTA0MzU5Ng@@._V1._CR0,0,1310,1310_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-3/media/rm395096576/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTg3MDQ5NTgwOV5BMl5BanBnXkFtZTcwNzA0MzU5Ng@@._V1._CR364,0,1320,1320_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm143438336/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNzg1MTgwMTUzM15BMl5BanBnXkFtZTcwNjA0MzU5Ng@@._V1._CR323,0,1402,1402_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm378319360/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjIyNTU4MjY4NF5BMl5BanBnXkFtZTcwODA0MzU5Ng@@._V1._CR337,0,1373,1373_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm597602304/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM0NzI1NDgzM15BMl5BanBnXkFtZTcwMzgxMjIyNw@@._V1._CR337,0,1374,1374_SS90_.jpg" border="0"></a></div>
 <div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-7/media/rm344764928/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTUwNTE0NjU2Ml5BMl5BanBnXkFtZTcwMDE0MzU5Ng@@._V1._CR353,0,1341,1341_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm327987712/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM3MzA5MDQxMF5BMl5BanBnXkFtZTcwMjE0MzU5Ng@@._V1._CR339,0,1369,1369_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-9/media/rm689864704/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTg0MjE5NzUwN15BMl5BanBnXkFtZTcwMjEzNDY3Mw@@._V1._CR136,0,387,387_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm580825088/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTUzNjMxNjUwN15BMl5BanBnXkFtZTcwNDgxMjIyNw@@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-9/media/rm572424192/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ1Mzc5NjU5NF5BMl5BanBnXkFtZTcwMzAzNDY3Mw@@._V1._CR136,0,387,387_SS90_.jpg" border="0"></a></div>
 <div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm555646976/tt0110912"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNzU4MDkzNzEwOV5BMl5BanBnXkFtZTcwNDAzNDY3Mw@@._V1._CR136,0,387,387_SS90_.jpg" border="0"></a></div>
 </div>
 </td>
@@ -642,7 +642,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi164666905%2F';"     href="/video/screenplay/vi164666905/"    data-rid="1K9P0A4M9HWG0WRMX788" data-video="vi164666905" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi164666905%2F';"     href="/video/screenplay/vi164666905/"    data-rid="0WW73J4TKE9T6WEX2R99" data-video="vi164666905" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="Pulp Fiction -- Trailer" title="Pulp Fiction -- Trailer"
@@ -654,7 +654,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi232824345%2F';"     href="/video/imdb/vi232824345/"    data-rid="1K9P0A4M9HWG0WRMX788" data-video="vi232824345" data-context="imdb" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi232824345%2F';"     href="/video/imdb/vi232824345/"    data-rid="0WW73J4TKE9T6WEX2R99" data-video="vi232824345" data-context="imdb" ><img 
      height="90" 
      width="120"
      alt="Pulp Fiction -- Eric Stoltz discusses watching films with Quentin Tarantino." title="Pulp Fiction -- Eric Stoltz discusses watching films with Quentin Tarantino."
@@ -666,7 +666,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi282107417%2F';"     href="/video/screenplay/vi282107417/"    data-rid="1K9P0A4M9HWG0WRMX788" data-video="vi282107417" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi282107417%2F';"     href="/video/screenplay/vi282107417/"    data-rid="0WW73J4TKE9T6WEX2R99" data-video="vi282107417" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="Pulp Fiction -- Trailer" title="Pulp Fiction -- Trailer"
@@ -678,7 +678,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi2554960921%2F';"     href="/video/screenplay/vi2554960921/"    data-rid="1K9P0A4M9HWG0WRMX788" data-video="vi2554960921" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi2554960921%2F';"     href="/video/screenplay/vi2554960921/"    data-rid="0WW73J4TKE9T6WEX2R99" data-video="vi2554960921" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="Pulp Fiction -- Trailer for Pulp Fiction" title="Pulp Fiction -- Trailer for Pulp Fiction"
@@ -690,7 +690,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi647011097%2F';"     href="/video/screenplay/vi647011097/"    data-rid="1K9P0A4M9HWG0WRMX788" data-video="vi647011097" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi647011097%2F';"     href="/video/screenplay/vi647011097/"    data-rid="0WW73J4TKE9T6WEX2R99" data-video="vi647011097" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="Pulp Fiction -- Trailer for Pulp Fiction" title="Pulp Fiction -- Trailer for Pulp Fiction"
@@ -733,7 +733,7 @@ ad_utils.register_ad('top_rhs');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-original-width="300" data-original-height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=830617656814?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=830617656814?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=595483415410?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=595483415410?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_rhs_reflow_helper"></div>
@@ -772,7 +772,7 @@ ad_utils.register_ad('top_rhs');
         <div class="outer">
           <div id="general-voting-stars" class="inner" style="width: 180px"></div>
           <div class="starbar-votes">
-            <a title="10" href="vote?v=10;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+            <a title="10" href="vote?v=10;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
           </div>
         </div>
       </div>
@@ -794,7 +794,7 @@ ad_utils.register_ad('top_rhs');
         <div class="outer">
           <div id="personal-voting-stars" class="inner" style="width: 0px"></div>
           <div class="starbar-votes">
-            <a title="10" href="vote?v=10;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+            <a title="10" href="vote?v=10;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
           </div>
         </div>
       </div>
@@ -804,7 +804,7 @@ ad_utils.register_ad('top_rhs');
         <div class="user">
           <div class="extra">
             <b><span id="voteuser"></span>/10</b>
-            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=GsY2%2F7KpwGiY23Iaav4fEgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ4%2FlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
+            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=0zUFh7xUVMrtwZXsFtrJQgB%2FqjlzSVo5c3pZqmcuGTpgfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
              | <a href="/list/ratings">history</a>)
           </div>
         </div>
@@ -946,7 +946,7 @@ Won Oscar.
 <div class="info">
 <h5>User Reviews:</h5>
 <div class="info-content">
-The masterpiece without a message
+Simply The Best
 <a class="tn15more inline" href="#comment">See more (1643 total)</a>&nbsp;&raquo;
 </div>
 </div>
@@ -964,7 +964,7 @@ The masterpiece without a message
                             client:   "ca-amazon-imdb_js",    
                             title:    "Sponsored Links",    
                             help:     "What&#x27;s This?",    
-                            hints:    "junkyard,falling asleep,piercing,bar,body piercing"   
+                            hints:    "apartment building,diner,n word,nosebleed,torture"   
                           };     
      </script>   
          
@@ -980,13 +980,13 @@ The masterpiece without a message
 <hr/>
 <h3>FAQ</h3>
 
-<a href="/title/tt0110912/faq#.2.1.26" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0110912/faq#.2.1.26';">Is the sword at Maynard's store the same one as the Bride's in "Kill Bill"?</a>
+<a href="/title/tt0110912/faq#.2.1.16" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0110912/faq#.2.1.16';">What's the deal with the guy in black?</a>
 <br/>
 
-<a href="/title/tt0110912/faq#.2.1.9" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0110912/faq#.2.1.9';">Why is what Yolanda says in the beginning different from what she says at the end?</a>
+<a href="/title/tt0110912/faq#.2.1.22" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0110912/faq#.2.1.22';">How could Mia have OD'd?</a>
 <br/>
 
-<a href="/title/tt0110912/faq#.2.1.37" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0110912/faq#.2.1.37';">What are the differences between the British BBFC 18 DVD Version and the Uncut Version?</a>
+<a href="/title/tt0110912/faq#.2.1.36" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0110912/faq#.2.1.36';">What Tarantino characters are related?</a>
 <br/>
 
 <a class="tn15more" href="/title/tt0110912/faq" onClick="(new Image()).src='/rg/title-tease/faq-more/images/b.gif?link=/title/tt0110912/faq';">See more</a>&nbsp;&raquo;
@@ -1018,20 +1018,20 @@ function ynd(id, status) {
 //-->
 </script>
 <div class="small">
-971 out of 1121 people found the following review useful.
+742 out of 981 people found the following review useful.
 </div>
 
-<b>The masterpiece without a message</b>, 17 November 2005
+<b>Simply The Best</b>, 9 January 2005
 <br>
 
 <div class="tinystarbar" title="10/10"><div style="width: 100px;"><a></a></div></div>
 
 <div class="small">
 Author:
-<a href="/user/ur0556667/comments">kylopod (kylopod@aol.com)</a>
+<a href="/user/ur1515595/comments">wolvesrug</a>
 
 <small>
-from Baltimore, MD
+from England
 </small>
 
 </div>
@@ -1039,82 +1039,26 @@ from Baltimore, MD
 
 </p>
 <p>
-One of the early scenes in &quot;Pulp Fiction&quot; features two hit-men
-discussing what a Big Mac is called in other countries. Their dialogue
-is witty and entertaining, and it&#39;s also disarming, because it makes
-these two thugs seem all too normal. If you didn&#39;t know better, you
-might assume these were regular guys having chit-chat on their way to
-work. Other than the comic payoff at the end of the scene, in which
-they use parts of this conversation to taunt their victims, their talk
-has no relevance to anything in the film, or to anything else, for that
-matter. Yet without such scenes, &quot;Pulp Fiction&quot; wouldn&#39;t be &quot;Pulp
-Fiction.&quot; I get the sense that Tarantino put into the film whatever
-struck his fancy, and somehow the final product is not only coherent
-but wonderfully textured.<br/><br/>It&#39;s no wonder that fans spend so much time debating what was in the
-suitcase, reading far more into the story than Tarantino probably
-intended. The film is so intricately structured, with so many
-astonishing details, many of which you won&#39;t pick up on the first
-viewing, that it seems to cry out for some deeper explanation. But
-there is no deeper explanation. &quot;Pulp Fiction,&quot; is, as the title
-indicates, purely an exercise in technique and style, albeit a
-brilliant and layered one. Containing numerous references to other
-films, it is like a great work of abstract art, or &quot;art about art.&quot; It
-has all the characteristics we associate with great movies: fine
-writing, first-rate acting, unforgettable characters, and one of the
-most well-constructed narratives I&#39;ve ever seen in a film. But to what
-end? The self-contained story does not seem to have bearing on anything
-but itself.<br/><br/>The movie becomes a bit easier to understand once you realize that it&#39;s
-essentially a black comedy dressed up as a crime drama. Each of the
-three main story threads begins with a situation that could easily form
-the subplot of any standard gangster movie. But something always goes
-wrong, some small unexpected accident that causes the whole situation
-to come tumbling down, leading the increasingly desperate characters to
-absurd measures. Tarantino&#39;s originality stems from his ability to
-focus on small details and follow them where they lead, even if they
-move the story away from conventional plot developments.<br/><br/>Perhaps no screenplay has ever found a better use for digressions.
-Indeed, the whole film seems to consist of digressions. No character
-ever says anything in a simple, straightforward manner. Jules could
-have simply told Yolanda, &quot;Be cool and no one&#39;s going to get hurt,&quot;
-which is just the type of line you&#39;d find in a generic, run-of-the-mill
-action flick. Instead, he goes off on a tangent about what Fonzie is
-like. Tarantino savors every word of his characters, finding a
-potential wisecrack in every statement and infusing the dialogue with
-clever pop culture references. But the lines aren&#39;t just witty; they
-are full of intelligent observations about human behavior. Think of
-Mia&#39;s statement to Vincent, &quot;That&#39;s when you know you&#39;ve found somebody
-special: when you can just shut the f--- up for a minute and
-comfortably enjoy the silence.&quot;<br/><br/>What is the movie&#39;s purpose exactly? I&#39;m not sure, but it does deal a
-lot with the theme of power. Marsellus is the sort of character who
-looms over the entire film while being invisible most of the time. The
-whole point of the big date sequence, which happens to be my favorite
-section of the film, is the power that Marsellus has over his men
-without even being present. This power is what gets Vincent to act in
-ways you would not ordinarily expect from a dumb, stoned gangster faced
-with an attractive woman whose husband has gone away. The power theme
-also helps explain one of the more controversial aspects of the film,
-its liberal use of the N-word. In this film, the word isn&#39;t just used
-as an epithet to describe blacks: Jules, for instance, at one point
-applies the term to Vincent. It has more to do with power than with
-race. The powerful characters utter the word to express their dominance
-over weaker characters. Most of these gangsters are not racist in
-practice. Indeed, they are intermingled racially, and have achieved a
-level of equality that surpasses the habits of many law-abiding
-citizens in our society. They resort to racial epithets because it&#39;s a
-patter that establishes their separateness from the non-criminal world.<br/><br/>There&#39;s a nice moral progression to the stories. We presume that
-Vincent hesitates to sleep with Mia out of fear rather than loyalty.
-Later, Butch&#39;s act of heroism could be motivated by honor, but we&#39;re
-never sure. The film ends, however, with Jules making a clear moral
-choice. Thus, the movie seems to be exploring whether violent outlaws
-can act other than for self-preservation.<br/><br/>Still, it&#39;s hard to find much of a larger meaning tying together these
-eccentric set of stories. None of the stories are really &quot;about&quot;
-anything. They certainly are not about hit-men pontificating about
-burgers. Nor is the film really a satire or a farce, although it
-contains elements of both. At times, it feels like a tale that didn&#39;t
-need to be told, but for whatever reason this movie tells it and does a
-better job than most films of its kind, or of any other kind.
+To put this in context, I am 34 years old and I have to say that this
+is the best film I have seen without doubt and I don't expect it will
+be beaten as far as I am concerned. Obviously times move on, and I
+acknowledge that due to its violence and one particularly uncomfortable
+scene this film is not for everyone, but I still remember watching it
+for the first time, and it blew me away. Anyone who watches it now has
+to remember that it actually changed the history of cinema. In context-
+it followed a decade or more of action films that always ended with a
+chase sequence where the hero saved the day - you could have written
+those films yourself. Pulp had you gripped and credited the audience
+with intelligence. There is not a line of wasted dialogue and the movie
+incorporates a number of complexities that are not immediately obvious.
+It also resurrected the career of Grease icon John Travolta and
+highlighted the acting talent of Samuel L Jackson. There are many films
+now that are edited out of sequence and have multiple plots etc but
+this is the one they all want to be, or all want to beat, but never
+will.
 </p>
 
-<div class="yn" id="ynd_1218264">
+<div class="yn" id="ynd_995534">
 <form method="get" action="/register/">
 <input type="hidden" name="why" value="comment_vote">
 Was the above review useful to you?
@@ -1270,7 +1214,7 @@ If you enjoyed this title, our database also recommends:
  </div>
 </div>
 
-<div id="servertime" time="375.393" treatment="control"></div>
+<div id="servertime" time="324.899" treatment="control"></div>
 
 <div id="criticalcontent" data-selector="#primary-poster, #title-media-strip img"></div>
 
@@ -1423,7 +1367,7 @@ ad_utils.register_ad('bottom_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=728x90,2x1;p=b;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-original-width="728" data-original-height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=830617656814?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=830617656814?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=595483415410?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;m=R;tt=f;b=t250;b=t250a;g=cr;id=tt0110912;k=u;k=i;coo=usa;k=c;fv=1;ka=0;ord=595483415410?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="bottom_ad_reflow_helper"></div>
@@ -1441,9 +1385,9 @@ ad_utils.register_ad('bottom_ad');
 
 </layer>
 </div>
-<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=136191081919567" width="1" height="1" alt="" border="0">
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=136191271120583" width="1" height="1" alt="" border="0">
 </div> <!-- id="wrapper" -->
-<!-- h=iop113 i=2013-02-25 s=legacy(akas) t='Tue Feb 26 12:33:38 2013' -->
+<!-- h=iop121 i=2013-02-25 s=legacy(akas) t='Tue Feb 26 13:05:11 2013' -->
 <script src="http://i.media-imdb.com/images/SF539be3987208630802e712857c51a6c9/js/jquery.js" ></script><script src="http://i.media-imdb.com/images/SF144de7d1cf27a8b0d644dc29e818bb29/js/cc/title/main.js" ></script><script src="http://i.media-imdb.com/images/SF4f789f206c87a31b26eb8666da48322e/js/app/win7/sitemode.js" ></script><script src="http://i.media-imdb.com/images/SF72867cac47f3d7e883837477537ab0a1/js/vote.js" ></script><script type="text/javascript">jQuery(function(){generic.document_is_ready()})</script><!-- Begin SIS-SW code --> 
 <iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 

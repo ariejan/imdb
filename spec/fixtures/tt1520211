@@ -1,0 +1,1469 @@
+HTTP/1.1 200 OK
+Date: Tue, 26 Feb 2013 21:05:13 GMT
+Server: Server
+Cache-Control: private
+Cneonction: close
+Content-Type: text/html
+Set-Cookie: uu=BCYo0bGATiXm4v47FT1An2j1Q_l4VluiRW27k0gYCLlqRC4p4I8oRN-FgNN5TtmbBm9tsvtg2w54lB9k4487L7_Pn2AnCEWCyfbdqHoyPtWzjE50Ew447s0fDtW94hoyWRjzkwyximgevGsL48xoIAPc7-Apz4g4c-dVu2bnuqbYZxQ;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=pWwgbKcAdoAqKbN2W5u92AeBbbqgkVqM8BkNuqOCXTKzAn6Z04Je2bCRXRoA0U26oKcq7CJxbbqjpZscZ9HN2ZCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
+Vary: Accept-Encoding,User-Agent
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:og="http://opengraphprotocol.org/schema/"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<script type="text/javascript">var IMDbTimer={starttime: new Date().getTime()};</script>
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
+<script>
+var addClickstreamHeadersToAjax = function(xhr) {
+    xhr.setRequestHeader("x-imdb-parent-id", "1N4VSS9MRQE238A620M6");
+};
+</script>
+
+<title>&#x22;The Walking Dead&#x22; (2010)</title>
+<script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
+<link rel="canonical" href="http://www.imdb.com/title/tt1520211/combined" /><meta property="og:url" content="http://www.imdb.com/title/tt1520211/combined" />
+
+<meta name="title" content="&#x22;The Walking Dead&#x22; (2010)">
+<meta name="description" content="Created by Frank Darabont. With Andrew Lincoln, Sarah Wayne Callies, Laurie Holden. Police officer Rick Grimes leads a group of survivors in a world overrun by zombies. Visit IMDb for Photos, Showtimes, Cast, Crew, Reviews, Plot Summary, Comments, Discussions, Taglines, Trailers, Posters, Fan Sites">
+<link rel="image_src" href="http://ia.media-imdb.com/images/M/MV5BMTc5ODQ0NDA0NV5BMl5BanBnXkFtZTcwNjkzNTM5OA@@._V1._SX95_SY140_.jpg"><meta property="og:image" content="http://ia.media-imdb.com/images/M/MV5BMTc5ODQ0NDA0NV5BMl5BanBnXkFtZTcwNjkzNTM5OA@@._V1._SX95_SY140_.jpg">
+<meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits">
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFbdc5e4e1450acf0739a86cea962c93c6/css/min/title.css" ><script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
+
+
+<meta name="application-name" content="IMDb" />
+<meta name="msapplication-tooltip" content="IMDb Web App" />
+<meta name="msapplication-window" content="width=1500;height=900" />
+<meta name="msapplication-task" content="name=Find Movie Showtimes;action-uri=/showtimes/;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<meta name="msapplication-task" content="name=Watch HD Trailers;action-uri=/features/hdgallery;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<meta name="msapplication-task" content="name=What's On TV Tonight;action-uri=/sections/tv/;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<meta name="msapplication-task" content="name=Get Latest Entertainment News;action-uri=/news/top;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<meta name="msapplication-task" content="name=Sign-in;action-uri=/register/login;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+<link rel="icon" type="image/ico"
+      href="http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico" />
+<link rel="shortcut icon" type="image/x-icon"
+      href="http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/desktop-favicon.ico" />
+<link rel="apple-touch-icon"
+      href="http://i.media-imdb.com/images/SFc8a0bc1039862e1386365008f0507ea9/apple-touch-icon.png" />
+<link rel="search" type="application/opensearchdescription+xml"
+      href="http://i.media-imdb.com/images/SFccbe1e4d909ef8b8077201c3c5aac349/imdbsearch.xml" title="IMDb" />
+<script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+<script type="text/javascript">var __vkey = 'guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '8.8';</script>
+<meta property="og:type" content="tv_show" />
+<meta property="fb:app_id" content="115109575169727" />
+<meta property="og:title" content="&#x22;The Walking Dead&#x22; (2010)" />
+<meta property="og:site_name" content="IMDb" />
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
+<!-- start m/s/a/_g_a_s , head -->
+<script>window.ads_js_start = new Date().getTime();</script><script src="http://i.media-imdb.com/images/SF1c331cf77fb6a26512169fd19b66faaf/js/cc/ads.js" ></script><script>generic.monitoring.record_metric("ads_js_request_to_done", (new Date().getTime()) - window.ads_js_start);</script>
+<div id="advertising_scripts"></div>
+<script type="text/javascript">
+generic.monitoring.set_forester_info("title");
+generic.monitoring.set_twilight_info(
+    "title_subpage", 
+    "Other", 
+    "9fcb2e5a7ed35ccf8df0a8632be41611c86c272b", 
+    "2013-02-26T21%3A05%3A13GMT", 
+    "http://s.media-imdb.com/twilight/?");
+
+generic.send_csm_head_metrics && generic.send_csm_head_metrics();
+
+generic.monitoring.start_timing("page_load");
+generic.seconds_to_midnight = 42947;
+generic.days_to_midnight = 0.497071759259259;
+custom.full_page.data_url = "http://i.media-imdb.com/images/SF52343caf319e887027f13568332cdfd7/a/js/graffiti_data.js";
+ad_utils.ad_prediction.init();
+consoleLog('advertising initialized','ads');
+</script>
+
+<script>
+    (function(url,onload,oncall) {
+        var elem = document.createElement('script'),
+            script = document.getElementsByTagName('script')[0],
+            final_url = url.replace(ad_utils.ord_regex, ad_utils.ord);
+        if (! navigator.userAgent.match('Firefox/(1|2)\\.')) {
+            elem.async = true;
+            elem.src = final_url;
+            if (onload) { 
+                elem.onload = onload;
+            }
+            script.parentNode.insertBefore(elem, script);
+            if (oncall) { 
+                oncall();
+            }
+        }
+    })("http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=[CLIENT_SIDE_ORD]&ord=[CLIENT_SIDE_ORD]",undefined,custom.amazon.aan_iframe_oncall);
+</script>
+
+<!-- end m/s/a/_g_a_s , head -->
+
+</head>
+
+<body bgcolor="#ffffff" text="#000000" id="styleguide-v2" class="fixed">
+<!-- start m/s/a/_g_a_s , body -->
+
+<script>
+    (function(url,itemName,h,w) {
+        if (flashAdUtils.canPlayFlash(9)) {
+            var flashTags = flashAdUtils.makeFlashAd({
+                    id:itemName,
+                    src:url,
+                    height:h || 1,
+                    width:w || 1
+                });
+            document.write('<div style="position:absolute;">' + flashTags + '</div>');
+        }
+    })("http://ia.media-imdb.com/images/M/MV5BMTMzMzgxNzM2M15BMl5Bc3dmXkFtZTcwNzM0MTkxNw@@._V1_.swf","baker",1,1);
+</script>
+<!-- end m/s/a/_g_a_s , body -->
+
+<div id="wrapper">
+
+
+
+
+<div id="root">
+<layer name="root">
+  
+
+
+
+
+<div id="nb20" class="navbarSprite">
+    <div id="supertab">
+
+
+<!-- begin TOP_AD -->
+<div id="top_ad_wrapper" class="dfp_slot">
+<script type="text/javascript"> 
+ad_utils.register_ad('top_ad');
+</script>
+<iframe data-bid-url="" data-dart-params="#imdb2.consumer.tv/combined;!TILE!;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-original-width="0" data-original-height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
+
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.tv/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=842173016280?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.tv/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=842173016280?"  border="0" alt="advertisement" /></a></noscript>
+
+</div>
+<div id="top_ad_reflow_helper"></div>
+<script>ad_utils.render_ad_fast('top_ad');</script>
+<!-- End TOP_AD -->
+</div>
+	<div id="navbar" class="navbarSprite">
+        <noscript><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF52e6b9f11712d3ec552179f6c869b63a/css2/site/consumer-navbar-no-js.css"></noscript>
+		<span id="home_img_holder">            <a    onclick="(new Image()).src='/rg/home/navbar/images/b.gif?link=%2F';"     href="/"    id='home_img' class='navbarSprite' title='Home' ></a>
+
+            <span class="alt_logo">
+                <a    onclick="(new Image()).src='/rg/home/navbar/images/b.gif?link=%2F';"     href="/"    title='Home' >IMDb</a>
+            </span>
+        </span>
+
+
+<form    onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"    action="/find"    method="get" id="navbar-form" class="nav-searchbar-inner" accept-charset="utf-8" >
+
+<div id="nb_search" >
+
+  <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+  <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+  <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more..." >
+  <div class="quicksearch_dropdown_wrapper">
+
+<select
+    class="quicksearch_dropdown navbarSprite"
+    name="s"
+    id="quicksearch"
+    onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+
+    <option  
+     value="all">All</option>
+    <option  
+     value="tt">Titles</option>
+    <option  
+     value="ep">TV Episodes</option>
+    <option  
+     value="nm">Names</option>
+    <option  
+     value="co">Companies</option>
+    <option  
+     value="kw">Keywords</option>
+    <option  
+     value="ch">Characters</option>
+    <option  
+     value="vi">Videos</option>
+    <option  
+     value="qu">Quotes</option>
+    <option  
+     value="bi">Bios</option>
+    <option  
+     value="pl">Plots</option>
+</select>
+
+  </div>
+
+<div id="navbar-suggestionsearch"></div>
+</div>
+
+</form>
+
+<div id="nb_personal">
+
+            <a    onclick="(new Image()).src='/rg/register-v2/navbar/images/b.gif?link=https%3A%2F%2Fsecure.imdb.com%2Fregister-imdb%2Fform-v2';"     href="https://secure.imdb.com/register-imdb/form-v2"    >Register</a>
+            | <a    onclick="(new Image()).src='/rg/login/navbar/images/b.gif?link=%2Fregister%2Flogin';"    rel=login href="/register/login"    id='nblogin' >Login</a>
+            | <a    onclick="(new Image()).src='/rg/help/navbar/images/b.gif?link=%2Fhelp%2F';"     href="/help/"    >Help</a>
+
+
+</div>
+
+
+<div>
+    <ul id="consumer_main_nav" class="main_nav">
+
+    <li class="css_nav_item" aria-haspopup="true">
+
+
+        <a    onclick="(new Image()).src='/rg/navbar-movies/navbar/images/b.gif?link=%2Fmovies-in-theaters%2F%3Fref_%3Dnb_mv_1_inth';"     href="/movies-in-theaters/?ref_=nb_mv_1_inth"    class='navbarSprite' >            Movies</a>
+
+      <ul class="sub_nav">
+
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/intheaters/navbar/images/b.gif?link=%2Fmovies-in-theaters%2F%3Fref_%3Dnb_mv_2_inth';"     href="/movies-in-theaters/?ref_=nb_mv_2_inth"    >In Theaters</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/top250/navbar/images/b.gif?link=%2Fchart%2Ftop%3Fref_%3Dnb_mv_3_chttp';"     href="/chart/top?ref_=nb_mv_3_chttp"    >Top 250</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/usboxoffice/navbar/images/b.gif?link=%2Fchart%2F%3Fref_%3Dnb_mv_4_cht';"     href="/chart/?ref_=nb_mv_4_cht"    >US Box Office</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/comingsoon/navbar/images/b.gif?link=%2Fmovies-coming-soon%2F%3Fref_%3Dnb_mv_5_cs';"     href="/movies-coming-soon/?ref_=nb_mv_5_cs"    >Coming Soon</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/trailergallery/navbar/images/b.gif?link=%2Ftrailers%3Fref_%3Dnb_mv_6_tr';"     href="/trailers?ref_=nb_mv_6_tr"    >Trailer Gallery</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/watchnow/navbar/images/b.gif?link=%2Fwatchnow%2F%3Fref_%3Dnb_mv_7_wn';"     href="/watchnow/?ref_=nb_mv_7_wn"    >Watch Now on AIV</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/dvdbluray/navbar/images/b.gif?link=%2Fsections%2Fdvd%2F%3Fref_%3Dnb_mv_8_dvd';"     href="/sections/dvd/?ref_=nb_mv_8_dvd"    >On DVD & Blu-Ray</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/xrayformovies/navbar/images/b.gif?link=%2Fx-ray%2F%3Fref_%3Dnb_mv_9_xray';"     href="/x-ray/?ref_=nb_mv_9_xray"    >X-Ray for Movies</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/oscars/navbar/images/b.gif?link=%2Foscars%2F%3Fref_%3Dnb_mv_10_rto';"     href="/oscars/?ref_=nb_mv_10_rto"    >Road to the Oscars</a>
+            </li>
+
+      </ul>
+    </li>
+    <li class="css_nav_item" aria-haspopup="true">
+
+
+        <a    onclick="(new Image()).src='/rg/navbar-tv/navbar/images/b.gif?link=%2Ftv%2F%3Fref_%3Dnb_tv_1_hm';"     href="/tv/?ref_=nb_tv_1_hm"    class='navbarSprite' >            TV</a>
+
+      <ul class="sub_nav">
+
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/tvhome/navbar/images/b.gif?link=%2Ftv%2F%3Fref_%3Dnb_tv_2_hm';"     href="/tv/?ref_=nb_tv_2_hm"    >TV Home</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/besttv/navbar/images/b.gif?link=%2Fsearch%2Ftitle%3Fnum_votes%3D5000%2C%26sort%3Duser_rating%2Cdesc%26title_type%3Dtv_series%26ref_%3Dnb_tv_3_srs';"     href="/search/title?num_votes=5000,&sort=user_rating,desc&title_type=tv_series&ref_=nb_tv_3_srs"    >Top TV Series</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/tvlistings/navbar/images/b.gif?link=%2Ftvgrid%2F%3Fref_%3Dnb_tv_4_ls';"     href="/tvgrid/?ref_=nb_tv_4_ls"    >TV Listings</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/tvepisodesandclips/navbar/images/b.gif?link=http%3A%2F%2Fwww.imdb.com%2Ffeatures%2Fvideo%2Ftv%2F%3Fref_%3Dnb_tv_5_ep';"     href="http://www.imdb.com/features/video/tv/?ref_=nb_tv_5_ep"    >TV Episodes</a>
+            </li>
+
+      </ul>
+    </li>
+    <li class="css_nav_item" aria-haspopup="true">
+
+
+        <a    onclick="(new Image()).src='/rg/navbar-news/navbar/images/b.gif?link=%2Fnews%2Ftop%3Fref_%3Dnb_nw_1_tp';"     href="/news/top?ref_=nb_nw_1_tp"    class='navbarSprite' >            News</a>
+
+      <ul class="sub_nav">
+
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/topnews/navbar/images/b.gif?link=%2Fnews%2Ftop%3Fref_%3Dnb_nw_2_tp';"     href="/news/top?ref_=nb_nw_2_tp"    >Top News</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/movienews/navbar/images/b.gif?link=%2Fnews%2Fmovie%3Fref_%3Dnb_nw_3_mv';"     href="/news/movie?ref_=nb_nw_3_mv"    >Movie News</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/tvnews/navbar/images/b.gif?link=%2Fnews%2Ftv%3Fref_%3Dnb_nw_4_tv';"     href="/news/tv?ref_=nb_nw_4_tv"    >TV News</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/celebritynews/navbar/images/b.gif?link=%2Fnews%2Fcelebrity%3Fref_%3Dnb_nw_5_cel';"     href="/news/celebrity?ref_=nb_nw_5_cel"    >Celebrity News</a>
+            </li>
+
+      </ul>
+    </li>
+    <li class="css_nav_item" aria-haspopup="true">
+
+
+        <a    onclick="(new Image()).src='/rg/navbar-showtimes/navbar/images/b.gif?link=%2Fshowtimes%2F%3Fref_%3Dnb_sh_1_sh';"     href="/showtimes/?ref_=nb_sh_1_sh"    class='navbarSprite' >            Showtimes</a>
+
+      <ul class="sub_nav">
+
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/movieshowtimes/navbar/images/b.gif?link=%2Fshowtimes%2F%3Fref_%3Dnb_sh_2_sh';"     href="/showtimes/?ref_=nb_sh_2_sh"    >Movie Showtimes</a>
+            </li>
+
+      </ul>
+    </li>
+    <li class="css_nav_item" aria-haspopup="true">
+
+
+        <a    onclick="(new Image()).src='/rg/navbar-community/navbar/images/b.gif?link=%2Fboards%2F%3Fref_%3Dnb_cm_1_bd';"     href="/boards/?ref_=nb_cm_1_bd"    class='navbarSprite' >            Community</a>
+
+      <ul class="sub_nav">
+
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/messageboards/navbar/images/b.gif?link=%2Fboards%2F%3Fref_%3Dnb_cm_2_bd';"     href="/boards/?ref_=nb_cm_2_bd"    >Message Boards</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/lists/navbar/images/b.gif?link=%2Flists%2F%3Fref_%3Dnb_cm_3_nls';"     href="/lists/?ref_=nb_cm_3_nls"    >Newest Lists</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/yourlists/navbar/images/b.gif?link=%2Fprofile%2Flists%3Fref_%3Dnb_cm_4_yls';"     href="/profile/lists?ref_=nb_cm_4_yls"    >Your Lists</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/ratings/navbar/images/b.gif?link=%2Flist%2Fratings%3Fref_%3Dnb_cm_5_yrt';"     href="/list/ratings?ref_=nb_cm_5_yrt"    >Your Ratings</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/contributorzone/navbar/images/b.gif?link=%2Fczone%2F%3Fref_%3Dnb_cm_6_cz';"     href="/czone/?ref_=nb_cm_6_cz"    >Contributor Zone</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/quiz/navbar/images/b.gif?link=%2Fgames%2Fguess%3Fref_%3Dnb_cm_7_qz';"     href="/games/guess?ref_=nb_cm_7_qz"    >Quiz Game</a>
+            </li>
+
+      </ul>
+    </li>
+    <li class="css_nav_item" aria-haspopup="true">
+
+
+        <a    onclick="(new Image()).src='/rg/imdbprohome/navbar/images/b.gif?link=%2Fr%2FIMDbTabNB%2F';"     href="/r/IMDbTabNB/"    class='navbarSprite' >            IMDbPro</a>
+
+      <ul class="sub_nav">
+
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/resume/prosystem/images/b.gif?link=http%3A%2F%2Fwww.imdb.com%2Fr%2FResume%2Fresume%2F';"     href="http://www.imdb.com/r/Resume/resume/"    >Add a Resume</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/procontact/navbar/images/b.gif?link=http%3A%2F%2Fwww.imdb.com%2Fr%2Fnm_ovrview_contact%2Frepresentation%2F';"     href="http://www.imdb.com/r/nm_ovrview_contact/representation/"    >Contact Info</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/demoreels/navbar/images/b.gif?link=http%3A%2F%2Fwww.imdb.com%2Fr%2FDemoReels%2Fdemoreels%2Flist';"     href="http://www.imdb.com/r/DemoReels/demoreels/list"    >Add Demo Reels</a>
+            </li>
+
+      </ul>
+    </li>
+    <li class="css_nav_item" aria-haspopup="true">
+
+
+        <a    onclick="(new Image()).src='/rg/navbar-apps/navbar/images/b.gif?link=%2Fapps%2F%3Fref_%3Dnb_app_1_hm';"     href="/apps/?ref_=nb_app_1_hm"    class='navbarSprite' >            Apps</a>
+
+      <ul class="sub_nav">
+
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/apps/navbar/images/b.gif?link=%2Fapps%2F%3Fref_%3Dnb_app_2_hm';"     href="/apps/?ref_=nb_app_2_hm"    >Apps Home</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/iosapps/navbar/images/b.gif?link=%2Fapps%2Fios%2F%3Fref_%3Dnb_app_3_ios';"     href="/apps/ios/?ref_=nb_app_3_ios"    >iPhone + iPad Apps</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/androidapps/navbar/images/b.gif?link=%2Fapps%2Fandroid%2F%3Fref_%3Dnb_app_4_andr';"     href="/apps/android/?ref_=nb_app_4_andr"    >Android Apps</a>
+            </li>
+
+            <li>
+            <a    onclick="(new Image()).src='/rg/kindlefireapp/navbar/images/b.gif?link=%2Fapps%2Fkindlefire%2F%3Fref_%3Dnb_app_5_fire';"     href="/apps/kindlefire/?ref_=nb_app_5_fire"    >Kindle Fire App</a>
+            </li>
+
+      </ul>
+    </li>
+
+            </ul>
+        </div>
+
+
+
+        <div class="nb_extra">
+            <a    onclick="(new Image()).src='/rg/watchlist/navbar/images/b.gif?link=%2Flist%2Fwatchlist';"     href="/list/watchlist"    >Your Watchlist</a>
+        </div>
+
+
+    </div>
+</div>
+
+        
+
+
+
+
+
+
+
+
+<!-- sid : 110838 : NAVSTRIP --><style>
+.rtg2012navstripe a:link, .falltvpreviewdiv a:visited {
+        color:#f1dfa9;
+        font-family: gill sans, arial, Verdana, sans-serif;
+}
+.rtg2012navstripe a:hover {
+        color:#fbf2ca;
+}
+
+.rtg2012navstripe {
+	font-family: gill sans, arial, Verdana, sans-serif;
+        font-size: 13px;
+}
+.rtg2012navstripe a{
+	color:#f1dfa9;
+}
+ 
+</style>
+
+<div class="rtg2012navstripe" style="background-image: url(http://ia.media-imdb.com/images/M/MV5BMTcxMDIzMjg0M15BMl5BanBnXkFtZTcwNjEzOTIxOQ@@._V1_.jpg); width: 1008px; height: 40px;">
+
+<table width="1008" cellpadding="0" cellspacing="0" align="top"><tr>
+
+<td width="300"><a href="http://www.imdb.com/oscars/?ref_=tt_rto" onclick="(new Image()).src='/rg/RTO13_NAVSTRIPE/TOP_BUCKET/images/b.gif'"><img src="http://i.imdb.com/b.gif" width="400" height="40" border="0"></a></td>
+
+
+<td width="370">
+
+
+<a href="http://www.imdb.com/oscars/nominations/?ref_=tt_rto_nom_acd" onclick="(new Image()).src='/rg/RTO13_NAVSTRIPE/TOP_BUCKET/images/b.gif'">Oscar Winners</a> 
+&nbsp;&nbsp;&nbsp; 
+
+<a href="http://www.imdb.com/oscars/galleries/2013-oscars-redcarpet-photos?ref_=tt_rto_i" onclick="(new Image()).src='/rg/RTO13_NAVSTRIPE/TOP_BUCKET/images/b.gif'">Oscar Photos</a> 
+&nbsp;&nbsp;&nbsp;
+
+<a href="http://www.imdb.com/oscars/games/?ref_=tt_rto_i" onclick="(new Image()).src='/rg/RTO13_NAVSTRIPE/TOP_BUCKET/images/b.gif'">Red Carpet Games</a> 
+&nbsp;&nbsp;&nbsp;
+
+
+
+
+</td>
+
+
+<td width="100"><a href="http://www.imdb.com/oscars/?ref_=tt_rto_sm" onclick="(new Image()).src='/rg/RTO13_NAVSTRIPE/TOP_BUCKET/images/b.gif'" target="top"><img src="http://i.imdb.com/b.gif" alt=" " width="120" height="40" border="0" /></a></td></tr></table>
+
+</div>
+
+
+<!-- begin injectable INJECTED_NAVSTRIP -->
+<div id="injected_navstrip_wrapper" class="injected_slot">
+<iframe data-bid-url="" id="injected_navstrip" name="injected_navstrip" class="yesScript" width="0" height="0" data-original-width="0" data-original-height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
+</div>
+<script>ad_utils.inject_ad.register('injected_navstrip');</script>
+<div id="injected_navstrip_reflow_helper"></div>
+<!-- end injectable INJECTED_NAVSTRIP -->
+
+<div id="pagecontent">
+
+
+
+<!-- begin injectable INJECTED_BILLBOARD -->
+<div id="injected_billboard_wrapper" class="injected_slot">
+<iframe data-bid-url="" id="injected_billboard" name="injected_billboard" class="yesScript" width="0" height="0" data-original-width="0" data-original-height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
+</div>
+<script>ad_utils.inject_ad.register('injected_billboard');</script>
+<div id="injected_billboard_reflow_helper"></div>
+<!-- end injectable INJECTED_BILLBOARD -->
+
+<div id="tn15" class="combined">
+<div id="tn15crumbs">
+<a href="/">IMDb</a> &gt;
+<b>&#x22;The Walking Dead&#x22; (2010)</b>
+</div>
+<div id="tn15lhs">
+
+    
+<div class="photo">
+<a name="poster" href="/rg/action-box-title/primary-photo/media/rm1062448384/tt1520211" title="&#x22;The Walking Dead&#x22;"><img border="0" id="primary-poster" alt="&#x22;The Walking Dead&#x22;" title="&#x22;The Walking Dead&#x22;" src="http://ia.media-imdb.com/images/M/MV5BMTc5ODQ0NDA0NV5BMl5BanBnXkFtZTcwNjkzNTM5OA@@._V1._SX95_SY140_.jpg" /></a>
+</div>
+
+<div id="action-box" class="action-box">
+
+<a class="linkasbutton-primary" href="/rg/watch-it/summary/title/tt1520211/videogallery/content_type-Full Episode">
+Watch It</a>
+
+  <p>at Amazon</p>
+
+<p><img src="/images/wheel/or-graphic.png" /></p>
+        
+         
+       
+   
+      
+                 
+     
+                 
+      
+        
+         
+   
+<a class="linkasbutton-secondary" href="/rg/action-box-title/buy-at-amazon/r/50703000000050a0904747135323032313130000001036a03046674600000010d6a02057370000001037a0104700000010f5a0a096d64626d2164626f6870000001047" target="_new">Buy it at Amazon</a>    
+        
+        
+       
+
+<hr />
+<a class="linkasbutton-secondary" href="/r/tt_shop/http://pro.imdb.com/title/tt1520211/" onclick="(new Image()).src='/rg/tt_shop/prosystem/images/b.gif?link=/rg/tt_shop/prosystem/http://pro.imdb.com/title/tt1520211/';">More at IMDb Pro</a>
+
+<a class="linkasbutton-secondary" href="/rg/action-box-title/boards-link/title/tt1520211/board">Discuss in Boards</a>
+
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFae8ea8aab5fbc8d97e571652dc015797/wheel/btn2.css" >
+<span class="wlb_wrapper" data-tconst="tt1520211" data-size="small" data-caller-name="legacy_title_lhs" data-classes="linkasbutton-secondary"
+></span>
+
+<a class="linkasbutton-secondary" href="/rg/action-box-title/update-data/updates?auto=legacy/title/tt1520211/">Update Data</a>
+
+</div>
+
+<h6 style="margin-top: 4px">Quicklinks</h6><form><select id="quicklinks_select" onchange="document.location = this.options[this.selectedIndex].value">
+<option value="maindetails">main details</option><option value="combined" selected>combined details</option><option value="companycredits">company credits</option><option value="episodes">episode list</option><option value="epcast">episodes cast</option><option value="epdate">episode ratings</option><option value="eprate">... by rating</option><option value="epvote">... by votes</option><option value="reviews">reviews</option><option value="externalreviews">external reviews</option><option value="awards">awards</option><option value="ratings">user ratings</option><option value="board">message board</option><option value="plotsummary">plot summary</option><option value="keywords">plot keywords</option><option value="trivia">trivia</option><option value="trivia?tab=mc">movie connections</option><option value="faq">FAQ</option><option value="business">box office/business</option><option value="releaseinfo">release dates</option><option value="locations">filming locations</option><option value="technical">technical specs</option><option value="literature">literature listings</option><option value="news">NewsDesk</option><option value="taglines">taglines</option><option value="videogallery">trailers and videos</option><option value="posters">posters</option><option value="photogallery">photo gallery</option><option value="cinemashowtimes">showtimes</option><option value="officialsites">official sites</option><option value="miscsites">miscellaneous</option><option value="photosites">photographs</option><option value="soundsites">sound clips</option><option value="videosites">video clips</option>
+</select></form>
+<h6>Top Links</h6>
+<a onclick="(new Image()).src='/rg/title-top-links/videogallery/images/b.gif?link=/title/tt1520211/videogallery';" href="/title/tt1520211/videogallery" class="link">trailers and videos</a><a onclick="(new Image()).src='/rg/title-top-links/fullcredits/images/b.gif?link=/title/tt1520211/fullcredits';" href="/title/tt1520211/fullcredits" class="link empty">full cast and crew</a><a onclick="(new Image()).src='/rg/title-top-links/trivia/images/b.gif?link=/title/tt1520211/trivia';" href="/title/tt1520211/trivia" class="link">trivia</a><a onclick="(new Image()).src='/rg/title-top-links/officialsites/images/b.gif?link=/title/tt1520211/officialsites';" href="/title/tt1520211/officialsites" class="link">official sites</a><a onclick="(new Image()).src='/rg/title-top-links/quotes/images/b.gif?link=/title/tt1520211/quotes';" href="/title/tt1520211/quotes" class="link empty">memorable quotes</a>
+<h6>Overview</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/maindetails/images/b.gif?link=/title/tt1520211/maindetails';"href="maindetails" class="link">main details</a><a onclick="(new Image()).src='/rg/title-nav-item/combined/images/b.gif?link=/title/tt1520211/combined';"href="combined" class="link selected">combined details</a><a onclick="(new Image()).src='/rg/title-nav-item/fullcredits/images/b.gif?link=/title/tt1520211/fullcredits';"href="fullcredits" class="link empty">full cast and crew</a><a onclick="(new Image()).src='/rg/title-nav-item/companycredits/images/b.gif?link=/title/tt1520211/companycredits';"href="companycredits" class="link">company credits</a><a onclick="(new Image()).src='/rg/title-nav-item/episodes/images/b.gif?link=/title/tt1520211/episodes';"href="episodes" class="link">episode list</a><a onclick="(new Image()).src='/rg/title-nav-item/epcast/images/b.gif?link=/title/tt1520211/epcast';"href="epcast" class="link">episodes cast</a><a onclick="(new Image()).src='/rg/title-nav-item/epdate/images/b.gif?link=/title/tt1520211/epdate';"href="epdate" class="link">episode ratings</a><a onclick="(new Image()).src='/rg/title-nav-item/eprate/images/b.gif?link=/title/tt1520211/eprate';"href="eprate" class="link">... by rating</a><a onclick="(new Image()).src='/rg/title-nav-item/epvote/images/b.gif?link=/title/tt1520211/epvote';"href="epvote" class="link">... by votes</a>
+<h6>Awards &#x26; Reviews</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/reviews/images/b.gif?link=/title/tt1520211/reviews';"href="reviews" class="link">user reviews</a><a onclick="(new Image()).src='/rg/title-nav-item/externalreviews/images/b.gif?link=/title/tt1520211/externalreviews';"href="externalreviews" class="link">external reviews</a><a onclick="(new Image()).src='/rg/title-nav-item/awards/images/b.gif?link=/title/tt1520211/awards';"href="awards" class="link">awards</a><a onclick="(new Image()).src='/rg/title-nav-item/ratings/images/b.gif?link=/title/tt1520211/ratings';"href="ratings" class="link">user ratings</a><a onclick="(new Image()).src='/rg/title-nav-item/board/images/b.gif?link=/title/tt1520211/board';"href="board" class="link">message board</a>
+<h6>Plot &#x26; Quotes</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/plotsummary/images/b.gif?link=/title/tt1520211/plotsummary';"href="plotsummary" class="link">plot summary</a><a onclick="(new Image()).src='/rg/title-nav-item/keywords/images/b.gif?link=/title/tt1520211/keywords';"href="keywords" class="link">plot keywords</a><a onclick="(new Image()).src='/rg/title-nav-item/quotes/images/b.gif?link=/title/tt1520211/quotes';"href="quotes" class="link empty">memorable quotes</a>
+<h6>Did You Know?</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/trivia/images/b.gif?link=/title/tt1520211/trivia';"href="trivia" class="link">trivia</a><a onclick="(new Image()).src='/rg/title-nav-item/goofs/images/b.gif?link=/title/tt1520211/trivia?tab=gf';"href="trivia?tab=gf" class="link empty">goofs</a><a onclick="(new Image()).src='/rg/title-nav-item/soundtrack/images/b.gif?link=/title/tt1520211/soundtrack';"href="soundtrack" class="link empty">soundtrack listing</a><a onclick="(new Image()).src='/rg/title-nav-item/crazycredits/images/b.gif?link=/title/tt1520211/trivia?tab=cz';"href="trivia?tab=cz" class="link empty">crazy credits</a><a onclick="(new Image()).src='/rg/title-nav-item/alternateversions/images/b.gif?link=/title/tt1520211/alternateversions';"href="alternateversions" class="link empty">alternate versions</a><a onclick="(new Image()).src='/rg/title-nav-item/movieconnections/images/b.gif?link=/title/tt1520211/trivia?tab=mc';"href="trivia?tab=mc" class="link">movie connections</a><a onclick="(new Image()).src='/rg/title-nav-item/faq/images/b.gif?link=/title/tt1520211/faq';"href="faq" class="link">FAQ</a>
+<h6>Other Info</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/business/images/b.gif?link=/title/tt1520211/business';"href="business" class="link">box office/business</a><a onclick="(new Image()).src='/rg/title-nav-item/releaseinfo/images/b.gif?link=/title/tt1520211/releaseinfo';"href="releaseinfo" class="link">release dates</a><a onclick="(new Image()).src='/rg/title-nav-item/locations/images/b.gif?link=/title/tt1520211/locations';"href="locations" class="link">filming locations</a><a onclick="(new Image()).src='/rg/title-nav-item/technical/images/b.gif?link=/title/tt1520211/technical';"href="technical" class="link">technical specs</a><a onclick="(new Image()).src='/rg/title-nav-item/literature/images/b.gif?link=/title/tt1520211/literature';"href="literature" class="link">literature listings</a><a onclick="(new Image()).src='/rg/title-nav-item/news/images/b.gif?link=/title/tt1520211/news';"href="news" class="link">NewsDesk</a>
+  <h6>Promotional</h6>
+  <a onclick="(new Image()).src='/rg/title-nav-item/taglines/images/b.gif?link=/title/tt1520211/taglines';"href="taglines" class="link">taglines</a>
+  <a onclick="(new Image()).src='/rg/title-nav-item/videogallery/images/b.gif?link=/title/tt1520211/videogallery';"href="videogallery" class="link">trailers and videos</a>
+  <a onclick="(new Image()).src='/rg/title-nav-item/posters/images/b.gif?link=/title/tt1520211/posters';"href="posters" class="link">posters</a>
+  <a onclick="(new Image()).src='/rg/title-nav-item/photogallery/images/b.gif?link=/title/tt1520211/photogallery';"href="photogallery" class="link">photo gallery</a>
+  
+
+<h6>External Links</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/cinemashowtimes/images/b.gif?link=/title/tt1520211/cinemashowtimes';"href="cinemashowtimes" class="link">showtimes</a><a onclick="(new Image()).src='/rg/title-nav-item/officialsites/images/b.gif?link=/title/tt1520211/officialsites';"href="officialsites" class="link">official sites</a><a onclick="(new Image()).src='/rg/title-nav-item/miscsites/images/b.gif?link=/title/tt1520211/miscsites';"href="miscsites" class="link">miscellaneous</a><a onclick="(new Image()).src='/rg/title-nav-item/photosites/images/b.gif?link=/title/tt1520211/photosites';"href="photosites" class="link">photographs</a><a onclick="(new Image()).src='/rg/title-nav-item/soundsites/images/b.gif?link=/title/tt1520211/soundsites';"href="soundsites" class="link">sound clips</a><a onclick="(new Image()).src='/rg/title-nav-item/videosites/images/b.gif?link=/title/tt1520211/videosites';"href="videosites" class="link">video clips</a>
+
+
+
+</div>
+<div id="tn15main">
+
+<div id="tn15title">
+<h1>
+    
+    
+    &#x22;The Walking Dead&#x22; <span>(<a href="/year/2010/">2010</a>) <span class="pro-link"><a href="http://pro.imdb.com/rg/combined-title/tconst-pro-header-link/title/tt1520211/">More at <strong>IMDbPro</strong></a>&nbsp;&raquo;</span><span class="title-extra"><span class="tv-extra">TV series 2010-</span></span></span>
+    
+</h1>
+</div>
+
+<div id="tn15content">
+ 
+ 
+ 
+ 
+
+<div id="title-media-strip">
+<table style="border-collapse:collapse;">
+<tr>
+
+<td width="40%" class="media_strip_header">
+<b>Photos</b>
+<span>(<a href="/rg/photos-title/gallery-link/title/tt1520211/mediaindex">See all 617</a> | <a href="/rg/photos-title/slideshow-link/media/rm3658850816/tt1520211?slideshow=1">slideshow</a>)</span>
+</td>
+
+<td width="40%" class="media_strip_header">
+
+
+<b>Videos</b>
+
+<span>(<a href="/rg/videos-title/gallery-link/title/tt1520211/videogallery">see all 47</a>)</span>
+</td>
+
+</tr>
+<tr>
+
+<td>
+<div class="media_strip_thumbs">
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm3658850816/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTk3MjE4MjY0MF5BMl5BanBnXkFtZTcwNjU2MTcwOQ@@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm863871744/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTU1NDY2MzQ0MV5BMl5BanBnXkFtZTcwNzA2OTMxOQ@@._V1._CR346,0,1356,1356_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/event-3/media/rm758037760/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTYxMTY3NDY0Nl5BMl5BanBnXkFtZTcwODk2NDc4Ng@@._V1._CR0,0,1473,1473_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm2621222656/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQwMDg1ODUwNl5BMl5BanBnXkFtZTcwNDU4ODI3OA@@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm3725959680/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ4Mzc4OTYwOV5BMl5BanBnXkFtZTcwMjU2MTcwOQ@@._V1._CR344,0,1359,1359_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm2558439168/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM1OTkzMTc4NF5BMl5BanBnXkFtZTcwNDA4MjA3OA@@._V1._CR0,0,1362,1362_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-7/media/rm2554113792/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTk4MzUzMTcwNl5BMl5BanBnXkFtZTcwMDY4ODI3OA@@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm2302455552/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQxMDc3ODYyM15BMl5BanBnXkFtZTcwNzM4ODI3OA@@._V1._CR0,0,1362,1362_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-9/media/rm3783175936/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjMxOTc4MDYyNl5BMl5BanBnXkFtZTcwNTI4MjA3OA@@._V1._CR344,0,1359,1359_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm3879513856/tt1520211"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjMyMzcwMDY0OF5BMl5BanBnXkFtZTcwMTY4ODI3OA@@._V1._CR346,0,1356,1356_SS90_.jpg" border="0"></a></div>
+</div>
+</td>
+
+<td>
+<div class="media_strip_thumbs">
+<div class="media_strip_thumb">
+
+
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi517579801%2F';"     href="/video/imdb/vi517579801/"    data-rid="1N4VSS9MRQE238A620M6" data-video="vi517579801" data-context="imdb" ><img 
+     height="90" 
+     width="120"
+     alt="The Walking Dead: :  -- Watch an exclusive trailer from the upcoming season of &#x22;The Walking Dead&#x22;!" title="The Walking Dead: :  -- Watch an exclusive trailer from the upcoming season of &#x22;The Walking Dead&#x22;!"
+     viconst="vi517579801"
+
+     src="http://ia.media-imdb.com/images/M/MV5BNTYyNDU1NzU5N15BMl5BanBnXkFtZTcwODUzMDc0OA@@._V1_SP198,198,0,C,0,0,0_CR39,54,120,90_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,120,90_PIimdb-bluebutton-big,BottomRight,-1,-1_ZATrailer,2,61,16,118,verdenab,8,255,255,255,1_ZAon%2520IMDb,2,1,14,118,verdenab,7,255,255,255,1_ZA00%253A30,84,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,2,-2_.jpg" class="video" /></a>
+
+</div>
+<div class="media_strip_thumb">
+
+
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi2420546585%2F';"     href="/video/imdb/vi2420546585/"    data-rid="1N4VSS9MRQE238A620M6" data-video="vi2420546585" data-context="imdb" ><img 
+     height="90" 
+     width="120"
+     alt="The Walking Dead: :  -- Check out the new trailer for season two of The Walking Dead, airing Sundays on AMC. " title="The Walking Dead: :  -- Check out the new trailer for season two of The Walking Dead, airing Sundays on AMC. "
+     viconst="vi2420546585"
+
+     src="http://ia.media-imdb.com/images/M/MV5BMTM2OTcxMDgyOV5BMl5BanBnXkFtZTcwMzcyMTY3Ng@@._V1_SP198,198,0,C,0,0,0_CR39,54,120,90_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,120,90_PIimdb-bluebutton-big,BottomRight,-1,-1_ZATrailer,2,61,16,118,verdenab,8,255,255,255,1_ZAon%2520IMDb,2,1,14,118,verdenab,7,255,255,255,1_ZA01%253A30,84,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,2,-2_.jpg" class="video" /></a>
+
+</div>
+<div class="media_strip_thumb">
+
+
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi2445478169%2F';"     href="/video/imdb/vi2445478169/"    data-rid="1N4VSS9MRQE238A620M6" data-video="vi2445478169" data-context="imdb" ><img 
+     height="90" 
+     width="120"
+     alt="The Walking Dead: :  -- Watch The Walking Dead, the new AMC series, beginning Sunday October 31st" title="The Walking Dead: :  -- Watch The Walking Dead, the new AMC series, beginning Sunday October 31st"
+     viconst="vi2445478169"
+
+     src="http://ia.media-imdb.com/images/M/MV5BMTYzMDYxMjkxN15BMl5BanBnXkFtZTcwMDAyMzc5Mw@@._V1_SP198,198,0,C,0,0,0_CR39,54,120,90_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,120,90_PIimdb-bluebutton-big,BottomRight,-1,-1_ZATrailer,2,61,16,118,verdenab,8,255,255,255,1_ZAon%2520IMDb,2,1,14,118,verdenab,7,255,255,255,1_ZA01%253A03,84,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,2,-2_.jpg" class="video" /></a>
+
+</div>
+<div class="media_strip_thumb">
+
+
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi717817369%2F';"     href="/video/imdb/vi717817369/"    data-rid="1N4VSS9MRQE238A620M6" data-video="vi717817369" data-context="imdb" ><img 
+     height="90" 
+     width="120"
+     alt="The Walking Dead: :  -- Catch the full Comic-Con preview trailer for AMC&#x27;s upcoming original series, &#x22;The Walking Dead,&#x22; premiering on Halloween." title="The Walking Dead: :  -- Catch the full Comic-Con preview trailer for AMC&#x27;s upcoming original series, &#x22;The Walking Dead,&#x22; premiering on Halloween."
+     viconst="vi717817369"
+
+     src="http://ia.media-imdb.com/images/M/MV5BMTc4MTk4NTk1Ml5BMl5BanBnXkFtZTcwNDI4Mzg3Mw@@._V1_SP198,198,0,C,0,0,0_CR39,54,120,90_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,120,90_PIimdb-bluebutton-big,BottomRight,-1,-1_ZATrailer,2,61,16,118,verdenab,8,255,255,255,1_ZAon%2520IMDb,2,1,14,118,verdenab,7,255,255,255,1_ZA04%253A35,84,1,14,36,verdenab,7,255,255,255,1_PIimdb-HDIconMiniWhite,BottomLeft,2,-2_.jpg" class="video" /></a>
+
+</div>
+<div class="media_strip_thumb">
+
+
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fimdb%2Fvi2721948697%2F';"     href="/video/imdb/vi2721948697/"    data-rid="1N4VSS9MRQE238A620M6" data-video="vi2721948697" data-context="imdb" ><img 
+     height="90" 
+     width="120"
+     alt="The Walking Dead: :  -- Watch the latest trailer from AMC&#x27;s &#x22;The Walking Dead&#x22;!" title="The Walking Dead: :  -- Watch the latest trailer from AMC&#x27;s &#x22;The Walking Dead&#x22;!"
+     viconst="vi2721948697"
+
+     src="http://ia.media-imdb.com/images/M/MV5BNDM4MTI4MDA0M15BMl5BanBnXkFtZTcwNjkyMDQ1OA@@._V1_SP198,198,0,C,0,0,0_CR39,54,120,90_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,120,90_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAPromo,2,61,16,118,verdenab,8,255,255,255,1_ZAon%2520IMDb,2,1,14,118,verdenab,7,255,255,255,1_ZA00%253A30,84,1,14,36,verdenab,7,255,255,255,1_.jpg" class="video" /></a>
+
+</div>
+</div>
+</td>
+
+</tr>
+</table>
+
+
+
+
+</div>
+
+<hr/>
+
+<div id="tn15adrhs">
+<div class="social_networking"><span>
+    <strong>Share</strong> this page:
+</span>
+
+
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F3%2Ftitle%2Ftt1520211%2Fcombined', 'newWindow', 'width=626, height=436'); return false;" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F3%2Ftitle%2Ftt1520211%2Fcombined" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
+<a onclick="window.open('http://twitter.com/home?status=The%20Walking%20Dead%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Ftitle%2Ftt1520211%2Fcombined', 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/home?status=The%20Walking%20Dead%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Ftitle%2Ftt1520211%2Fcombined" target="_blank" title="Share on Twitter" class="share_icon twitter"></a></div><script type="text/javascript">
+generic.monitoring.start_timing("facebook_like_iframe");
+</script>
+<div class="social_networking_like" ><iframe  id="iframe_like" name="fbLikeIFrame_0" class="social-iframe" scrolling="no" frameborder="0" allowTransparency="allowTransparency" width=280 height=65></iframe></div>
+
+
+
+<!-- begin TOP_RHS -->
+<div id="top_rhs_wrapper" class="dfp_slot">
+<script type="text/javascript"> 
+ad_utils.register_ad('top_rhs');
+</script>
+<iframe data-bid-url="" data-dart-params="#imdb2.consumer.tv/combined;!TILE!;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-original-width="300" data-original-height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
+
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.tv/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=842173016280?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.tv/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=842173016280?"  border="0" alt="advertisement" /></a></noscript>
+
+</div>
+<div id="top_rhs_reflow_helper"></div>
+<script>ad_utils.render_ad_fast('top_rhs');</script>
+<!-- End TOP_RHS -->
+<div id="top_rhs_after" class="after_ad ads-invisible"><a class="yesScript" href="#" onclick="ad_utils.show_ad_feedback('top_rhs');return false;" id="ad_feedback_top_rhs">ad feedback</a></div>
+
+
+
+
+
+
+</div>
+
+
+
+<div id="top_center_after" class="after_ad"><div></div></div>
+<h3>Overview</h3>
+
+<div id="tn15rating" class="one guest">
+  <div class="general">
+    <div class="info stars">
+      <h5>User Rating:</h5>
+  
+      
+        
+      
+  
+      <div class="starbar">
+        <div class="outer">
+          <div id="general-voting-stars" class="inner" style="width: 176px"></div>
+          <div class="starbar-votes">
+            <a title="10" href="vote?v=10;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+          </div>
+        </div>
+      </div>
+  
+      <div class="starbar-meta">
+        <b>8.8/10</b> 
+           
+           
+           &nbsp;&nbsp;<a href="ratings" class="tn15more">218,523 votes</a>&nbsp;&raquo;
+        
+        
+      </div>
+    </div>
+  </div>
+  <div class="personal">
+    <div class="info stars">
+      <h5>Your Rating:</h5>
+      <div class="starbar">
+        <div class="outer">
+          <div id="personal-voting-stars" class="inner" style="width: 0px"></div>
+          <div class="starbar-votes">
+            <a title="10" href="vote?v=10;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+          </div>
+        </div>
+      </div>
+      <div class="message starbar-meta">
+        <div class="save">Saving vote...</div>
+        <div class="delete">Deleting vote...</div>
+        <div class="user">
+          <div class="extra">
+            <b><span id="voteuser"></span>/10</b>
+            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=guPjwaOHH1xRHsBKHR9kyQB%2FqjlzeVo5c0pZGmcuGSogfhqZ41laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
+             | <a href="/list/ratings">history</a>)
+          </div>
+        </div>
+        <div class="error">Sorry, there was a problem</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="info"><h5>MOVIEmeter: <a href="/help/show_leaf?prowhatisstarmeter"><img src="http://i.media-imdb.com/images//help13x10.gif" width="13" height="10" border="0" alt="?"></a></h5><div class="info-content">No change</b> in popularity this week. See <a href="/r/movie/rg/title-tease/meter-why/title/tt1520211/graph-data">why</a> on <a href="/r/movie/rg/title-tease/meter-prolink/">IMDbPro</a>.</div></div>
+
+    
+    <div class="info">
+    <h5>Creator:</h5>
+    <div class="info-content">
+    
+    
+        
+        
+        <a href="/name/nm0001104/" onclick="(new Image()).src='/rg/creatorlist/position-1/images/b.gif?link=name/nm0001104/';">Frank Darabont</a><br/>
+    
+    <a href="fullcredits#writers">(more)</a>
+    </div>
+    </div>
+
+<div class="info">
+<h5>Contact:</h5>
+<div class="info-content">
+View <a href="/r/contact/rg/title-overview/company-contact/title/tt1520211/companycredits">company</a> 
+contact information for The Walking Dead on 
+<a href="/r/contact/rg/title-overview/pro-contact/">IMDbPro</a>.
+</div>
+</div>
+
+<div class="info">
+<h5>Seasons:</h5>
+<div class="info-content">
+
+  <a href="episodes?season=1">1</a>
+ | 
+  <a href="episodes?season=2">2</a>
+ | 
+  <a href="episodes?season=3">3</a>
+
+</div>
+</div>
+
+<div class="info">
+<h5>Release Date:</h5>
+<div class="info-content">
+31 October 2010 (USA)
+ <a class="tn15more inline" href="/title/tt1520211/releaseinfo" onClick="(new Image()).src='/rg/title-tease/releasedates/images/b.gif?link=/title/tt1520211/releaseinfo';">See more</a>&nbsp;&raquo;
+</div>
+</div>
+
+<div class="info">
+<h5>Genre:</h5>
+<div class="info-content">
+<a href="/Sections/Genres/Drama/">Drama</a> | <a href="/Sections/Genres/Horror/">Horror</a> | <a href="/Sections/Genres/Thriller/">Thriller</a> <a class="tn15more inline" href="/title/tt1520211/keywords" onClick="(new Image()).src='/rg/title-tease/keywords/images/b.gif?link=/title/tt1520211/keywords';">See more</a>&nbsp;&raquo;
+</div>
+</div>
+
+<div class="info">
+<h5>Tagline:</h5>
+<div class="info-content">
+Fight the dead. Fear the living. <a class="tn15more inline" href="/title/tt1520211/taglines" onClick="(new Image()).src='/rg/title-tease/taglines/images/b.gif?link=/title/tt1520211/taglines';">See more</a>&nbsp;&raquo;
+</div>
+</div>
+
+<div class="info">
+<h5>Plot:</h5>
+<div class="info-content">
+Police officer Rick Grimes leads a group of survivors in a world overrun by zombies. <a class="tn15more inline" href="/title/tt1520211/plotsummary" onClick="(new Image()).src='/rg/title-tease/plotsummary/images/b.gif?link=/title/tt1520211/plotsummary';">Full summary</a>&nbsp;&raquo;
+</div>
+</div>
+
+<div class="info">
+<h5>Plot Keywords:</h5>
+<div class="info-content">
+<div id="tn15plotkeywords" style="display:inline;"><span>
+
+<a href="/keyword/zombie/">Zombie</a>
+ | 
+<a href="/keyword/zombie-apocalypse/">Zombie Apocalypse</a>
+ | 
+<a href="/keyword/mother-son-relationship/">Mother Son Relationship</a>
+ | 
+<a href="/keyword/title-same-as-book/">Title Same As Book</a>
+ | 
+<a href="/keyword/husband-wife-relationship/">Husband Wife Relationship</a>
+
+</span></div>
+
+<a class="tn15more inline" href="/title/tt1520211/keywords" onClick="(new Image()).src='/rg/title-tease/keywords/images/b.gif?link=/title/tt1520211/keywords';">See more</a>&nbsp;&raquo;
+
+</div>
+</div>
+
+<script type="text/javascript">
+var k = document.getElementById("tn15plotkeywords");
+k.className = "keyword-spoiler";
+k.onmouseover = function() {if (!window.hasVoted) this.className += ' hover';};
+k.onmouseout=   function() {if (!window.hasVoted) this.className='keyword-spoiler';}
+</script>
+
+<div class="info">
+<h5>Awards:</h5>
+<div class="info-content">
+Nominated for Golden Globe.
+ Another 11 wins
+&amp;
+33 nominations
+<a class="tn15more inline" href="/title/tt1520211/awards" onClick="(new Image()).src='/rg/title-tease/awards/images/b.gif?link=/title/tt1520211/awards';">See more</a>&nbsp;&raquo;
+</div>
+</div>
+<div class="info">
+<h5>NewsDesk<span>:</span><br/>
+<small>(<a onClick="(new Image()).src='/rg/maindetails-count/newsdesk/images/b.gif?link=    %2Ftitle%2Ftt1520211%2Fnews';"     href="/title/tt1520211/news"    >11070 articles</a>)</small>
+</h5>
+<div class="info-content">
+<strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=    %2Ftitle%2Ftt1520211%2Fnews%23ni47895819';"     href="/title/tt1520211/news#ni47895819"    >Telltale&#x27;s The Walking Dead May See More Action Before Season 2</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=    %2Fnews%2Fns0000039%2F';"     href="/news/ns0000039/"    >Dread Central</a>. 26 February 2013, 11:46 AM, PST)</small>
+<br/>
+<strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=    %2Ftitle%2Ftt1520211%2Fnews%23ni47895124';"     href="/title/tt1520211/news#ni47895124"    >&#x27;Sons of Anarchy&#x27; Creator Developing New Horror Series for FX</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=    %2Fnews%2Fns0000195%2F';"     href="/news/ns0000195/"    >FEARnet</a>. 26 February 2013, 11:30 AM, PST)</small>
+<br/>
+<strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=    %2Ftitle%2Ftt1520211%2Fnews%23ni47892760';"     href="/title/tt1520211/news#ni47892760"    >AMC Q4 Profit Down as Battle With Dish Takes a Toll</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=    %2Fnews%2Fns0000236%2F';"     href="/news/ns0000236/"    >The Wrap</a>. 26 February 2013, 10:28 AM, PST)</small>
+<br/>
+<div style="width:1px;height:0.5em;"></div></div>
+</div>
+
+<div class="info">
+<h5>User Reviews:</h5>
+<div class="info-content">
+Superb. It&#x27;s about time
+<a class="tn15more inline" href="#comment">See more (394 total)</a>&nbsp;&raquo;
+</div>
+</div>
+<hr/><div class="headerinline"><h3>Cast</h3>&nbsp;<small style="position: relative; bottom: 1px">(Series Cast Summary - 15 of 96)</small></div><div class="info-content block"><table class="cast"> <tr class="odd"><td class="hs"><a href="/name/nm0511088/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm0511088/';"><img src="http://ia.media-imdb.com/images/M/MV5BMjI2NDYyNjg4NF5BMl5BanBnXkFtZTcwMjI5OTMwNA@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm0511088/">Andrew Lincoln</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0188769/">Rick Grimes</a> (35 episodes, 2010-2013)</td></tr><tr class="even"><td class="hs"><a href="/name/nm0915637/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm0915637/';"><img src="http://ia.media-imdb.com/images/M/MV5BNTEzODk3OTE3M15BMl5BanBnXkFtZTcwMDcyMzA1Mw@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm0915637/">Sarah Wayne Callies</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0228608/">Lori Grimes</a> (35 episodes, 2010-2013)</td></tr><tr class="odd"><td class="hs"><a href="/name/nm0390229/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm0390229/';"><img src="http://ia.media-imdb.com/images/M/MV5BNTA1Nzg1MDQ0NV5BMl5BanBnXkFtZTcwNjkwNDc1Nw@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm0390229/">Laurie Holden</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0228607/">Andrea</a> (35 episodes, 2010-2013)</td></tr><tr class="even"><td class="hs"><a href="/name/nm3081796/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm3081796/';"><img src="http://ia.media-imdb.com/images/M/MV5BMTk1MTE0Mjk4N15BMl5BanBnXkFtZTcwMTY2Mjk5Nw@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm3081796/">Steven Yeun</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0216519/">Glenn Rhee</a> (35 episodes, 2010-2013)</td></tr><tr class="odd"><td class="hs"><a href="/name/nm3385128/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm3385128/';"><img src="http://ia.media-imdb.com/images/M/MV5BMzkwMzE4NzQ1N15BMl5BanBnXkFtZTcwMjgxMzgwNg@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm3385128/">Chandler Riggs</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0224890/">Carl Grimes</a> (35 episodes, 2010-2013)</td></tr><tr class="even"><td class="hs"><a href="/name/nm0005342/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm0005342/';"><img src="http://ia.media-imdb.com/images/M/MV5BMTQ5ODE4NTgzMl5BMl5BanBnXkFtZTcwODI0MjAwMw@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm0005342/">Norman Reedus</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0219800/">Daryl Dixon</a> (33 episodes, 2010-2013)</td></tr><tr class="odd"><td class="hs"><a href="/name/nm0564350/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm0564350/';"><img src="http://ia.media-imdb.com/images/M/MV5BMTcwNzAwMzc3OF5BMl5BanBnXkFtZTcwNzIzNjU3Nw@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm0564350/">Melissa McBride</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0234504/">Carol Peletier</a> (32 episodes, 2010-2013)</td></tr><tr class="even"><td class="hs"><a href="/name/nm1659348/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm1659348/';"><img src="http://ia.media-imdb.com/images/M/MV5BMjQwMzUxNzgwM15BMl5BanBnXkFtZTcwMDMxOTc5Mg@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm1659348/">Lauren Cohan</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0252696/">Maggie Greene</a> (28 episodes, 2011-2013)</td></tr><tr class="odd"><td class="hs"><a href="/name/nm0934113/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm0934113/';"><img src="http://ia.media-imdb.com/images/M/MV5BMzQ4MTEzNjU3M15BMl5BanBnXkFtZTcwNTY0OTgwMw@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm0934113/">Scott Wilson</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0252697/">Hershel Greene</a> (27 episodes, 2011-2013)</td></tr><tr class="even"><td class="hs"><a href="/name/nm2782162/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm2782162/';"><img src="http://ia.media-imdb.com/images/M/MV5BMjI2MjE2MTIzMF5BMl5BanBnXkFtZTcwNzQxOTczNw@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm2782162/">Emily Kinney</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0269182/">Beth Greene</a> (25 episodes, 2011-2013)</td></tr><tr class="odd"><td class="hs"><a href="/name/nm1256532/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm1256532/';"><img src="http://ia.media-imdb.com/images/M/MV5BMTcwNzA5MDg0OV5BMl5BanBnXkFtZTcwMTU2NjE0Nw@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm1256532/">Jon Bernthal</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0216514/">Shane Walsh</a> (20 episodes, 2010-2012)</td></tr><tr class="even"><td class="hs"><a href="/name/nm1533036/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm1533036/';"><img src="http://ia.media-imdb.com/images/M/MV5BMTMzNDg0NTMwMV5BMl5BanBnXkFtZTcwNjYyNTQ5NQ@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm1533036/">IronE Singleton</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0229101/">Theodore &#x27;T-Dog&#x27; Douglas</a> (20 episodes, 2010-2012)</td></tr><tr class="odd"><td class="hs"><a href="/name/nm0218810/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm0218810/';"><img src="http://ia.media-imdb.com/images/M/MV5BMTQ0Mjc3NDA1OV5BMl5BanBnXkFtZTcwMTg3MDEyOA@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm0218810/">Jeffrey DeMunn</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0228606/">Dale Horvath</a> (19 episodes, 2010-2012)</td></tr><tr class="even"><td class="hs"><a href="/name/nm0740264/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm0740264/';"><img src="http://ia.media-imdb.com/images/M/MV5BMTkwNDI5MjQ5MF5BMl5BanBnXkFtZTYwMjI1MTgz._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm0740264/">Michael Rooker</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0219799/">Merle Dixon</a> (17 episodes, 2010-2013)</td></tr><tr class="odd"><td class="hs"><a href="/name/nm1775091/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm1775091/';"><img src="http://ia.media-imdb.com/images/M/MV5BMTQ3OTE5NjM0OF5BMl5BanBnXkFtZTcwNDQ4Njg2MQ@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm1775091/">Danai Gurira</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0296555/">Michonne</a> (16 episodes, 2012-2013)</td></tr></table> <a href="fullcredits#cast">(more)</a></div>   <br><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="directors" href="/glossary/D#director">Series Directed by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0225416/">Ernest R. Dickerson</a></td><td valign="top">&#160;</td><td valign="top">(7 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0272704/">Guy Ferland</a></td><td valign="top">&#160;</td><td valign="top">(5 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0317382/">Bill Gierhart</a></td><td valign="top">&#160;</td><td valign="top">(4 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm0630524/">Gregory Nicotero</a></td><td valign="top">&#160;</td><td valign="top">(3 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm0394586/">Gwyneth Horder-Payton</a></td><td valign="top">&#160;</td><td valign="top">(2 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm0533713/">Michelle MacLaren</a></td><td valign="top">&#160;</td><td valign="top">(2 episodes, 2010-2011)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="writers" href="/glossary/W#writer">Series Writing credits</a></h5></td></tr><tr><td valign="top"><a href="/name/nm1891501/">Charlie Adlard</a></td><td valign="top">&#160;</td><td valign="top">(35 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0001104/">Frank Darabont</a></td><td valign="top">&#160;</td><td valign="top">(35 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm3079117/">Robert Kirkman</a></td><td valign="top">&#160;</td><td valign="top">(35 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm3877885/">Tony Moore</a></td><td valign="top">&#160;</td><td valign="top">(35 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm1185659/">Glen Mazzara</a></td><td valign="top">&#160;</td><td valign="top">(6 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0991355/">Scott M. Gimple</a></td><td valign="top">&#160;</td><td valign="top">(5 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm1377920/">Evan T. Reilly</a></td><td valign="top">&#160;</td><td valign="top">(5 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm1764891/">Angela Kang</a></td><td valign="top">&#160;</td><td valign="top">(3 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm0424901/">David Johnson</a></td><td valign="top">&#160;</td><td valign="top">(2 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm2469074/">Nichole Beattie</a></td><td valign="top">&#160;</td><td valign="top">(2 episodes, 2012-2013)</td></tr></table><br><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="producers" href="/glossary/P#producer">Series Produced by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm2221121/">David Alpert</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">executive producer (30 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0005036/">Gale Anne Hurd</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">executive producer (30 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm1040337/">Denise M. Huth</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">producer&#160;/ co-executive producer (30 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm3079117/">Robert Kirkman</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">executive producer (30 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0527167/">Tom Luse</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">producer (30 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0630524/">Gregory Nicotero</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-executive producer&#160;/ consulting producer (30 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0300510/">Paul Gadd</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-producer&#160;/ producer (24 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm0991355/">Scott M. Gimple</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">producer&#160;/ supervising producer (24 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm1185659/">Glen Mazzara</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">executive producer (24 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm1377920/">Evan T. Reilly</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-executive producer (24 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm0001104/">Frank Darabont</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">executive producer (19 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm2469074/">Nichole Beattie</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">producer (11 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm0197722/">Jolly Dale</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-producer (11 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm1764891/">Angela Kang</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">producer (11 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm3162990/">Sang Kyu Kim</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">producer (11 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm1529379/">Kenneth Requa</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">associate producer (11 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm0251050/">Charles H. Eglee</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">executive producer (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1469826/">Adam Fierro</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">consulting producer (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0517753/">Jack LoGiudice</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-executive producer (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0774802/">Skip Schoolnik</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">associate producer (6 episodes, 2010)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="music_original" href="/glossary/C#composer">Series Original Music by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0566970/">Bear McCreary</a></td><td valign="top">&#160;</td><td valign="top">(35 episodes, 2010-2013)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="cinematographers" href="/glossary/C#cinematographer">Series Cinematography by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0773180/">Rohn Schmidt</a></td><td valign="top">&#160;</td><td valign="top">(19 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm0101741/">David Boyd</a></td><td valign="top">&#160;</td><td valign="top">(9 episodes, 2010-2011)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="editors" href="/glossary/E#editor">Series Film Editing by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm1121207/">Hunter M. Via</a></td><td valign="top">&#160;</td><td valign="top">(12 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm1905909/">Julius Ramsay</a></td><td valign="top">&#160;</td><td valign="top">(11 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm1177787/">Nathan Gunn</a></td><td valign="top">&#160;</td><td valign="top">(7 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm0104296/">Robert Bramwell</a></td><td valign="top">&#160;</td><td valign="top">(2 episodes, 2012)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="casting_directors" href="/glossary/C#casting_director">Series Casting by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0080544/">Sharon Bialy</a></td><td valign="top">&#160;</td><td valign="top">(27 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0859520/">Sherry Thomas</a></td><td valign="top">&#160;</td><td valign="top">(26 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0277381/">Craig Fincannon</a></td><td valign="top">&#160;</td><td valign="top">(4 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm0277382/">Lisa Mae Fincannon</a></td><td valign="top">&#160;</td><td valign="top">(3 episodes, 2010)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="production_designers" href="/glossary/P#production_designer">Series Production Design by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0578392/">Gregory Melton</a></td><td valign="top">&#160;</td><td valign="top">(16 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0907767/">Graham &#x27;Grace&#x27; Walker</a></td><td valign="top">&#160;</td><td valign="top">(10 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm0354443/">Alex Hajdu</a></td><td valign="top">&#160;</td><td valign="top">(3 episodes, 2010)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="art_directors" href="/glossary/A#art_director">Series Art Direction by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm3560595/">Doug Fick</a></td><td valign="top">&#160;</td><td valign="top">(18 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0354443/">Alex Hajdu</a></td><td valign="top">&#160;</td><td valign="top">(2 episodes, 2010)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="set_decorators" href="/glossary/S#set_decorator">Series Set Decoration by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm4783143/">Lynne Mitchell</a></td><td valign="top">&#160;</td><td valign="top">(13 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm1584831/">Kristen Donaldson</a></td><td valign="top">&#160;</td><td valign="top">(10 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm0019812/">Lisa Alkofer</a></td><td valign="top">&#160;</td><td valign="top">(3 episodes, 2010)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="costume_designers" href="/glossary/C#costume_designer">Series Costume Design by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm2075925/">Eulyn Womble</a></td><td valign="top">&#160;</td><td valign="top">(23 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm0821914/">Peggy Stamper</a></td><td valign="top">&#160;</td><td valign="top">(6 episodes, 2010)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="make_up_department" href="/glossary/M#makeup">Series Makeup Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0630524/">Gregory Nicotero</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects makeup&#160;/ special makeup effects artist&#160;/ ... (29 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0074205/">Howard Berger</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects makeup&#160;/ special makeup effects artist (26 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0461094/">Taylor Knight</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key hair stylist (26 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0695926/">Donna M. Premick</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key makeup artist (26 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0774756/">Andy Schoneberg</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects makeup artist&#160;/ special effects makeup artist: KNB EFX Group&#160;/ ... (25 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0913615/">Kevin Wasner</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects makeup artist&#160;/ special effects makeup artist: KNB EFX Group&#160;/ ... (24 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm2597573/">Mark James Ross</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special makeup effects artist&#160;/ special make up effects artist: KNB EFX Group&#160;/ ... (23 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0304948/">Jake Garber</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special makeup effects artist&#160;/ special effects makeup crew&#160;/ ... (22 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0665481/">Cristina Patterson Ceret</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">contact lens designer/painter (16 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0427681/">Carey Jones</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects makeup supervisor&#160;/ special effects makeup crew&#160;/ ... (16 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm0408208/">Garrett Immel</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects makeup artist&#160;/ special effects makeup artist: KNB EFX Group&#160;/ ... (15 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm3391206/">Vincent Gideon</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">hair stylist&#160;/ key hair stylist (14 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0783443/">Toby Sells</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects makeup artist: KNB EFX Group&#160;/ special makeup effects artist&#160;/ ... (14 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm2599307/">Yolanda Sheridan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">makeup artist&#160;/ second makeup&#160;/ ... (10 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0293920/">Andr&#xE9; Freitas</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects makeup artist&#160;/ special effects makeup artist: KNB EFX Group&#160;/ ... (9 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm0188526/">Gino Crognale</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects makeup artist&#160;/ special effects makeup artist: KNB EFX Group&#160;/ ... (7 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm0424595/">Bill Johnson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special makeup effects artist&#160;/ special effects makeup artist: KNB EFX Group (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1509200/">Char Coats-Crump</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key makeup artist (4 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm2771723/">Caley Brooks</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects makeup artist (4 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm3215996/">Matthew Silva</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special makeup effects artist (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2686832/">Andrea C. Brotherton</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">hair stylist (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1037640/">Duane Saylor</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">makeup artist (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2675680/">Shunika Terry</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">hair stylist (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2601049/">Miracole Walker</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special makeup effects artist (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0014504/">Jaremy Aiello</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects makeup crew (2 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm0589462/">Tracey L. Miller</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">makeup artist (2 episodes, 2012)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="production_managers" href="/glossary/P#production_manager">Series Production Management</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0002566/">Caleb Womble</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production supervisor&#160;/ production co-supervisor (24 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0527167/">Tom Luse</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">unit production manager (23 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm1529379/">Kenneth Requa</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post-production supervisor (19 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0197722/">Jolly Dale</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production supervisor (13 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm0414304/">Leslie Jacobowitz</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post production executive (9 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm0009593/">Stephanie Accetta</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">unit production manager (6 episodes, 2010)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="assistant_directors" href="/glossary/A#assistant_director">Series Second Unit Director or Assistant Director</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0418362/">Jeffrey F. January</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">first assistant director&#160;/ first assistant director: second unit&#160;/ ... (22 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm0327594/">Vincent G. Gonzales</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second assistant director (16 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm0359068/">Veronica Hampton</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second assistant director&#160;/ first assistant director&#160;/ ... (15 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm1418303/">Austin Davoren</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second second assistant director&#160;/ second assistant director (8 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm0090672/">Polly Ann Mattson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">first assistant director (7 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm1300100/">Spencer Jarvis</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second second assistant director (6 episodes, 2013)</td></tr><tr><td valign="top"><a href="/name/nm1730681/">John Bonaccorse</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second second assistant director (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0630524/">Gregory Nicotero</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second unit director (4 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0173466/">K.C. Colwell</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">first assistant director (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0420053/">Martin Jedlicka</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">first assistant director (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1349333/">Craig Harris</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second assistant director (2 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm1540684/">Shanalyna C. Palmer</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second assistant director (2 episodes, 2011)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="art_department" href="/glossary/A#art_department">Series Art Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm2093936/">Dan Post</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">leadman (28 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm2219866/">Damian Dunn</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant property master&#160;/ props&#160;/ ... (27 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm2681273/">Adam Miller</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">props&#160;/ props assistant (26 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm4730891/">LeShae Ann Nash</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">construction buyer&#160;/ scenic artist (24 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm3727508/">Nelson Hagood</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">on set dresser&#160;/ set dresser&#160;/ ... (23 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0761597/">John Sanders</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">property master (22 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm0583500/">Blake Myers</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set dresser (19 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm4019143/">James Vasilovic</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set dresser (17 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm4178626/">Justin O&#x27;Neal Miller</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set designer (16 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm4103813/">James Anthony</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">construction buyer (15 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm3728307/">Sarah Carter</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set decoration buyer (15 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm3435359/">Taraja Ramsess</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">on set dresser&#160;/ set dresser&#160;/ ... (15 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm3488740/">Nathan Alexander</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">props (15 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm1129894/">John S. Fore</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">construction coordinator (14 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm1357084/">Taylor Bennett</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">charge scenic&#160;/ scenic charge artist (14 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm5086586/">Shaquana Simmons</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">graphic designer (11 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm0319207/">Rusty Gilligan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">sketch artist (9 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm2628502/">Joey Sisson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set dresser (8 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm2988055/">Katie Weaver</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">art department coordinator (8 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm3560595/">Doug Fick</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set designer (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4713925/">Karen Gerbs</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set dresser (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0336951/">Shawn M. Gray</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant property master (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4878417/">R. Barry Green</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set dresser (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2888340/">Justin C. Hosp</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set dresser (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1931597/">Johnny Land</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">scenic artist (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1573333/">Sean Macomber</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">gang boss: set dressing (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1656850/">Javed Noorullah</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">swing gang (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3889013/">Thomas Pearson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">art department production assistant (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3542278/">Stephanie Ryan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">art department coordinator (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0754841/">Michael Sabo</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">property master (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0916995/">Richard Blake Wester</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">leadman (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm5370220/">Derrick Chambers</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">greensman (6 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm2703741/">Sean Ryan Jennings</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set designer (6 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm3257888/">Lynsey Mouer</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">art department assistant (6 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm5059862/">Stephen Ostien</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">utility (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4918272/">Lucas Godfrey</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set dresser (5 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm3295819/">Konrad Lewis</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">on-set dresser (4 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3602899/">Joseph Nadeau</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">additional set dresser&#160;/ set dresser (4 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4096836/">Christopher Amerson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant props (3 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm5240143/">Kathleen Denson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">scenic artist (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0242359/">Joe Dunckley</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">props (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3554843/">Michael Gowen</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">construction buyer (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3221538/">Ryan Kutch</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">on-set dresser (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4321370/">Gregory H. Massey</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">scenic artist (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm5341158/">Denette West</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key greensperson (3 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm3806518/">Robbie Martin</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">charge scenic (3 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm2672839/">William Anthony Duncan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">scenic artist (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1980251/">Nichole Wleklinski</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">props (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0783443/">Toby Sells</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">custom fabricated props: Toby Sells Creature Makeup FX Shop (2 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm1725689/">Craig Gilmore</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">storyboard artist (2 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm5225870/">John Moredock</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set designer (2 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm2829826/">Johnny Thigpen</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">concept artist&#160;/ set designer (2 episodes, 2012)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="sound_department" href="/glossary/S#sound_crew">Series Sound Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0743512/">Jerry Ross</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">supervising sound editor (27 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0383756/">Dan Hiland</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">re-recording mixer (26 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0736880/">Gary D. Rogers</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">re-recording mixer (26 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0186783/">Greg Crawford</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">adr mixer: Atlanta&#160;/ adr mixer (25 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm2963448/">Deron Street</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">first assistant sound editor&#160;/ assistant sound editor (20 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm1491068/">Bartek Swiatek</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">sound mixer&#160;/ production sound mixer&#160;/ ... (18 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0169971/">Damon Cohoon</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant sound editor (16 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0268349/">Tim Farrell</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">sound effects editor (15 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm1434225/">Robert Maxfield</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">boom operator (15 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm1623272/">Phil Barrie</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">sound effects editor (12 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm2799013/">Christopher Joseph Harris</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">sound utility (11 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm1309180/">Michael P. Clark</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">sound mixer&#160;/ production sound mixer&#160;/ ... (10 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm0796898/">Aron Siegel</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">sound mixer: splinter unit (9 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm0447093/">David Kelson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production sound mixer (8 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm0266089/">Steffan Falesitch</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">dialogue editor (7 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm0859176/">Lou Thomas</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">adr supervisor&#160;/ adr &#x26; dialogue editor&#160;/ ... (6 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0508752/">Shirley Libby</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production sound mixer (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0690372/">Drew Ponder</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">boom operator (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1707290/">Jason Oliver</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">adr mixer (5 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm0053203/">Gregg Barbanell</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">foley artist (4 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm0584504/">Stacey Michaels</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">foley mixer (4 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm1512824/">Christopher Mills</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">boom operator: splinter unit (4 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm1400864/">Shelley Roden</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">foley artist (4 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm1147441/">Allen Lee Williams III</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">boom operator: splinter unit&#160;/ boom operator (3 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0423369/">David Jobe</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">foley mixer (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2390390/">Nick Kray</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">adr mixer (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3901323/">Jorge Del Valle</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">boom operator: splinter unit&#160;/ sound utility (3 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm2279254/">Kevin J. Summers</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">boom operator (3 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm1819474/">Colt Logan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">boom operator&#160;/ additional boom operator (3 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm5000000/">T.J. Jacques</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">foley editor (3 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm0287910/">Karyn Foster</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">adr editor&#160;/ dialogue editor (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0331920/">Eric Gotthelf</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">adr mixer (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0628306/">Walter Newman</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">supervising sound editor (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3007752/">Zachary C. Ross</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant sound editor (2 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm4064508/">Cristen Clark</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">utility sound: splinter unit (2 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm3854267/">James Hyde</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">adr recordist (2 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm4701742/">Roni Pillischer</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">adr recordist (2 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm4408749/">Max Conklin</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">adr recordist (2 episodes, 2013)</td></tr><tr><td valign="top"><a href="/name/nm5246646/">Oskar von Unge</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">adr recordist (2 episodes, 2013)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="special_effects_department" href="/glossary/S#special_effects">Series Special Effects by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0698091/">Darrell Pritchett</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects coordinator (15 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm3360703/">Scanlan Backus</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects technician (8 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm0014504/">Jaremy Aiello</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">sculptor: KNB EFX Group (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0132927/">Wes Campbell</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects technician (2 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm2230945/">Elizabeth Ralston</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">additional special effects technician (2 episodes, 2013)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="visual_effects_department" href="/glossary/V#visual_effects">Series Visual Effects by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm3024971/">Gary Romey</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects coordinator (25 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm0768843/">Victor Scalise</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects supervisor (22 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm2187396/">Franco Leng</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">digital compositor (19 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm1786631/">Diego Galtieri</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">digital compositor (15 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm2920710/">Eddie Bonin</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects producer (14 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm3851460/">Josh Bryson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">digital compositor (12 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm2608663/">Jon Rosenthal</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects artist&#160;/ digital effects artist (12 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm2357712/">Kristin Johnson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">matte painting supervisor: Stargate Studios&#160;/ matte painter&#160;/ ... (11 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm5326902/">Matt Zell</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects artist (9 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm1482642/">Ryan Wieber</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">digital compositor (7 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm3922521/">Maxx Burman</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">matte painter (7 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm1466184/">Jason Sperling</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects supervisor: Stargate Studios&#160;/ visual effects supervisor&#160;/ ... (7 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm3866660/">Caleb Knueven</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">digital compositor (7 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm4478379/">Jordan Hansen</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects artist&#160;/ visual effects coordinator (7 episodes, 2013)</td></tr><tr><td valign="top"><a href="/name/nm1105170/">Spence Fuller</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects artist (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0425549/">Kent Johnson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects producer (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1836361/">Christopher D. Martin</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">digital compositing supervisor (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3459664/">Greg Cheng</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">digital compositor (6 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm4670334/">Sean Gagnon</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects artist (6 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm1145986/">Anthony Ocampo</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">cg artist (5 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm3632789/">Brent A. Steinberg</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects artist (5 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm2144000/">Ragui Hanna</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">digital compositor (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4960347/">Yvonne Mejia</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">matte painter (5 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm1839139/">Michael Cook</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects artist (4 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm2578420/">Daniel Kumiega</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects&#160;/ visual effects artist (4 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm1532132/">Jason Korber</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">digital compositor&#160;/ digital supervisor (4 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm4123843/">Ryan Curtis</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects editor (4 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm4801692/">Mehul Desai</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects artist (4 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm0291204/">Darren Frankel</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">president: Stargate Studios (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1945614/">Valeri Pfahning</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">digital compositor (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4321217/">Benjamin Runyan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects artist (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3175321/">Jess Brown</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects artist (3 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm4021677/">Alena Cochran</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects compositor: Go Blue VFX&#160;/ compositor (3 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm0004187/">Casey Cannon</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects producer (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2076942/">Meliza Fermin</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">compositor (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0512746/">Van Ling</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects supervisor (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4950890/">Winrik Haentjens</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects artist (2 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm3218693/">Emilia Gustafsson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">digital compositor (2 episodes, 2013)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="stunts" href="/glossary/S#stunt_performer">Series Stunts</a></h5></td></tr><tr><td valign="top"><a href="/name/nm2551144/">Elizabeth Davidovich</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunts (9 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm1993297/">Brent Bernhard</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunts&#160;/ stunt performer (9 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm2146268/">Andy Rusk</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt performer&#160;/ stunt rigger&#160;/ ... (9 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm0807168/">Lonnie R. Smith Jr.</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt coordinator (8 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm1869867/">Philip Dido</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt performer&#160;/ stunts&#160;/ ... (7 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm0869961/">Russell Towery</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt coordinator (6 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm0116888/">Trent Brya</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt double: Norman Reedus&#160;/ stunts&#160;/ ... (5 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm5045785/">Nick DeKay</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt double: Michael Rooker&#160;/ stunt performer (5 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm3512708/">Max Calder</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt performer&#160;/ stunts (4 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm2952095/">Jeremy Conner</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt double: Andrew Lincoln&#160;/ stunt performer&#160;/ ... (4 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm2195576/">Richard Marrero</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunts (3 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0913060/">Todd Warren</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunts&#160;/ stunt double: Jon Bernthal (3 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm1270546/">Greg Wattkis</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunts (3 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm4302361/">Matthew Austin Murray</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt performer&#160;/ stunts (3 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm4178043/">Christopher Padilla</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt performer: thug&#160;/ stunts (2 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm1354180/">Bob Fisher</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt performer&#160;/ stunts (2 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm2151484/">Alan D&#x27;Antoni</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt driver (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4578311/">Orlando Vargas Diaz</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt performer (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0728899/">Steven Ritzi</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt coordinator (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4587936/">Daniel Brule</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt performer (2 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm2367492/">John Gilbert</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunts (2 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm1906778/">Vanessa Motta</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt double: Lauren Cohan&#160;/ stunts (2 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm0134028/">John Cann</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt performer (2 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm3180152/">Damita Jane Howard</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt double: Danai Gurira&#160;/ stunts (2 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm0303316/">Jeff Galpin</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt performer (2 episodes, 2013)</td></tr><tr><td valign="top"><a href="/name/nm3679517/">Jessica Merideth</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunts (2 episodes, 2013)</td></tr><tr><td valign="top"><a href="/name/nm5059887/">Maya Santandrea</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunts (2 episodes, 2013)</td></tr><tr><td valign="top"><a href="/name/nm4688280/">Billy Tilk</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt performer&#160;/ stunts (2 episodes, 2013)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="camera_department" href="/glossary/C#camera_department">Series Camera and Electrical Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm2287711/">Matthew McGinn</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">&#x22;a&#x22; camera second assistant&#160;/ second assistant camera: &#x22;a&#x22; camera&#160;/ ... (26 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0656179/">Gene Page</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">still photographer (21 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm1440171/">Mike Tyson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">rigging gaffer (19 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0766349/">Mike Satrazemis</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">&#x22;a&#x22; camera operator&#160;/ camera operator: &#x22;a&#x22; camera&#160;/ ... (17 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0391830/">Gary Holmes</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second unit gaffer&#160;/ rigging best boy electric&#160;/ ... (16 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0523434/">Levi Loy</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">best boy rigging grip&#160;/ grip (16 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0057305/">Tom Barrett</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">best boy grip (15 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm3125080/">Connor O&#x27;Malley</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">lighting technician (13 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm1312700/">Rick Crank</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">chief lighting technician&#160;/ gaffer (12 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0262724/">Eddie Evans</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key grip (11 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm3861324/">Jon Derek Wilson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">electrician (10 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm3209163/">Jeff C. Sutton</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">lighting technician&#160;/ electrician (10 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm0301757/">David Galbraith</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">&#x22;a&#x22; camera first assistant&#160;/ first assistant camera operator (10 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm1129044/">Mike Pilcher</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">rigging key grip&#160;/ key rigging grip (10 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm1326763/">Marc Dobiecki</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second unit: director of photography&#160;/ &#x22;c&#x22; camera operator&#160;/ ... (9 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0006443/">Glenn Brown</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">steadicam/&#x22;b&#x22; camera operator&#160;/ &#x22;b&#x22; camera operator/steadicam&#160;/ ... (9 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm0732431/">Bruce Robinson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">&#x22;b&#x22; camera first assistant&#160;/ first assistant camera operator: &#x22;b&#x22; camera (9 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm3464421/">Brandon Davis</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">best boy electric (7 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm1676763/">Reid Andrews</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">electrician: base camp&#160;/ basecamp electrician&#160;/ ... (7 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm0095507/">Frank Boone</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">&#x22;a&#x22; dolly grip&#160;/ &#x22;a&#x22; camera dolly grip (7 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm3616835/">Matthew Horn</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second assistant camera (7 episodes, 2013)</td></tr><tr><td valign="top"><a href="/name/nm0427738/">Chris Jones</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">&#x22;b&#x22; camera/steadicam operator&#160;/ &#x22;b&#x22; camera operator/steadicam (6 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm3270979/">Scott Garfield</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">still photographer (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3173351/">Mike Besaw</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">&#x22;b&#x22; dolly grip (6 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm0616837/">Ray Myers</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">generator operator (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1152335/">Mike Pearce</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">lighting technician (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3317177/">Mackie Roberts</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">grip (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1168182/">Trey Twitty</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second assistant camera: &#x22;a&#x22; camera&#160;/ second assistant: &#x22;a&#x22; camera (4 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0101378/">Pete Bowman</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">best boy grip (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1967169/">Danny Eckler</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">dolly grip (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1184093/">Jim McKinney</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">camera operator (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3897098/">Glenn Ortman</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">electrician (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1934214/">David Parker</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">rigging grip (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0402876/">Jim Hunter</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">camera operator (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0995176/">Alfeo Dixon</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">Steadicam operator&#160;/ steadicam operator (2 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm3581847/">David Daniels</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">&#x22;c&#x22; camera operator (2 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm0837188/">Steve Sudge</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">best boy electric (2 episodes, 2012-2013)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="casting_department" href="/glossary/C#casting_department">Series Casting Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0277381/">Craig Fincannon</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">location casting (24 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0277382/">Lisa Mae Fincannon</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">location casting (24 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm1877981/">Russell Scott</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">casting associate&#160;/ casting associate: Los Angeles (19 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm3474562/">Jen Ingulli</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">local casting associate (16 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm2518116/">Gohar Gazazyan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">casting associate (10 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm1623435/">Patrick Ingram</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">extras casting&#160;/ extras casting coordinator (8 episodes, 2011-2012)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="costume_department" href="/glossary/C#costume_department">Series Costume and Wardrobe Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm4534454/">Elisa R. Richards</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key costumer (20 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm1496407/">Iliana Sanchez</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key costumer&#160;/ set costumer&#160;/ ... (19 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0109228/">Layne Brightwell</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">costume supervisor (13 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm2820008/">Ashley Marie Parker</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set costumer&#160;/ key set costumer (12 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm3490539/">Keith Hudson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">costume ager/dyer&#160;/ key costume ager/dyer (10 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm0515985/">Fred Lloyd</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">costume supervisor (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2075925/">Eulyn Womble</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set costumer (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1657048/">Melanie Mascioli</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">costumer (6 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm0293118/">Karen Freed</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">costumer (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0954860/">Amanda Zenil</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key costumer (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1726548/">Sarah Falls</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">additional costumer/costume ager (3 episodes, 2011)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="editorial_department" href="/glossary/E#editorial_department">Series Editorial Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm3580738/">Paul Amadeus Kim</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">non-linear digital assistant (21 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm2971554/">Jessica E. Newman</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post-production coordinator (13 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm2364623/">Dan Liu</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant editor (10 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm3181960/">Michelle Trujillo</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post-production coordinator (9 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm0279483/">Evan Fisher</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant editor (8 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm4784061/">Alex Coley Brown</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post-production assistant (6 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm3621137/">Desa Larkin-Boutt&#xE9;</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post-production assistant (5 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm1177787/">Nathan Gunn</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant editor (4 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0136501/">Liza Cardinale</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant editor (4 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm3327824/">Steve Johnson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">hd telecine dailies colorist (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1203560/">Sara Mineo</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant editor (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1753795/">Kris Saintsing</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post-production coordinator (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2385443/">Stephen Warner</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">telecine assistant: dailies (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1274327/">John Mullin</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant editor (3 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm4210889/">Tina Trego</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant editor (2 episodes, 2010)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="music_department" href="/glossary/M#music_department">Series Music Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm1645949/">Henri Wilkinson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">orchestrator (33 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm1637086/">Edward Trybek</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">orchestrator&#160;/ musician: guitars (32 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0044890/">Michael Baber</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">music editor (29 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0326724/">Thomas Golubic</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">music supervisor (24 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0745448/">Peter Rotter</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">music contractor&#160;/ orchestra contractor (20 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm3120132/">Tom Brissette</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">additional score engineer (19 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm1113167/">Steve Kaplan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">scoring engineer (19 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0566970/">Bear McCreary</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">composer: theme music (14 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm4443645/">Andy Harris</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">scoring assistant (13 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm1718857/">Yvette Metoyer</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">music coordinator (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2316114/">Jonathan Beard</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">orchestral assistant&#160;/ recording engineer (5 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm3087740/">Jonathan Ortega</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">composer: additional music (5 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm3897576/">Jessica Rae Huber</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">scoring session preparations (4 episodes, 2011)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="transportation_department" href="/glossary/T#transportation_department">Series Transportation Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm2774080/">Andy G. Strauss</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">dot compliance (25 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm1338639/">Keith N. Collis</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">transportation coordinator (19 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm3707949/">Stephen Edward Austin</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">picture car coordinator (15 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm2314581/">Dennis G. Carter</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">transportation captain (13 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm4123923/">William W. Brown III</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">driver (9 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm0908083/">Oranz Walker</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">transportation captain (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2388330/">Jody Winslette</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">transportation captain (2 episodes, 2012)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="miscellaneous" href="/glossary/C#crewmembers">Series Other crew</a></h5></td></tr><tr><td valign="top"><a href="/name/nm2151017/">Amy Barnes</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant to producers&#160;/ assistant to line producer (33 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm3531959/">Ethan Patterson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stand-in/photo double&#160;/ stand-in: Andrew Lincoln&#160;/ ... (30 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm3092495/">Scott Einbinder</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant to executive producer&#160;/ assistant to producer&#160;/ ... (28 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0727127/">Mike Riley</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">location manager (26 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0786421/">Laura Sevier</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">clearances&#160;/ clearance (26 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm1042404/">Jess Clark</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production consultant&#160;/ assistant to Frank Darabont&#160;/ ... (19 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm4365502/">Daniel F. Green</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant location manager&#160;/ location assistant (18 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm2475688/">Samuel Jerome Johnson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant location manager (17 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm4791666/">Kristen Schuette</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">location coordinator (16 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm0425228/">Herb Johnson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production accountant (15 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0086915/">Amy A. Blanc</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">script supervisor (14 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm0236927/">Jessica Drake</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">dialect coach (13 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm2234039/">Greg Tresan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">animal wrangler&#160;/ animal coordinator&#160;/ ... (13 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm0788850/">Steve Sharlet</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">script coordinator (13 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm1764891/">Angela Kang</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">story editor (13 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm3968683/">Brion Ozim</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">office production assistant&#160;/ assistant to director (13 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm4501105/">Robin Rk Kempf</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production assistant (12 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm4573236/">Merci Navarro</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">first assistant accountant (12 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm5081234/">Brad Carey</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">location assistant (12 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm2357280/">Mandy McCowan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production coordinator&#160;/ production office coordinator (11 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm2371594/">Phillip Kobylanski</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant to Gale Anne Hurd&#160;/ assistant: Gale Anne Hurd (11 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm2783931/">Blake H. Hughes</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">craft service assistant&#160;/ key craft service (11 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm4280882/">Lane Steffler</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">location production assistant&#160;/ key location production assistant&#160;/ ... (11 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm4856242/">Alexander White</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">writers assistant (11 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm3428822/">Adam Hamilton</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stand-in (10 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm4742863/">Kevin Amick</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">medic (10 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm4902278/">Chip Clanton</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production secretary (10 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm4872289/">Maggie Free</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">payroll clerk (10 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm4783003/">Vanessa Trego</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">writers room production assistant&#160;/ writers production assistant (8 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm4557841/">Xan Angelovich</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production assistant (8 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm3616437/">Tim McClure</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant location manager (8 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm4506673/">Roxanne Paul</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production assistant (8 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm4344954/">Greg Rothstein</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set production assistant (7 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm4720711/">Jp Author</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production assistant (7 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm5206835/">Gabrielle Stein</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stand-in: Carl (7 episodes, 2013)</td></tr><tr><td valign="top"><a href="/name/nm0030415/">Lisa Annitti</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">first accountant (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0178204/">Kyle Cooper</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">title designer (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3396823/">Brian Gonsalves</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production secretary (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3405030/">Kyle Hinshaw</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">location coordinator (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3918746/">Henry Hobson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">main title design director (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4081886/">Melody S. Jones</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">craft service (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1325436/">Joshua Parker</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant to executive producer (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0682076/">Karen Pidgurski</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">unit publicist (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0933808/">Mari Wilson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">additional script supervisor (6 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2645817/">Ryan Coleman</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant: Glen Mazzara (6 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm1052159/">John D. Bert</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">craft service&#160;/ key craft service (6 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm5376661/">Duncan Lamberson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant craft service (6 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm5106860/">Ben Roberts</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production consultant (6 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm4103813/">James Anthony</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">construction buyer/runner (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1410191/">Chris Burns</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set production assistant (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2560913/">Kenyea Johnson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">office production assistant (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3226289/">Andrew C. Kirk</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">location assistant (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4183701/">Jessica Lang</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">craft service assistant&#160;/ craft service (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1983506/">Patrick O&#x27;Connor</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production assistant (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm1920054/">Ryan Robertson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">main title producer (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0787267/">Odin Shafer</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant to writer&#160;/ writers assistant (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2221956/">Michael Svoboda</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">writers assistant (5 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2643755/">Philip Banks</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production assistant (5 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm3044235/">Wesley Garrison</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">location assistant (5 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm4784061/">Alex Coley Brown</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">writers production assistant (5 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm3786053/">Robin Spears</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production assistant&#160;/ set production assistant (4 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm3621137/">Desa Larkin-Boutt&#xE9;</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production assistant (4 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm2051883/">Seth Zimmerman</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key assistant location manager (4 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm3779515/">Patrick Rofoli</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production staff (4 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm0302901/">Philippe Gallichet</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">catering chef (4 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm1189301/">Anne Marie Feldman</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">payroll accountant (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm5161988/">Caleb Hinshaw</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">location assistant (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0693679/">Rebecca Poulos</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">script supervisor (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4278115/">Robert Severance</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">police security (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0809388/">Michael C. Smith</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">police coordinator (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0961803/">Stan Swofford</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set medic (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4684946/">Rudolph Vincent</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production assistant (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2647091/">Austin Zirk</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant to writer (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm0334217/">Megan Graham</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second script supervisor&#160;/ script supervisor: second unit (3 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm4725661/">Bobby Burks</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">medic: 2nd unit set medic&#160;/ medic: construction-day player (3 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm4988279/">Aleshia Cowser</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production assistant (3 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm0331628/">Janine Gosselin</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second unit script supervisor&#160;/ additional script supervisor (3 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm4003256/">Ryan Taylor</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key assistant location manager (3 episodes, 2012-2013)</td></tr><tr><td valign="top"><a href="/name/nm3952590/">Robert Bryce Milburn</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">additional set production assistant (3 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm2689010/">Zach Kane</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key craft service (2 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm2845763/">Paul Bednarz</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set medic&#160;/ set medic: additional unit (2 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm4814331/">Tasha Wdowin</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set medic (2 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm5100773/">Leah Parrish</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stand-in/photo double: Andrea (2 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm2733193/">Trevor Schliefer</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">basecamp p.a. (2 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm3527115/">Adam Kenitzer</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">additional production assistant&#160;/ production assistant additional (2 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm2005557/">Joshua Jones</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">location assistant (2 episodes, 2013)</td></tr><tr><td valign="top"><a href="/name/nm3664378/">Alan Robbins</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">medic: second unit (2 episodes, 2013)</td></tr><tr><td colspan="4">&#160;</td></tr></table><br><b class="blackcatheader">Production Companies</b><ul><li><a href="/company/co0019701/">American Movie Classics (AMC)</a> (presents)</li><li><a href="/company/co0090153/">Circle of Confusion</a></li><li><a href="/company/co0092570/">Valhalla Motion Pictures</a> (as Valhalla Entertainment)</li><li><a href="/company/co0029398/">Darkwoods Productions</a></li><li><a href="/company/co0318834/">AMC Studios</a></li></ul><b class="blackcatheader">Distributors</b><ul><li><a href="/company/co0019701/">American Movie Classics (AMC)</a> (2010-) (USA) (TV)</li><li><a href="/company/co0169177/">Fox International Channels</a> (2010-) (Non-USA) (TV)</li><li><a href="/company/co0169177/">Fox International Channels</a> (2010) (Non-USA) (video)</li><li><a href="/company/co0067793/">Anchor Bay Entertainment</a> (2011) (USA) (DVD) (Blu-ray) (season 1)</li><li><a href="/company/co0067793/">Anchor Bay Entertainment</a> (2011) (USA) (DVD) (season 1)</li><li><a href="/company/co0003500/">Channel 5 Television</a> (2011-) (UK) (TV)</li><li><a href="/company/co0314653/">Entertainment One Benelux</a> (2011) (Netherlands) (DVD) (Blu-ray) (season 1)</li><li><a href="/company/co0314653/">Entertainment One Benelux</a> (2011) (Netherlands) (DVD) (season 1)</li><li><a href="/company/co0314653/">Entertainment One Benelux</a> (2012) (Netherlands) (DVD) (Blu-ray) (season 2)</li><li><a href="/company/co0314653/">Entertainment One Benelux</a> (2012) (Netherlands) (DVD) (season 2)</li><li><a href="/company/co0336315/">Entertainment One</a> (2011) (UK) (DVD)</li><li><a href="/company/co0301422/">FOXlife</a> (2011-) (Belgium) (TV) (limited)</li><li><a href="/company/co0301422/">FOXlife</a> (2011-) (Netherlands) (TV) (limited)</li><li><a href="/company/co0093099/">FS Film Oy</a> (2011) (Finland) (DVD) (Blu-ray) (season 1)</li><li><a href="/company/co0128225/">FX</a> (2010-) (UK) (TV)</li><li><a href="/company/co0305776/">FX</a> (2010-) (Greece) (TV)</li><li><a href="/company/co0240843/">Fox</a> (2010-) (Germany) (TV)</li><li><a href="/company/co0256887/">Fox</a> (2010-) (Spain) (TV)</li><li><a href="/company/co0278079/">Fox</a> (2010-) (Italy) (TV)</li><li><a href="/company/co0351915/">Fox</a> (2010-) (Portugal) (TV)</li><li><a href="/company/co0144901/">NetFlix</a> (2011) (Canada) (TV) (internet)</li><li><a href="/company/co0144901/">NetFlix</a> (2011) (USA) (TV) (internet)</li><li><a href="/company/co0062012/">RTL2</a> (2012) (Germany) (TV)</li><li><a href="/company/co0065724/">Radio Telef&#xED;s &#xC9;ireann (RT&#xC9;)</a> (2011-) (Ireland) (TV) (RT&#xC9;2)</li><li><a href="/company/co0021959/">SBP</a> (2011) (Argentina) (DVD)</li><li><a href="/company/co0152011/">WVG Medien GmbH</a> (2011) (Germany) (DVD)</li></ul><b class="blackcatheader">Special Effects</b><ul><li><a href="/company/co0054914/">Crawford Communications</a> (high definition telecine)</li><li><a href="/company/co0015640/">K.N.B. Effects Group</a> (special makeup effects)</li><li><a href="/company/co0024812/">Stargate Studios</a> (visual effects)</li></ul><b class="blackcatheader">Other Companies</b><ul><li><a href="/company/co0008022/">Chapman/Leonard Studio Equipment</a>&nbsp;&nbsp;camera dollies</li><li><a href="/company/co0228927/">Cinefilm Laboratories</a>&nbsp;&nbsp;film laboratory (as Cinefilm)</li><li><a href="/company/co0207906/">De Lane Lea</a>&nbsp;&nbsp;ADR recording</li><li><a href="/company/co0153166/">Doyle &#x26; Miller</a>&nbsp;&nbsp;production legal</li><li><a href="/company/co0347308/">Harris Diversified</a>&nbsp;&nbsp;a/c &#x26; power rental</li><li><a href="/company/co0041356/">Lightnin&#x27; Production Rentals</a>&nbsp;&nbsp;transportation equipment</li><li><a href="/company/co0346451/">MTI Film</a>&nbsp;&nbsp;high definition post-production</li><li><a href="/company/co0399040/">Mad Old Nut Productions</a>&nbsp;&nbsp;high definition post-production</li><li><a href="/company/co0072759/">Modern VideoFilm</a>&nbsp;&nbsp;high definition post-production</li><li><a href="/company/co0041930/">Panavision</a>&nbsp;&nbsp;filmed with</li><li><a href="/company/co0068465/">Paskal Lighting</a>&nbsp;&nbsp;grip and lighting equipment</li><li><a href="/company/co0256057/">Post Haste Sound</a>&nbsp;&nbsp;commentary recording engineering</li><li><a href="/company/co0128783/">Prologue Films</a>&nbsp;&nbsp;main title design</li><li><a href="/company/co0399104/">Raleigh Studios Atlanta</a>&nbsp;&nbsp;studio facilities</li><li><a href="/company/co0296749/">Scenechronize</a>&nbsp;&nbsp;production management software</li><li><a href="/company/co0399062/">Stalwart Films</a>&nbsp;&nbsp;production services</li><li><a href="/company/co0117040/">Tomkats Catering</a>&nbsp;&nbsp;catering</li><li><a href="/company/co0254521/">Transportation Resources</a>&nbsp;&nbsp;transportation equipment</li><li><a href="/company/co0022896/">Warner Brothers Post-Production Services</a>&nbsp;&nbsp;post-production sound (as Warner Bros.)</li><li><a href="/company/co0037574/">yU+Co.</a>&nbsp;&nbsp;main title design</li></ul>  
+
+
+     <!-- sid: test01-channel : MIDDLE_CENTER -->    
+         
+     <script type="text/javascript">     
+     if (typeof afc_data == "undefined") {   
+         afc_data = new Object();    
+     }   
+         
+     afc_data["MIDDLE_CENTER"] = { channel:  "test01-channel",   
+                            client:   "ca-amazon-imdb_js",    
+                            title:    "Sponsored Links",    
+                            help:     "What&#x27;s This?",    
+                            hints:    "mother son relationship,walking dead,three word title,zombie apocalypse,husband wife relationship"   
+                          };     
+     </script>   
+         
+     <div id="sponsored_links_afc_div_MIDDLE_CENTER" name="sponsored_links_afc_div_MIDDLE_CENTER"></div>   
+         
+     <iframe id="sponsored_links_afc_iframe_MIDDLE_CENTER" width="0" height="0" scrolling="no" frameborder="0"      
+             allowtransparency="true" marginheight="0" marginwidth="0"   
+             name="sponsored_links_afc_iframe"   
+             src="/images/a/ifb/google_afc.html#key:MIDDLE_CENTER">     
+     </iframe>   
+
+<hr />      <h3>Additional Details</h3><div class="info"><h5>Also Known As:</h5><div class="info-content">                    "&#x17B;ywe trupy" - Poland<br>      "&#x425;&#x43E;&#x434;&#x44F;&#x447;&#x438;&#x435; &#x43C;&#x435;&#x440;&#x442;&#x432;&#x435;&#x446;&#x44B;" - Russia<br>     "Elavad Surnud" - Estonia <em>(imdb display title)</em><br>    "Okru&#x17E;en mrtvima" - Serbia<br>    "Vaiksciojantys negyveliai" - Lithuania <em>(imdb display title)</em><br>    "Xac Song" - Vietnam <em>(imdb display title)</em><br> <a class="tn15more" href="/title/tt1520211/releaseinfo#akas" onClick="(new Image()).src='/rg/title-tease/akas/images/b.gif?link=/title/tt1520211/releaseinfo#akas';">See more</a>&nbsp;&raquo;</div></div>   <div class="info"><h5>Runtime:</h5><div class="info-content">USA:45 min </div></div><div class="info"><h5>Country:</h5><div class="info-content"><a href="/country/us">USA</a></div></div><div class="info"><h5>Language:</h5><div class="info-content"><a href="/language/en">English</a></div></div><div class="info"><h5>Color:</h5><div class="info-content"><a href="/search/title?colors=color">Color</a> </div></div><div class="info"><h5>Sound Mix:</h5><div class="info-content"><a href="/search/title?sound_mixes=dolby_digital">Dolby Digital</a> </div></div><div class="info"><h5>Certification:</h5><div class="info-content"><a href="/search/title?certificates=us:tv_14">USA:TV-14</a>  | <a href="/search/title?certificates=gb:15">UK:15</a> <i>(some episodes)</i> | <a href="/search/title?certificates=sg:m18">Singapore:M18</a> <i>(season 1) (season 2)</i> | <a href="/search/title?certificates=fi:k_18">Finland:K-18</a> <i>(DVD) (Blu-ray) (self applied) (2011)</i> | <a href="/search/title?certificates=sg:pg13">Singapore:PG13</a> <i>(edited TV version)</i> | <a href="/search/title?certificates=kr:15">South Korea:15</a>  | <a href="/search/title?certificates=no:15">Norway:15</a>  | <a href="/search/title?certificates=fr:16">France:16</a> <i>(season 1)</i> | <a href="/search/title?certificates=nl:16">Netherlands:16</a>  | <a href="/search/title?certificates=de:18">Germany:18</a> <i>(cut) (season 1)</i> | <a href="/search/title?certificates=au:ma">Australia:MA</a> <i>(DVD rating)</i> | <a href="/search/title?certificates=nz:r16">New Zealand:R16</a> <i>(DVD rating)</i> | <a href="/search/title?certificates=gb:18">UK:18</a> <i>(some episodes)</i> | <a href="/search/title?certificates=br:16">Brazil:16</a>  | <a href="/search/title?certificates=fi:k_18">Finland:K-18</a>  | <a href="/search/title?certificates=us:tv_ma">USA:TV-MA</a> <i>(season 3)</i> | <a href="/search/title?certificates=pl:18">Poland:18</a> <i>(TV rating)</i></div></div><div class="info"><h5>Filming Locations:</h5><div class="info-content"><a  href="/search/title?locations=West%20Central%20Prison%201070%20County%20Farm%20Rd,%20Zebulon,%20GA%2030295">West Central Prison 1070 County Farm Rd, Zebulon, GA 30295</a><a class="tn15more inline" href="/title/tt1520211/locations" onClick="(new Image()).src='/rg/title-tease/locations/images/b.gif?link=/title/tt1520211/locations';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Company:</h5><div class="info-content"><a href="/company/co0019701/">American Movie Classics (AMC)</a><a class="tn15more inline" href="/title/tt1520211/companycredits">See more</a>&nbsp;&raquo;</div></div><hr/><h3>Did You Know?</h3> <div class="info"><h5>Trivia:</h5><div class="info-content">In season 2, Daryl pulls out a bag of his brother Merle&#x27;s drugs, the bottom of which contains the same blue methamphetamine crystals that are made famous in AMC&#x27;s Breaking Bad.<a class="tn15more inline" href="/title/tt1520211/trivia" onClick="(new Image()).src='/rg/title-tease/trivia/images/b.gif?link=/title/tt1520211/trivia';">See more</a>&nbsp;&raquo;</div></div>   <div class="info"><h5>Movie Connections:</h5><div class="info-content">Referenced in <a href="/title/tt1884644/">&#x22;Edici&#xF3;n Especial Coleccionista: &#xA1;Hasta nunca, Doctor! (#2.12)&#x22;</a> (2011)<a class="tn15more inline"href="/title/tt1520211/trivia?tab=mc&" onClick="(newImage()).src='/rg/title-tease/movieconnections/images/b.gif?link=/title/tt1520211/trivia?tab=mc&';">See more</a>&nbsp;&raquo;</div></div>  
+<hr/>
+<h3>FAQ</h3>
+
+<a href="/title/tt1520211/faq#.2.1.35" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt1520211/faq#.2.1.35';">Have they/will they explain how the ZA started?</a>
+<br/>
+
+<a href="/title/tt1520211/faq#.2.1.16" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt1520211/faq#.2.1.16';">In the comics, Hershel has a much bigger family.... where is everyone?</a>
+<br/>
+
+<a href="/title/tt1520211/faq#.2.1.10" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt1520211/faq#.2.1.10';">What are the differences between the International Version and the US Version?</a>
+<br/>
+
+<a class="tn15more" href="/title/tt1520211/faq" onClick="(new Image()).src='/rg/title-tease/faq-more/images/b.gif?link=/title/tt1520211/faq';">See more</a>&nbsp;&raquo;
+
+<hr/>
+<div class="headerinline">
+<a name="comment"><h3>User Reviews</h3></a>&nbsp;&nbsp;&nbsp;<span>(<a rel="login" href="reviews-enter">Review this title</a>)</span>
+</div>
+<div class="comment">
+<script type="text/javascript">
+<!--
+function yn(id, vote) {
+  if (!document.getElementById || !document.createElement || !document.removeChild || !document.appendChild || !document.childNodes || !document.createTextNode) return true;
+  var i = new Image();
+  i.onload =  function() { ynd(id, 1) };
+  i.onerror = function() { ynd(id, 0) };
+  i.src = 'reviews-vote?yni_'+id+'='+vote;
+  return false;
+}
+function ynd(id, status) {
+  var d, s, t;
+  if (!(d = document.getElementById('ynd_'+id))) return true;
+  while (d.childNodes.length) d.removeChild(d.childNodes[0]);
+  var s = document.createElement('span');
+  if (!status) s.setAttribute('class', 'error');
+  s.innerHTML = status ? 'Thank you, your vote will be counted and appear on this page within 24 hours.' : 'Sorry, there was a problem collecting your vote.';
+  d.appendChild(s);
+}
+//-->
+</script>
+<div class="small">
+316 out of 484 people found the following review useful.
+</div>
+
+<b>Superb. It&#x27;s about time</b>, 30 October 2010
+<br>
+
+<div class="tinystarbar" title="10/10"><div style="width: 100px;"><a></a></div></div>
+
+<div class="small">
+Author:
+<a href="/user/ur2731942/comments">kidgloves</a>
+
+<small>
+from England
+</small>
+
+</div>
+
+
+</p>
+<p>
+Lets get this out of the way straight away THIS WILL BLOW PEOPLES SOCKS
+OFF. Im not kidding. I know people here are attracted to this genre for
+various different reasons but i&#x27;d like to think we all share some
+connection when zombies are involved. For me its the post apocalyptic
+scenario. I don&#x27;t particularly need the gore element but it has its
+place when used well.<br/><br/>In Darabonts take on the apocalypse, you are there. The world is dead
+and rotting. The military have lost the battle. You wake up with Rick
+in this new world and get to explore it with him. Its the exposition of
+the pilot that will probably put the gorehounds off and lead to some
+small criticism from others. Personally, i want to see that. I want to
+know how society responded to the phenomenon. <br/><br/>Those who have read the comic books here know that Kirkmans trick is to
+get you attached to the characters, like you know them intimately, then
+kill them off. Here Darabont uses the same trick but not how you would
+expect nor with who you would expect. <br/><br/>Im personally invested in this series already. God knows what it will
+do to the average TV viewer. Im also not a particularly emotional
+person but i don&#x27;t mind admitting that i was close to tears on a couple
+of occasions. There you go. I&#x27;ve said it. Just don&#x27;t tell anyone. <br/><br/>I cant say enough about Frank darabont after watching this. He
+understands what this genre is all about and, more importantly, he
+understands Romero&#x27;s zombie world. The zombies are Roamers and lurkers.
+They act how they should and you do feel sorry for them. This is
+explored really well. They are a small threat but in groups all riled
+up and hungry. Well, you know the rest. <br/><br/>The score is also outstanding. Very understated but poignant. The
+cinematography is worthy of a movie and the camera moves a lot. I cant
+recall any shaky cam which some people here seem to despise. <br/><br/>Kirkman, Darabont and AMC have come up with the series we have been
+waiting years for. Long may it continue, and you know what? I think it
+will. The balance is perfect between a horror film, TV show and
+intelligent drama.<br/><br/>Oh and btw. Keep getting people onboard with this. Co workers. Non
+zombie lover friends. Anyone. They wont think you&#x27;re weird. They&#x27;ll
+thank you. The Lost crowd are going to lap this up.
+</p>
+
+<div class="yn" id="ynd_2331873">
+<form method="get" action="/register/">
+<input type="hidden" name="why" value="comment_vote">
+Was the above review useful to you?
+
+<input type="submit" style="font-weight: bold; font-size: 10px; padding: 0px 4px 8px;" class="click linkasbutton-secondary" value="Yes"  >
+
+<input type="submit" style="font-weight: bold; font-size: 10px; padding: 0px 4px 8px;" class="click linkasbutton-secondary" value="No"  >
+</form>
+</div>
+</div>
+
+
+<a class="tn15more" href="/title/tt1520211/reviews" onClick="(new Image()).src='/rg/title-tease/comments-bottom/images/b.gif?link=/title/tt1520211/reviews';">See more (394 total)</a>&nbsp;&raquo;
+
+<hr/>
+<h3>Message Boards</h3>
+Discuss this movie with other users on <a href="/title/tt1520211/board" onClick="(new Image()).src='/rg/title-tease/boards-top/images/b.gif?link=/title/tt1520211/board';">IMDb message board for &#x22;The Walking Dead&#x22; (2010)</a>
+
+<table class="boards">
+<tr><th class="left">Recent Posts (updated daily)</th><th class="right">User</th></tr>
+
+<tr class="odd">
+<td><a href="/rg/title-tease/boards-subject/title/tt1520211/board/nest/211198545">The Governor is not scary</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur41279582/boards/profile">thegaingstuhr</a></td>
+</tr>
+
+<tr class="even">
+<td><a href="/rg/title-tease/boards-subject/title/tt1520211/board/nest/211201754">What I think should have happened</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur32838275/boards/profile">donkey_kong5</a></td>
+</tr>
+
+<tr class="odd">
+<td><a href="/rg/title-tease/boards-subject/title/tt1520211/board/nest/211200460">On the subject of Andrea</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur32289752/boards/profile">Gamba_TII</a></td>
+</tr>
+
+<tr class="even">
+<td><a href="/rg/title-tease/boards-subject/title/tt1520211/board/nest/211201748">Michonne smiled!</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur21911343/boards/profile">theamusements</a></td>
+</tr>
+
+<tr class="odd">
+<td><a href="/rg/title-tease/boards-subject/title/tt1520211/board/nest/211190564">Tyreese is being pitted against Rick? Lol this plot has become laughable</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur24231401/boards/profile">punkisdead83</a></td>
+</tr>
+
+</table>
+<a class="tn15more" href="/title/tt1520211/board" onClick="(new Image()).src='/rg/title-tease/boards-bottom/images/b.gif?link=/title/tt1520211/board';">See more</a>&nbsp;&raquo;
+
+<hr/>
+
+
+<h3>Recommendations</h3>
+
+<div class="strip">
+If you enjoyed this title, our database also recommends:
+
+<table class="recs">
+<tbody>
+    <tr class="poster">
+        
+        <td>
+            <a href="/rg/tt-recs/image/title/tt0259153/">
+<img class="poster"     alt="-"     width="93"     height="135"     src="http://ia.media-imdb.com/images/M/MV5BNTk3MzY3MTE3Nl5BMl5BanBnXkFtZTcwMTgwMDEyMQ@@._V1._SX93_.jpg" ></a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/image/title/tt0063350/">
+<img class="poster"     alt="-"     width="93"     height="171"     src="http://ia.media-imdb.com/images/M/MV5BMjE1OTI5MDE4NF5BMl5BanBnXkFtZTYwMDI4Njk4._V1._SX93_.jpg" ></a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/image/title/tt0129871/">
+<img class="poster"     alt="-"     width="93"     height="139"     src="http://ia.media-imdb.com/images/M/MV5BMTM2MjM2NDkyOF5BMl5BanBnXkFtZTcwMTQyMDQzMQ@@._V1._SX93_.jpg" ></a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/image/title/tt0808417/">
+<img class="poster"     alt="-"     width="93"     height="138"     src="http://ia.media-imdb.com/images/M/MV5BMzIxMDI0Nzc4NV5BMl5BanBnXkFtZTYwNjU5OTI4._V1._SX93_.jpg" ></a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/image/title/tt0418279/">
+<img class="poster"     alt="-"     width="93"     height="138"     src="http://ia.media-imdb.com/images/M/MV5BMTQwNjU5MzUzNl5BMl5BanBnXkFtZTYwMzc1MTI3._V1._SX93_.jpg" ></a>
+        </td>
+    
+    </tr>
+    <tr>
+        
+        <td>
+            <a href="/rg/tt-recs/link/title/tt0259153/">&#x22;Rose Red&#x22;</a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/link/title/tt0063350/">Night of the Living Dead</a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/link/title/tt0129871/">Desperation</a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/link/title/tt0808417/">Persepolis</a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/link/title/tt0418279/">Transformers</a>
+        </td>
+
+    </tr>
+    <tr class="rating">
+        
+        <td class="first">
+            <small>IMDb User Rating:</small><br/>
+            <div class="tinystarbar" title="6.5/10"><div style="width: 65px;"><a></a></div></div>
+        </td>
+
+        <td class="first">
+            <small>IMDb User Rating:</small><br/>
+            <div class="tinystarbar" title="8.0/10"><div style="width: 80px;"><a></a></div></div>
+        </td>
+
+        <td class="first">
+            <small>IMDb User Rating:</small><br/>
+            <div class="tinystarbar" title="5.2/10"><div style="width: 52px;"><a></a></div></div>
+        </td>
+
+        <td class="first">
+            <small>IMDb User Rating:</small><br/>
+            <div class="tinystarbar" title="8.0/10"><div style="width: 80px;"><a></a></div></div>
+        </td>
+
+        <td class="first">
+            <small>IMDb User Rating:</small><br/>
+            <div class="tinystarbar" title="7.1/10"><div style="width: 71px;"><a></a></div></div>
+        </td>
+
+    </tr>
+</tbody>
+</table>
+
+<a onclick="(new Image()).src='/rg/title-tease/recommendations/images/b.gif?link=/title/tt1520211/recommendations';" href="/title/tt1520211/recommendations">Show more recommendations</a>
+
+</div>
+
+<h3>Related Links</h3><table>
+<tr><td width="33%" style="width: 400px"> <a href="/title/tt1520211/episodes" onClick="(new Image()).src='/rg/title-related/maindetails-episodes/images/b.gif?link=/title/tt1520211/episodes';">Episode guide</a></td><td width="33%" style="width: 400px"> <a href="/title/tt1520211/companycredits" onClick="(new Image()).src='/rg/title-related/maindetails-companycredits/images/b.gif?link=/title/tt1520211/companycredits';">Company credits</a></td><td width="33%" style="width: 400px"> <a href="/title/tt1520211/externalreviews" onClick="(new Image()).src='/rg/title-related/maindetails-externalreviews/images/b.gif?link=/title/tt1520211/externalreviews';">External reviews</a></td></tr><tr><td width="33%" style="width: 400px"> <a href="/title/tt1520211/news" onClick="(new Image()).src='/rg/title-related/maindetails-news/images/b.gif?link=/title/tt1520211/news';">News articles</a></td><td width="33%" style="width: 400px"> <a href="/sections/tv/" onClick="(new Image()).src='/rg/title-related/maindetails-tv/images/b.gif?link=/sections/tv/';">IMDb TV section</a></td><td width="33%" style="width: 400px"> <a href="/Sections/Genres/Drama/" onClick="(new Image()).src='/rg/title-related/maindetails-genre/images/b.gif?link=/Sections/Genres/Drama/';">IMDb Drama section</a></td></tr><tr><td width="33%" style="width: 400px"> <a href="/country/us" onClick="(new Image()).src='/rg/title-related/maindetails-country/images/b.gif?link=/country/us';">IMDb USA section</a></td>
+</table>
+<div id="tn15bot">
+ <div class="left">
+  <p><form method="post" action="/updates"><input type="hidden" name="auto" value="legacy/title/tt1520211/combined"><button type="submit" class="primary" onclick="(new Image()).src='/rg/maindetails-title/tconst-update/images/b.gif'">Edit page</button></p><p><i>You may report errors and omissions on this page to the IMDb database managers. They will be examined and if approved will be included in a future update. Clicking the 'Edit page' button  will take you through a step-by-step process.</i></p></form>
+
+  <div><form method="post" action="/updates"><input type="hidden" name="update" value="episode" /><input type="hidden" name="parent" value="tt1520211" /><button type="submit" class="primary" onclick="(new Image()).src='/rg/addepisode-title/tconst-update/images/b.gif'">Add episode</button></form><p><i>You may add a new episode for this TV series by clicking the 'add episode' button
+</i></p></div>
+
+ </div>
+</div>
+
+<div id="servertime" time="4323.815" treatment="control"></div>
+
+<div id="criticalcontent" data-selector="#primary-poster, #title-media-strip img"></div>
+
+</div>
+</div> 
+</div> 
+<br style="clear:both;" />
+</div>
+<div id="footer" class="ft">
+<hr width="100%" size=1>
+  <div id="rvi-div">
+    <div class="recently-viewed">&nbsp;</div>
+    <br class="clear">
+    <hr width="100%" size="1">            
+  </div>
+
+<p class="footer" align="center">
+<a    onclick="(new Image()).src='/rg/home/footer/images/b.gif?link=%2F';"     href="/"    >Home</a>
+  | <a    onclick="(new Image()).src='/rg/search/footer/images/b.gif?link=%2Fsearch';"     href="/search"    >Search</a>
+  | <a    onclick="(new Image()).src='/rg/siteindex/footer/images/b.gif?link=%2Fa2z';"     href="/a2z"    >Site Index</a>
+  | <a    onclick="(new Image()).src='/rg/intheaters/footer/images/b.gif?link=%2Fmovies-in-theaters%2F';"     href="/movies-in-theaters/"    >In Theaters</a>
+  | <a    onclick="(new Image()).src='/rg/comingsoon/footer/images/b.gif?link=%2Fmovies-coming-soon%2F';"     href="/movies-coming-soon/"    >Coming Soon</a>
+  | <a    onclick="(new Image()).src='/rg/topmovies/footer/images/b.gif?link=%2Fchart%2F';"     href="/chart/"    >Top Movies</a>
+  | <a    onclick="(new Image()).src='/rg/watchlist/footer/images/b.gif?link=%2Flist%2Fwatchlist';"     href="/list/watchlist"    >Watchlist</a>
+  | <a    onclick="(new Image()).src='/rg/top250/footer/images/b.gif?link=%2Fchart%2Ftop';"     href="/chart/top"    >Top 250</a>
+  | <a    onclick="(new Image()).src='/rg/tv/footer/images/b.gif?link=%2Fsections%2Ftv%2F';"     href="/sections/tv/"    >TV</a>
+  | <a    onclick="(new Image()).src='/rg/news/footer/images/b.gif?link=%2Fnews%2F';"     href="/news/"    >News</a>
+  | <a    onclick="(new Image()).src='/rg/video/footer/images/b.gif?link=%2Ffeatures%2Fvideo%2F';"     href="/features/video/"    >Video</a>
+  | <a    onclick="(new Image()).src='/rg/messageboards/footer/images/b.gif?link=%2Fboards%2F';"     href="/boards/"    >Message Boards</a>
+  | <a    onclick="(new Image()).src='/rg/pressroom/footer/images/b.gif?link=%2Fpressroom%2F';"     href="/pressroom/"    >Press Room</a>
+<br>
+
+<a    onclick="(new Image()).src='/rg/register-v2/footer/images/b.gif?link=https%3A%2F%2Fsecure.imdb.com%2Fregister-imdb%2Fform-v2';"     href="https://secure.imdb.com/register-imdb/form-v2"    >Register</a>
+
+  | <a    onclick="(new Image()).src='/rg/rss/footer/images/b.gif?link=%2Fhelp%2Fshow_article%3Frssavailable';"     href="/help/show_article?rssavailable"   id="footer_rss_image" class="navbarSprite" ></a> <a    onclick="(new Image()).src='/rg/rss/footer/images/b.gif?link=%2Fhelp%2Fshow_article%3Frssavailable';"     href="/help/show_article?rssavailable"    >RSS</a>
+  | <a    onclick="(new Image()).src='/rg/advertising/footer/images/b.gif?link=%2Fadvertising%2F';"     href="/advertising/"    >Advertising</a>
+  | <a    onclick="(new Image()).src='/rg/helpdesk/footer/images/b.gif?link=%2Fhelpdesk%2Fcontact';"     href="/helpdesk/contact"    >Contact Us</a>
+  | <a    onclick="(new Image()).src='/rg/jobs/footer/images/b.gif?link=%2Fjobs';"     href="/jobs"    >Jobs</a>
+  | <a href="https://secure.imdb.com/r/IMDbFooter/register/subscribe?c=a394d4442664f6f6475627" onClick="(new Image()).src='/rg/IMDbFooter/prosystem/images/b.gif?link=https://secure.imdb.com/register/subscribe?c=a394d4442664f6f6475627';">IMDbPro</a>
+  | <a href="http://www.boxofficemojo.com" onClick="(new Image()).src='/rg/BOXOFFICEMOJO/FOOTER/images/b.gif?link=http://www.boxofficemojo.com';">Box Office Mojo</a>
+  | <a href="http://www.withoutabox.com" onClick="(new Image()).src='/rg/WITHOUTABOX/FOOTER/images/b.gif?link=http://www.withoutabox.com';">Withoutabox</a>
+  | <a href="http://www.lovefilm.com/browse/film/watch-online/" onClick="(new Image()).src='/rg/LOVEFILM/FOOTER/images/b.gif?link=http://www.lovefilm.com/browse/film/watch-online/';">LOVEFiLM</a>
+ <br /><br />
+ IMDb Mobile: 
+    <a    onclick="(new Image()).src='/rg/mobile-ios/footer/images/b.gif?link=%2Fapps%2Fios%2F';"     href="/apps/ios/"    >iPhone/iPad</a>
+  | <a    onclick="(new Image()).src='/rg/mobile-android/footer/images/b.gif?link=%2Fandroid';"     href="/android"    >Android</a>
+  | <a    onclick="(new Image()).src='/rg/mobile-web/footer/images/b.gif?link=http%3A%2F%2Fm.imdb.com';"     href="http://m.imdb.com"    >Mobile site</a>
+  | <a    onclick="(new Image()).src='/rg/mobile-win7/footer/images/b.gif?link=%2Fwindowsphone';"     href="/windowsphone"    >Windows Phone 7</a>
+  | IMDb Social:
+    <a    onclick="(new Image()).src='/rg/facebook/footer/images/b.gif?link=http%3A%2F%2Fwww.facebook.com%2Fimdb';"     href="http://www.facebook.com/imdb"    >Facebook</a>
+  | <a    onclick="(new Image()).src='/rg/twitter/footer/images/b.gif?link=http%3A%2F%2Ftwitter.com%2Fimdb';"     href="http://twitter.com/imdb"    >Twitter</a>
+<br><br>
+</p>
+<p class="footer" align="center">
+
+<a href="/help/show_article?conditions">Copyright &copy;</a> 1990-2013
+<a href="/help/">IMDb.com, Inc.</a>
+<br>
+<a href="/help/show_article?conditions">Conditions of Use</a> | <a href="/privacy">Privacy Policy</a> | <a href="//www.amazon.com/InterestBasedAds">Interest-Based Ads</a>
+<br>
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF75f161ebbfc922250664ab159771f349/wheel/logo.css" >
+An <img id="amazon_logo" align="middle" style="width:80px;height:19px;border:0 none" src="http://i.media-imdb.com/images/SF9bb191c6827273aa978cab39a3587950/b.gif"/> company.
+
+</p>
+<table class="footer" id="amazon-affiliates">
+  <tr>
+    <td colspan="10">
+      Amazon Affiliates
+    </td>
+  </tr>
+  <tr>
+    <td class="amazon-affiliate-site-first">
+      <a class="amazon-affiliate-site-link"
+      href="http://www.amazon.com/b?ie=UTF8&node=2858778011&tag=imdbpr1-20">
+        <span class="amazon-affiliate-site-name">Amazon Instant Video</span><br>
+        <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link"
+      href="http://www.amazon.com/b?ie=UTF8&node=2676882011&tag=imdbpr1-20">
+        <span class="amazon-affiliate-site-name">Prime Instant Video</span><br>
+        <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link"
+      href="http://www.amazon.de/b?ie=UTF8&node=284266&tag=imdbpr1-de-21">
+        <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+        <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link"
+      href="http://www.amazon.it/b?ie=UTF8&node=412606031&tag=imdbpr1-it-21">
+        <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+        <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link"
+      href="http://www.amazon.fr/b?ie=UTF8&node=405322&tag=imdbpr1-fr-21">
+        <span class="amazon-affiliate-site-name">Amazon France</span><br>
+        <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link" href="http://www.lovefilm.com/browse/film/watch-online/">
+        <span class="amazon-affiliate-site-name">LOVEFiLM</span><br>
+        <span class="amazon-affiliate-site-desc">Watch Movies<br>Online</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link" href="http://wireless.amazon.com">
+        <span class="amazon-affiliate-site-name">Amazon Wireless</span><br>
+        <span class="amazon-affiliate-site-desc">Cellphones &<br>Wireless Plans</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link" href="http://www.junglee.com/">
+        <span class="amazon-affiliate-site-name">Junglee</span><br>
+        <span class="amazon-affiliate-site-desc">India Online<br>Shopping</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link" href="http://www.dpreview.com">
+        <span class="amazon-affiliate-site-name">DPReview</span><br>
+        <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link" href="http://www.audible.com">
+        <span class="amazon-affiliate-site-name">Audible</span><br>
+      <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+
+
+<!-- begin BOTTOM_AD -->
+<div id="bottom_ad_wrapper" class="dfp_slot">
+<script type="text/javascript"> 
+ad_utils.register_ad('bottom_ad');
+</script>
+<iframe data-bid-url="" data-dart-params="#imdb2.consumer.tv/combined;!TILE!;sz=728x90,2x1;p=b;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-original-width="728" data-original-height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
+
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.tv/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=842173016280?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.tv/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;g=h;tt=tv;b=t25;b=t250a;g=dr;k=c;coo=usa;id=tt1520211;fv=1;ka=0;ord=842173016280?"  border="0" alt="advertisement" /></a></noscript>
+
+</div>
+<div id="bottom_ad_reflow_helper"></div>
+<script>ad_utils.render_ad_fast('bottom_ad');</script>
+<!-- End BOTTOM_AD -->
+
+
+
+
+
+
+
+
+
+
+</layer>
+</div>
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=136191271718001" width="1" height="1" alt="" border="0">
+</div> <!-- id="wrapper" -->
+<!-- h=iop636 i=2013-02-26 s=legacy(akas) t='Tue Feb 26 13:05:13 2013' -->
+<script src="http://i.media-imdb.com/images/SF539be3987208630802e712857c51a6c9/js/jquery.js" ></script><script src="http://i.media-imdb.com/images/SF144de7d1cf27a8b0d644dc29e818bb29/js/cc/title/main.js" ></script><script src="http://i.media-imdb.com/images/SF4f789f206c87a31b26eb8666da48322e/js/app/win7/sitemode.js" ></script><script src="http://i.media-imdb.com/images/SF72867cac47f3d7e883837477537ab0a1/js/vote.js" ></script><script type="text/javascript">jQuery(function(){generic.document_is_ready()})</script><!-- Begin SIS-SW code --> 
+<iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+
+
+<script>
+setTimeout(function(){
+  try{
+    if (! document.getElementById('sis_pixel_3')) {
+        var url_sis = 'http://s.amazon-adsystem.com/iu3?',
+            params_sis = [
+              "d=imdb.com",
+              "a1=",
+              "a2=",
+              "pId=tt1520211",
+              "r=1",
+              "rP=http%3A%2F%2Fakas.imdb.com%2Ftitle%2Ftt1520211%2Fcombined",
+              "encoding=server",
+              "cb=" + parseInt(Math.random()*99999999)  
+            ];
+        (document.getElementById('sis_pixel_sitewide')).src = url_sis + params_sis.join('&');
+    }
+  }
+  catch(e){
+    consoleLog('Pixel failure ' + e.toString(),'sis');
+  }
+}, 5);
+
+</script>
+<!-- End SIS-SW code --> 
+<script type="text/javascript">generic.monitoring.stop_timing('page_load', '', true);generic.monitoring.all_events_started();</script>
+<script>
+(function() {
+    var dart_params = $('.dfp_slot iframe[data-dart-params]').first().attr('data-dart-params'),
+        result = /;ab=(.);/.exec(dart_params);
+    if (result && result[1]) {
+        (window._gaq = (window._gaq || [])).push(['_setCustomVar', 4, 'ads_abtest_treatment', result[1]]);
+    }
+})();
+</script>
+<script src="http://i.media-imdb.com/images/SF478cec6a48c8de4413dbc404879752d1/js/jquery/plugins/jquery.colorbox-min.js" ></script><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF73051487323537a6449a6bb75bc86d43/css/min/lightbox.css" ><script type="text/imdblogin-js" id="login">
+    jQuery(document).ready(function(){
+        window.imdb.login_lightbox("https://secure.imdb.com",
+                       "http://akas.imdb.com/title/tt1520211/combined");
+    });
+</script>
+<script src="http://i.media-imdb.com/images/SF124828d5e3ce85f98c8cfc700bceb7d1/js/cc/loginbox.js" ></script><script src="http://i.media-imdb.com/images/SF9d20357df5ad6243c7424f8fef11e529/js/cc/suggestionsearch.js" charset="UTF-8"></script><script src="http://i.media-imdb.com/images/SFb762c590afd141254ab36f8212ac0f29/js/jquery/ui-current-custom.js" ></script><script src="http://i.media-imdb.com/images/SFb0ff5a0c4e27ecdb53a63fecac90004b/js/cc/wlb-lite.js" ></script>
+<script>
+(function($){
+    $('.wlb_wrapper')
+    .wlb_lite();
+})(jQuery);
+</script>
+<script type="text/javascript">setTimeout(function() { 
+var url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1520211%2F";
+var like = document.getElementById('iframe_like');
+like.src = url; 
+like.onload = function () { generic.monitoring.stop_timing('facebook_like_iframe', '', false); } }, 5);
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3916519-1']);
+  _gaq.push(['_setDomainName', '.imdb.com']); _gaq.push(['_setSampleRate', '10']);
+ _gaq.push(['_trackPageview']); // must come last
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = 'http://www.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script src="http://i.media-imdb.com/images/SF14176f459bd0474f6a0284a9c3ba61f7/a/js/beacon.js" ></script><script>COMSCORE.beacon({c1:2,c2:"6034961",c3:"",c4:"http%3A%2F%2Fakas.imdb.com%2Ftitle%2Ftt1520211%2Fcombined",c5:"",c6:"",c15:""});</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6034961&c3=&c4=http%3A%2F%2Fakas.imdb.com%2Ftitle%2Ftt1520211%2Fcombined&c5=c6=&15=&cj=1"/></noscript>
+
+</body>
+</html>

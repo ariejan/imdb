@@ -1,13 +1,14 @@
 HTTP/1.1 200 OK
-Date: Tue, 26 Feb 2013 20:33:39 GMT
+Date: Tue, 26 Feb 2013 21:05:11 GMT
 Server: Server
 Cache-Control: private
 Cneonction: close
 Content-Type: text/html
-Set-Cookie: uu=BCYhoyqlGwfvFp7_aNg76ISQCr4Z_8JbX4N9bJu80WatLyXgnbRSoyN9zf3hHiT2m0I_tTWEB31B1ca1QmDfC90kPYrdtKpj_xu6hzB7sRQ7hHCzL5a5_GuLkWrPq_1Lf4Nu95A5FNjWu_nWSrhDzzJ5_u-WPF9SLfG-tBTQPQPxeSU;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
-Set-Cookie: cs=aIPGX09V6NGe+K3oD+2FTgenOqqgkW26kBl9MsOS7pmj8n4psDHOqZCRbbqXx+36gJFtjOeWeSqjh5i8J9HNOdCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: uu=BCYtIrw05BJmNMBmcvPQobgN2bMfgpgWzqOGhWsgBEo2AWy-3LQ8EmSgAPQLCPzOGTU16uqjwiYhvOyobaCg2sgPiOOpsOCBPBipMEAWbBlSCNo6rMISf2Ggf2slW1Ef4OccqbkwPO46BrExsXv3HNCgnG_HFOkcoNIgknBAFKXsN6I;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=59VTT4zihDTof/fZS2vlygenOqqgkW26kBl9MsOyHqmz8n4psDHOqZCRbbqXx+36gJFtjOMUOYqjFP4t99HNObCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Cneonction: close
 Transfer-Encoding: chunked
 
 
@@ -20,7 +21,7 @@ Transfer-Encoding: chunked
 <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
 <script>
 var addClickstreamHeadersToAjax = function(xhr) {
-    xhr.setRequestHeader("x-imdb-parent-id", "01CPRFAPFSME4VZNCHKC");
+    xhr.setRequestHeader("x-imdb-parent-id", "0TE3H64NMJKPH2HFJ886");
 };
 </script>
 
@@ -54,7 +55,7 @@ var addClickstreamHeadersToAjax = function(xhr) {
 <link rel="search" type="application/opensearchdescription+xml"
       href="http://i.media-imdb.com/images/SFccbe1e4d909ef8b8077201c3c5aac349/imdbsearch.xml" title="IMDb" />
 <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
-<script type="text/javascript">var __vkey = 'JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '9.0';</script>
+<script type="text/javascript">var __vkey = 'ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '9.0';</script>
 <meta property="og:type" content="movie" />
 <meta property="fb:app_id" content="115109575169727" />
 <meta property="og:title" content="The Dark Knight (2008)" />
@@ -68,15 +69,15 @@ generic.monitoring.set_forester_info("title");
 generic.monitoring.set_twilight_info(
     "title_subpage", 
     "Other", 
-    "9dd6fd27af936bc523aceaf6de01aa5683bf4420", 
-    "2013-02-26T20%3A33%3A40GMT", 
+    "3fb05a745d46ac140ee4ebd31522cc88a26b6c34", 
+    "2013-02-26T21%3A05%3A11GMT", 
     "http://s.media-imdb.com/twilight/?");
 
 generic.send_csm_head_metrics && generic.send_csm_head_metrics();
 
 generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 44840;
-generic.days_to_midnight = 0.518981481481481;
+generic.seconds_to_midnight = 42949;
+generic.days_to_midnight = 0.497094907407407;
 custom.full_page.data_url = "http://i.media-imdb.com/images/SF52343caf319e887027f13568332cdfd7/a/js/graffiti_data.js";
 ad_utils.ad_prediction.init();
 consoleLog('advertising initialized','ads');
@@ -146,7 +147,7 @@ ad_utils.register_ad('top_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-original-width="0" data-original-height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;ord=178103418205?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;ord=178103418205?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;ord=585397153278?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;ord=585397153278?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_ad_reflow_helper"></div>
@@ -522,7 +523,7 @@ ad_utils.register_ad('top_ad');
 
 <div id="action-box" class="action-box">
 <a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Famazon%2Fvi1160618009%2F';window.open(this.href+'offsite','_blank');
-                 return false;"     href="/video/amazon/vi1160618009/"    class="linkasbutton-primary" data-rid="01CPRFAPFSME4VZNCHKC" data-video="vi1160618009" data-context="amazon" >Watch It</a>
+                 return false;"     href="/video/amazon/vi1160618009/"    class="linkasbutton-primary" data-rid="0TE3H64NMJKPH2HFJ886" data-video="vi1160618009" data-context="amazon" >Watch It</a>
 
   <p>at Amazon</p>
 
@@ -608,7 +609,7 @@ ad_utils.register_ad('top_ad');
 
 <td width="40%" class="media_strip_header">
 <b>Photos</b>
-<span>(<a href="/rg/photos-title/gallery-link/title/tt0468569/mediaindex">See all 107</a> | <a href="/rg/photos-title/slideshow-link/media/rm4275535872/tt0468569?slideshow=1">slideshow</a>)</span>
+<span>(<a href="/rg/photos-title/gallery-link/title/tt0468569/mediaindex">See all 107</a> | <a href="/rg/photos-title/slideshow-link/media/rm3537338368/tt0468569?slideshow=1">slideshow</a>)</span>
 </td>
 
 <td width="40%" class="media_strip_header">
@@ -624,16 +625,16 @@ ad_utils.register_ad('top_ad');
 
 <td>
 <div class="media_strip_thumbs">
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm4275535872/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNzYzMjQyODg1MV5BMl5BanBnXkFtZTcwNDYzMTk2Mw@@._V1._CR0,0,1366,1366_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm3537338368/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjA5NjAwMjE5NF5BMl5BanBnXkFtZTcwNDkzMTk2Mw@@._V1._CR587,0,874,874_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/event-3/media/rm1781176064/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ1NTkzMDc3N15BMl5BanBnXkFtZTcwNjI4ODg3MQ@@._V1._CR0,0,258,258_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm2346156032/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjIyMzI3MTk0Nl5BMl5BanBnXkFtZTcwODYxMTk2Mw@@._V1._CR341,0,1366,1366_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm4074209280/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTc3NjYxMDAwMl5BMl5BanBnXkFtZTcwNDUzMTk2Mw@@._V1._CR0,0,1366,1366_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm2312601600/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjk0Nzg4ODExNF5BMl5BanBnXkFtZTcwMDcxMTk2Mw@@._V1._CR588,0,872,872_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-7/media/rm4057432064/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTMwOTgxMzI2NF5BMl5BanBnXkFtZTcwNzUzMTk2Mw@@._V1._CR341,0,1366,1366_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm3235348480/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM1NTcwMTk4OV5BMl5BanBnXkFtZTcwOTczMTk2Mw@@._V1._CR588,0,872,872_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-9/media/rm3369566208/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjA3NTc5MDg5MF5BMl5BanBnXkFtZTcwODgzMTk2Mw@@._V1._CR588,0,871,871_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm3604447232/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTkyNTI0NDM5NF5BMl5BanBnXkFtZTcwMDkzMTk2Mw@@._V1._CR587,0,873,873_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm3537338368/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjA5NjAwMjE5NF5BMl5BanBnXkFtZTcwNDkzMTk2Mw@@._V1._CR587,0,874,874_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm3268902912/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjE3NTU0NTQ5NF5BMl5BanBnXkFtZTcwNzczMTk2Mw@@._V1._CR341,0,1366,1366_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/event-3/media/rm723093504/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTU2ODk3MjI4OV5BMl5BanBnXkFtZTcwMzI5MDM3Mg@@._V1._CR170,0,683,683_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm3352788992/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ3MDYyMTI3NF5BMl5BanBnXkFtZTcwMjczMTk2Mw@@._V1._CR341,0,1366,1366_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm4191649792/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ2MzgzODcxM15BMl5BanBnXkFtZTcwMDczMTk2Mw@@._V1._CR341,0,1366,1366_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm3436675072/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM5NjA1OTYyOV5BMl5BanBnXkFtZTcwMzgzMTk2Mw@@._V1._CR596,0,856,856_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-7/media/rm2295824384/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ0NjE5ODQwMV5BMl5BanBnXkFtZTcwMTcxMTk2Mw@@._V1._CR208,0,1631,1631_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm2312601600/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjk0Nzg4ODExNF5BMl5BanBnXkFtZTcwMDcxMTk2Mw@@._V1._CR588,0,872,872_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-9/media/rm3587670016/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjIxODQ0NjY1NF5BMl5BanBnXkFtZTcwMTkzMTk2Mw@@._V1._CR589,0,870,870_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm2530705408/tt0468569"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNTQwODYzMDg0NV5BMl5BanBnXkFtZTcwMzcxMTk2Mw@@._V1._CR235,0,1578,1578_SS90_.jpg" border="0"></a></div>
 </div>
 </td>
 
@@ -642,7 +643,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi324468761%2F';"     href="/video/screenplay/vi324468761/"    data-rid="01CPRFAPFSME4VZNCHKC" data-video="vi324468761" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi324468761%2F';"     href="/video/screenplay/vi324468761/"    data-rid="0TE3H64NMJKPH2HFJ886" data-video="vi324468761" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="The Dark Knight -- Batman, Gordon and Harvey Dent are forced to deal with the chaos unleashed by an anarchist mastermind known only as the Joker, as it drives each of them to their limits." title="The Dark Knight -- Batman, Gordon and Harvey Dent are forced to deal with the chaos unleashed by an anarchist mastermind known only as the Joker, as it drives each of them to their limits."
@@ -654,7 +655,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi970588441%2F';"     href="/video/screenplay/vi970588441/"    data-rid="01CPRFAPFSME4VZNCHKC" data-video="vi970588441" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi970588441%2F';"     href="/video/screenplay/vi970588441/"    data-rid="0TE3H64NMJKPH2HFJ886" data-video="vi970588441" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="The Dark Knight -- Clip: There&#x27;s a Batman" title="The Dark Knight -- Clip: There&#x27;s a Batman"
@@ -666,7 +667,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi1054474521%2F';"     href="/video/screenplay/vi1054474521/"    data-rid="01CPRFAPFSME4VZNCHKC" data-video="vi1054474521" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi1054474521%2F';"     href="/video/screenplay/vi1054474521/"    data-rid="0TE3H64NMJKPH2HFJ886" data-video="vi1054474521" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="The Dark Knight -- Behind the scenes: Gary Oldman as James Gordon" title="The Dark Knight -- Behind the scenes: Gary Oldman as James Gordon"
@@ -678,7 +679,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi1020920089%2F';"     href="/video/screenplay/vi1020920089/"    data-rid="01CPRFAPFSME4VZNCHKC" data-video="vi1020920089" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi1020920089%2F';"     href="/video/screenplay/vi1020920089/"    data-rid="0TE3H64NMJKPH2HFJ886" data-video="vi1020920089" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="The Dark Knight -- Interview: Christopher Nolan &#x22;On Batman&#x27;s emotional state at the beginning of the movie&#x22;" title="The Dark Knight -- Interview: Christopher Nolan &#x22;On Batman&#x27;s emotional state at the beginning of the movie&#x22;"
@@ -690,7 +691,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi2313552153%2F';"     href="/video/screenplay/vi2313552153/"    data-rid="01CPRFAPFSME4VZNCHKC" data-video="vi2313552153" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi2313552153%2F';"     href="/video/screenplay/vi2313552153/"    data-rid="0TE3H64NMJKPH2HFJ886" data-video="vi2313552153" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="The Dark Knight -- Batman and James Gordon join forces with Gotham&#x27;s new District Attorney, Harvey Dent, to take on a psychotic bank robber known as The Joker, whilst other forces plot against them, and Joker&#x27;s crimes grow more and more deadly." title="The Dark Knight -- Batman and James Gordon join forces with Gotham&#x27;s new District Attorney, Harvey Dent, to take on a psychotic bank robber known as The Joker, whilst other forces plot against them, and Joker&#x27;s crimes grow more and more deadly."
@@ -733,7 +734,7 @@ ad_utils.register_ad('top_rhs');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-original-width="300" data-original-height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;ord=178103418205?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;ord=178103418205?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;ord=585397153278?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;ord=585397153278?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_rhs_reflow_helper"></div>
@@ -772,7 +773,7 @@ ad_utils.register_ad('top_rhs');
         <div class="outer">
           <div id="general-voting-stars" class="inner" style="width: 180px"></div>
           <div class="starbar-votes">
-            <a title="10" href="vote?v=10;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+            <a title="10" href="vote?v=10;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
           </div>
         </div>
       </div>
@@ -794,7 +795,7 @@ ad_utils.register_ad('top_rhs');
         <div class="outer">
           <div id="personal-voting-stars" class="inner" style="width: 0px"></div>
           <div class="starbar-votes">
-            <a title="10" href="vote?v=10;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+            <a title="10" href="vote?v=10;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
           </div>
         </div>
       </div>
@@ -804,7 +805,7 @@ ad_utils.register_ad('top_rhs');
         <div class="user">
           <div class="extra">
             <b><span id="voteuser"></span>/10</b>
-            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=JNCBEGk8fk0JijbHd4TjoAB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ42laOXN6WbpTWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
+            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=ddtiz172fXEotbJtsR17TQB%2Fqjlz%2BVo5cwrZahcuGTowfhqZ43laOXN6eUpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
              | <a href="/list/ratings">history</a>)
           </div>
         </div>
@@ -946,7 +947,7 @@ Won 2 Oscars.
 <div class="info">
 <h5>User Reviews:</h5>
 <div class="info-content">
-The best film of 2008 so far. A masterpiece.
+Film surpasses the hype
 <a class="tn15more inline" href="#comment">See more (3592 total)</a>&nbsp;&raquo;
 </div>
 </div>
@@ -964,7 +965,7 @@ The best film of 2008 so far. A masterpiece.
                             client:   "ca-amazon-imdb_js",    
                             title:    "Sponsored Links",    
                             help:     "What&#x27;s This?",    
-                            hints:    "fist fight,masked hero,penthouse,tough guy,evil clown"   
+                            hints:    "timebomb,mafia boss,police chase,bodyguard,restaurant"   
                           };     
      </script>   
          
@@ -980,13 +981,13 @@ The best film of 2008 so far. A masterpiece.
 <hr/>
 <h3>FAQ</h3>
 
-<a href="/title/tt0468569/faq#.2.1.58" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0468569/faq#.2.1.58';">Is 'The Dark Knight' based on a book?</a>
+<a href="/title/tt0468569/faq#.2.1.24" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0468569/faq#.2.1.24';">Does Batgirl appear in this movie? A "Barbara Gordon" is listed in the cast.</a>
 <br/>
 
-<a href="/title/tt0468569/faq#.2.1.50" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0468569/faq#.2.1.50';">Is there a new Bat Vehicle?</a>
+<a href="/title/tt0468569/faq#.2.1.91" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0468569/faq#.2.1.91';">Does Lucius resign after the cell phone ordeal?</a>
 <br/>
 
-<a href="/title/tt0468569/faq#.2.1.168" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0468569/faq#.2.1.168';">How many screens does Batman's "high-frequency generator-receiver" (cell phone scanner) have?</a>
+<a href="/title/tt0468569/faq#.2.1.94" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0468569/faq#.2.1.94';">What does the Joker mean by "try-outs?"</a>
 <br/>
 
 <a class="tn15more" href="/title/tt0468569/faq" onClick="(new Image()).src='/rg/title-tease/faq-more/images/b.gif?link=/title/tt0468569/faq';">See more</a>&nbsp;&raquo;
@@ -1018,20 +1019,20 @@ function ynd(id, status) {
 //-->
 </script>
 <div class="small">
-3900 out of 5230 people found the following review useful.
+2716 out of 3617 people found the following review useful.
 </div>
 
-<b>The best film of 2008 so far. A masterpiece.</b>, 5 July 2008
+<b>Film surpasses the hype</b>, 9 July 2008
 <br>
 
-<div class="tinystarbar" title="9/10"><div style="width: 90px;"><a></a></div></div>
+<div class="tinystarbar" title="10/10"><div style="width: 100px;"><a></a></div></div>
 
 <div class="small">
 Author:
-<a href="/user/ur3798706/comments">del91</a>
+<a href="/user/ur3789453/comments">straightblaster</a>
 
 <small>
-from Penang, Malaysia / Chicago, USA
+from United States
 </small>
 
 </div>
@@ -1039,87 +1040,34 @@ from Penang, Malaysia / Chicago, USA
 
 </p>
 <p>
-Wow. Just wow. And I thought Batman Begins was excellent. This... this
-piece of art... its PHENOMENAL!! From the scale, to the acting, the
-atmosphere, the music, the action, it&#39;s all art. I have not experienced
-this level of greatness in the cinema for a long time. This film is the
-darkest Batman, as well as one of the darkest, violent and gripping
-films, ever made.<br/><br/>I&#39;ll start off with the actors. Christian Bale has done a tremendous
-job as our beloved Caped Crusader, who has a flawed personality that
-hangs on the balance between righteous and crazy. His perception of
-justice causes an emotional and personal shift, whether he is a rich
-guy who fights crime in a suit or just a regular guy who is sick of all
-the injustice in Gotham City and decides to give the psychopaths a dose
-of their own medicine. Because of this, and Bale&#39;s tremendous acting,
-the Bruce Wayne character is justified, and we, the audience,
-emphasizes with Bale&#39;s flawed hero more than Michael Keaton, Val
-Kilmer, George (shudder) Clooney, Kevin Conroy, or God forbid Adam
-West, ever will. If there was an excellent Batman, this is the real
-deal. The theme of righteousness and insanity is played well with his
-character here.<br/><br/>But of course, the real star of the show is the late and great Heath
-Ledger, who steals almost every scene he&#39;s in as the villainous Joker
-(Nicholson, step aside). This Joker is not like the other renditions;
-he is the best. Downright evil, corrupt, insane, psychotic, terrifying.
-In every sense of those aforementioned words. More scary than funny, he
-shows audiences the Joker is undoubtedly Batman&#39;s most nefarious foe
-and his perfect nemesis, challenging him all the way. With a cynical
-smile, he proclaims in a scene where Batman is a freak to the public,
-like the Joker himself. This also explains the balance of righteousness
-that Bruce Wayne is going through. The Joker is downright evil, and
-Ledger makes this performance legendary. I agree with the critics, sign
-me up for the petition where he deserves a posthumous Oscar win.<br/><br/>The rest of the cast is excellent and star-studded. Aaron Eckhart does
-his Harvey Dent/Two-Face character justice, with a strong sense of
-righteousness/betrayal/twistedness up his sleeve, as well as Bruce
-Wayne&#39;s rival in love. His acting is strong here. Maggie Gyllenhaal is
-a great replacement for Katie Holmes as Wayne&#39;s love interest Rachel
-Dawes, as she shows more sensitive and caring side towards Bruce, other
-than Holmes&#39; nearly flat performance. Michael Caine as Bruce Wayne&#39;s
-loyal butler Alfred delivers, as well as Morgan Freeman as the CEO of
-Wayne Enterprises. Gary Oldman does an excellent portrayal of Lt. James
-Gordon, who aids Batman in his quest for justice. And a special mention
-goes to Eric Roberts as a crime lord, who surprisingly does a great
-acting job. The rest of the cast can take a bow, they can be proud of
-their being in this film.<br/><br/>The cinematography is possibly the most sublime scenes ever chosen.
-Gotham and Hong Kong are wide, and yet, there is this dark aura of
-crime and corruption all around them. It really blends in well with the
-film, giving it a distinct and unique look. Quite simply, this is the
-best Gotham city in any Batman rendition. Wally Pfister has done an
-excellent job.<br/><br/>To accompany the atmosphere is the tremendous music score by movie
-music maestros, James Newton Howard and Hans Zimmer. With talents like
-these, the score is unforgettable. It is tension-building at times, and
-throbbing and glorious yet dark/moody during others. It deserves an
-Oscar.<br/><br/>The very loyal screenplay is written very, very well by Jonathan Nolan
-(director&#39;s brother), who has done a masterful job. The characters are
-(pardon the pun) rich in character and the story has not a flaw in it.
-For a comic book film adaptation, this film is not at all fantasy-like.
-It is quite realistic in a way and this is what gives the film more
-credibility. Also, the fact that the script is realistic is
-unbelievable, as you expect a superhero film when you walk in the
-cinema, and walk out realizing you have just seen an epic crime saga.
-Yes, CRIME SAGA. It deserves to be mentioned in the same sentence with
-&quot;GoodFellas&quot;, &quot;Heat&quot;, &quot;The Untouchables&quot; and even &quot;The Godfather&quot;. I
-kid you not, this film has the power. The fact that this is an epic is
-further proved by the film&#39;s length - 2 hours and 32 minutes. Yes, it&#39;s
-that long. But it goes by so fast because you end up wishing for more.<br/><br/>But of course, none of this is possible without the genius that is the
-other Nolan, director Christopher. As per Memento, he knows how to
-direct a film. The dramatic scenes are engaging and the action
-sequences are crisp, thrilling, and will blow you out of your seat.
-Nolan&#39;s direction is tense, whip-smart, kinetic and smart. All of the
-action sequences are realistic, &quot;boombastic&quot;, and CGI is used only when
-necessary (Steve Spielberg and George Lucas, take note). The new
-vehicle and some gadgets look cool and stylish and do not take away the
-film&#39;s credibility and realism. There are a lot of action sequences to
-boot, some of them combining themes from above. You will have to see
-them to believe them. The brothers Nolan have done it again.<br/><br/>In short, it&#39;s a masterpiece. One that will knock you out of your seat.
-It is the best Batman film ever, the best superhero film ever and the
-best film of 2008 thus far. If there ever was a possibility of a summer
-film winning Best Picture at the Oscars (like Titanic and Lord Of The
-Rings), this will join their ranks. It is rightfully deserved. Do
-yourselves a favor and see this piece of art. Repeated viewings highly
-recommended.<br/><br/>Overall quality: 9.994/10<br/><br/>Delton
+We&#39;ve been subjected to enormous amounts of hype and marketing for the
+Dark Knight. We&#39;ve seen Joker scavenger hunts and one of the largest
+viral campaigns in advertising history and it culminates with the
+actual release of the movie.<br/><br/>Everything that&#39;s been said is pretty much spot on. This is the first
+time I can remember where a summer blockbuster film far surpasses the
+hype.<br/><br/>For as much action as there is in this movie, it&#39;s the acting that
+makes it a great piece of work. Between all the punches, explosions and
+stunt-work is some great dialog work. All the actors have their
+moments.<br/><br/>Bale&#39;s Batman is the definitive Batman because we see everything in
+this character finally on film. Martial arts skills, cunning, great
+tactical thinking, forensic application, technological genius to
+advance or improve Luscious Fox&#39;s inventions/technological
+breakthroughs, intimidating personality, and even a little
+swashbuckling. <br/><br/>As for Heath, yes he gets credit for his performance as the Joker. But
+you have to also recognize Jonathan and Chris Nolan for the writing and
+treatment of the character. It&#39;s not just the fact that Ledger makes
+the Joker so menacing, but the Nolans have given the character this
+great manifesto that drives its actions. The Joker&#39;s stance on chaos,
+order, anarchy, the morality of the average modern human being make the
+character so interesting psychologically. The Nolans drafted a complex
+character and only a perfect performance could&#39;ve pulled something like
+this off. That&#39;s how difficult of a role this was, and that&#39;s why
+Ledger&#39;s performance is so great.<br/><br/>This isn&#39;t an action movie. It&#39;s a film that explores literary themes
+of the hero and villain, as well as order and anarchy. Yes, listen to
+the dialog because it&#39;s all in there.
 </p>
 
-<div class="yn" id="ynd_1906161">
+<div class="yn" id="ynd_1908115">
 <form method="get" action="/register/">
 <input type="hidden" name="why" value="comment_vote">
 Was the above review useful to you?
@@ -1275,7 +1223,7 @@ If you enjoyed this title, our database also recommends:
  </div>
 </div>
 
-<div id="servertime" time="1097.171" treatment="control"></div>
+<div id="servertime" time="564.631" treatment="control"></div>
 
 <div id="criticalcontent" data-selector="#primary-poster, #title-media-strip img"></div>
 
@@ -1428,7 +1376,7 @@ ad_utils.register_ad('bottom_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=728x90,2x1;p=b;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-original-width="728" data-original-height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;ord=178103418205?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;ord=178103418205?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;ord=585397153278?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;k=m;g=ac;tt=f;id=tt0468569;b=t250;b=t250a;g=cr;g=dr;coo=usa;k=c;g=baa;coo=uk;m=PG13;fv=1;ka=0;ord=585397153278?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="bottom_ad_reflow_helper"></div>
@@ -1446,9 +1394,9 @@ ad_utils.register_ad('bottom_ad');
 
 </layer>
 </div>
-<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=13619108201942" width="1" height="1" alt="" border="0">
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=13619127127789" width="1" height="1" alt="" border="0">
 </div> <!-- id="wrapper" -->
-<!-- h=iop718 i=2013-02-25 s=legacy(akas) t='Tue Feb 26 12:33:39 2013' -->
+<!-- h=iop2047 i=2013-02-25 s=legacy(akas) t='Tue Feb 26 13:05:11 2013' -->
 <script src="http://i.media-imdb.com/images/SF539be3987208630802e712857c51a6c9/js/jquery.js" ></script><script src="http://i.media-imdb.com/images/SF144de7d1cf27a8b0d644dc29e818bb29/js/cc/title/main.js" ></script><script src="http://i.media-imdb.com/images/SF4f789f206c87a31b26eb8666da48322e/js/app/win7/sitemode.js" ></script><script src="http://i.media-imdb.com/images/SF72867cac47f3d7e883837477537ab0a1/js/vote.js" ></script><script type="text/javascript">jQuery(function(){generic.document_is_ready()})</script><!-- Begin SIS-SW code --> 
 <iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 

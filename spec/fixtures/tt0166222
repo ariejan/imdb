@@ -1,14 +1,13 @@
 HTTP/1.1 200 OK
-Date: Tue, 26 Feb 2013 20:33:34 GMT
+Date: Tue, 26 Feb 2013 21:05:04 GMT
 Server: Server
 Content-Type: text/html;charset=UTF-8
 Content-Language: en-US
 Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYrQTF1Tw3D3673unPu4GMrjxowfecwlBR0ppABNZAuqZNnNrQXzWRhRvlf%2Bx3O5WHaEKSlBAGn%0D%0Ash%2Bt3C%2BBIVEIdYmZkXQVQ%2B1ALM62AqXrVDDz2JYPlfzgsJCeJQ9yHdGapXiySvIRyD74TN0GIVhk%0D%0A%2FGzux6qgOi0QstCVqL9pYGOJjC2NspoAm7N84uvglBIG9685PMBjAW%2Bu37c%2BRrQ0w8zenbDjTZ5a%0D%0AuU2x5%2F9JcRXxnrqxPBum%2BSI9%2B%2FKwKe5fCSsdV7ToN6GQaRsxj29BiA%3D%3D%0D%0A; Domain=.imdb.com; Expires=Sun, 16-Mar-2081 23:47:41 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 16-Mar-2081 23:47:41 GMT; Path=/
-Set-Cookie: session-id-time=1519677214; Domain=.imdb.com; Expires=Sun, 16-Mar-2081 23:47:41 GMT; Path=/
+Set-Cookie: uu=BCYuQS%2BE76tPX85ISA%2FX0EenJe%2FAVYY9kvOWOqGCSOayq%2F%2FcqVK3s65uP2g8JWcMQibQ7BlaIW4x%0D%0ApLIBwpeSmcZCF8Tt4h2ML5TViahhlgqbU%2FG%2FYFXrxSSR78B2TBVT1szkYaoSs9A%2FvOtuZNKtg%2BmW%0D%0AEfbq2oOanDEVTuOc6RJNY%2FF%2F0tEItZBf5v5ZB456veU4AcWQ8JKItXPst9ns9nGfht2D5TX6DQgh%0D%0AgUbvMWYHxeBaaiz0yMeJbHa%2FLye0gy%2B5Utu%2FHrQlvo6i%2B%2BOyQ%2FAbEw%3D%3D%0D%0A; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 00:19:11 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 00:19:11 GMT; Path=/
+Set-Cookie: session-id-time=1519679104; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 00:19:11 GMT; Path=/
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
-nnCoection: close
 Transfer-Encoding: chunked
 
 
@@ -50,10 +49,10 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
             <meta name="description" content="Directed by Ben Affleck.  With Jay Lacopo, Karla Montana, Johanna McCloy, Robert Koch. A first-time feature-film director (who's also the writer and producer) is casting the lead actress. We meet him talking to his wife about the picture and the process. We meet the actress, Sandy, negotiating with her roommate and talking by phone to her mother. Then, we watch Sandy audition for the director at the call-back session; also attending are the casting director and the production ..." />
             <meta property="og:description" content="Directed by Ben Affleck.  With Jay Lacopo, Karla Montana, Johanna McCloy, Robert Koch. A first-time feature-film director (who's also the writer and producer) is casting the lead actress. We meet him talking to his wife about the picture and the process. We meet the actress, Sandy, negotiating with her roommate and talking by phone to her mother. Then, we watch Sandy audition for the director at the call-back session; also attending are the casting director and the production ..." />
             <meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
-            <meta name="request_id" content="0PY5Y41S127KFXKAZGDJ" />
+            <meta name="request_id" content="051GEBS0G0JDARSHHPQR" />
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
-<!-- h=ics-1d-i-307ade40.us-east-1 -->
+<!-- h=ics-1e-i-84aa44f4.us-east-1 -->
 <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/imdb/css/collections/title_main_details-2490696504._V376216335_.css" />
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
         
@@ -75,13 +74,13 @@ generic.monitoring.set_forester_info("title");
 generic.monitoring.set_twilight_info(
 "title",
 "NL",
-"db89b76831913e37113c60e197bbee42855388a3",
-"2013-02-26T20%3A33%3A34GMT",
+"75e571f4b82bbfa2a560578e6c6cef887a65f24b",
+"2013-02-26T21%3A05%3A04GMT",
 "http://s.media-imdb.com/twilight/?");
 generic.send_csm_head_metrics && generic.send_csm_head_metrics();
 generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 41186;
-generic.days_to_midnight = 0.4766898155212402;
+generic.seconds_to_midnight = 39296;
+generic.days_to_midnight = 0.4548148214817047;
 custom.full_page.data_url = "http://z-ecx.images-amazon.com/images/G/01/imdbads/js/graffiti_data-2891791370._V397576203_.js";
 ad_utils.ad_prediction.init();
 consoleLog('advertising initialized','ads');
@@ -130,7 +129,7 @@ oncall();
 ad_utils.register_ad('top_ad');
 </script>
 <iframe data-dart-params="#imdb2.consumer.title/maindetails;!TILE!;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
-<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=11;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=11;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=11;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=120525787822?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=11;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=120525787822?" border="0" alt="advertisement" /></a></noscript>
 </div>
 <div id="top_ad_reflow_helper"></div>
 <script>ad_utils.render_ad_fast('top_ad');</script>
@@ -577,7 +576,7 @@ href="/r/tt_owntherights/https://secure.imdb.com/store/photos/"
 ad_utils.register_ad('top_rhs');
 </script>
 <iframe data-dart-params="#imdb2.consumer.title/maindetails;!TILE!;sz=300x250,300x600,300x300,11x1;p=tr;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
-<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=1;sz=300x250,300x600,300x300,11x1;p=tr;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=1;sz=300x250,300x600,300x300,11x1;p=tr;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=1;sz=300x250,300x600,300x300,11x1;p=tr;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=120525787822?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=1;sz=300x250,300x600,300x300,11x1;p=tr;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=120525787822?" border="0" alt="advertisement" /></a></noscript>
 </div>
 <div id="top_rhs_reflow_helper"></div>
 <script>ad_utils.render_ad_fast('top_rhs');</script>
@@ -614,7 +613,7 @@ ad_utils.register_ad('top_rhs');
   </div>
 
 <div id="rhs_cornerstone_wrapper" class="cornerstone_slot">
-<iframe marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" width="300" height="125" name="rhs_cornerstone" id="rhs_cornerstone" data-aax-url="http://aax-us-east.amazon-adsystem.com/x/getad?src=200&c=100&u=http%3A%2F%2Fwww.imdb.com%2F&sz=300x125&pt=title&slot=RHS&cb=671365469260"></iframe> <script>
+<iframe marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" width="300" height="125" name="rhs_cornerstone" id="rhs_cornerstone" data-aax-url="http://aax-us-east.amazon-adsystem.com/x/getad?src=200&c=100&u=http%3A%2F%2Fwww.imdb.com%2F&sz=300x125&pt=title&slot=RHS&cb=120525787822"></iframe> <script>
 ad_utils.register_ad('rhs_cornerstone');
 ad_utils.aax_render_ad('rhs_cornerstone');
 </script>
@@ -640,8 +639,6 @@ ad_utils.aax_render_ad('rhs_cornerstone');
                     <option value="/title/tt0166222/trivia?tab=mc" data-ql="">Connections</option>
                   <option disabled>- - - - - - - - - - - - - - - - - - - - -</option>
                     <option value="/title/tt0166222/technical" data-ql="">Technical Specs</option>
-                  <option disabled>- - - - - - - - - - - - - - - - - - - - -</option>
-                    <option value="/title/tt0166222/news" data-ql="">NewsDesk</option>
                   <option disabled>- - - - - - - - - - - - - - - - - - - - -</option>
                     <option value="/title/tt0166222/reviews" data-ql="">User Reviews</option>
                     <option value="/title/tt0166222/ratings" data-ql="">User Ratings</option>
@@ -913,7 +910,7 @@ src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_46x22-2264473
 ad_utils.register_ad('btf_rhs2');
 </script>
 <iframe data-dart-params="#imdb2.consumer.title/maindetails;!TILE!;sz=300x250,16x1;p=br2;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="btf_rhs2" name="btf_rhs2" class="yesScript" width="300" height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
-<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=5;sz=300x250,16x1;p=br2;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=5;sz=300x250,16x1;p=br2;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=5;sz=300x250,16x1;p=br2;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=120525787822?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=5;sz=300x250,16x1;p=br2;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=120525787822?" border="0" alt="advertisement" /></a></noscript>
 </div>
 <div id="btf_rhs2_reflow_helper"></div>
 <script>ad_utils.render_ad_fast('btf_rhs2');</script>
@@ -1540,7 +1537,7 @@ I Killed My Lesbian Wife, Hung Her on a Meat Hook, and Now I Have a Three-Pictur
         
         <div class="link_column">
             <h4>Related Items</h4>
-<a href="/title/tt0166222/news?ref_=tt_ft" class="link" id="footer_link_NewsDesk" >NewsDesk</a> <br />
+<a href="/title/tt0166222/news?ref_=tt_ft" class="link empty" id="footer_link_NewsDesk" >NewsDesk</a> <br />
 <a href="/showtimes/title/tt0166222?ref_=tt_ft" class="link empty" id="footer_link_Showtimes" >Showtimes</a> <br />
             
             <h4>Professional Services</h4>
@@ -1829,7 +1826,7 @@ c15:""
 ad_utils.register_ad('bottom_ad');
 </script>
 <iframe data-dart-params="#imdb2.consumer.title/maindetails;!TILE!;sz=728x90,2x1;p=b;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
-<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=6;sz=728x90,2x1;p=b;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=6;sz=728x90,2x1;p=b;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=6;sz=728x90,2x1;p=b;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=120525787822?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=6;sz=728x90,2x1;p=b;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=120525787822?" border="0" alt="advertisement" /></a></noscript>
 </div>
 <div id="bottom_ad_reflow_helper"></div>
 <script>ad_utils.render_ad_fast('bottom_ad');</script>
@@ -1899,7 +1896,7 @@ jQuery(document).ready(function(){
 <script>(function(g){window.jQuery && jQuery(function(){g.document_is_ready()});g.monitoring.stop_timing('page_load','',true);g.monitoring.all_events_started();})(generic);</script>
 <!-- end ads footer -->
 
-<div id="servertime" time="159"/>
+<div id="servertime" time="178"/>
     </body>
 </html>
 
