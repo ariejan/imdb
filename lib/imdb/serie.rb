@@ -3,6 +3,10 @@ module Imdb
   # Represents a TV series on IMDB.com
   class Serie < Base
 
+    def season(number)
+      seasons.fetch(number-1, nil)
+    end
+
     def seasons
       season_urls.map { |url| Imdb::Season.new(url) }
     end
