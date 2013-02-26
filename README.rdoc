@@ -29,6 +29,25 @@ Movies:
     i.cast_members.first
     #=> "Bruce Willis"
 
+Series:
+
+    serie = Imdb::Serie.new("1520211")
+
+    serie.title
+    #=> "\"The Walking Dead\""
+
+    serie.rating
+    #=> 8.8
+
+    serie.seasons.size
+    #=> 3
+
+    serie.seaon(1).episodes.size
+    #=> 6
+
+    series.season(1).episode(2).title
+    #=> "Guts"
+
 Searching:
 
     i = Imdb::Search.new("Star Trek")

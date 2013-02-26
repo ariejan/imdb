@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Tue, 26 Feb 2013 20:33:35 GMT
+Date: Tue, 26 Feb 2013 22:32:38 GMT
 Server: Server
 Cache-Control: private
 Cneonction: close
 Content-Type: text/html
-Set-Cookie: uu=BCYl8PLkrwy3e5N8uJ_CpaU2guD42b-KPbCT_UcXB-EawVW8r3VrB5-bYFrOEU35cbEd2K6ffXDr-hWAyhr_zAeGw9yuEzWKkPgTict3sfOzhtPzUXgjembc-H9HEyyuwDsT534KBTgOxM9KFkrJO70POz1HoWBYONSzGL7XCsNltgI;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
-Set-Cookie: cs=REvQi3hlvDJ9A/FHeEOeewiOAiSO2RITtsmaRI1aAXQNyoE3jnoBF+7ZEhQoWVIEjtkkY9neUiSIjFUAbf/FgMmZspfO2SSyblESJI7vJDOO2RIkjvkSJI7ZEmTOiWIUg=;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: uu=BCYgMRQ23jE2rWX7_UfnGEbPbbaKBR0BeRi8xFgONeutXq159r4RIhcdcCw-SIw4mQKqlEW4H9L3M37B94_oCuat36FogC008U-UlcxuKlQc2M20INJPDK-vs_2XbnAPW7sVSUpEkVlbBXbcqt3C7IKGFUWN8tjHqwZaZOPZKdeqNb8;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=n++ZpQZumi4G1KOxcWmb3QbGfbqgkW2NmIHl2qMCPiojgv6p0DJ+icCRbYoGES2aoJFb/fSG7bqjlwt819HNycCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
@@ -20,7 +20,7 @@ Transfer-Encoding: chunked
 <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
 <script>
 var addClickstreamHeadersToAjax = function(xhr) {
-    xhr.setRequestHeader("x-imdb-parent-id", "1SPGPAVH3GVT0ZR643EN");
+    xhr.setRequestHeader("x-imdb-parent-id", "0APQMYW3GFH270CW1YE3");
 };
 </script>
 
@@ -54,7 +54,7 @@ var addClickstreamHeadersToAjax = function(xhr) {
 <link rel="search" type="application/opensearchdescription+xml"
       href="http://i.media-imdb.com/images/SFccbe1e4d909ef8b8077201c3c5aac349/imdbsearch.xml" title="IMDb" />
 <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
-<script type="text/javascript">var __vkey = 'Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '9.3';</script>
+<script type="text/javascript">var __vkey = 'GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '9.3';</script>
 <meta property="og:type" content="movie" />
 <meta property="fb:app_id" content="115109575169727" />
 <meta property="og:title" content="The Shawshank Redemption (1994)" />
@@ -68,15 +68,15 @@ generic.monitoring.set_forester_info("title");
 generic.monitoring.set_twilight_info(
     "title_subpage", 
     "Other", 
-    "b1a213bd1a9e6fa8d42a60975ba4d95e100dca5b", 
-    "2013-02-26T20%3A33%3A35GMT", 
+    "4e1cc268b5cc4b6cad4eeacad9e39c5fe03f63a1", 
+    "2013-02-26T22%3A32%3A39GMT", 
     "http://s.media-imdb.com/twilight/?");
 
 generic.send_csm_head_metrics && generic.send_csm_head_metrics();
 
 generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 44845;
-generic.days_to_midnight = 0.519039351851852;
+generic.seconds_to_midnight = 37701;
+generic.days_to_midnight = 0.436354166666667;
 custom.full_page.data_url = "http://i.media-imdb.com/images/SF52343caf319e887027f13568332cdfd7/a/js/graffiti_data.js";
 ad_utils.ad_prediction.init();
 consoleLog('advertising initialized','ads');
@@ -146,7 +146,7 @@ ad_utils.register_ad('top_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-original-width="0" data-original-height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;ord=681987581425?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;ord=681987581425?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;ord=653229052550?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;ord=653229052550?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_ad_reflow_helper"></div>
@@ -522,7 +522,7 @@ ad_utils.register_ad('top_ad');
 
 <div id="action-box" class="action-box">
 <a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Famazon%2Fvi3476594713%2F';window.open(this.href+'offsite','_blank');
-                 return false;"     href="/video/amazon/vi3476594713/"    class="linkasbutton-primary" data-rid="1SPGPAVH3GVT0ZR643EN" data-video="vi3476594713" data-context="amazon" >Watch It</a>
+                 return false;"     href="/video/amazon/vi3476594713/"    class="linkasbutton-primary" data-rid="0APQMYW3GFH270CW1YE3" data-video="vi3476594713" data-context="amazon" >Watch It</a>
 
   <p>at Amazon</p>
 
@@ -608,7 +608,7 @@ ad_utils.register_ad('top_ad');
 
 <td width="40%" class="media_strip_header">
 <b>Photos</b>
-<span>(<a href="/rg/photos-title/gallery-link/title/tt0111161/mediaindex">See all 60</a> | <a href="/rg/photos-title/slideshow-link/media/rm3088941056/tt0111161?slideshow=1">slideshow</a>)</span>
+<span>(<a href="/rg/photos-title/gallery-link/title/tt0111161/mediaindex">See all 60</a> | <a href="/rg/photos-title/slideshow-link/media/rm2250080256/tt0111161?slideshow=1">slideshow</a>)</span>
 </td>
 
 <td width="40%" class="media_strip_header">
@@ -624,16 +624,16 @@ ad_utils.register_ad('top_ad');
 
 <td>
 <div class="media_strip_thumbs">
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm3088941056/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTMyODE3NTM1Ml5BMl5BanBnXkFtZTcwMzQxNDY3Mw@@._V1._CR295,0,1210,1210_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm2266857472/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTMxNzAwMzE0Nl5BMl5BanBnXkFtZTcwNDQxNDY3Mw@@._V1._CR305,0,1189,1189_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-3/media/rm3206381568/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTg0MDgwNjc5N15BMl5BanBnXkFtZTcwNjMxNDY3Mw@@._V1._CR0,0,1355,1355_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm3189604352/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTgzOTc3Njc0Nl5BMl5BanBnXkFtZTcwNzMxNDY3Mw@@._V1._CR301,0,1195,1195_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm2954723328/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTk3NDE2Nzg3Nl5BMl5BanBnXkFtZTcwNTMxNDY3Mw@@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm3156049920/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNTYxOTYyMzE3NV5BMl5BanBnXkFtZTcwOTMxNDY3Mw@@._V1._CR292,0,1216,1216_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm2250080256/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTg3Nzg3ODU0NV5BMl5BanBnXkFtZTcwNTQxNDY3Mw@@._V1._CR420,0,1080,1080_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm3156049920/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNTYxOTYyMzE3NV5BMl5BanBnXkFtZTcwOTMxNDY3Mw@@._V1._CR292,0,1216,1216_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-3/media/rm2266857472/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTMxNzAwMzE0Nl5BMl5BanBnXkFtZTcwNDQxNDY3Mw@@._V1._CR305,0,1189,1189_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm3088941056/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTMyODE3NTM1Ml5BMl5BanBnXkFtZTcwMzQxNDY3Mw@@._V1._CR295,0,1210,1210_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm3122495488/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ5NTI4NDAxMV5BMl5BanBnXkFtZTcwMTQxNDY3Mw@@._V1._CR298,0,1203,1203_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm2988277760/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTkzMDA1OTUxNF5BMl5BanBnXkFtZTcwMzMxNDY3Mw@@._V1._CR301,0,1198,1198_SS90_.jpg" border="0"></a></div>
 <div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-7/media/rm3139272704/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTgxMTU1MDkwOV5BMl5BanBnXkFtZTcwMDQxNDY3Mw@@._V1._CR295,0,1210,1210_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm2250080256/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTg3Nzg3ODU0NV5BMl5BanBnXkFtZTcwNTQxNDY3Mw@@._V1._CR420,0,1080,1080_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-9/media/rm3105718272/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM0NzQ1Nzg2N15BMl5BanBnXkFtZTcwMjQxNDY3Mw@@._V1._CR313,0,1173,1173_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm3122495488/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ5NTI4NDAxMV5BMl5BanBnXkFtZTcwMTQxNDY3Mw@@._V1._CR298,0,1203,1203_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm3105718272/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTM0NzQ1Nzg2N15BMl5BanBnXkFtZTcwMjQxNDY3Mw@@._V1._CR313,0,1173,1173_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-9/media/rm2233303040/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNzAwOTk3MDg5MV5BMl5BanBnXkFtZTcwNjQxNDY3Mw@@._V1._CR270,0,900,900_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm2954723328/tt0111161"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTk3NDE2Nzg3Nl5BMl5BanBnXkFtZTcwNTMxNDY3Mw@@._V1._CR343,0,1362,1362_SS90_.jpg" border="0"></a></div>
 </div>
 </td>
 
@@ -642,7 +642,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi882809625%2F';"     href="/video/screenplay/vi882809625/"    data-rid="1SPGPAVH3GVT0ZR643EN" data-video="vi882809625" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi882809625%2F';"     href="/video/screenplay/vi882809625/"    data-rid="0APQMYW3GFH270CW1YE3" data-video="vi882809625" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="The Shawshank Redemption -- Trailer for The Shawshank Redemption" title="The Shawshank Redemption -- Trailer for The Shawshank Redemption"
@@ -654,7 +654,7 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumb">
 
 
-<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi415302425%2F';"     href="/video/screenplay/vi415302425/"    data-rid="1SPGPAVH3GVT0ZR643EN" data-video="vi415302425" data-context="screenplay" ><img 
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fscreenplay%2Fvi415302425%2F';"     href="/video/screenplay/vi415302425/"    data-rid="0APQMYW3GFH270CW1YE3" data-video="vi415302425" data-context="screenplay" ><img 
      height="90" 
      width="120"
      alt="The Shawshank Redemption -- hv post" title="The Shawshank Redemption -- hv post"
@@ -697,7 +697,7 @@ ad_utils.register_ad('top_rhs');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-original-width="300" data-original-height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;ord=681987581425?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;ord=681987581425?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;ord=653229052550?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;ord=653229052550?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_rhs_reflow_helper"></div>
@@ -736,7 +736,7 @@ ad_utils.register_ad('top_rhs');
         <div class="outer">
           <div id="general-voting-stars" class="inner" style="width: 186px"></div>
           <div class="starbar-votes">
-            <a title="10" href="vote?v=10;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+            <a title="10" href="vote?v=10;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
           </div>
         </div>
       </div>
@@ -745,7 +745,7 @@ ad_utils.register_ad('top_rhs');
         <b>9.3/10</b> 
            
            
-           &nbsp;&nbsp;<a href="ratings" class="tn15more">923,629 votes</a>&nbsp;&raquo;
+           &nbsp;&nbsp;<a href="ratings" class="tn15more">924,396 votes</a>&nbsp;&raquo;
         
         
       </div>
@@ -758,7 +758,7 @@ ad_utils.register_ad('top_rhs');
         <div class="outer">
           <div id="personal-voting-stars" class="inner" style="width: 0px"></div>
           <div class="starbar-votes">
-            <a title="10" href="vote?v=10;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+            <a title="10" href="vote?v=10;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
           </div>
         </div>
       </div>
@@ -768,7 +768,7 @@ ad_utils.register_ad('top_rhs');
         <div class="user">
           <div class="extra">
             <b><span id="voteuser"></span>/10</b>
-            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=Y215hGSWkoCCXIkbNkdkSwB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4zlaOXN6WbpjWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
+            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=GaMr80zDR5uDMMRISHH3HgB%2FqjlzeVo5c3pJKhcuGTpgfhqZ4%2FlaOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
              | <a href="/list/ratings">history</a>)
           </div>
         </div>
@@ -910,7 +910,7 @@ Nominated for 7 Oscars.
 <div class="info">
 <h5>User Reviews:</h5>
 <div class="info-content">
-Tied for the best movie I have ever seen
+Prepare to be moved
 <a class="tn15more inline" href="#comment">See more (2528 total)</a>&nbsp;&raquo;
 </div>
 </div>
@@ -928,7 +928,7 @@ Tied for the best movie I have ever seen
                             client:   "ca-amazon-imdb_js",    
                             title:    "Sponsored Links",    
                             help:     "What&#x27;s This?",    
-                            hints:    "shiv,city park,education,poetic justice,mexico"   
+                            hints:    "darkness,prisoner,prison,police,book"   
                           };     
      </script>   
          
@@ -940,17 +940,17 @@ Tied for the best movie I have ever seen
              src="/images/a/ifb/google_afc.html#key:MIDDLE_CENTER">     
      </iframe>   
 
-<hr />      <h3>Additional Details</h3><div class="info"><h5>Also Known As:</h5><div class="info-content">                                                     "Die Verurteilten" - Austria, Germany<br>      "Sue&#xF1;os de fuga" - Chile, Peru <em>(imdb display title)</em><br>     "Sue&#xF1;os de libertad" - Argentina, Mexico <em>(imdb display title)</em><br>    "&#x3A4;&#x3B5;&#x3BB;&#x3B5;&#x3C5;&#x3C4;&#x3B1;&#x3AF;&#x3B1; &#x388;&#x3BE;&#x3BF;&#x3B4;&#x3BF;&#x3C2; &#x3A1;&#x3AF;&#x3C4;&#x3B1; &#x3A7;&#x3AD;&#x3CA;&#x3B3;&#x3BF;&#x3C5;&#x3CC;&#x3C1;&#x3B8;" - Greece<br>    "&#x412;&#x442;&#x435;&#x447;&#x430; &#x437; &#x428;&#x43E;&#x443;&#x448;&#x435;&#x43D;&#x43A;&#x430;" - Ukraine<br>    "&#x418;&#x437;&#x43A;&#x443;&#x43F;&#x43B;&#x435;&#x43D;&#x438;&#x435;&#x442;&#x43E; &#x428;&#x43E;&#x443;&#x448;&#x435;&#x43D;&#x43A;" - Bulgaria <em>(Bulgarian title)</em><br>    "&#x41F;&#x43E;&#x431;&#x435;&#x433; &#x438;&#x437; &#x428;&#x43E;&#x443;&#x448;&#x435;&#x43D;&#x43A;&#x430;" - Russia<br>    "&#xC0; l&#x27;ombre de Shawshank" - Canada <em>(French title)</em><br>    "&#xCE;nchisoarea &#xEE;ngerilor" - Romania <em>(imdb display title)</em><br>    "A rem&#xE9;ny rabjai" - Hungary<br>    "Avain pakoon" - Finland <em>(DVD title)</em><br>    "Bekstvo iz &#x160;o&#x161;enka" - Serbia<br>    "Cadena perpetua" - Spain<br>    "De ontsnapping" - Netherlands <em>(informal literal title)</em><br>    "En verden udenfor" - Denmark<br>    "Esaretin bedeli" - Turkey <em>(Turkish title)</em><br>    "Frihetens regn" - Norway<br>    "Gaqceva shoushenkidan" - Georgia <em>(imdb display title)</em><br>    "Homot Shel Tikva" - Israel <em>(Hebrew title)</em><br>    "Inchisoarea Ingerilor" - Romania <em>(imdb display title)</em><br>    "Iskupljenje u Shawshanku" - Croatia <em>(imdb display title)</em><br>    "Kaznilnica odresitve" - Slovenia<br>    "Le ali della libert&#xE0;" - Italy<br>    "Les &#xE9;vad&#xE9;s" - France<br>    "Nyckeln till frihet" - Sweden<br>    "Os Condenados de Shawshank" - Portugal<br>    "Rita Hayworth - avain pakoon" - Finland <em>(imdb display title)</em><br>    "Rita Hayworth - nyckel till flykten" - Finland <em>(Swedish title)</em><br>    "Sh&#xF4;shanku no sora ni" - Japan<br>    "Shawshanki lunastus" - Estonia <em>(imdb display title)</em><br>    "Skazani na Shawshank" - Poland<br>    "Sue&#xF1;o de fuga" - International <em>(Spanish title)</em><br>    "Sue&#xF1;o de libertad" - Uruguay<br>    "Teleftaia exodos: &#x27;Rita Hayworth&#x27;" - Greece <em>(transliterated ISO-LATIN-1 title)</em><br>    "The Shawshank Redemption" - Iceland <em>(imdb display title)</em><br>    "Um Sonho de Liberdade" - Brazil<br>    "Vyk&#xFA;penie z v&#xE4;znice Shawshank" - Slovakia<br>    "Vykoupen&#xED; z veznice Shawshank" - Czech Republic<br>    "Xiao shen ke de jiu shu" - China <em>(Mandarin title)</em> <em>(imdb display title)</em><br> <a class="tn15more" href="/title/tt0111161/releaseinfo#akas" onClick="(new Image()).src='/rg/title-tease/akas/images/b.gif?link=/title/tt0111161/releaseinfo#akas';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5><a href="/mpaa">MPAA</a>:</h5><div class="info-content">Rated R for language and prison violence (certificate 33087)</div></div> <div class="info"><h5>Parents Guide:</h5><div class="info-content"><a href="parentalguide">View content advisory for parents</a></div></div> <div class="info"><h5>Runtime:</h5><div class="info-content">142 min </div></div><div class="info"><h5>Country:</h5><div class="info-content"><a href="/country/us">USA</a></div></div><div class="info"><h5>Language:</h5><div class="info-content"><a href="/language/en">English</a></div></div><div class="info"><h5>Color:</h5><div class="info-content"><a href="/search/title?colors=color">Color</a> <i>(Technicolor)</i></div></div><div class="info"><h5>Aspect Ratio:</h5><div class="info-content">1.85 : 1 <a class="tn15more inline" href="/title/tt0111161/technical" onClick="(new Image()).src='/rg/title-tease/aspect/images/b.gif?link=/title/tt0111161/technical';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Sound Mix:</h5><div class="info-content"><a href="/search/title?sound_mixes=dolby_digital">Dolby Digital</a> </div></div><div class="info"><h5>Certification:</h5><div class="info-content"><a href="/search/title?certificates=is:16">Iceland:16</a> <i>(video rating)</i> | <a href="/search/title?certificates=ph:r_18">Philippines:R-18</a>  | <a href="/search/title?certificates=br:16">Brazil:16</a>  | <a href="/search/title?certificates=is:14">Iceland:14</a>  | <a href="/search/title?certificates=kr:12">South Korea:12</a> <i>(cable rating)</i> | <a href="/search/title?certificates=au:m">Australia:M</a> <i>(TV rating)</i> | <a href="/search/title?certificates=jp:g">Japan:G</a> <i>(2009)</i> | <a href="/search/title?certificates=ar:13">Argentina:13</a> <i>(re-rating)</i> | <a href="/search/title?certificates=my:(banned)">Malaysia:(Banned)</a> <i>(original rating) (1994)</i> | <a href="/search/title?certificates=ar:16">Argentina:16</a> <i>(original rating)</i> | <a href="/search/title?certificates=au:ma">Australia:MA</a>  | <a href="/search/title?certificates=ca:13+">Canada:13+</a> <i>(Quebec)</i> | <a href="/search/title?certificates=ca:14a">Canada:14A</a>  | <a href="/search/title?certificates=cl:14">Chile:14</a>  | <a href="/search/title?certificates=dk:15">Denmark:15</a>  | <a href="/search/title?certificates=fi:k_16">Finland:K-16</a>  | <a href="/search/title?certificates=fr:u">France:U</a>  | <a href="/search/title?certificates=de:12">Germany:12</a>  | <a href="/search/title?certificates=hk:iib">Hong Kong:IIB</a>  | <a href="/search/title?certificates=ie:15">Ireland:15</a>  | <a href="/search/title?certificates=il:pg">Israel:PG</a>  | <a href="/search/title?certificates=jp:pg_12">Japan:PG-12</a>  | <a href="/search/title?certificates=nl:12">Netherlands:12</a>  | <a href="/search/title?certificates=nz:r">New Zealand:R</a>  | <a href="/search/title?certificates=no:15">Norway:15</a>  | <a href="/search/title?certificates=pe:14">Peru:14</a>  | <a href="/search/title?certificates=pt:m_16">Portugal:M/16</a> <i>(Qualidade)</i> | <a href="/search/title?certificates=kr:15">South Korea:15</a>  | <a href="/search/title?certificates=es:13">Spain:13</a>  | <a href="/search/title?certificates=se:15">Sweden:15</a>  | <a href="/search/title?certificates=gb:15">UK:15</a>  | <a href="/search/title?certificates=us:r">USA:R</a> <i>(certificate 33087)</i> | <a href="/search/title?certificates=sg:r(a)">Singapore:R(A)</a> <i>(original rating)</i> | <a href="/search/title?certificates=sg:nc_16">Singapore:NC-16</a> <i>(re-rating)</i></div></div><div class="info"><h5>Filming Locations:</h5><div class="info-content"><a title=" (Bank and bus station)" href="/search/title?locations=Ashland,%20Ohio,%20USA">Ashland, Ohio, USA</a><a class="tn15more inline" href="/title/tt0111161/locations" onClick="(new Image()).src='/rg/title-tease/locations/images/b.gif?link=/title/tt0111161/locations';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Company:</h5><div class="info-content"><a href="/company/co0040620/">Castle Rock Entertainment</a><a class="tn15more inline" href="/title/tt0111161/companycredits">See more</a>&nbsp;&raquo;</div></div><hr/><h3>Did You Know?</h3> <div class="info"><h5>Trivia:</h5><div class="info-content"><a href="/name/nm0000175/">Stephen King</a> optioned &#x22;Rita Hayworth and The Shawshank Redemption&#x22; to <a href="/name/nm0001104/">Frank Darabont</a> for $1000.<a class="tn15more inline" href="/title/tt0111161/trivia" onClick="(new Image()).src='/rg/title-tease/trivia/images/b.gif?link=/title/tt0111161/trivia';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Goofs:</h5><div class="info-content">Incorrectly regarded as goofs: When Andy&#x27;s climbing out of the hole, just before he&#x27;s going into the sewer, you see him with his old shoes. But just before that he had put them in the warden&#x27;s shoebox and replaced them with the warden&#x27;s. However, at that point, Andy had been in prison for nearly 20 years and enjoyed special privileges. It&#x27;s possible he had an extra pair of prison issue shoes in his cell, and took the warden&#x27;s off before making his escape. This makes sense considering that when Andy entered the bank the next day, the shoes were still polished, and clearly had not been worn while wading through a sewage pipe.<a class="tn15more inline"href="/title/tt0111161/trivia?tab=gf&" onClick="(newImage()).src='/rg/title-tease/goofs/images/b.gif?link=/title/tt0111161/trivia?tab=gf&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Quotes:</h5><div class="info-content">[<i class="fine">first lines</i>] <br><b><a href="/name/nm0218810/">District Attorney</a></b>:Mr. Dufresne, describe the confrontation you had with your wife the night that she was murdered. <br><b><a href="/name/nm0000209/">Andy Dufresne</a></b>:It was very bitter. She said she was glad I knew, that she hated all the sneaking around. And she said that she wanted a divorce in Reno.<br><a class="tn15more" href="/title/tt0111161/quotes" onClick="(new Image()).src='/rg/title-tease/quotes/images/b.gif?link=/title/tt0111161/quotes';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Movie Connections:</h5><div class="info-content">Referenced in <a href="/title/tt1693582/">&#x22;The Tonight Show with Jay Leno: Episode #18.88&#x22;</a> (2010)<a class="tn15more inline"href="/title/tt0111161/trivia?tab=mc&" onClick="(newImage()).src='/rg/title-tease/movieconnections/images/b.gif?link=/title/tt0111161/trivia?tab=mc&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Soundtrack:</h5><div class="info-content">If I Didn&#x27;t Care<a class="tn15more inline" href="/title/tt0111161/soundtrack" onClick="(new Image()).src='/rg/title-tease/soundtrack/images/b.gif?link=/title/tt0111161/soundtrack';">See more</a>&nbsp;&raquo;</div></div> 
+<hr />      <h3>Additional Details</h3><div class="info"><h5>Also Known As:</h5><div class="info-content">                                                     "Die Verurteilten" - Austria, Germany<br>      "Sue&#xF1;os de fuga" - Chile, Peru <em>(imdb display title)</em><br>     "Sue&#xF1;os de libertad" - Argentina, Mexico <em>(imdb display title)</em><br>    "&#x3A4;&#x3B5;&#x3BB;&#x3B5;&#x3C5;&#x3C4;&#x3B1;&#x3AF;&#x3B1; &#x388;&#x3BE;&#x3BF;&#x3B4;&#x3BF;&#x3C2; &#x3A1;&#x3AF;&#x3C4;&#x3B1; &#x3A7;&#x3AD;&#x3CA;&#x3B3;&#x3BF;&#x3C5;&#x3CC;&#x3C1;&#x3B8;" - Greece<br>    "&#x412;&#x442;&#x435;&#x447;&#x430; &#x437; &#x428;&#x43E;&#x443;&#x448;&#x435;&#x43D;&#x43A;&#x430;" - Ukraine<br>    "&#x418;&#x437;&#x43A;&#x443;&#x43F;&#x43B;&#x435;&#x43D;&#x438;&#x435;&#x442;&#x43E; &#x428;&#x43E;&#x443;&#x448;&#x435;&#x43D;&#x43A;" - Bulgaria <em>(Bulgarian title)</em><br>    "&#x41F;&#x43E;&#x431;&#x435;&#x433; &#x438;&#x437; &#x428;&#x43E;&#x443;&#x448;&#x435;&#x43D;&#x43A;&#x430;" - Russia<br>    "&#xC0; l&#x27;ombre de Shawshank" - Canada <em>(French title)</em><br>    "&#xCE;nchisoarea &#xEE;ngerilor" - Romania <em>(imdb display title)</em><br>    "A rem&#xE9;ny rabjai" - Hungary<br>    "Avain pakoon" - Finland <em>(DVD title)</em><br>    "Bekstvo iz &#x160;o&#x161;enka" - Serbia<br>    "Cadena perpetua" - Spain<br>    "De ontsnapping" - Netherlands <em>(informal literal title)</em><br>    "En verden udenfor" - Denmark<br>    "Esaretin bedeli" - Turkey <em>(Turkish title)</em><br>    "Frihetens regn" - Norway<br>    "Gaqceva shoushenkidan" - Georgia <em>(imdb display title)</em><br>    "Homot Shel Tikva" - Israel <em>(Hebrew title)</em><br>    "Inchisoarea Ingerilor" - Romania <em>(imdb display title)</em><br>    "Iskupljenje u Shawshanku" - Croatia <em>(imdb display title)</em><br>    "Kaznilnica odresitve" - Slovenia<br>    "Le ali della libert&#xE0;" - Italy<br>    "Les &#xE9;vad&#xE9;s" - France<br>    "Nyckeln till frihet" - Sweden<br>    "Os Condenados de Shawshank" - Portugal<br>    "Rita Hayworth - avain pakoon" - Finland <em>(imdb display title)</em><br>    "Rita Hayworth - nyckel till flykten" - Finland <em>(Swedish title)</em><br>    "Sh&#xF4;shanku no sora ni" - Japan<br>    "Shawshanki lunastus" - Estonia <em>(imdb display title)</em><br>    "Skazani na Shawshank" - Poland<br>    "Sue&#xF1;o de fuga" - International <em>(Spanish title)</em><br>    "Sue&#xF1;o de libertad" - Uruguay<br>    "Teleftaia exodos: &#x27;Rita Hayworth&#x27;" - Greece <em>(transliterated ISO-LATIN-1 title)</em><br>    "The Shawshank Redemption" - Iceland <em>(imdb display title)</em><br>    "Um Sonho de Liberdade" - Brazil<br>    "Vyk&#xFA;penie z v&#xE4;znice Shawshank" - Slovakia<br>    "Vykoupen&#xED; z veznice Shawshank" - Czech Republic<br>    "Xiao shen ke de jiu shu" - China <em>(Mandarin title)</em> <em>(imdb display title)</em><br> <a class="tn15more" href="/title/tt0111161/releaseinfo#akas" onClick="(new Image()).src='/rg/title-tease/akas/images/b.gif?link=/title/tt0111161/releaseinfo#akas';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5><a href="/mpaa">MPAA</a>:</h5><div class="info-content">Rated R for language and prison violence (certificate 33087)</div></div> <div class="info"><h5>Parents Guide:</h5><div class="info-content"><a href="parentalguide">View content advisory for parents</a></div></div> <div class="info"><h5>Runtime:</h5><div class="info-content">142 min </div></div><div class="info"><h5>Country:</h5><div class="info-content"><a href="/country/us">USA</a></div></div><div class="info"><h5>Language:</h5><div class="info-content"><a href="/language/en">English</a></div></div><div class="info"><h5>Color:</h5><div class="info-content"><a href="/search/title?colors=color">Color</a> <i>(Technicolor)</i></div></div><div class="info"><h5>Aspect Ratio:</h5><div class="info-content">1.85 : 1 <a class="tn15more inline" href="/title/tt0111161/technical" onClick="(new Image()).src='/rg/title-tease/aspect/images/b.gif?link=/title/tt0111161/technical';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Sound Mix:</h5><div class="info-content"><a href="/search/title?sound_mixes=dolby_digital">Dolby Digital</a> </div></div><div class="info"><h5>Certification:</h5><div class="info-content"><a href="/search/title?certificates=is:16">Iceland:16</a> <i>(video rating)</i> | <a href="/search/title?certificates=ph:r_18">Philippines:R-18</a>  | <a href="/search/title?certificates=br:16">Brazil:16</a>  | <a href="/search/title?certificates=is:14">Iceland:14</a>  | <a href="/search/title?certificates=kr:12">South Korea:12</a> <i>(cable rating)</i> | <a href="/search/title?certificates=au:m">Australia:M</a> <i>(TV rating)</i> | <a href="/search/title?certificates=jp:g">Japan:G</a> <i>(2009)</i> | <a href="/search/title?certificates=ar:13">Argentina:13</a> <i>(re-rating)</i> | <a href="/search/title?certificates=my:(banned)">Malaysia:(Banned)</a> <i>(original rating) (1994)</i> | <a href="/search/title?certificates=ar:16">Argentina:16</a> <i>(original rating)</i> | <a href="/search/title?certificates=au:ma">Australia:MA</a>  | <a href="/search/title?certificates=ca:13+">Canada:13+</a> <i>(Quebec)</i> | <a href="/search/title?certificates=ca:14a">Canada:14A</a>  | <a href="/search/title?certificates=cl:14">Chile:14</a>  | <a href="/search/title?certificates=dk:15">Denmark:15</a>  | <a href="/search/title?certificates=fi:k_16">Finland:K-16</a>  | <a href="/search/title?certificates=fr:u">France:U</a>  | <a href="/search/title?certificates=de:12">Germany:12</a>  | <a href="/search/title?certificates=hk:iib">Hong Kong:IIB</a>  | <a href="/search/title?certificates=ie:15">Ireland:15</a>  | <a href="/search/title?certificates=il:pg">Israel:PG</a>  | <a href="/search/title?certificates=jp:pg_12">Japan:PG-12</a>  | <a href="/search/title?certificates=nl:12">Netherlands:12</a>  | <a href="/search/title?certificates=nz:r">New Zealand:R</a>  | <a href="/search/title?certificates=no:15">Norway:15</a>  | <a href="/search/title?certificates=pe:14">Peru:14</a>  | <a href="/search/title?certificates=pt:m_16">Portugal:M/16</a> <i>(Qualidade)</i> | <a href="/search/title?certificates=kr:15">South Korea:15</a>  | <a href="/search/title?certificates=es:13">Spain:13</a>  | <a href="/search/title?certificates=se:15">Sweden:15</a>  | <a href="/search/title?certificates=gb:15">UK:15</a>  | <a href="/search/title?certificates=us:r">USA:R</a> <i>(certificate 33087)</i> | <a href="/search/title?certificates=sg:r(a)">Singapore:R(A)</a> <i>(original rating)</i> | <a href="/search/title?certificates=sg:nc_16">Singapore:NC-16</a> <i>(re-rating)</i></div></div><div class="info"><h5>Filming Locations:</h5><div class="info-content"><a title=" (Bank and bus station)" href="/search/title?locations=Ashland,%20Ohio,%20USA">Ashland, Ohio, USA</a><a class="tn15more inline" href="/title/tt0111161/locations" onClick="(new Image()).src='/rg/title-tease/locations/images/b.gif?link=/title/tt0111161/locations';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Company:</h5><div class="info-content"><a href="/company/co0040620/">Castle Rock Entertainment</a><a class="tn15more inline" href="/title/tt0111161/companycredits">See more</a>&nbsp;&raquo;</div></div><hr/><h3>Did You Know?</h3> <div class="info"><h5>Trivia:</h5><div class="info-content">The Norwegian title for the movie is &#x22;Frihetens Regn&#x22;, which means &#x22;The Rain of Freedom&#x22;.<a class="tn15more inline" href="/title/tt0111161/trivia" onClick="(new Image()).src='/rg/title-tease/trivia/images/b.gif?link=/title/tt0111161/trivia';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Goofs:</h5><div class="info-content">Anachronisms: Andy&#x27;s library has received donations of 78-rpm albums, and he selects a record from such an album before he locks himself in and broadcasts Le Nozze di Figaro. The record he plays, however, is a 33 1/3 rpm, which is clear from the position of the needle on the disk.<a class="tn15more inline"href="/title/tt0111161/trivia?tab=gf&" onClick="(newImage()).src='/rg/title-tease/goofs/images/b.gif?link=/title/tt0111161/trivia?tab=gf&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Quotes:</h5><div class="info-content">[<i class="fine">first lines</i>] <br><b><a href="/name/nm0218810/">District Attorney</a></b>:Mr. Dufresne, describe the confrontation you had with your wife the night that she was murdered. <br><b><a href="/name/nm0000209/">Andy Dufresne</a></b>:It was very bitter. She said she was glad I knew, that she hated all the sneaking around. And she said that she wanted a divorce in Reno.<br><a class="tn15more" href="/title/tt0111161/quotes" onClick="(new Image()).src='/rg/title-tease/quotes/images/b.gif?link=/title/tt0111161/quotes';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Movie Connections:</h5><div class="info-content">Referenced in <a href="/title/tt1477997/">&#x22;Entourage: Security Briefs (#6.9)&#x22;</a> (2009)<a class="tn15more inline"href="/title/tt0111161/trivia?tab=mc&" onClick="(newImage()).src='/rg/title-tease/movieconnections/images/b.gif?link=/title/tt0111161/trivia?tab=mc&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Soundtrack:</h5><div class="info-content">Lovesick Blues<a class="tn15more inline" href="/title/tt0111161/soundtrack" onClick="(new Image()).src='/rg/title-tease/soundtrack/images/b.gif?link=/title/tt0111161/soundtrack';">See more</a>&nbsp;&raquo;</div></div> 
 <hr/>
 <h3>FAQ</h3>
 
 <a href="/title/tt0111161/faq#.2.1.5" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0111161/faq#.2.1.5';">What song does Andy play on the speakers when he is in the Warden's office?</a>
 <br/>
 
-<a href="/title/tt0111161/faq#.2.1.12" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0111161/faq#.2.1.12';">Why does the warden kill ....?</a>
+<a href="/title/tt0111161/faq#.2.1.15" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0111161/faq#.2.1.15';">Why would Andy leave money and a note for Red out in the open? Isn't this a bit risky?</a>
 <br/>
 
-<a href="/title/tt0111161/faq#.2.1.10" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0111161/faq#.2.1.10';">Why does Andy lock the guard in the bathroom while he plays the Mozart record?</a>
+<a href="/title/tt0111161/faq#.2.1.16" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0111161/faq#.2.1.16';">Why does Andy use one of the banks' postal service to send the package?</a>
 <br/>
 
 <a class="tn15more" href="/title/tt0111161/faq" onClick="(new Image()).src='/rg/title-tease/faq-more/images/b.gif?link=/title/tt0111161/faq';">See more</a>&nbsp;&raquo;
@@ -982,20 +982,19 @@ function ynd(id, status) {
 //-->
 </script>
 <div class="small">
-1496 out of 1748 people found the following review useful.
+980 out of 1149 people found the following review useful.
 </div>
 
-<b>Tied for the best movie I have ever seen</b>, 26 November 2003
+<b>Prepare to be moved</b>, 8 February 2001
 <br>
 
-<div class="tinystarbar" title="10/10"><div style="width: 100px;"><a></a></div></div>
 
 <div class="small">
 Author:
-<a href="/user/ur2509775/comments">carflo</a>
+<a href="/user/ur1005460/comments">speedreid</a>
 
 <small>
-from Texas
+from Westerville, Ohio
 </small>
 
 </div>
@@ -1003,32 +1002,23 @@ from Texas
 
 </p>
 <p>
-Why do I want to write the 234th comment on The Shawshank Redemption? I
-am not sure - almost everything that could be possibly said about it
-has been said. But like so many other people who wrote comments, I was
-and am profoundly moved by this simple and eloquent depiction of hope
-and friendship and redemption. <br/><br/>The only other movie I have ever seen that effects me as strongly is To
-Kill a Mockingbird. Both movies leave me feeling cleaner for having
-watched them.<br/><br/>I didn&#x27;t intend to see this movie at all: I do not like prison movies
-and I don&#x27;t normally watch them. I work at a branch library and one day
-as I was checking The Shawshank Redemption out to one of our older
-patrons, she said to me, &#x22;Whenever I feel down or depressed, I check
-out this movie and watch it and it always makes me feel better.&#x22; At the
-time, I thought that was very strange. One day there was nothing on TV
-except things I absolutely would not watch under any circumstance or
-things that I had seen too many times already. I remembered what she
-said, so I watched it. I have watched it many many times since then and
-it gets better with every showing.<br/><br/>No action, no special effects - just men in prison uniforms talking to
-each other.<br/><br/>The Shawshank Redemption and To Kill a Mockingbird are the best movies
-I have ever seen. I do not judge it by it&#x27;s technical merits - I don&#x27;t
-really care about that. I have read that Citizen Kane or The Godfather
-or this or that movie is the best movie ever made. They may have the
-best technique or be the most influential motion pictures ever made,
-but not the best. The best movies are ones that touch the soul. It
-takes a movie like The Shawshank Redemption to touch the soul.
+
+I have never seen such an amazing film since I saw The Shawshank Redemption.
+Shawshank encompasses friendships, hardships, hopes, and dreams.  And what
+is so great about the movie is that it moves you, it gives you hope.  Even
+though the circumstances between the characters and the viewers are quite
+different, you don't feel that far removed from what the characters are
+going through.<br/><br/>It is a simple film, yet it has an everlasting message.  Frank Darabont
+didn't need to put any kind of outlandish special effects to get us to love
+this film, the narration and the acting does that for him.  Why this movie
+didn't win all seven Oscars is beyond me, but don't let that sway you to not
+see this film, let its ranking on the IMDb's top 250 list sway you, let your
+friends recommendation about the movie sway you.<br/><br/>Set aside a little over two hours tonight and rent this movie.  You will
+finally understand what everyone is talking about and you will understand
+why this is my all time favorite movie.
 </p>
 
-<div class="yn" id="ynd_349418">
+<div class="yn" id="ynd_348718">
 <form method="get" action="/register/">
 <input type="hidden" name="why" value="comment_vote">
 Was the above review useful to you?
@@ -1056,6 +1046,16 @@ Discuss this movie with other users on <a href="/title/tt0111161/board" onClick=
 </tr>
 
 <tr class="even">
+<td><a href="/rg/title-tease/boards-subject/title/tt0111161/board/nest/207745862">504116 of 866084 votes marked 10/10</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur5669875/boards/profile">Guitarboy5005</a></td>
+</tr>
+
+<tr class="odd">
+<td><a href="/rg/title-tease/boards-subject/title/tt0111161/board/nest/208783139">This should have been best picture over Forest Gump</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur11122420/boards/profile">rhernandez2288</a></td>
+</tr>
+
+<tr class="even">
 <td><a href="/rg/title-tease/boards-subject/title/tt0111161/board/nest/210708077">Is this the only film that has higher than 900, 000 ratings? </a></td>
 <td><a href="/rg/title-tease/boards-user/user/ur36481667/boards/profile">jackdaly1996</a></td>
 </tr>
@@ -1066,18 +1066,8 @@ Discuss this movie with other users on <a href="/title/tt0111161/board" onClick=
 </tr>
 
 <tr class="even">
-<td><a href="/rg/title-tease/boards-subject/title/tt0111161/board/nest/208783139">This should have been best picture over Forest Gump</a></td>
-<td><a href="/rg/title-tease/boards-user/user/ur11122420/boards/profile">rhernandez2288</a></td>
-</tr>
-
-<tr class="odd">
 <td><a href="/rg/title-tease/boards-subject/title/tt0111161/board/nest/210850352">I love how over 22,000 people</a></td>
 <td><a href="/rg/title-tease/boards-user/user/ur23152879/boards/profile">dannychaplain</a></td>
-</tr>
-
-<tr class="even">
-<td><a href="/rg/title-tease/boards-subject/title/tt0111161/board/nest/210539796">Being a Banker back then.....</a></td>
-<td><a href="/rg/title-tease/boards-user/user/ur1529501/boards/profile">swtdelt</a></td>
 </tr>
 
 </table>
@@ -1189,7 +1179,7 @@ If you enjoyed this title, our database also recommends:
  </div>
 </div>
 
-<div id="servertime" time="358.444" treatment="control"></div>
+<div id="servertime" time="1012.192" treatment="control"></div>
 
 <div id="criticalcontent" data-selector="#primary-poster, #title-media-strip img"></div>
 
@@ -1342,7 +1332,7 @@ ad_utils.register_ad('bottom_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=728x90,2x1;p=b;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-original-width="728" data-original-height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;ord=681987581425?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;ord=681987581425?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;ord=653229052550?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;m=R;tt=f;b=t250;b=t250a;g=cr;g=dr;k=c;coo=usa;id=tt0111161;fv=1;ka=0;ord=653229052550?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="bottom_ad_reflow_helper"></div>
@@ -1360,9 +1350,9 @@ ad_utils.register_ad('bottom_ad');
 
 </layer>
 </div>
-<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=136191081529387" width="1" height="1" alt="" border="0">
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=136191795932264" width="1" height="1" alt="" border="0">
 </div> <!-- id="wrapper" -->
-<!-- h=iop540 i=2013-02-25 s=legacy(akas) t='Tue Feb 26 12:33:35 2013' -->
+<!-- h=iop523 i=2013-02-26 s=legacy(akas) t='Tue Feb 26 14:32:38 2013' -->
 <script src="http://i.media-imdb.com/images/SF539be3987208630802e712857c51a6c9/js/jquery.js" ></script><script src="http://i.media-imdb.com/images/SF144de7d1cf27a8b0d644dc29e818bb29/js/cc/title/main.js" ></script><script src="http://i.media-imdb.com/images/SF4f789f206c87a31b26eb8666da48322e/js/app/win7/sitemode.js" ></script><script src="http://i.media-imdb.com/images/SF72867cac47f3d7e883837477537ab0a1/js/vote.js" ></script><script type="text/javascript">jQuery(function(){generic.document_is_ready()})</script><!-- Begin SIS-SW code --> 
 <iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 

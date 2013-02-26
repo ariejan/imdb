@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
-Date: Tue, 26 Feb 2013 20:33:29 GMT
+Date: Tue, 26 Feb 2013 22:32:33 GMT
 Server: Server
 Cache-Control: private
 Cneonction: close
 Content-Type: text/html
-Set-Cookie: uu=BCYmB5KZJ4PkM2wwy9xNUqSVxonJms41AtaYpg9D2y-9ZmxVlvtcCI-xpEGQMkesky27LseBZXagtUkpl_n9AaGhO1ZOCNqrmFuKyvUbS-wWPuzkbcOlvRV-dBWj1BYyct86K6X7_ahbbwDx578DNdD8huGZL0JG-ZRlXVYKG2GVG34;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
-Set-Cookie: cs=CNK0plIOGfMe7aNKivf0ewCmW+248W26owHlqiOCbjmjog6pMKHNGbCxbbqm1js64JFtupPXeIzTFFseN9HNKeCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: uu=BCYmDyyTrpuLDOfR0zP6t6-qWx4npJXIaxAqQopeiSAuGHHyhB46LGgQBxJ2iHpX7fZSLBF30qaxwNZ5xaHXX_Hv23bSD4D7OlgKc8kRYuYsekQSb1Sheed6turT5zWRWtsbz03oHgwrhlhGHktoxFHCs9PcBKnz0DAV5kGRvIkYWy8;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=ivmKDa5b5oWQp3SdQMipmgeBbbqgkVqM8BkNuqPCXTKzAn7JM4Je2bCRXRoA0U26oKcq7CUxbbqj5bstB9HN2YCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Wed, 27 Feb 2013 08:00:00 GMT;path=/;domain=.imdb.com
 Vary: Accept-Encoding,User-Agent
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
@@ -20,7 +20,7 @@ Transfer-Encoding: chunked
 <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
 <script>
 var addClickstreamHeadersToAjax = function(xhr) {
-    xhr.setRequestHeader("x-imdb-parent-id", "0X48PHVJGVR4FA2JKYM2");
+    xhr.setRequestHeader("x-imdb-parent-id", "1CYX45NPM4K4511406DP");
 };
 </script>
 
@@ -54,7 +54,7 @@ var addClickstreamHeadersToAjax = function(xhr) {
 <link rel="search" type="application/opensearchdescription+xml"
       href="http://i.media-imdb.com/images/SFccbe1e4d909ef8b8077201c3c5aac349/imdbsearch.xml" title="IMDb" />
 <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
-<script type="text/javascript">var __vkey = '1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '7.5';</script>
+<script type="text/javascript">var __vkey = 'e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX';var __vrtg = '7.5';</script>
 <meta property="og:type" content="movie" />
 <meta property="fb:app_id" content="115109575169727" />
 <meta property="og:title" content="Star Trek: First Contact (1996)" />
@@ -68,15 +68,15 @@ generic.monitoring.set_forester_info("title");
 generic.monitoring.set_twilight_info(
     "title_subpage", 
     "Other", 
-    "ff9ced2b4662c788bca279fb447169da8828f845", 
-    "2013-02-26T20%3A33%3A29GMT", 
+    "a324e2fc9e88926e2683e77f0b62094a88a062c2", 
+    "2013-02-26T22%3A32%3A33GMT", 
     "http://s.media-imdb.com/twilight/?");
 
 generic.send_csm_head_metrics && generic.send_csm_head_metrics();
 
 generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 44851;
-generic.days_to_midnight = 0.519108796296296;
+generic.seconds_to_midnight = 37707;
+generic.days_to_midnight = 0.436423611111111;
 custom.full_page.data_url = "http://i.media-imdb.com/images/SF52343caf319e887027f13568332cdfd7/a/js/graffiti_data.js";
 ad_utils.ad_prediction.init();
 consoleLog('advertising initialized','ads');
@@ -146,7 +146,7 @@ ad_utils.register_ad('top_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-original-width="0" data-original-height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;ord=669408843736?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;ord=669408843736?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;ord=420990405953?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=2;sz=728x90,1008x150,1008x200,1008x66,1008x30,970x250,9x1;p=t;p=top;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;ord=420990405953?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_ad_reflow_helper"></div>
@@ -522,7 +522,7 @@ ad_utils.register_ad('top_ad');
 
 <div id="action-box" class="action-box">
 <a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Famazon%2Fvi1675796505%2F';window.open(this.href+'offsite','_blank');
-                 return false;"     href="/video/amazon/vi1675796505/"    class="linkasbutton-primary" data-rid="0X48PHVJGVR4FA2JKYM2" data-video="vi1675796505" data-context="amazon" >Watch It</a>
+                 return false;"     href="/video/amazon/vi1675796505/"    class="linkasbutton-primary" data-rid="1CYX45NPM4K4511406DP" data-video="vi1675796505" data-context="amazon" >Watch It</a>
 
   <p>at Amazon</p>
 
@@ -619,14 +619,14 @@ ad_utils.register_ad('top_ad');
 <div class="media_strip_thumbs">
 <div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm3858807040/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNzEwNTg0NjUzOV5BMl5BanBnXkFtZTcwNTc5MzE0NQ@@._V1._CR340,0,1367,1367_SS90_.jpg" border="0"></a></div>
 <div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm3842029824/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMzgzODAwMjU3MV5BMl5BanBnXkFtZTcwNjc5MzE0NQ@@._V1._CR340,0,1367,1367_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/event-3/media/rm960338432/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTU3OTY3MzMyMl5BMl5BanBnXkFtZTYwMDM3MTcz._V1._CR0,0,468,468_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/behind_the_scenes-4/media/rm1192204288/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTI1MTgzNDMzMV5BMl5BanBnXkFtZTYwNDg1MDk2._V1._CR88,0,298,298_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm2064619520/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ5ODE0MDc2Nl5BMl5BanBnXkFtZTYwNjc1MDk2._V1._CR79,0,317,317_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/event-3/media/rm121477632/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTk5NTQ1NjUxMF5BMl5BanBnXkFtZTYwNDM3MTcz._V1._CR0,0,468,468_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm2047842304/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTA3NjY4MjU0MTBeQTJeQWpwZ15BbWU2MDc3NTA5Ng@@._V1._CR84,0,307,307_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/behind_the_scenes-5/media/rm1192204288/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTI1MTgzNDMzMV5BMl5BanBnXkFtZTYwNDg1MDk2._V1._CR88,0,298,298_SS90_.jpg" border="0"></a></div>
 <div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm2031065088/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjA5ODQ2MDM1NV5BMl5BanBnXkFtZTYwMDg1MDk2._V1._CR82,0,310,310_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-7/media/rm1175427072/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTkxODIzMjQ2Nl5BMl5BanBnXkFtZTYwNjg1MDk2._V1._CR69,0,336,336_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-7/media/rm2064619520/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ5ODE0MDc2Nl5BMl5BanBnXkFtZTYwNjc1MDk2._V1._CR79,0,317,317_SS90_.jpg" border="0"></a></div>
 <div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm2014287872/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTg0Njk1MDA2NF5BMl5BanBnXkFtZTYwMTg1MDk2._V1._CR84,0,306,306_SS90_.jpg" border="0"></a></div>
 <div class="media_strip_thumb"><a href="/rg/photos-title/behind_the_scenes-9/media/rm1158649856/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTUxMTA1Mzg3OV5BMl5BanBnXkFtZTYwODg1MDk2._V1._CR77,0,320,320_SS90_.jpg" border="0"></a></div>
-<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm2047842304/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTA3NjY4MjU0MTBeQTJeQWpwZ15BbWU2MDc3NTA5Ng@@._V1._CR84,0,307,307_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm1175427072/tt0117731"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTkxODIzMjQ2Nl5BMl5BanBnXkFtZTYwNjg1MDk2._V1._CR69,0,336,336_SS90_.jpg" border="0"></a></div>
 </div>
 </td>
 
@@ -662,7 +662,7 @@ ad_utils.register_ad('top_rhs');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-original-width="300" data-original-height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;ord=669408843736?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;ord=669408843736?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;ord=420990405953?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=3;sz=300x250,300x600,11x1;p=tr;p=tc;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;ord=420990405953?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="top_rhs_reflow_helper"></div>
@@ -695,7 +695,7 @@ ad_utils.register_ad('top_rhs');
         <div class="outer">
           <div id="general-voting-stars" class="inner" style="width: 150px"></div>
           <div class="starbar-votes">
-            <a title="10" href="vote?v=10;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+            <a title="10" href="vote?v=10;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
           </div>
         </div>
       </div>
@@ -704,7 +704,7 @@ ad_utils.register_ad('top_rhs');
         <b>7.5/10</b> 
            
            
-           &nbsp;&nbsp;<a href="ratings" class="tn15more">68,640 votes</a>&nbsp;&raquo;
+           &nbsp;&nbsp;<a href="ratings" class="tn15more">68,677 votes</a>&nbsp;&raquo;
         
         
       </div>
@@ -717,7 +717,7 @@ ad_utils.register_ad('top_rhs');
         <div class="outer">
           <div id="personal-voting-stars" class="inner" style="width: 0px"></div>
           <div class="starbar-votes">
-            <a title="10" href="vote?v=10;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+            <a title="10" href="vote?v=10;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
           </div>
         </div>
       </div>
@@ -727,7 +727,7 @@ ad_utils.register_ad('top_rhs');
         <div class="user">
           <div class="extra">
             <b><span id="voteuser"></span>/10</b>
-            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=1caESe4YGP1PTjs4PNAZcAB%2FqjlzeVo5c3opSkcuGTpgfhqZ4%2FlaOXN6WbpzWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
+            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=e3%2FQ8MUyAmb9mT7NFkvZkgB%2FqjlzeVo5c3opSkcuGTpgfhqZ41laOXN6KaojWjkq5zn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
              | <a href="/list/ratings">history</a>)
           </div>
         </div>
@@ -869,7 +869,7 @@ Nominated for Oscar.
 <div class="info">
 <h5>User Reviews:</h5>
 <div class="info-content">
-One of the best sci-fi movies ever!
+Not just the best Star Trek film
 <a class="tn15more inline" href="#comment">See more (257 total)</a>&nbsp;&raquo;
 </div>
 </div>
@@ -887,7 +887,7 @@ One of the best sci-fi movies ever!
                             client:   "ca-amazon-imdb_js",    
                             title:    "Sponsored Links",    
                             help:     "What&#x27;s This?",    
-                            hints:    "genetic mutation,vulcan,nightclub,flashback,spaceship"   
+                            hints:    "directed by star,counsellor,time travel,takeover,shot in the chest"   
                           };     
      </script>   
          
@@ -899,17 +899,17 @@ One of the best sci-fi movies ever!
              src="/images/a/ifb/google_afc.html#key:MIDDLE_CENTER">     
      </iframe>   
 
-<hr />      <h3>Additional Details</h3><div class="info"><h5>Also Known As:</h5><div class="info-content">                                     "Star Trek 8" - USA <em>(informal alternative title)</em><br>      "Star Trek VIII: First Contact" - USA <em>(DVD box title)</em><br>     "Star Trek: First Contact" - Australia <em>(imdb display title)</em><br>    "Star Trek: Primer contacto" - Argentina <em>(imdb display title)</em>, Spain <em>(imdb display title)</em><br>    "Star trek: Premier contact" - Canada <em>(French title)</em> <em>(imdb display title)</em>, France <em>(imdb display title)</em><br>    "Jornada nas Estrelas - Primeiro Contato" - Brazil <em>(imdb display title)</em><br>    "Kapcsolatfelv&#xE9;tel" - Hungary <em>(short title)</em><br>    "Primo contatto" - Italy <em>(imdb display title)</em><br>    "Star Trek - Primo contatto" - Italy <em>(video title)</em><br>    "Star Trek: Der erste Kontakt" - Germany<br>    "Star Trek: Ensimm&#xE4;inen yhteys" - Finland <em>(imdb display title)</em><br>    "Star Trek: First Contact" - Sweden <em>(imdb display title)</em><br>    "Star Trek: I proti epafi" - Greece <em>(video title)</em><br>    "Star Trek: Kapcsolatfelv&#xE9;tel" - Hungary <em>(imdb display title)</em><br>    "Star Trek: O Primeiro Contacto" - Portugal <em>(imdb display title)</em><br>    "Star Trek: Pierwszy kontakt" - Poland <em>(imdb display title)</em><br>    "Star Trek: Proti epafi" - Greece <em>(imdb display title)</em><br>    "Star trek - den f&#xF6;rsta kontakten" - Finland <em>(Swedish title)</em> <em>(imdb display title)</em><br>    "Svezdane staze 8 - Prvi kontakt" - Serbia <em>(imdb display title)</em><br>    "Uzay yolu - Ilk temas" - Turkey <em>(Turkish title)</em> <em>(imdb display title)</em><br>    "Viaje a las estrellas: Primer contacto" - Mexico <em>(imdb display title)</em><br>    "Zvezdne steze - Prvo srecanje" - Slovenia <em>(imdb display title)</em><br>    "Zvjezdane staze: Prvi kontakt" - Croatia <em>(imdb display title)</em><br> <a class="tn15more" href="/title/tt0117731/releaseinfo#akas" onClick="(new Image()).src='/rg/title-tease/akas/images/b.gif?link=/title/tt0117731/releaseinfo#akas';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5><a href="/mpaa">MPAA</a>:</h5><div class="info-content">Rated PG-13 for some sci-fi adventure violence</div></div> <div class="info"><h5>Parents Guide:</h5><div class="info-content"><a href="parentalguide">View content advisory for parents</a></div></div> <div class="info"><h5>Runtime:</h5><div class="info-content">111 min </div></div><div class="info"><h5>Country:</h5><div class="info-content"><a href="/country/us">USA</a></div></div><div class="info"><h5>Language:</h5><div class="info-content"><a href="/language/en">English</a></div></div><div class="info"><h5>Color:</h5><div class="info-content"><a href="/search/title?colors=color">Color</a> </div></div><div class="info"><h5>Aspect Ratio:</h5><div class="info-content">2.35 : 1 <a class="tn15more inline" href="/title/tt0117731/technical" onClick="(new Image()).src='/rg/title-tease/aspect/images/b.gif?link=/title/tt0117731/technical';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Sound Mix:</h5><div class="info-content"><a href="/search/title?sound_mixes=dts">DTS</a>  | <a href="/search/title?sound_mixes=dolby_digital">Dolby Digital</a> </div></div><div class="info"><h5>Certification:</h5><div class="info-content"><a href="/search/title?certificates=ca:g">Canada:G</a> <i>(Quebec)</i> | <a href="/search/title?certificates=ca:pg">Canada:PG</a> <i>(Manitoba/Nova Scotia/Ontario)</i> | <a href="/search/title?certificates=it:t">Italy:T</a>  | <a href="/search/title?certificates=is:12">Iceland:12</a>  | <a href="/search/title?certificates=kr:15">South Korea:15</a>  | <a href="/search/title?certificates=br:livre">Brazil:Livre</a>  | <a href="/search/title?certificates=ar:13">Argentina:13</a>  | <a href="/search/title?certificates=au:pg">Australia:PG</a>  | <a href="/search/title?certificates=fi:k_12_9">Finland:K-12/9</a>  | <a href="/search/title?certificates=fr:u">France:U</a>  | <a href="/search/title?certificates=de:12">Germany:12</a> <i>(w)</i> | <a href="/search/title?certificates=ie:12">Ireland:12</a>  | <a href="/search/title?certificates=nl:12">Netherlands:12</a>  | <a href="/search/title?certificates=pt:m_12">Portugal:M/12</a>  | <a href="/search/title?certificates=es:13">Spain:13</a>  | <a href="/search/title?certificates=se:11">Sweden:11</a>  | <a href="/search/title?certificates=gb:12">UK:12</a>  | <a href="/search/title?certificates=us:pg_13">USA:PG-13</a> <i>(No. 34447)</i> | <a href="/search/title?certificates=sg:pg">Singapore:PG</a> </div></div><div class="info"><h5>Filming Locations:</h5><div class="info-content"><a  href="/search/title?locations=Angeles%20National%20Forest,%20California,%20USA">Angeles National Forest, California, USA</a><a class="tn15more inline" href="/title/tt0117731/locations" onClick="(new Image()).src='/rg/title-tease/locations/images/b.gif?link=/title/tt0117731/locations';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Company:</h5><div class="info-content"><a href="/company/co0023400/">Paramount Pictures</a><a class="tn15more inline" href="/title/tt0117731/companycredits">See more</a>&nbsp;&raquo;</div></div><hr/><h3>Did You Know?</h3> <div class="info"><h5>Trivia:</h5><div class="info-content">The Norway-class starship is seen for the first (and only) time in this film; the CGI &#x22;model&#x22; of the ship was subsequently lost due to a computer glitch, and so the class never appeared again in any other Trek show or film.<a class="tn15more inline" href="/title/tt0117731/trivia" onClick="(new Image()).src='/rg/title-tease/trivia/images/b.gif?link=/title/tt0117731/trivia';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Goofs:</h5><div class="info-content">Revealing mistakes: When the spaceship &#x27;Phoenix&#x27; takes off the people are shown looking at the take-off. At this distance, the people would be all vaporised by the rocket exhaust.<a class="tn15more inline"href="/title/tt0117731/trivia?tab=gf&" onClick="(newImage()).src='/rg/title-tease/goofs/images/b.gif?link=/title/tt0117731/trivia?tab=gf&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Quotes:</h5><div class="info-content">[<i class="fine">first lines</i>] <br><b><a href="/name/nm0000481/">Borg Queen</a></b>:Locutus... <br><b><a href="/name/nm0001772/">Captain Jean-Luc Picard</a></b>:I am Locutus of Borg. Resistance is futile.<br><a class="tn15more" href="/title/tt0117731/quotes" onClick="(new Image()).src='/rg/title-tease/quotes/images/b.gif?link=/title/tt0117731/quotes';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Movie Connections:</h5><div class="info-content">References <a href="/title/tt0708787/">&#x22;Star Trek: The Next Generation: The Big Goodbye (#1.11)&#x22;</a> (1988)<a class="tn15more inline"href="/title/tt0117731/trivia?tab=mc&" onClick="(newImage()).src='/rg/title-tease/movieconnections/images/b.gif?link=/title/tt0117731/trivia?tab=mc&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Soundtrack:</h5><div class="info-content">Moonlight Becomes You<a class="tn15more inline" href="/title/tt0117731/soundtrack" onClick="(new Image()).src='/rg/title-tease/soundtrack/images/b.gif?link=/title/tt0117731/soundtrack';">See more</a>&nbsp;&raquo;</div></div> 
+<hr />      <h3>Additional Details</h3><div class="info"><h5>Also Known As:</h5><div class="info-content">                                     "Star Trek 8" - USA <em>(informal alternative title)</em><br>      "Star Trek VIII: First Contact" - USA <em>(DVD box title)</em><br>     "Star Trek: First Contact" - Australia <em>(imdb display title)</em><br>    "Star Trek: Primer contacto" - Argentina <em>(imdb display title)</em>, Spain <em>(imdb display title)</em><br>    "Star trek: Premier contact" - Canada <em>(French title)</em> <em>(imdb display title)</em>, France <em>(imdb display title)</em><br>    "Jornada nas Estrelas - Primeiro Contato" - Brazil <em>(imdb display title)</em><br>    "Kapcsolatfelv&#xE9;tel" - Hungary <em>(short title)</em><br>    "Primo contatto" - Italy <em>(imdb display title)</em><br>    "Star Trek - Primo contatto" - Italy <em>(video title)</em><br>    "Star Trek: Der erste Kontakt" - Germany<br>    "Star Trek: Ensimm&#xE4;inen yhteys" - Finland <em>(imdb display title)</em><br>    "Star Trek: First Contact" - Sweden <em>(imdb display title)</em><br>    "Star Trek: I proti epafi" - Greece <em>(video title)</em><br>    "Star Trek: Kapcsolatfelv&#xE9;tel" - Hungary <em>(imdb display title)</em><br>    "Star Trek: O Primeiro Contacto" - Portugal <em>(imdb display title)</em><br>    "Star Trek: Pierwszy kontakt" - Poland <em>(imdb display title)</em><br>    "Star Trek: Proti epafi" - Greece <em>(imdb display title)</em><br>    "Star trek - den f&#xF6;rsta kontakten" - Finland <em>(Swedish title)</em> <em>(imdb display title)</em><br>    "Svezdane staze 8 - Prvi kontakt" - Serbia <em>(imdb display title)</em><br>    "Uzay yolu - Ilk temas" - Turkey <em>(Turkish title)</em> <em>(imdb display title)</em><br>    "Viaje a las estrellas: Primer contacto" - Mexico <em>(imdb display title)</em><br>    "Zvezdne steze - Prvo srecanje" - Slovenia <em>(imdb display title)</em><br>    "Zvjezdane staze: Prvi kontakt" - Croatia <em>(imdb display title)</em><br> <a class="tn15more" href="/title/tt0117731/releaseinfo#akas" onClick="(new Image()).src='/rg/title-tease/akas/images/b.gif?link=/title/tt0117731/releaseinfo#akas';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5><a href="/mpaa">MPAA</a>:</h5><div class="info-content">Rated PG-13 for some sci-fi adventure violence</div></div> <div class="info"><h5>Parents Guide:</h5><div class="info-content"><a href="parentalguide">View content advisory for parents</a></div></div> <div class="info"><h5>Runtime:</h5><div class="info-content">111 min </div></div><div class="info"><h5>Country:</h5><div class="info-content"><a href="/country/us">USA</a></div></div><div class="info"><h5>Language:</h5><div class="info-content"><a href="/language/en">English</a></div></div><div class="info"><h5>Color:</h5><div class="info-content"><a href="/search/title?colors=color">Color</a> </div></div><div class="info"><h5>Aspect Ratio:</h5><div class="info-content">2.35 : 1 <a class="tn15more inline" href="/title/tt0117731/technical" onClick="(new Image()).src='/rg/title-tease/aspect/images/b.gif?link=/title/tt0117731/technical';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Sound Mix:</h5><div class="info-content"><a href="/search/title?sound_mixes=dts">DTS</a>  | <a href="/search/title?sound_mixes=dolby_digital">Dolby Digital</a> </div></div><div class="info"><h5>Certification:</h5><div class="info-content"><a href="/search/title?certificates=ca:g">Canada:G</a> <i>(Quebec)</i> | <a href="/search/title?certificates=ca:pg">Canada:PG</a> <i>(Manitoba/Nova Scotia/Ontario)</i> | <a href="/search/title?certificates=it:t">Italy:T</a>  | <a href="/search/title?certificates=is:12">Iceland:12</a>  | <a href="/search/title?certificates=kr:15">South Korea:15</a>  | <a href="/search/title?certificates=br:livre">Brazil:Livre</a>  | <a href="/search/title?certificates=ar:13">Argentina:13</a>  | <a href="/search/title?certificates=au:pg">Australia:PG</a>  | <a href="/search/title?certificates=fi:k_12_9">Finland:K-12/9</a>  | <a href="/search/title?certificates=fr:u">France:U</a>  | <a href="/search/title?certificates=de:12">Germany:12</a> <i>(w)</i> | <a href="/search/title?certificates=ie:12">Ireland:12</a>  | <a href="/search/title?certificates=nl:12">Netherlands:12</a>  | <a href="/search/title?certificates=pt:m_12">Portugal:M/12</a>  | <a href="/search/title?certificates=es:13">Spain:13</a>  | <a href="/search/title?certificates=se:11">Sweden:11</a>  | <a href="/search/title?certificates=gb:12">UK:12</a>  | <a href="/search/title?certificates=us:pg_13">USA:PG-13</a> <i>(No. 34447)</i> | <a href="/search/title?certificates=sg:pg">Singapore:PG</a> </div></div><div class="info"><h5>Filming Locations:</h5><div class="info-content"><a  href="/search/title?locations=Angeles%20National%20Forest,%20California,%20USA">Angeles National Forest, California, USA</a><a class="tn15more inline" href="/title/tt0117731/locations" onClick="(new Image()).src='/rg/title-tease/locations/images/b.gif?link=/title/tt0117731/locations';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Company:</h5><div class="info-content"><a href="/company/co0023400/">Paramount Pictures</a><a class="tn15more inline" href="/title/tt0117731/companycredits">See more</a>&nbsp;&raquo;</div></div><hr/><h3>Did You Know?</h3> <div class="info"><h5>Trivia:</h5><div class="info-content">The Norway-class starship is seen for the first (and only) time in this film; the CGI &#x22;model&#x22; of the ship was subsequently lost due to a computer glitch, and so the class never appeared again in any other Trek show or film.<a class="tn15more inline" href="/title/tt0117731/trivia" onClick="(new Image()).src='/rg/title-tease/trivia/images/b.gif?link=/title/tt0117731/trivia';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Goofs:</h5><div class="info-content">Revealing mistakes: After Picard has convinced Lily of him being a friendly, she puts her earlier acquired phaser in his hand. Shortly before it touches Picard&#x27;s hand, the emitter lights up, indicating that <a href="/name/nm0005569/">Alfre Woodard</a> (Lily) has touched the fire button of the prop, which lit up to show the post-production people where to insert a phaser beam effect.<a class="tn15more inline"href="/title/tt0117731/trivia?tab=gf&" onClick="(newImage()).src='/rg/title-tease/goofs/images/b.gif?link=/title/tt0117731/trivia?tab=gf&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Quotes:</h5><div class="info-content">[<i class="fine">first lines</i>] <br><b><a href="/name/nm0000481/">Borg Queen</a></b>:Locutus... <br><b><a href="/name/nm0001772/">Captain Jean-Luc Picard</a></b>:I am Locutus of Borg. Resistance is futile.<br><a class="tn15more" href="/title/tt0117731/quotes" onClick="(new Image()).src='/rg/title-tease/quotes/images/b.gif?link=/title/tt0117731/quotes';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Movie Connections:</h5><div class="info-content">Referenced in <a href="/title/tt1397944/">&#x22;South Park: Pinewood Derby (#13.6)&#x22;</a> (2009)<a class="tn15more inline"href="/title/tt0117731/trivia?tab=mc&" onClick="(newImage()).src='/rg/title-tease/movieconnections/images/b.gif?link=/title/tt0117731/trivia?tab=mc&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Soundtrack:</h5><div class="info-content">Moonlight Becomes You<a class="tn15more inline" href="/title/tt0117731/soundtrack" onClick="(new Image()).src='/rg/title-tease/soundtrack/images/b.gif?link=/title/tt0117731/soundtrack';">See more</a>&nbsp;&raquo;</div></div> 
 <hr/>
 <h3>FAQ</h3>
 
-<a href="/title/tt0117731/faq#.2.1.8" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0117731/faq#.2.1.8';">What is 'First Contact' about?</a>
-<br/>
-
-<a href="/title/tt0117731/faq#.2.1.7" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0117731/faq#.2.1.7';">Who returns from the previous movie?</a>
+<a href="/title/tt0117731/faq#.2.1.12" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0117731/faq#.2.1.12';">How many movies are in the Star Trek franchise?</a>
 <br/>
 
 <a href="/title/tt0117731/faq#.2.1.9" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0117731/faq#.2.1.9';">Where did the Enterprise crew go when they left in their escape pods?</a>
+<br/>
+
+<a href="/title/tt0117731/faq#.2.1.1" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0117731/faq#.2.1.1';">In what year does this series take place?</a>
 <br/>
 
 <a class="tn15more" href="/title/tt0117731/faq" onClick="(new Image()).src='/rg/title-tease/faq-more/images/b.gif?link=/title/tt0117731/faq';">See more</a>&nbsp;&raquo;
@@ -941,20 +941,20 @@ function ynd(id, status) {
 //-->
 </script>
 <div class="small">
-98 out of 114 people found the following review useful.
+97 out of 113 people found the following review useful.
 </div>
 
-<b>One of the best sci-fi movies ever!</b>, 15 November 1999
+<b>Not just the best Star Trek film</b>, 23 February 2005
 <br>
 
 <div class="tinystarbar" title="10/10"><div style="width: 100px;"><a></a></div></div>
 
 <div class="small">
 Author:
-<a href="/user/ur0507358/comments">rghawki</a>
+<a href="/user/ur4855596/comments">ashley-120</a>
 
 <small>
-from Toronto, Ontario
+from United Kingdom
 </small>
 
 </div>
@@ -962,37 +962,23 @@ from Toronto, Ontario
 
 </p>
 <p>
-
-This is one of the two best Star Trek movies ever made (the other being
-&quot;Wrath of Khan&quot;). Everything about this film is superb.... acting, set
-design, special effects, plot, and action. The story progresses at a
-breathtaking pace, and from the first 10 minutes when the Enterprise is
-locked in a life-and-death struggle with one of the best villains in all of
-sci-fi history (the Borg), to a perfect ending; there isn't a wasted or
-redundant moment. This is a film that both trekkers and non-trekkers can
-enjoy because the film explains enough about the back-story to get non-fans
-up to speed, and does it in a way that will keep the fans interest (check
-out the excellent opening sequence that introduces Picard's first encounter
-with the Borg and explains much of his implacable and obsessive attitude
-towards them throughout the film).<br/><br/>In addition to fine performances from the crew (highlighted as always by
-Patrick Stewart as Captain Picard), the supporting cast is more than equal
-to the task. Its too bad that the crew didn't bring Alfre Woodward back
-home
-with them........ she's one of the very few actors/actresses in Star Trek
-history who have been able to match Patrick Stewart's personality, acting
-skills, and histrionics. Also, I thought I detected a touch of romance
-between the two that could have been further developed at another
-time.<br/><br/>James Cromwell makes a perfect Zefrem Cochrane. It was a humorous touch to
-portray him as somewhat of an anti-hero, in contrast to the god-like
-reverence with which the characters in the film viewed him from a distance
-of 300 years.<br/><br/>The protagonists in the film, the Borg, have never looked more dangerous.
-I'm glad that this film returned them to their &quot;roots&quot;, unlike their last
-few appearances in the television series in which they were becoming a
-little too domesticated.<br/><br/>This is a film to savor for any science fiction fan.
-9.5/10.0 !
+Probably my favourite film of all time. The thing about First Contact
+is that it's not just about Star Trek. If you don't like Star Trek but
+can live through the first 20 minutes you'll find a gem of a movie
+which is as much about the future of humanity &amp; an invention so
+wonderful as it is about Yet More Star Trek Plot.<br/><br/>Warp Speed - they've been saying that since Captain Kirk. But how did
+it happen? and why might it all not happen, our future could be in
+ruins and one flight of one makeshift spacecraft some time after world
+war III will make all the difference.<br/><br/>The on-screen relationship between Picard &amp; Lily is totally magic, as
+is the relationship between the Enterprise crew members - you get a
+sense of team, of family.<br/><br/>First Contact is one film I enjoy watching again &amp; again. The flight of
+the Phoenix is one scene I totally love, along with the end scenes.<br/><br/>The only sad thing about the movie is that you come away and deep down
+you know there is no Cochrain, no FTL engine around the corner. Well,
+not yet!<br/><br/>&quot;I envy you, the world you're going to&quot; &quot;I envy you, taking these first
+steps&quot;
 </p>
 
-<div class="yn" id="ynd_396307">
+<div class="yn" id="ynd_1027090">
 <form method="get" action="/register/">
 <input type="hidden" name="why" value="comment_vote">
 Was the above review useful to you?
@@ -1153,7 +1139,7 @@ If you enjoyed this title, our database also recommends:
  </div>
 </div>
 
-<div id="servertime" time="681.113" treatment="control"></div>
+<div id="servertime" time="518.518" treatment="control"></div>
 
 <div id="criticalcontent" data-selector="#primary-poster, #title-media-strip img"></div>
 
@@ -1306,7 +1292,7 @@ ad_utils.register_ad('bottom_ad');
 </script>
 <iframe data-bid-url="" data-dart-params="#imdb2.consumer.title/combined;!TILE!;sz=728x90,2x1;p=b;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;oe=iso-8859-1;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-original-width="728" data-original-height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
 
-<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;ord=669408843736?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;ord=669408843736?"  border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;ord=420990405953?" target="_blank"><img src="http://ad.doubleclick.net/ad/imdb2.consumer.title/combined;tile=1;sz=728x90,2x1;p=b;ct=com;g=th;g=ad;g=ac;g=sf;tt=f;id=tt0117731;coo=usa;g=baa;k=c;m=PG13;fv=1;ka=0;ord=420990405953?"  border="0" alt="advertisement" /></a></noscript>
 
 </div>
 <div id="bottom_ad_reflow_helper"></div>
@@ -1324,9 +1310,9 @@ ad_utils.register_ad('bottom_ad');
 
 </layer>
 </div>
-<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=13619108108512" width="1" height="1" alt="" border="0">
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a0f02303133303232363c21313038333830000001037a040379646370000001047&cb=136191795427038" width="1" height="1" alt="" border="0">
 </div> <!-- id="wrapper" -->
-<!-- h=iop740 i=2013-02-25 s=legacy(akas) t='Tue Feb 26 12:33:29 2013' -->
+<!-- h=iop2035 i=2013-02-26 s=legacy(akas) t='Tue Feb 26 14:32:33 2013' -->
 <script src="http://i.media-imdb.com/images/SF539be3987208630802e712857c51a6c9/js/jquery.js" ></script><script src="http://i.media-imdb.com/images/SF144de7d1cf27a8b0d644dc29e818bb29/js/cc/title/main.js" ></script><script src="http://i.media-imdb.com/images/SF4f789f206c87a31b26eb8666da48322e/js/app/win7/sitemode.js" ></script><script src="http://i.media-imdb.com/images/SF72867cac47f3d7e883837477537ab0a1/js/vote.js" ></script><script type="text/javascript">jQuery(function(){generic.document_is_ready()})</script><!-- Begin SIS-SW code --> 
 <iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 

@@ -35,6 +35,9 @@ IMDB_SAMPLES = {
   "http://akas.imdb.com/title/tt0036855/combined" => "tt0036855",
   "http://akas.imdb.com/title/tt0110912/combined" => "tt0110912",
   "http://akas.imdb.com/title/tt0468569/combined" => "tt0468569",
+  "http://akas.imdb.com/title/tt1520211/combined" => "tt1520211",
+  "http://akas.imdb.com/title/tt1520211/episodes?season=1" => "thewalkingdead-s1",
+  "http://akas.imdb.com/title/tt1628064/combined" => "thewalkingdead-s1e2"
 }
 
 unless ENV['LIVE_TEST']

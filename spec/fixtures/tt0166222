@@ -1,14 +1,13 @@
 HTTP/1.1 200 OK
-Date: Tue, 26 Feb 2013 20:33:34 GMT
+Date: Tue, 26 Feb 2013 22:32:37 GMT
 Server: Server
 Content-Type: text/html;charset=UTF-8
 Content-Language: en-US
 Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYrQTF1Tw3D3673unPu4GMrjxowfecwlBR0ppABNZAuqZNnNrQXzWRhRvlf%2Bx3O5WHaEKSlBAGn%0D%0Ash%2Bt3C%2BBIVEIdYmZkXQVQ%2B1ALM62AqXrVDDz2JYPlfzgsJCeJQ9yHdGapXiySvIRyD74TN0GIVhk%0D%0A%2FGzux6qgOi0QstCVqL9pYGOJjC2NspoAm7N84uvglBIG9685PMBjAW%2Bu37c%2BRrQ0w8zenbDjTZ5a%0D%0AuU2x5%2F9JcRXxnrqxPBum%2BSI9%2B%2FKwKe5fCSsdV7ToN6GQaRsxj29BiA%3D%3D%0D%0A; Domain=.imdb.com; Expires=Sun, 16-Mar-2081 23:47:41 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sun, 16-Mar-2081 23:47:41 GMT; Path=/
-Set-Cookie: session-id-time=1519677214; Domain=.imdb.com; Expires=Sun, 16-Mar-2081 23:47:41 GMT; Path=/
+Set-Cookie: uu=BCYk9a52OBDpjOAUwH6TKCU2U2O0xE7KkJk1c%2FhlBG0ff3lbEMoKqSeCRFx2oMZaV%2B1Las3lkAuq%0D%0AAdTw6YPtRmjNxykWi2V%2BIMgyXQ%2BN5UiN1hKCS3b13EE33AYOqmmyVrtItQZIVWGBT1pBWTGG2CND%0D%0AQx9H1PxgelG1oM5JZVUrQi74fCHbQJKQJo61jAHfi45ycCyIuv32lQxPDIWacSaZMnJrjX4ZCsjj%0D%0A1x%2FLSRV%2BwZp%2BXmnGUaJ8NjqsNik%2FGsJEU%2FjmdplNqpe3niYVuXce7g%3D%3D%0D%0A; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 01:46:44 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 01:46:44 GMT; Path=/
+Set-Cookie: session-id-time=1519684357; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 01:46:44 GMT; Path=/
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
-nnCoection: close
 Transfer-Encoding: chunked
 
 
@@ -50,10 +49,10 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
             <meta name="description" content="Directed by Ben Affleck.  With Jay Lacopo, Karla Montana, Johanna McCloy, Robert Koch. A first-time feature-film director (who's also the writer and producer) is casting the lead actress. We meet him talking to his wife about the picture and the process. We meet the actress, Sandy, negotiating with her roommate and talking by phone to her mother. Then, we watch Sandy audition for the director at the call-back session; also attending are the casting director and the production ..." />
             <meta property="og:description" content="Directed by Ben Affleck.  With Jay Lacopo, Karla Montana, Johanna McCloy, Robert Koch. A first-time feature-film director (who's also the writer and producer) is casting the lead actress. We meet him talking to his wife about the picture and the process. We meet the actress, Sandy, negotiating with her roommate and talking by phone to her mother. Then, we watch Sandy audition for the director at the call-back session; also attending are the casting director and the production ..." />
             <meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
-            <meta name="request_id" content="0PY5Y41S127KFXKAZGDJ" />
+            <meta name="request_id" content="1KT4A53SC311VFJQ8CZF" />
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
-<!-- h=ics-1d-i-307ade40.us-east-1 -->
+<!-- h=ics-1d-i-d8ac42a8.us-east-1 -->
 <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/imdb/css/collections/title_main_details-2490696504._V376216335_.css" />
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
         
@@ -75,13 +74,13 @@ generic.monitoring.set_forester_info("title");
 generic.monitoring.set_twilight_info(
 "title",
 "NL",
-"db89b76831913e37113c60e197bbee42855388a3",
-"2013-02-26T20%3A33%3A34GMT",
+"3e99cc9b2e1fd17923742e8bea203d5cbf417297",
+"2013-02-26T22%3A32%3A37GMT",
 "http://s.media-imdb.com/twilight/?");
 generic.send_csm_head_metrics && generic.send_csm_head_metrics();
 generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 41186;
-generic.days_to_midnight = 0.4766898155212402;
+generic.seconds_to_midnight = 34043;
+generic.days_to_midnight = 0.3940162062644958;
 custom.full_page.data_url = "http://z-ecx.images-amazon.com/images/G/01/imdbads/js/graffiti_data-2891791370._V397576203_.js";
 ad_utils.ad_prediction.init();
 consoleLog('advertising initialized','ads');
@@ -130,7 +129,7 @@ oncall();
 ad_utils.register_ad('top_ad');
 </script>
 <iframe data-dart-params="#imdb2.consumer.title/maindetails;!TILE!;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
-<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=11;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=11;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=11;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=570799730139?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=11;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=570799730139?" border="0" alt="advertisement" /></a></noscript>
 </div>
 <div id="top_ad_reflow_helper"></div>
 <script>ad_utils.render_ad_fast('top_ad');</script>
@@ -577,7 +576,7 @@ href="/r/tt_owntherights/https://secure.imdb.com/store/photos/"
 ad_utils.register_ad('top_rhs');
 </script>
 <iframe data-dart-params="#imdb2.consumer.title/maindetails;!TILE!;sz=300x250,300x600,300x300,11x1;p=tr;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
-<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=1;sz=300x250,300x600,300x300,11x1;p=tr;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=1;sz=300x250,300x600,300x300,11x1;p=tr;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=1;sz=300x250,300x600,300x300,11x1;p=tr;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=570799730139?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=1;sz=300x250,300x600,300x300,11x1;p=tr;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=570799730139?" border="0" alt="advertisement" /></a></noscript>
 </div>
 <div id="top_rhs_reflow_helper"></div>
 <script>ad_utils.render_ad_fast('top_rhs');</script>
@@ -614,7 +613,7 @@ ad_utils.register_ad('top_rhs');
   </div>
 
 <div id="rhs_cornerstone_wrapper" class="cornerstone_slot">
-<iframe marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" width="300" height="125" name="rhs_cornerstone" id="rhs_cornerstone" data-aax-url="http://aax-us-east.amazon-adsystem.com/x/getad?src=200&c=100&u=http%3A%2F%2Fwww.imdb.com%2F&sz=300x125&pt=title&slot=RHS&cb=671365469260"></iframe> <script>
+<iframe marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" width="300" height="125" name="rhs_cornerstone" id="rhs_cornerstone" data-aax-url="http://aax-us-east.amazon-adsystem.com/x/getad?src=200&c=100&u=http%3A%2F%2Fwww.imdb.com%2F&sz=300x125&pt=title&slot=RHS&cb=570799730139"></iframe> <script>
 ad_utils.register_ad('rhs_cornerstone');
 ad_utils.aax_render_ad('rhs_cornerstone');
 </script>
@@ -913,7 +912,7 @@ src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_46x22-2264473
 ad_utils.register_ad('btf_rhs2');
 </script>
 <iframe data-dart-params="#imdb2.consumer.title/maindetails;!TILE!;sz=300x250,16x1;p=br2;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="btf_rhs2" name="btf_rhs2" class="yesScript" width="300" height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
-<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=5;sz=300x250,16x1;p=br2;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=5;sz=300x250,16x1;p=br2;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=5;sz=300x250,16x1;p=br2;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=570799730139?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=5;sz=300x250,16x1;p=br2;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=570799730139?" border="0" alt="advertisement" /></a></noscript>
 </div>
 <div id="btf_rhs2_reflow_helper"></div>
 <script>ad_utils.render_ad_fast('btf_rhs2');</script>
@@ -1330,29 +1329,32 @@ This short film was made while <a href="/name/nm0000255/?ref_=tt_trv_trv">Ben Af
     <div class="article" id="titleUserReviewsTeaser">
         <h2>User Reviews</h2>
             <div class="user-comments">
+                  <div class="tinystarbar" title="9/10">
+                      <div style="width: 90px;">&nbsp;</div>
+                  </div>
                <span itemprop="review" itemscope itemtype="http://schema.org/Review">  
-                  <strong itemprop="name">Much better than it sounds</strong>
+                  <strong itemprop="name">Wow - This is Intense...</strong>
                   <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
                     <meta itemprop="worstRating" content = "1" />
-                    <meta itemprop="ratingValue" content="0" />
+                    <meta itemprop="ratingValue" content="9" />
                     <meta itemprop="bestRating" content="10" />
                   </span>
                   <div class="comment-meta">
-                      9 May 1999 | by <a href="/user/ur0221490/comments?ref_=tt_urv" ><span itemprop="author">Spunky-14</span></a>
-                      <meta itemprop="datePublished" content="1999-05-09">
-                          (South Wallinton, Wyoming)
-                       &ndash; <a href="/user/ur0221490/comments?ref_=tt_urv" >See all my reviews</a>
+                      1 February 2000 | by <a href="/user/ur0551565/comments?ref_=tt_urv" ><span itemprop="author">Joe</span></a>
+                      <meta itemprop="datePublished" content="2000-02-01">
+                          (NYC)
+                       &ndash; <a href="/user/ur0551565/comments?ref_=tt_urv" >See all my reviews</a>
                   </div>
                   <div>
-                      <p itemprop="reviewBody"> This film sounds like cheap sensationalist trash made only for cheap laughs and to sell to drunks and idiots. It is. But that is what is so goood about it. I presents a simple funny look at the media and also at the state of society today, such as the line &quot; I'm not really sure that mickey mouse would want that boss.&quot; This film can be watched over and over again and does not need a serious plot or to make a moral point about the state of society. it does not need an expensive cast or soundtrack- It is just good raw entertainment. </p>
+                      <p itemprop="reviewBody"> You definitely want to watch this film more than once to absorb its full impact.  Once you pick up the storyline - which is strange indeed, watch the film again just to observe the antics and facial expressions of the lead. He's hysterical and intense - you never know where he's going.  Not much talent like this in Hollywood these days.  It'll be interesting to see how he does in &quot;The Third Wheel&quot; this summer.  My new favorite actor - let's hope he makes it. </p>
                   </div>
                 </span>
                  <hr />
-                 <div class="yn" id="ynd_578589">
-                        16 of 22 people found this review helpful.&nbsp;
+                 <div class="yn" id="ynd_578591">
+                        13 of 23 people found this review helpful.&nbsp;
                        Was this review helpful to you?
-                      <button class="btn small" value="Yes" name="ynb_578589_yes" onclick="CS.TMD.user_review_vote(578589, 'tt0166222', 'yes');" >Yes</button>
-                      <button class="btn small" value="No" name="ynb_578589_no" onclick="CS.TMD.user_review_vote(578589, 'tt0166222', 'no');" >No</button>
+                      <button class="btn small" value="Yes" name="ynb_578591_yes" onclick="CS.TMD.user_review_vote(578591, 'tt0166222', 'yes');" >Yes</button>
+                      <button class="btn small" value="No" name="ynb_578591_no" onclick="CS.TMD.user_review_vote(578591, 'tt0166222', 'no');" >No</button>
                  </div>
                  <div class="see-more">
                       <a href="/title/tt0166222/reviews-enter?ref_=tt_urv" >Review this title</a>
@@ -1829,7 +1831,7 @@ c15:""
 ad_utils.register_ad('bottom_ad');
 </script>
 <iframe data-dart-params="#imdb2.consumer.title/maindetails;!TILE!;sz=728x90,2x1;p=b;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
-<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=6;sz=728x90,2x1;p=b;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=6;sz=728x90,2x1;p=b;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=671365469260?" border="0" alt="advertisement" /></a></noscript>
+<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.title/maindetails;tile=6;sz=728x90,2x1;p=b;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=570799730139?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.title/maindetails;tile=6;sz=728x90,2x1;p=b;g=co;g=sh;tt=s;coo=us;fv=1;id=tt0166222;ab=f;bpx=1;ord=570799730139?" border="0" alt="advertisement" /></a></noscript>
 </div>
 <div id="bottom_ad_reflow_helper"></div>
 <script>ad_utils.render_ad_fast('bottom_ad');</script>
@@ -1899,7 +1901,7 @@ jQuery(document).ready(function(){
 <script>(function(g){window.jQuery && jQuery(function(){g.document_is_ready()});g.monitoring.stop_timing('page_load','',true);g.monitoring.all_events_started();})(generic);</script>
 <!-- end ads footer -->
 
-<div id="servertime" time="159"/>
+<div id="servertime" time="142"/>
     </body>
 </html>
 
