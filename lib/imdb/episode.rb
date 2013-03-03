@@ -11,13 +11,13 @@ module Imdb
 
     # Return the original air date for this episode
     def air_date
-      document.search('h5[text()*=Original Air Date]').first.next_sibling.innerHTML.to_s.strip.split("\n").first.strip rescue nil
+      document.at("h5[text()*='Original Air Date'] ~ div").content.strip.split("\n").first.strip rescue nil
     end
 
     private
 
     def document
-      @document ||= Hpricot(open(@url))
+      @document ||= Nokogiri::HTML(open(@url))
     end
   end
 end

@@ -23,7 +23,7 @@ module Imdb
 
     private
     def document
-      @document ||= Hpricot(Imdb::Search.query(@query))
+      @document ||= Nokogiri::HTML(Imdb::Search.query(@query))
     end
 
     def self.query(query)
@@ -31,15 +31,15 @@ module Imdb
     end
 
     def parse_movie
-      id                 = document.at("head/link[@rel='canonical']")['href'][/\d+/]
-      title              = document.at("h1").innerHTML.split('<span').first.strip.imdb_unescape_html
+      id    = document.at("head/link[@rel='canonical']")['href'][/\d+/]
+      title = document.at("h1").inner_html.split('<span').first.strip.imdb_unescape_html
 
       [Imdb::Movie.new(id, title)]
     end
 
     # Returns true if the search yielded only one result, an exact match
     def exact_match?
-      !document.at("//table[@id='title-overview-widget-layout']").nil?
+      !document.at("table[@id='title-overview-widget-layout']").nil?
     end
 
   end # Search
