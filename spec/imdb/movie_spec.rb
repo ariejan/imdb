@@ -33,7 +33,7 @@ describe "Imdb::Movie" do
       char.should include("Hostage")
     end
 
-    it "should associates the cast members to the charachters" do
+    it "should associates the cast members to the characters" do
       cast = @movie.cast_members
       char = @movie.cast_characters
       cast_char = @movie.cast_members_characters
