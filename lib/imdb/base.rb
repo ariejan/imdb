@@ -168,13 +168,13 @@ module Imdb
     def sanitize_plot(the_plot)
       the_plot = the_plot.gsub(/add\ssummary|full\ssummary/i, "")
       the_plot = the_plot.gsub(/add\ssynopsis|full\ssynopsis/i, "")
-      the_plot = the_plot.gsub(/see|more|»|\302\240/i, "")
+      the_plot = the_plot.gsub(/see|more|\u00BB|\u00A0/i, "")
       the_plot = the_plot.gsub(/\|/i, "")
       the_plot.strip
     end
 
     def sanitize_release_date(the_release_date)
-      the_release_date.gsub(/see|more|»|\302\240/i, "").strip
+      the_release_date.gsub(/see|more|\u00BB|\u00A0/i, "").strip
     end
 
   end # Movie
