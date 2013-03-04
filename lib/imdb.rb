@@ -3,7 +3,7 @@ $:.unshift(File.dirname(__FILE__)) unless
 
 require 'open-uri'
 require 'rubygems'
-require 'hpricot'
+require 'nokogiri'
 
 require 'imdb/base'
 require 'imdb/movie'

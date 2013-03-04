@@ -7,19 +7,14 @@ module Imdb
 
     private
     def parse_movies
-      document.search('a[@href^="/title/tt"]').reject do |element|
-        element.innerHTML.imdb_strip_tags.empty? ||
-        element.parent.innerHTML =~ /media from/i
+      document.search("a[@href^='/title/tt']").reject do |element|
+        element.inner_html.imdb_strip_tags.empty? ||
+        element.parent.inner_html =~ /media from/i
       end.map do |element|
         id = element['href'][/\d+/]
 
-        data = element.parent.innerHTML.split("<br />")
-        if !data[0].nil? && !data[1].nil? && data[0] =~ /img/
-          title = data[1]
-        else
-          title = data[0]
-        end
-
+        data = element.parent.inner_html.split("<br />")
+        title = (!data[0].nil? && !data[1].nil? && data[0] =~ /img/) ? data[1] : data[0]
         title = title.imdb_strip_tags.imdb_unescape_html
         title.gsub!(/\s+\(\d\d\d\d\)$/, '')
 

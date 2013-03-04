@@ -15,12 +15,12 @@ module Imdb
     def episodes
       @episodes = []
 
-      document.search("div.eplist a[@itemprop*=name]").each_with_index do |link, index|
+      document.search("div.eplist a[@itemprop*='name']").each_with_index do |link, index|
         @episodes << Imdb::Episode.new(
           link[:href].scan(/\d+/).first,
           @season_number,
           index + 1,
-          link.innerHTML.strip.imdb_unescape_html
+          link.content.strip
         )
       end
 
@@ -30,7 +30,7 @@ module Imdb
     private
 
     def document
-      @document ||= Hpricot(open(@url))
+      @document ||= Nokogiri::HTML(open(@url))
     end
   end
 end
