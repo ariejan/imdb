@@ -45,9 +45,10 @@ IMDB currently features the following:
 ###Movies:
 
     i = Imdb::Movie.new("0095016")
-    
+
     i.title
     #=> "Die Hard"
+
     i.cast_members.first
     #=> "Bruce Willis"
 
@@ -68,7 +69,7 @@ IMDB currently features the following:
     #=> 6
 
     series.season(1).episode(2).title
-    #=> "Guts"  
+    #=> "Guts"
 
 ###Searching:
 
@@ -78,7 +79,7 @@ IMDB currently features the following:
     #=> 97
 
 ###Using the command line utility is quite easy:
-  
+
   `$ imdb Star Trek`
 
 or get movie info
@@ -86,7 +87,7 @@ or get movie info
   `$ imdb 0095016`
 
 ##Installation
-  
+
   `gem install imdb`
 
 ##Running Tests
