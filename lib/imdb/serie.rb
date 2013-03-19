@@ -14,8 +14,7 @@ module Imdb
     private
 
     def season_urls
-      document.search("h5[text()='Seasons:'] ~ div a[@href*='episodes?season']")
-        .map { |link| url.gsub("combined","") + "episodes?season=" + link.content.strip } rescue []
+      document.search("h5[text()='Seasons:'] ~ div a[@href*='episodes?season']").map { |link| url.gsub("combined","") + "episodes?season=" + link.content.strip } rescue []
     end
   end # Serie
 
