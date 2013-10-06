@@ -170,6 +170,14 @@ describe "Imdb::Movie" do
       end
     end
 
+    it "should find multiple filming locations" do
+      filming_locations = @movie.filming_locations
+      filming_locations.should be_an(Array)
+      filming_locations.size.should eql(4)
+      filming_locations[0].should match(/.*, USA$/i)
+
+    end
+
     it "should provide a convenience method to search" do
       movies = Imdb::Movie.search("Star Trek: TOS")
       movies.should respond_to(:each)

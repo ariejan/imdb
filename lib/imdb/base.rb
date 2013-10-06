@@ -144,11 +144,20 @@ module Imdb
       sanitize_release_date(document.at("h5[text()*='Release Date'] ~ div").content) rescue nil
     end
 
+    # Returns filming locations from imdb_url/locations
+    def filming_locations
+      locations_document.search("#filming_locations_content .soda dt a").map { |link| link.content.strip } rescue []
+    end
+
     private
 
     # Returns a new Nokogiri document for parsing.
     def document
       @document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id))
+    end
+
+    def locations_document
+      @locations_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "locations"))
     end
 
     # Use HTTParty to fetch the raw HTML for this movie.
