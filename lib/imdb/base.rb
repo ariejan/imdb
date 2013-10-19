@@ -48,8 +48,8 @@ module Imdb
       document.search("h5[text()^='Director'] ~ div a").map { |link| link.content.strip } rescue []
     end
 
-    def director_ids
-      document.search("h5[text()^='Director'] ~ div a").map { |link| link['href'].sub(%r{^/name/(.*)/}) } rescue []
+    def director_id
+      document.search("h5[text()^='Director'] ~ div a").map { |link| link['href'].sub(%r{^/name/(.*)/}, '\1') } rescue []
     end
 
 
