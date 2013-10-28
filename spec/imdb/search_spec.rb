@@ -10,8 +10,8 @@ describe "Imdb::Search with multiple search results" do
     @search.query.should == "Star Trek: TOS"
   end
 
-  it "should find 2 results" do
-    @search.movies.size.should eql(2)
+  it "should find 4 results" do
+    @search.movies.size.should eql(4)
   end
 
   it "should return Imdb::Movie objects only" do

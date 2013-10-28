@@ -142,7 +142,7 @@ describe "Imdb::Movie" do
     end
 
     it "should find number of votes" do
-      @movie.votes.should be_within(10000).of(343463)
+      @movie.votes.should be_within(10000).of(397054)
     end
 
     it "should find the title" do
@@ -194,7 +194,7 @@ describe "Imdb::Movie" do
   describe "plot" do
     it "should find a correct plot when HTML links are present" do
       movie = Imdb::Movie.new("0083987")
-      movie.plot.should eql("Biography of Mohandas K. Gandhi, the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of non-violent protest.")
+      movie.plot.should eql("Biography of Mohandas K. Gandhi, the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.")
     end
 
     it "should not have a 'more' link in the plot" do
