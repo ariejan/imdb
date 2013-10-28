@@ -30,9 +30,9 @@ end
 describe "Imdb::Search with an exact match and no poster" do
 
   it "should not raise an exception" do
-    lambda {
+    expect {
       @search = Imdb::Search.new("Kannethirey Thondrinal").movies
-    }.should_not raise_error
+    }.not_to raise_error
   end
 
   it "should return the movie id correctly" do

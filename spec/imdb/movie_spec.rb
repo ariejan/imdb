@@ -51,11 +51,11 @@ describe "Imdb::Movie" do
 
     describe 'fetching a list of imdb actor ids for the cast members' do
       it 'should not require arguments' do
-        lambda { @movie.cast_member_ids }.should_not raise_error(ArgumentError)
+        expect { @movie.cast_member_ids }.not_to raise_error
       end
 
       it 'should not allow arguments' do
-        lambda { @movie.cast_member_ids(:foo) }.should raise_error(ArgumentError)
+        expect { @movie.cast_member_ids(:foo) }.to raise_error(ArgumentError)
       end
 
       it 'should return the imdb actor number for each cast member' do
