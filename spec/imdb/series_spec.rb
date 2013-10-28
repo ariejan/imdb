@@ -11,7 +11,7 @@ describe "Imdb::Serie" do
   end
 
   it "reports the number of seasons" do
-    @serie.seasons.size.should eql(3)
+    @serie.seasons.size.should eql(4)
   end
 
   it "can fetch a specific season" do

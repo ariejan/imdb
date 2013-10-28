@@ -91,7 +91,7 @@ module Imdb
 
     def plot_summary
       doc = Nokogiri::HTML(Imdb::Movie.find_by_id(@id, :plotsummary))
-      doc.at("p.plotpar").inner_html.gsub(/<i.*/im, '').strip.imdb_unescape_html rescue nil
+      doc.at("p.plotSummary").inner_html.gsub(/<i.*/im, '').strip.imdb_unescape_html rescue nil
     end
 
     # Returns a string containing the URL to the movie poster.

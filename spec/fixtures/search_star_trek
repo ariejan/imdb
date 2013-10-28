@@ -1,14 +1,15 @@
 HTTP/1.1 200 OK
-Date: Tue, 26 Feb 2013 22:32:33 GMT
+Date: Mon, 28 Oct 2013 08:53:09 GMT
 Server: Server
 Content-Type: text/html;charset=UTF-8
 Content-Language: en-US
 Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYtNhFRIbpgOI2nPZR%2BQWtffqhaYtKdi%2BfbHLbhyYGkg6ohBh6IwyHhoY4uvuHMoy1WgSabSuoK%0D%0AoLLmj7oCElMNFFkjW3pOM1FxtFk7PvRP53BsGLAHcBGG4S%2FHV2yQQW%2F1L36txvTfimoMWazEqyau%0D%0A3zBKkilBKhuFc7qCaIlF6NR6FctI98SJx2NdQG74MY33UMNL%2BT4iiAekQYNhnV7voHm824Swivex%0D%0AQvRc3okUjQ5AKhKCmsRijGy2CrA%2FdG0150Ic5EL%2BtG89vWdtjiTPEw%3D%3D%0D%0A; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 01:46:40 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 01:46:40 GMT; Path=/
-Set-Cookie: session-id-time=1519684353; Domain=.imdb.com; Expires=Mon, 17-Mar-2081 01:46:40 GMT; Path=/
+Set-Cookie: uu=BCYv6s4W0VY0QwwJyeS6uw8iPU4o3fW0XTelvuFsXkD0e4WqrKh%2B6h15b7oq%2FzucXx%2BohMVXckCC%0D%0AB1bxBAfFS8JZU1Mdm43Boiy63pL2amQWYOm8cjk%2BkkhnWJ695Rq3EFUKrIeuPU%2FRPOxr1PWvoW9m%0D%0AKQ8MBB96Dv0trd1Y7iIblQk75uwsBBExpjZaIR3F730gLjjusCEUuH0F%2BN66AyalWaz7HxOmZXMv%0D%0A4ovYAybTMKFk6MlJ%2F%2BsIRQfndmE90LrR5XOfnhFKh%2BvszcUjvDxbFg%3D%3D%0D%0A; Domain=.imdb.com; Expires=Sat, 15-Nov-2081 12:07:17 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 15-Nov-2081 12:07:17 GMT; Path=/
+Set-Cookie: session-id-time=1540630390; Domain=.imdb.com; Expires=Sat, 15-Nov-2081 12:07:17 GMT; Path=/
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
+
 
 
 
@@ -18,6 +19,18 @@ Transfer-Encoding: chunked
 xmlns:og="http://ogp.me/ns#"
 xmlns:fb="http://www.facebook.com/2008/fbml">
     <head>
+                <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
+                <script type="text/javascript">
+                    var ue_mid = "A1EVAM02EL8SFB"; 
+                    var ue_sn = "www.imdb.com";  
+                    var ue_furl = "fls-na.amazon.com";
+                    var ue_sid = "000-0000000-0000000";
+                    var ue_id = "06Q2D8SGPWG7RS48YY8D";
+                    (function(e){var c=e,a={main_scope:"mainscopecsm",q:[],t0:c.ue_t0||+new Date(),d:g};function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(k,j,h){var i={m:k,f:j,l:h,fromOnError:1,args:arguments};c.ueLogError(i);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-ef584a44e8ea58e3d4d928956600a9b6._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){b()}a.uels=c;e.ue=a})(window,document);
+                </script>
+ 
+
+        
         <script type="text/javascript">var IMDbTimer={starttime: new Date().getTime(),pt:'java'};</script>
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
@@ -29,15 +42,15 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
             <meta property="og:url" content="http://www.imdb.com/find" />
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
-        <link rel="icon" type="image/ico" href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._V397576410_.ico" />
-        <link rel="shortcut icon" type="image/x-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._V397576415_.ico" />
-        <link rel="apple-touch-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/apple-touch-icon-3173846443._V397576421_.png" />
-        <link rel="search" type="application/opensearchdescription+xml" href="http://z-ecx.images-amazon.com/images/G/01/imdb/images/imdbsearch-3349468880._V398722001_.xml" title="IMDb" />
+        <link rel="icon" type="image/ico" href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._V379387995_.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._V379390718_.ico" />
+        <link rel="apple-touch-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/apple-touch-icon-3173846443._V379391250_.png" />
+        <link rel="search" type="application/opensearchdescription+xml" href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._V379388505_.xml" title="IMDb" />
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
         
         
-            <link rel='image_src' href="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V375956416_.png">
-            <meta property='og:image' content="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V375956416_.png" />
+            <link rel='image_src' href="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V379391653_.png">
+            <meta property='og:image' content="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V379391653_.png" />
         
         <meta property='fb:app_id' content='115109575169727' />
         <meta property='og:title' content="" />
@@ -45,66 +58,36 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
         <meta name="title" content="IMDb" />
             <meta name="description" content="" />
             <meta property="og:description" content="" />
-            <meta name="request_id" content="17NCWX650NW2QW6TBX6N" />
+            <meta name="request_id" content="06Q2D8SGPWG7RS48YY8D" />
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
-<link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/imdb/css/collections/consumersite-965481657._V376216331_.css" />
-<!-- h=ics-1a-i-02ac4272.us-east-1 -->
-<link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/imdb/css/app/consumersite/find-2392946780._V397576196_.css" />
-<!--[if IE]><link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/imdb/css/collections/ie-1730957785._V376796174_.css" /><![endif]-->
+<link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/consumersite-2437400947._V353389344_.css" />
+<!-- h=ics-1e-i-8ce9f3ed.us-east-1 -->
+<link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-3538633082._V355276482_.css" />
+<link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/app/consumersite/find-2392946780._V379391851_.css" />
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/ie-1918465287._V354866480_.css" /><![endif]-->
+
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
-        <!-- begin ads header -->
-<script>window.ads_js_start = new Date().getTime();</script>
-<script src="http://z-ecx.images-amazon.com/images/G/01/imdbads/js/collections/ads-34659498._V376401274_.js"></script>
-<script>generic.monitoring.record_metric("ads_js_request_to_done", (new Date().getTime()) - window.ads_js_start);</script>
-<script>
-(function(url,itemName,h,w) {
-if (flashAdUtils.canPlayFlash(9)) {
-var flashTags = flashAdUtils.makeFlashAd({ id:itemName, src:url, height:h, width:w });
-document.write('<div style="position:absolute;visibility:hidden;">' + flashTags + '</div>');
-}
-})("http://ia.media-imdb.com/images/M/MV5BMTMzMzgxNzM2M15BMl5Bc3dmXkFtZTcwNzM0MTkxNw@@._V1_.swf","baker",1,1);
-// Stuff that we need to try a little harder on still...
-// TODO: weblab stuff
-generic.monitoring.set_forester_info("main");
-generic.monitoring.set_twilight_info(
-"main",
-"NL",
-"a324e2fc9e88926e2683e77f0b62094a88a062c2",
-"2013-02-26T22%3A32%3A33GMT",
-"http://s.media-imdb.com/twilight/?");
-generic.send_csm_head_metrics && generic.send_csm_head_metrics();
-generic.monitoring.start_timing("page_load");
-generic.seconds_to_midnight = 34047;
-generic.days_to_midnight = 0.3940624892711639;
-custom.full_page.data_url = "http://z-ecx.images-amazon.com/images/G/01/imdbads/js/graffiti_data-2891791370._V397576203_.js";
-ad_utils.ad_prediction.init();
-consoleLog('advertising initialized','ads');
-var _gaq = _gaq || [];
-_gaq.push(['_setCustomVar', 4, 'ads_abtest_treatment', 'f']);
-</script>
-<script>
-(function(url,onload,oncall) {
-var elem = document.createElement('script'),
-script = document.getElementsByTagName('script')[0],
-final_url = url.replace(ad_utils.ord_regex, ad_utils.ord);
-if (! navigator.userAgent.match('Firefox/(1|2)\\.')) {
-elem.async = true;
-elem.src = final_url;
-if (onload) {
-elem.onload = onload;
-}
-script.parentNode.insertBefore(elem, script);
-if (oncall) {
-oncall();
-}
-}
-})("http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=[CLIENT_SIDE_ORD]&ord=[CLIENT_SIDE_ORD]",undefined,custom.amazon.aan_iframe_oncall);
-</script>
-<!-- end ads header -->
         
+        <script  type="text/javascript">
+            // ensures js doesn't die if ads service fails.  
+            // Note that we need to define the js here, since ad js is being rendered inline after this.
+            (function(f) {
+                // Fallback javascript, when the ad Service call fails.  
+                
+                if((window.csm === undefined || window.generic === undefined || window.consoleLog === undefined)) {
+                    if (console !== undefined && console.log !== undefined) {
+                        console.log("one or more of window.csm, window.generic or window.consoleLog has been stubbed...");
+                    }
+                }
+                
+                window.csm = window.csm || { measure:f, record:f, duration:f, listen:f, metrics:{} };
+                window.generic = window.generic || { monitoring: { start_timing: f, stop_timing: f } };
+                window.consoleLog = window.consoleLog || f;
+            })(function() {});
+        </script>
   <script>
     if ('csm' in window) {
       csm.measure('csm_head_delivery_finished');
@@ -112,6 +95,11 @@ oncall();
   </script>
         </head>
     <body id="styleguide-v2" class="fixed">
+<script>
+    if (typeof uet == 'function') {
+      uet("bb");
+    }
+</script>
   <script>
     if ('csm' in window) {
       csm.measure('csm_body_delivery_started');
@@ -119,39 +107,24 @@ oncall();
   </script>
         <div id="wrapper">
             <div id="root" class="redesign">
-<div id="nb20" class="navbarSprite">
-<div id="supertab">
-<!-- begin TOP_AD -->
-<div id="top_ad_wrapper" class="dfp_slot">
-<script type="text/javascript">
-ad_utils.register_ad('top_ad');
+<script>
+    if (typeof uet == 'function') {
+      uet("ns");
+    }
 </script>
-<iframe data-dart-params="#imdb2.consumer.main/find;!TILE!;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;fv=1;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
-<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.main/find;tile=2;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;fv=1;ab=f;bpx=1;ord=003887914613?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.main/find;tile=2;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;fv=1;ab=f;bpx=1;ord=003887914613?" border="0" alt="advertisement" /></a></noscript>
-</div>
-<div id="top_ad_reflow_helper"></div>
-<script>ad_utils.render_ad_fast('top_ad');</script>
-<!-- End TOP_AD -->
-
+<div id="nb20" class="navbarSprite">
+<div id="supertab">	
+	<!-- no content received for slot: top_ad -->
+	
 </div>
   <div id="navbar" class="navbarSprite">
 <noscript>
-  <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/imdb/css/site/consumer-navbar-no-js-4175877511._V397576211_.css" />
+  <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-no-js-4175877511._V379390803_.css" />
 </noscript>
-<!--[if IE]><link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/imdb/css/site/consumer-navbar-ie-470687728._V397576211_.css"><![endif]-->
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-ie-470687728._V379390980_.css"><![endif]-->
 <span id="home_img_holder">
-<a
-onclick="(new Image()).src='/rg/home/navbar/images/b.gif?link=/';"
-href="/"
-title="Home"
-class="navbarSprite"
-id="home_img"
-></a>  <span class="alt_logo">
-    <a
-onclick="(new Image()).src='/rg/home/navbar/images/b.gif?link=/';"
-href="/"
-title="Home"
->IMDb</a>
+<a href="/?ref_=nv_home" title="Home" class="navbarSprite" id="home_img" ></a>  <span class="alt_logo">
+    <a href="/?ref_=nv_home" title="Home" >IMDb</a>
   </span>
 </span>
 <form
@@ -185,133 +158,261 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
     <div id="navbar-suggestionsearch"></div>
   </div>
 </form>
-<div id="nb_personal">
-  <a
-onclick="(new Image()).src='/rg/register-v2/navbar/images/b.gif?link=https://secure.imdb.com/register-imdb/form-v2';"
-href="https://secure.imdb.com/register-imdb/form-v2"
->Register</a>
-  | <a
-onclick="(new Image()).src='/rg/login/navbar/images/b.gif?link=/register/login';"
-rel="login"
-href="/register/login"
-id="nblogin"
->Login</a>
-| <a
-onclick="(new Image()).src='/rg/help/navbar/images/b.gif?link=/help/';"
-href="/help/"
->Help</a>
+<div id="megaMenu">
+    <ul id="consumer_main_nav" class="main_nav">
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navTitleMenu">
+            <p class="navCategory">Movies, TV<br />& Showtimes</p>
+            <span class="downArrow"></span>
+            <div id="navMenu1" class="sub_nav">
+                <div id="titleAd"></div>
+                <div class="subNavListContainer">
+                    <h5>MOVIES</h5>
+                    <ul>
+                        <li><a href="/showtimes/?ref_=nv_mv_sh_1" >Showtimes & Tickets</a></li>
+                        <li><a href="/trailers/?ref_=nv_mv_tr_2" >Latest Trailers</a></li>
+                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_3" >Coming Soon</a></li>
+                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_4" >In Theaters</a></li>
+                        <li><a href="/calendar/?ref_=nv_mv_cal_5" >Release Calendar</a></li>
+                    </ul>
+                    <h5>CHARTS & TRENDS</h5>
+                    <ul>
+                        <li><a href="/search/title?count=100&title_type=feature,tv_series&ref_=nv_ch_mm_1" >Popular Movies & TV</a></li>
+                        <li><a href="/chart/?ref_=nv_ch_cht_2" >Box Office</a></li>
+                        <li><a href="/search/title?count=100&groups=oscar_best_picture_winners&sort=year,desc&ref_=nv_ch_osc_3" >Oscar Winners</a></li>
+                        <li><a href="/chart/top?ref_=nv_ch_250_4" >Top 250</a></li>
+                        <li><a href="/genre/?ref_=nv_ch_gr_5" >Most Popular by Genre</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>TV & VIDEO</h5>
+                    <ul>
+                        <li><a href="/tv/?ref_=nv_tvv_hm_1" >TV Home</a></li>
+                        <li><a href="/tvgrid/?ref_=nv_tvv_ls_2" >On Tonight</a></li>
+                        <li><a href="/watchnow/?ref_=nv_tvv_wn_3" >Watch Now on Amazon</a></li>
+                        <li><a href="/sections/dvd/?ref_=nv_tvv_dvd_4" >DVD & Blu-Ray</a></li>
+                        <li><a href="/tv/blog?ref_=nv_tvv_blog_5" >TV Blog</a></li>
+                    </ul>
+                    <h5>SPECIAL FEATURES</h5>
+                    <ul>
+                        <li><a href="/emmys/?ref_=nv_sf_rte_1" >Road to the Emmys</a></li>
+                        <li><a href="/falltv/?ref_=nv_sf_ftp_2" >Fall TV Preview</a></li>
+                        <li><a href="/comic-con/?ref_=nv_sf_comic_3" >Comic-Con</a></li>
+                        <li><a href="/x-ray/?ref_=nv_sf_xray_4" >X-Ray for Movies & TV</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNameMenu">
+            <p class="navCategory">Celebs, Events<br />& Photos</p>
+            <span class="downArrow"></span>
+            <div id="navMenu2" class="sub_nav">
+                <div id="nameAd"></div>
+                <div class="subNavListContainer">
+                    <h5>CELEBS</h5>
+                    <ul>
+                        <li><a href="/search/name?birth_monthday=10-28&refine=birth_monthday&ref_=nv_cel_brn_1" >Born Today</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_cel_nw_2" >Celebrity News</a></li>
+                        <li><a href="/search/name?gender=male,female&ref_=nv_cel_m_3" >Most Popular Celebs</a></li>
+                    </ul>
+                    <h5>PHOTOS</h5>
+                    <ul>
+                        <li><a href="/media/index/rg1176148480?ref_=nv_ph_ls_1" >Latest Stills</a></li>
+                        <li><a href="/media/index/rg1528338944?ref_=nv_ph_lp_2" >Latest Posters</a></li>
+                        <li><a href="/sections/photos/premieres/?ref_=nv_ph_prem_3" >Movie & TV Premieres</a></li>
+                        <li><a href="/sections/photos/red_carpet/?ref_=nv_ph_red_4" >On the Red Carpet</a></li>
+                        <li><a href="/sections/photos/special_galleries/?ref_=nv_ph_sp_5" >Special Galleries</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>EVENTS</h5>
+                    <ul>
+                        <li><a href="/emmys/?ref_=nv_ev_rte_1" >Road to the Emmys</a></li>
+                        <li><a href="/comic-con/?ref_=nv_ev_comic_2" >Comic-Con</a></li>
+                        <li><a href="/cannes/?ref_=nv_ev_can_3" >Cannes</a></li>
+                        <li><a href="/tribeca/?ref_=nv_ev_tri_4" >Tribeca</a></li>
+                        <li><a href="/oscars/?ref_=nv_ev_rto_5" >Road to the Oscars</a></li>
+                        <li><a href="/sundance/?ref_=nv_ev_sun_6" >Sundance</a></li>
+                        <li><a href="/event/?ref_=nv_ev_all_7" >More Popular Events</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNewsMenu">
+            <p class="navCategory">News &<br />Community</p>
+            <span class="downArrow"></span>
+            <div id="navMenu3" class="sub_nav">
+                <div id="latestHeadlines">
+                    <div class="subNavListContainer">
+                        <h5>LATEST HEADLINES</h5>
+    <ul>
+                <li itemprop="headline">
+<a href="/news/ni56355151/?ref_=nv_nw_tn_1" > Lou Reed, ‘Walk on the Wild Side’ Singer, Dead at 71
+</a><br />
+                        <span class="time">14 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni56354884/?ref_=nv_nw_tn_2" > Box office report: 'Bad Grandpa' spoofs its way to $32 million debut
+</a><br />
+                        <span class="time">16 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni56354920/?ref_=nv_nw_tn_3" > Chris Brown Arrested and Jailed for Felony Assault in Washington, D.C.
+</a><br />
+                        <span class="time">16 hours ago</span>
+                </li>
+    </ul>
+                    </div>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>NEWS</h5>
+                    <ul>
+                        <li><a href="/news/top?ref_=nv_nw_tp_1" >Top News</a></li>
+                        <li><a href="/news/movie?ref_=nv_nw_mv_2" >Movie News</a></li>
+                        <li><a href="/news/tv?ref_=nv_nw_tv_3" >TV News</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_nw_cel_4" >Celebrity News</a></li>
+                        <li><a href="/news/indie?ref_=nv_nw_ind_5" >Indie News</a></li>
+                    </ul>
+                    <h5>COMMUNITY</h5>
+                    <ul>
+                        <li><a href="/boards/?ref_=nv_cm_bd_1" >Message Boards</a></li>
+                        <li><a href="/czone/?ref_=nv_cm_cz_2" >Contributor Zone</a></li>
+                        <li><a href="/games/guess?ref_=nv_cm_qz_3" >Quiz Game</a></li>
+                        <li><a href="/poll/?ref_=nv_cm_pl_4" >Polls</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navWatchlistMenu">
+<p class="navCategory singleLine watchlist">
+    <a href="/list/watchlist?ref_=nv_wl_all_0" >Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div id="navMenu4" class="sub_nav">
+    <h5>
+        RECENTLY ADDED
+    </h5> 
+    <ul id="navWatchlist">
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.watchlistTeaserData = [
+                {
+                        href : "/list/watchlist",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot1_logged_out-1670046337._V360061167_.jpg"
+                },
+                {
+                    href : "/search/title?count=100&title_type=feature,tv_series",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot2_popular-4090757197._V360060945_.jpg"
+                },
+                {
+                    href : "/search/title?count=100&groups=top_250&sort=user_rating,desc&title_type=feature",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot3_top250-575799966._V360061165_.jpg"
+                }
+    ];
+    </script>
 </div>
-<div>
-  <ul id="consumer_main_nav" class="main_nav">
-      <li class="css_nav_item" aria-haspopup="true">
-        <a href="/movies-in-theaters/?ref_=nb_mv_1_inth" class="navbarSprite" >Movies</a>
-      <ul class="sub_nav">
-           <li><a href="/movies-in-theaters/?ref_=nb_mv_2_inth" >In Theaters</a></li>
-           <li><a href="/chart/top?ref_=nb_mv_3_chttp" >Top 250</a></li>
-           <li><a href="/chart/?ref_=nb_mv_4_cht" >US Box Office</a></li>
-           <li><a href="/movies-coming-soon/?ref_=nb_mv_5_cs" >Coming Soon</a></li>
-           <li><a href="/trailers?ref_=nb_mv_6_tr" >Trailer Gallery</a></li>
-           <li><a href="/watchnow/?ref_=nb_mv_7_wn" >Watch Now on AIV</a></li>
-           <li><a href="/sections/dvd/?ref_=nb_mv_8_dvd" >On DVD & Blu-Ray</a></li>
-           <li><a href="/x-ray/?ref_=nb_mv_9_xray" >X-Ray for Movies</a></li>
-           <li><a href="/oscars/?ref_=nb_mv_10_rto" >Road to the Oscars</a></li>
-      </ul>
-      </li>
-      <li class="css_nav_item" aria-haspopup="true">
-        <a href="/tv/?ref_=nb_tv_1_hm" class="navbarSprite" >TV</a>
-      <ul class="sub_nav">
-           <li><a href="/tv/?ref_=nb_tv_2_hm" >TV Home</a></li>
-           <li><a href="/search/title?num_votes=5000,&sort=user_rating,desc&title_type=tv_series&ref_=nb_tv_3_srs" >Top TV Series</a></li>
-           <li><a href="/tvgrid/?ref_=nb_tv_4_ls" >TV Listings</a></li>
-           <li><a href="/features/video/tv/?ref_=nb_tv_5_ep" >TV Episodes</a></li>
-      </ul>
-      </li>
-      <li class="css_nav_item" aria-haspopup="true">
-        <a href="/news/top?ref_=nb_nw_1_tp" class="navbarSprite" >News</a>
-      <ul class="sub_nav">
-           <li><a href="/news/top?ref_=nb_nw_2_tp" >Top News</a></li>
-           <li><a href="/news/movie?ref_=nb_nw_3_mv" >Movie News</a></li>
-           <li><a href="/news/tv?ref_=nb_nw_4_tv" >TV News</a></li>
-           <li><a href="/news/celebrity?ref_=nb_nw_5_cel" >Celebrity News</a></li>
-      </ul>
-      </li>
-      <li class="css_nav_item" aria-haspopup="true">
-        <a href="/showtimes/?ref_=nb_sh_1_sh" class="navbarSprite" >Showtimes</a>
-      <ul class="sub_nav">
-           <li><a href="/showtimes/?ref_=nb_sh_2_sh" >Movie Showtimes</a></li>
-      </ul>
-      </li>
-      <li class="css_nav_item" aria-haspopup="true">
-        <a href="/boards/?ref_=nb_cm_1_bd" class="navbarSprite" >Community</a>
-      <ul class="sub_nav">
-           <li><a href="/boards/?ref_=nb_cm_2_bd" >Message Boards</a></li>
-           <li><a href="/lists?ref_=nb_cm_3_nls" >Newest Lists</a></li>
-           <li><a href="/profile/lists?ref_=nb_cm_4_yls" >Your Lists</a></li>
-           <li><a href="/list/ratings?ref_=nb_cm_5_yrt" >Your Ratings</a></li>
-           <li><a href="/czone/?ref_=nb_cm_6_cz" >Contributor Zone</a></li>
-           <li><a href="/games/guess?ref_=nb_cm_7_qz" >Quiz Game</a></li>
-      </ul>
-      </li>
-      <li class="css_nav_item" aria-haspopup="true">
-        <a
-onclick="(new Image()).src='/rg/imdbprohome/navbar/images/b.gif?link=/r/IMDbTabNB/';"
-href="/r/IMDbTabNB/"
-class="navbarSprite"
->IMDbPro</a>
-      <ul class="sub_nav">
-           <li><a
-onclick="(new Image()).src='/rg/resume/prosystem/images/b.gif?link=/r/Resume/resume/';"
-href="/r/Resume/resume/"
->Add a Resume</a></li>
-           <li><a
-onclick="(new Image()).src='/rg/procontact/navbar/images/b.gif?link=/r/nm_ovrview_contact/representation/';"
-href="/r/nm_ovrview_contact/representation/"
->Contact Info</a></li>
-           <li><a
-onclick="(new Image()).src='/rg/demoreels/navbar/images/b.gif?link=/r/DemoReels/demoreels/list';"
-href="/r/DemoReels/demoreels/list"
->Add Demo Reels</a></li>
-      </ul>
-      </li>
-      <li class="css_nav_item" aria-haspopup="true">
-        <a href="/apps/?ref_=nb_app_1_hm" class="navbarSprite" >Apps</a>
-      <ul class="sub_nav">
-           <li><a href="/apps/?ref_=nb_app_2_hm" >Apps Home</a></li>
-           <li><a href="/apps/ios/?ref_=nb_app_3_ios" >iPhone + iPad Apps</a></li>
-           <li><a href="/apps/android/?ref_=nb_app_4_andr" >Android Apps</a></li>
-           <li><a href="/apps/kindlefire/?ref_=nb_app_5_fire" >Kindle Fire App</a></li>
-      </ul>
-      </li>
-  </ul>
+        </li>
+        <li class="spacer"></li>
+    </ul>
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.navbarAdSlots = {
+    titleAd : {
+    },
+    nameAd : {
+    }
+}
+</script>
 </div>
-<div class="nb_extra">
+<div id="nb_extra">
+    <ul id="nb_extra_nav" class="main_nav">
+        <li class="css_nav_item" id="navProMenu">
+            <p class="navCategory">
 <a
-onclick="(new Image()).src='/rg/watchlist/navbar/images/b.gif?link=/list/watchlist';"
-href="/list/watchlist"
->Your Watchlist</a>
+onclick="(new Image()).src='/rg/imdbprohome/navbar/images/b.gif?link=/r/IMDbTabNV/';"
+href="/r/IMDbTabNV/"
+> <img alt="IMDbPro Menu" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_nb-720143162._V377744227_.png" />
+</a>            </p>
+            <span class="downArrow"></span>
+            <div id="navMenuPro" class="sub_nav">
+<a
+onclick="(new Image()).src='/rg/imdbprohome/navbar/images/b.gif?link=/r/IMDbTabNV/';"
+href="/r/IMDbTabNV/"
+id="proLink"
+> <div id="proAd">
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.proMenuTeaser = {
+imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu_user-2082544740._V377744226_.jpg"
+};
+</script>
+</div>
+<div class="subNavListContainer">
+<img alt="Go to IMDbPro" title="Go to IMDbPro" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_menu-2185879182._V377744253_.png" />
+<h5>GET INFORMED</h5>
+<p>Industry information at your fingertips</p>
+<h5>GET CONNECTED</h5>
+<p>Over 200,000 Hollywood insiders</p>
+<h5>GET DISCOVERED</h5>
+<p>Enhance your IMDb Page</p>
+<p><strong>Go to IMDbPro &raquo;</strong></p>
+</div>
+</a>            </div>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/apps/?ref_=nb_app" >IMDb Apps</a>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/help/?ref_=nb_hlp" >Help</a>
+        </li>
+    </ul>
+</div>
+<div id="nb_personal">
+    <ul id="consumer_user_nav" class="main_nav">
+        <li class="css_nav_menu" id="navUserMenu">
+            <p class="navCategory singleLine">        
+                <a rel="login" href="/register/login?ref_=nv_usr_lgin_1" id="nblogin" >Login</a>
+            </p>
+            <span class="downArrow"></span>
+            <div class="sub_nav">
+                <div class="subNavListContainer">
+                    <br />
+                    <ul>
+                        <li>
+                            <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=nv_usr_reg_2" >Register</a>
+                        </li>
+                        <li>
+                            <a rel="login" href="/register/login?ref_=nv_usr_lgin_3" id="nblogin" >Login</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+    </ul>
 </div>
   </div>
 </div>
-
-<!-- ad NAVSTRIP explicitly blocked by const list -->
-
-
-<!-- begin injectable INJECTED_NAVSTRIP -->
-<div id="injected_navstrip_wrapper" class="injected_slot">
-<iframe id="injected_navstrip" name="injected_navstrip" class="yesScript" width="0" height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe> </div>
-<script>ad_utils.inject_ad.register('injected_navstrip');</script>
-<div id="injected_navstrip_reflow_helper"></div>
-<!-- end injectable INJECTED_NAVSTRIP -->
-
-                <div id="pagecontent" itemscope itemtype="http://schema.org/Movie">
-
-<!-- begin injectable INJECTED_BILLBOARD -->
-<div id="injected_billboard_wrapper" class="injected_slot">
-<iframe id="injected_billboard" name="injected_billboard" class="yesScript" width="0" height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe> </div>
-<script>ad_utils.inject_ad.register('injected_billboard');</script>
-<div id="injected_billboard_reflow_helper"></div>
-<!-- end injectable INJECTED_BILLBOARD -->
-
+	
+	<!-- no content received for slot: navstrip -->
+	
+	
+	<!-- no content received for slot: injected_navstrip -->
+	
+<script>
+    if (typeof uet == 'function') {
+      uet("ne");
+    }
+</script>
+                    <div id="pagecontent">
+	
+	<!-- no content received for slot: injected_billboard -->
+	
 <div id="content-2-wide">
     <div id="main">
         <div class="article">
@@ -326,49 +427,13 @@ href="/list/watchlist"
 <div class="findSection">
 <h3 class="findSectionHeader"><a name="tt"></a>Titles</h3>
 <table class="findList">
-<tr class="findResult odd"> <td class="primary_photo"> <a href="/title/tt0060028/?ref_=fn_al_tt_1" ><img src="http://ia.media-imdb.com/images/M/MV5BMTUwODg3NTE2M15BMl5BanBnXkFtZTcwNjQ1MTYzMg@@._V1_SX32_CR0,0,32,44_.jpg" height="44" width="32" /></a> </td> <td class="result_text"> <a href="/title/tt0060028/?ref_=fn_al_tt_1" >Star Trek</a> (1966) (TV Series) <br/>aka <i>"Star Trek: TOS"</i> </td> </tr><tr class="findResult even"> <td class="primary_photo"> <a href="/title/tt2010939/?ref_=fn_al_tt_2" ><img src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/film-3119741174._V397576370_.png" height="44" width="32" /></a> </td> <td class="result_text"> <a href="/title/tt2010939/?ref_=fn_al_tt_2" >One Track Heart: The Story of Krishna Das</a> (2012) </td> </tr></table>
+<tr class="findResult odd"> <td class="primary_photo"> <a href="/title/tt0060028/?ref_=fn_al_tt_1" ><img src="http://ia.media-imdb.com/images/M/MV5BMTY5MTIxNjkxOF5BMl5BanBnXkFtZTYwNTkyOTE2._V1_SX32_CR0,0,32,44_.jpg" /></a> </td> <td class="result_text"> <a href="/title/tt0060028/?ref_=fn_al_tt_1" >Star Trek</a> (1966) (TV Series) <br/>aka <i>"Star Trek: TOS"</i> </td> </tr><tr class="findResult even"> <td class="primary_photo"> <a href="/title/tt2010939/?ref_=fn_al_tt_2" ><img src="http://ia.media-imdb.com/images/M/MV5BMjMzNjAwNjI4Nl5BMl5BanBnXkFtZTcwOTU2NzAzOQ@@._V1_SX32_CR0,0,32,44_.jpg" /></a> </td> <td class="result_text"> <a href="/title/tt2010939/?ref_=fn_al_tt_2" >One Track Heart: The Story of Krishna Das</a> (2012) </td> </tr><tr class="findResult odd"> <td class="primary_photo"> <a href="/title/tt1602152/?ref_=fn_al_tt_3" ><img src="http://ia.media-imdb.com/images/M/MV5BMTM2NjYyMjMyNF5BMl5BanBnXkFtZTcwNzQzODU0MQ@@._V1_SY44_CR5,0,32,44_.jpg" /></a> </td> <td class="result_text"> <a href="/title/tt1602152/?ref_=fn_al_tt_3" >This Pun for Hire/Star Truck/Go Fish/Multiplication</a> (1995) (TV Episode) <br/><small>- <a href="/title/tt0105941/?ref_=fn_al_tt_3a" >Animaniakken</a> (1993) (TV Series) </small> </td> </tr></table>
 <div class="findMoreMatches">
         View:&nbsp; <a href="/find?q=Star Trek: TOS&amp;s=tt&ref_=fn_al_tt_mr" >More title matches</a>
             &nbsp;or&nbsp;
             <a href="/find?q=Star Trek: TOS&amp;s=tt&amp;exact=true&ref_=fn_al_tt_ex" >Exact title matches</a>
 </div>
 </div>
-
-    	<div id="afs_sponsored_links" name="afs_sponsored_links"></div>
-		<!-- sid: n-channel : MIDDLE_CENTER -->
-		<script type="text/javascript">
-			var parentDiv = document.getElementById('afs_sponsored_links'),
-			    geo = "NL",
-			    query = "Star+Trek%3A+TOS",
-			    titleString = "Sponsored Links",
-			    helpString = "What's This?";
-			try {
-		 		if (parentDiv && query) { 
-		  			google_afs_ad = 'w3'; google_afs_client = 'amazon-imdb'; google_afs_channel = 'n-channel'; google_afs_adsafe = 'high'; google_afs_adtest = 'on'; 
-		  			google_afs_query = query; 
-	  				if (geo) { google_afs_gl = google_afs_hl = geo;}
-		 		} 
- 			} catch (e) { }
-			function google_afs_request_done(google_ads) {
-		 		try {
-		  			if ( !parentDiv || !titleString ) return;
-	   				var s='',n=google_ads.length;
-		   			if (n == 0) return;
-		    		s+='<p><b>'+titleString+'</b> <a href=\"/help/show_leaf?sponsoredlinks\">'+helpString+'</a><!-- display n results --></p><ul>';
-		    		for (var x = 0; x < n; x++) {
-		     			s+='<li><a href="'+google_ads[x].url+'" target="_top" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to '+google_ads[x].visible_url+'\';return true;" style="text-decoration:none"><span style="text-decoration:underline;">'+google_ads[x].line1+'<br></span>';
-		     			if (google_ads[x].line2) s+='<small style="color:#000000;">'+google_ads[x].line2+'</small><br>';
-		     			s+='<small style="color:#003399;">'+google_ads[x].visible_url+'</small></a>'; if (x+1<n) { s+="<br><br>";} s+='</li>';
-		   			}
-		   			s+="</ul>";
-		   			parentDiv.innerHTML = s;
-	 			} catch (e) { }
-		 		return;
-			}
-		</script>
-		<script language="JavaScript" src="http://www.google.com/afsonline/show_afs_ads.js"></script>   
-
-
         </div>
     </div>
 
@@ -382,22 +447,9 @@ href="/list/watchlist"
 </div>
 
 
-
-<!-- begin TOP_RHS -->
-<div id="top_rhs_wrapper" class="dfp_slot">
-<script type="text/javascript">
-ad_utils.register_ad('top_rhs');
-</script>
-<iframe data-dart-params="#imdb2.consumer.main/find;!TILE!;sz=300x250,11x1;p=tr;fv=1;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
-<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.main/find;tile=1;sz=300x250,11x1;p=tr;fv=1;ab=f;bpx=1;ord=003887914613?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.main/find;tile=1;sz=300x250,11x1;p=tr;fv=1;ab=f;bpx=1;ord=003887914613?" border="0" alt="advertisement" /></a></noscript>
-</div>
-<div id="top_rhs_reflow_helper"></div>
-<script>ad_utils.render_ad_fast('top_rhs');</script>
-<div id="top_rhs_after" class="after_ad">
-<a class="yesScript" href="#" onclick="ad_utils.show_ad_feedback('top_rhs');return false;" id="ad_feedback_top_rhs">ad feedback</a>
-</div>
-<!-- End TOP_RHS -->
-
+	
+	<!-- no content received for slot: top_rhs -->
+	
 
 <div class="aux-content-widget-3">
 <h3>Category Search</h3>
@@ -422,6 +474,9 @@ ad_utils.register_ad('top_rhs');
 <li><a href="/search/text?realm=title&amp;field=quotes&amp;q=Star Trek: TOS&ref_=fn_qu" >Quotes</a></li>
 </ul>
 </div>
+	
+	<!-- no content received for slot: rhs_cornerstone -->
+	
 <div class="aux-content-widget-3">
     <h3>Additional Search Options</h3>
     <ul class="findSearchOptionsList">
@@ -435,9 +490,9 @@ ad_utils.register_ad('top_rhs');
 </div>
 </div>
 
-
-<!-- no content received for slot: bottom_rhs -->
-
+	
+	<!-- no content received for slot: bottom_rhs -->
+	
     </div>
 </div>
                    <br class="clear" />
@@ -640,15 +695,15 @@ href="//www.amazon.com/InterestBasedAds"
         </a>
     </td>
     <td class="amazon-affiliate-site-item-nth">
-        <a class="amazon-affiliate-site-link" href=http://www.lovefilm.com/browse/film/watch-online/ >
-          <span class="amazon-affiliate-site-name">LOVEFiLM</span><br>
-          <span class="amazon-affiliate-site-desc">Watch Movies<br>Online</span>
+        <a class="amazon-affiliate-site-link" href=http://www.amazon.in/movies-tv-shows/b/?ie=UTF&node=976416031&tag=imdbpr1-in-21 >
+          <span class="amazon-affiliate-site-name">Amazon India</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
         </a>
     </td>
     <td class="amazon-affiliate-site-item-nth">
-        <a class="amazon-affiliate-site-link" href=http://wireless.amazon.com >
-          <span class="amazon-affiliate-site-name">Amazon Wireless</span><br>
-          <span class="amazon-affiliate-site-desc">Cellphones &<br>Wireless Plans</span>
+        <a class="amazon-affiliate-site-link" href=http://www.lovefilm.com/browse/film/watch-online/ >
+          <span class="amazon-affiliate-site-name">LOVEFiLM</span><br>
+          <span class="amazon-affiliate-site-desc">Watch Movies<br>Online</span>
         </a>
     </td>
     <td class="amazon-affiliate-site-item-nth">
@@ -690,88 +745,31 @@ href="//www.amazon.com/InterestBasedAds"
        })();
 
     </script>
-<!-- begin springroll comscore beacon -->
-<script type="text/javascript" src='/images/a/js/beacon.js'></script>
-<script type="text/javascript">
-COMSCORE.beacon({
-c1: 2,
-c2:"6034961",
-c3:"",
-c4:"http://www.imdb.com/find",
-c5:"",
-c6:"",
-c15:""
-});
-</script>
-<noscript>
-<img src="http://b.scorecardresearch.com/p?c1=2&c2=6034961&c3=&c4=http%3A%2F%2Fwww.imdb.com%2Ffind&c5=c6=&15=&cj=1"/>
-</noscript>
-<!-- end springroll comscore beacon -->
-
-<!-- begin BOTTOM_AD -->
-<div id="bottom_ad_wrapper" class="dfp_slot">
-<script type="text/javascript">
-ad_utils.register_ad('bottom_ad');
-</script>
-<iframe data-dart-params="#imdb2.consumer.main/find;!TILE!;sz=728x90,2x1;p=b;fv=1;ab=f;bpx=1;oe=utf-8;[CLIENT_SIDE_KEYVALUES];[PASEGMENTS];u=[CLIENT_SIDE_ORD];ord=[CLIENT_SIDE_ORD]?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="ad_utils.on_ad_load(this)"></iframe>
-<noscript><a href="http//ad.doubleclick.net/jump/imdb2.consumer.main/find;tile=6;sz=728x90,2x1;p=b;fv=1;ab=f;bpx=1;ord=003887914613?" target="_blank"><img src="http//ad.doubleclick.net/ad/imdb2.consumer.main/find;tile=6;sz=728x90,2x1;p=b;fv=1;ab=f;bpx=1;ord=003887914613?" border="0" alt="advertisement" /></a></noscript>
-</div>
-<div id="bottom_ad_reflow_helper"></div>
-<script>ad_utils.render_ad_fast('bottom_ad');</script>
-<!-- End BOTTOM_AD -->
-
+	
+	<!-- no content received for slot: bottom_ad -->
+	
             </div>
         </div>
-    
-<script type="text/javascript" src="http://z-ecx.images-amazon.com/images/G/01/imdb/js/collections/jquery-216455579._V396414659_.js"></script>
-<script type="text/javascript" src="http://z-ecx.images-amazon.com/images/G/01/imdb/js/collections/consumersite-3234254591._V374446274_.js"></script>
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/jquery-4133058748._V354516613_.js"></script>
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/consumersite-1090587575._V354100634_.js"></script>
+
+
 <script type="text/imdblogin-js" id="login">
 jQuery(document).ready(function(){
     window.imdb.login_lightbox("https://secure.imdb.com", "http://www.imdb.com/find?q=Star+Trek:+TOS");
 });
 </script>
-<!-- begin ads footer -->
-    <!-- Begin SIS-SW code --> 
-    <iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0"></iframe>
-    <script>
-    setTimeout(function(){
-      try{
-        if (! document.getElementById('sis_pixel_3')) {
-            var url_sis = 'http://s.amazon-adsystem.com/iu3?',
-                params_sis = [
-                  "d=imdb.com",
-                  "a1=",
-                  "a2=0101a1823ca3d5d46ce03d4502edf28f095b20f780c29eddcddebefb2933fa9c1e98",
-                  "pId=",
-                  "r=1",
-                  "rP=http%3A%2F%2Fakas.imdb.com%2Ffind%3Fq%3DStar%2BTrek%253A%2BTOS",
-                  "encoding=server",
-                  "cb=" + parseInt(Math.random()*99999999)  
-                ];
-            (document.getElementById('sis_pixel_sitewide')).src = url_sis + params_sis.join('&');
-        }
-      }
-      catch(e){
-        consoleLog('Pixel failure ' + e.toString(),'sis');
-      }
-    }, 5);
-    
-    </script>
-    <!-- End SIS-SW code --> 
 
-<script type="text/javascript">
-  (function() {
-    var foreseescript = document.createElement("script");
-    foreseescript.setAttribute("defer", true);
-    foreseescript.setAttribute("src", "http://z-ecx.images-amazon.com/images/G/01/imdbads/foresee/foresee-trigger-4277353327._V397576255_.js");
-    document.getElementsByTagName("head")[0].appendChild(foreseescript);
-  })();
+
+<div id="servertime" time="155"/>
+
+
+
+<script>
+    if (typeof uet == 'function') {
+      uet("be");
+    }
 </script>
-
-<script>(function(g){window.jQuery && jQuery(function(){g.document_is_ready()});g.monitoring.stop_timing('page_load','',true);g.monitoring.all_events_started();})(generic);</script>
-<!-- end ads footer -->
-
-<div id="servertime" time="85"/>
     </body>
 </html>
 
