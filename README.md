@@ -84,8 +84,8 @@ To update the packaged fixtures files with actual imdb.com samples, use the
 
 ## Disclaimer
 
-I, or any developer who contributed to this project, accepts any kind of 
-liabilty for your use of this library.
+Neither I, nor any developer who contributed to this project, accept any kind of 
+liability for your use of this library.
 
 IMDB does not permit use of its data by third parties without their consent.
 
