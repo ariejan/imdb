@@ -125,11 +125,6 @@ module Imdb
       document.at("//a[starts-with(.,'MPAA')]/../following-sibling::*").content.strip rescue nil
     end
 
-    #Returns a string containing the content rating for the film
-    def content_rating
-      	document.at("//span[contains(@itemprop, 'contentRating')]/text()").to_s rescue nil
-    end
-
     # Returns a string containing the title
     def title(force_refresh = false)
       if @title && !force_refresh
