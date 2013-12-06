@@ -71,7 +71,6 @@ describe "Imdb::Movie" do
          "nm0882139", "nm0902455", "nm0907234", "nm0924636", "nm0936591", "nm0958105", "nm2143912",
          "nm2476262", "nm2565888"].sort
       end
-
     end
 
     it "returns the url to the movie trailer" do
@@ -106,10 +105,6 @@ describe "Imdb::Movie" do
       languages.should include('German')
       languages.should include('Italian')
     end
-
-     it 'should return the content rating' do
-	@movie.content_rating.should == "R"
-     end
 
     it "should find the countries" do
       # The Dark Knight (2008)
