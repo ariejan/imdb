@@ -9,7 +9,8 @@ module Imdb
     end
 
     def episode(number)
-      episodes.fetch(number-1, nil)
+      i = episodes.index{|ep| ep.episode == number}
+      (i.nil? ? nil : episodes[i])
     end
 
     def episodes
