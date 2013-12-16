@@ -9,17 +9,19 @@ module Imdb
     end
 
     def episode(number)
-      episodes.fetch(number-1, nil)
+      i = episodes.index{|ep| ep.episode == number}
+      (i.nil? ? nil : episodes[i])
     end
 
     def episodes
       @episodes = []
 
-      document.search("div.eplist a[@itemprop*='name']").each_with_index do |link, index|
+      document.search("div.eplist div[@itemprop*='episode']").each do |div|
+        link = div.search("a[@itemprop*='name']").first
         @episodes << Imdb::Episode.new(
           link[:href].scan(/\d+/).first,
           @season_number,
-          index + 1,
+          div.search("meta[@itemprop*='episodeNumber']").first[:content].to_i,
           link.content.strip
         )
       end
