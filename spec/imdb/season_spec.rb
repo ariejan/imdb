@@ -17,3 +17,25 @@ describe "Imdb::Season" do
   end
 end
 
+describe "Imdb::Season starting with episode 0" do
+  before(:each) do
+    @serie = Imdb::Serie.new("0898266")
+    @season = @serie.season(1)
+    @episodes = @serie.season(1).episodes
+  end
+
+  it "should index episode correctly" do
+    @episodes[0].episode.should eql(0)
+    @episodes[1].episode.should eql(1)
+  end
+
+  it "should return the correct title" do
+    @episodes[0].title.should eql("Unaired Pilot")
+    @episodes[1].title.should eql("Pilot")
+  end
+
+  it "should fetch the correct episode" do
+    @season.episode(0).episode.should eql(0)
+    @season.episode(1).episode.should eql(1)
+  end
+end
