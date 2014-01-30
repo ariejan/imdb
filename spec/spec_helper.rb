@@ -40,7 +40,8 @@ IMDB_SAMPLES = {
   "http://akas.imdb.com/title/tt1520211/episodes?season=1" => "thewalkingdead-s1",
   "http://akas.imdb.com/title/tt1628064/combined" => "thewalkingdead-s1e2",
   "http://akas.imdb.com/title/tt0898266/episodes?season=1" => "tbbt-s1",
-  "http://akas.imdb.com/title/tt0898266/combined" => "tt0898266"
+  "http://akas.imdb.com/title/tt0898266/combined" => "tt0898266",
+  "http://akas.imdb.com/find?q=Wall-E;s=tt" => "wall_e_search"
 }
 
 unless ENV['LIVE_TEST']
