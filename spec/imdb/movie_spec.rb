@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require 'spec_helper'
 
 # This test uses "Die hard (1988)" as a testing sample:
