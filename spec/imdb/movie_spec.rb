@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require 'spec_helper'
 
 # This test uses "Die hard (1988)" as a testing sample:
@@ -248,6 +250,17 @@ describe "Imdb::Movie" do
 
     it "should have a poster" do
       @movie.poster.should eql("http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4.jpg")
+    end
+  end
+
+  describe 'with title that has utf-8 characters' do
+    # WALL-E
+    before(:each) do
+      @movie = Imdb::Movie.search("Wall-E").first
+    end
+
+    it 'should give the proper title' do
+      @movie.title.should == 'WALL·E (2008)'
     end
   end
 end
