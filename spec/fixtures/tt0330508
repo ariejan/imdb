@@ -1,12 +1,13 @@
 HTTP/1.1 200 OK
-Date: Mon, 28 Oct 2013 08:53:08 GMT
+Date: Fri, 31 Jan 2014 10:08:03 GMT
 Server: Server
+X-Frame-Options: SAMEORIGIN
 Content-Type: text/html;charset=UTF-8
 Content-Language: en-US
 Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYu5g%2Fh6u8QsENwLtnDVzHz7XdDNxOdeg7wId%2FKtn2Ui%2FBAJJjtolNs2hPpxpf4jALHcWgVFw6T%0D%0Aqr8eSfqAQXXosjJzcaB0bWo7TF8ljq8UIA35rgwFO0xx0z1CbGjMEnFol0k6X%2Fy0R3Si6uSCR1ta%0D%0A8CEzS%2BZRnQY5dkU3XGCXhlOQc37biFsHJdd56EkN67Q28gSzYViKwnpfkbca1AuLpPJzCkRuIjX0%0D%0AiascsMAyFUVVT7ixiqjetxrakgi%2Fbvbxw6oGBmx8I1uo0OU5czBQfQ%3D%3D%0D%0A; Domain=.imdb.com; Expires=Sat, 15-Nov-2081 12:07:16 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 15-Nov-2081 12:07:16 GMT; Path=/
-Set-Cookie: session-id-time=1540630388; Domain=.imdb.com; Expires=Sat, 15-Nov-2081 12:07:16 GMT; Path=/
+Set-Cookie: uu=BCYr0_xTvLemxu041N1Xmbs3cuxsg5KyhxWP0-YINGuuH4fN31b9uGocEUzgGR9v-se39bo1h-_p%0D%0A2r8Fal3p4K4RcWEue8LswnIeBZ9RnyMJ7rbCJQ5vat9E5bNUtCphrTRkyB8KO3G1Ey6pOqqVm0BX%0D%0AhFRIUjbe1vezSxFqTTjcAcCQxeNj7X-TKyDWflqBQVxEL7PMrffcbz1K-yKU0BnGhMfEajR68pl_%0D%0A23FWuklCac3UnBQ0Ax_gkUVg6EzDQLmKJm69JgEexvxCnig464vBnA%0D%0A; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:10 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:10 GMT; Path=/
+Set-Cookie: session-id-time=1548842883; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:10 GMT; Path=/
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
 
@@ -22,15 +23,15 @@ Transfer-Encoding: chunked
 xmlns:og="http://ogp.me/ns#"
 xmlns:fb="http://www.facebook.com/2008/fbml">
     <head>
-                <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
-                <script type="text/javascript">
-                    var ue_mid = "A1EVAM02EL8SFB"; 
-                    var ue_sn = "www.imdb.com";  
-                    var ue_furl = "fls-na.amazon.com";
-                    var ue_sid = "000-0000000-0000000";
-                    var ue_id = "0X986TPHDWY3T8D8GMYA";
-                    (function(e){var c=e,a={main_scope:"mainscopecsm",q:[],t0:c.ue_t0||+new Date(),d:g};function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(k,j,h){var i={m:k,f:j,l:h,fromOnError:1,args:arguments};c.ueLogError(i);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-ef584a44e8ea58e3d4d928956600a9b6._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){b()}a.uels=c;e.ue=a})(window,document);
-                </script>
+            <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
+            <script type="text/javascript">
+                var ue_mid = "A1EVAM02EL8SFB"; 
+                var ue_sn = "www.imdb.com";  
+                var ue_furl = "fls-na.amazon.com";
+                var ue_sid = "000-0000000-0000000";
+                var ue_id = "0F49FQ7EGAH612CNNW8Q";
+                (function(e){var c=e,a={main_scope:"mainscopecsm",q:[],t0:c.ue_t0||+new Date(),d:g};function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(k,j,h){var i={m:k,f:j,l:h,fromOnError:1,args:arguments};c.ueLogError(i);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-ef584a44e8ea58e3d4d928956600a9b6._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){b()}a.uels=c;e.ue=a})(window,document);
+            </script>
  
 
         
@@ -51,24 +52,24 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
         <link rel="search" type="application/opensearchdescription+xml" href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._V379388505_.xml" title="IMDb" />
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
         
-        
-            <link rel='image_src' href="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V379391653_.png">
-            <meta property='og:image' content="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V379391653_.png" />
-        
-            <meta property='og:type' content="video.movie" />
-        <meta property='fb:app_id' content='115109575169727' />
-        <meta property='og:title' content="Kannethirey Thondrinal (1998)" />
-        <meta property='og:site_name' content='IMDb' />
-        <meta name="title" content="Kannethirey Thondrinal (1998) - IMDb" />
-            <meta name="description" content="Directed by Ravichandran.  With Prashanth, Simran, Karan, Srividya. Family opposition to a couple's coming together forms the basis for this standard love story." />
-            <meta property="og:description" content="Directed by Ravichandran.  With Prashanth, Simran, Karan, Srividya. Family opposition to a couple's coming together forms the basis for this standard love story." />
-            <meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
-            <meta name="request_id" content="0X986TPHDWY3T8D8GMYA" />
+    
+        <link rel='image_src' href="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V379391653_.png">
+        <meta property='og:image' content="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V379391653_.png" />
+    
+        <meta property='og:type' content="video.movie" />
+    <meta property='fb:app_id' content='115109575169727' />
+    <meta property='og:title' content="Kannethirey Thondrinal (1998)" />
+    <meta property='og:site_name' content='IMDb' />
+    <meta name="title" content="Kannethirey Thondrinal (1998) - IMDb" />
+        <meta name="description" content="Directed by Ravichandran.  With Prashanth, Simran, Karan, Srividya. Family opposition to a couple's coming together forms the basis for this standard love story." />
+        <meta property="og:description" content="Directed by Ravichandran.  With Prashanth, Simran, Karan, Srividya. Family opposition to a couple's coming together forms the basis for this standard love story." />
+        <meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
+        <meta name="request_id" content="0F49FQ7EGAH612CNNW8Q" />
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
-<!-- h=ics-1a-i-d656f2a6.us-east-1 -->
+<!-- h=ics-1d-i-b6995ece.us-east-1 -->
 
-            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-3745012491._V353727349_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-2125033518._V363851123_.css" />
             <!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/ie-1918465287._V354866480_.css" /><![endif]-->
             <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-3538633082._V355276482_.css" />
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
@@ -166,17 +167,20 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
     <ul id="consumer_main_nav" class="main_nav">
         <li class="spacer"></li>
         <li class="css_nav_item" id="navTitleMenu">
-            <p class="navCategory">Movies, TV<br />& Showtimes</p>
+            <p class="navCategory">
+                <a href="/movies-in-theaters/?ref_=nv_tp_inth_1" >Movies</a>,
+                <a href="/tv/?ref_=nv_tp_tvhm_2" >TV</a><br />
+                & <a href="/showtimes/?ref_=nv_tp_sh_3" >Showtimes</a></p>
             <span class="downArrow"></span>
             <div id="navMenu1" class="sub_nav">
                 <div id="titleAd"></div>
                 <div class="subNavListContainer">
                     <h5>MOVIES</h5>
                     <ul>
-                        <li><a href="/showtimes/?ref_=nv_mv_sh_1" >Showtimes & Tickets</a></li>
-                        <li><a href="/trailers/?ref_=nv_mv_tr_2" >Latest Trailers</a></li>
-                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_3" >Coming Soon</a></li>
-                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_4" >In Theaters</a></li>
+                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_1" >In Theaters</a></li>
+                        <li><a href="/showtimes/?ref_=nv_mv_sh_2" >Showtimes & Tickets</a></li>
+                        <li><a href="/trailers/?ref_=nv_mv_tr_3" >Latest Trailers</a></li>
+                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_4" >Coming Soon</a></li>
                         <li><a href="/calendar/?ref_=nv_mv_cal_5" >Release Calendar</a></li>
                     </ul>
                     <h5>CHARTS & TRENDS</h5>
@@ -199,24 +203,26 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
                     </ul>
                     <h5>SPECIAL FEATURES</h5>
                     <ul>
-                        <li><a href="/emmys/?ref_=nv_sf_rte_1" >Road to the Emmys</a></li>
-                        <li><a href="/falltv/?ref_=nv_sf_ftp_2" >Fall TV Preview</a></li>
-                        <li><a href="/comic-con/?ref_=nv_sf_comic_3" >Comic-Con</a></li>
-                        <li><a href="/x-ray/?ref_=nv_sf_xray_4" >X-Ray for Movies & TV</a></li>
+                        <li><a href="/year-in-review/?ref_=nv_sf_best_1" >Best of 2013</a></li>
+                        <li><a href="/oscars/?ref_=nv_sf_rto_2" >Road to the Oscars 2014</a></li>
+                        <li><a href="/x-ray/?ref_=nv_sf_xray_3" >X-Ray for Movies & TV</a></li>
                     </ul>
                 </div>
             </div>
         </li>
         <li class="spacer"></li>
         <li class="css_nav_item" id="navNameMenu">
-            <p class="navCategory">Celebs, Events<br />& Photos</p>
+            <p class="navCategory">
+                <a href="/search/name?gender=male,female&ref_=nv_tp_cel_1" >Celebs</a>,
+                <a href="/event/?ref_=nv_tp_ev_2" >Events</a><br />
+                & <a href="/media/index/rg1176148480?ref_=nv_tp_ph_3" >Photos</a></p>
             <span class="downArrow"></span>
             <div id="navMenu2" class="sub_nav">
                 <div id="nameAd"></div>
                 <div class="subNavListContainer">
                     <h5>CELEBS</h5>
                     <ul>
-                        <li><a href="/search/name?birth_monthday=10-28&refine=birth_monthday&ref_=nv_cel_brn_1" >Born Today</a></li>
+                            <li><a href="/search/name?birth_monthday=01-31&refine=birth_monthday&ref_=nv_cel_brn_1" >Born Today</a></li>
                         <li><a href="/news/celebrity?ref_=nv_cel_nw_2" >Celebrity News</a></li>
                         <li><a href="/search/name?gender=male,female&ref_=nv_cel_m_3" >Most Popular Celebs</a></li>
                     </ul>
@@ -232,11 +238,11 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
                 <div class="subNavListContainer">
                     <h5>EVENTS</h5>
                     <ul>
-                        <li><a href="/emmys/?ref_=nv_ev_rte_1" >Road to the Emmys</a></li>
-                        <li><a href="/comic-con/?ref_=nv_ev_comic_2" >Comic-Con</a></li>
-                        <li><a href="/cannes/?ref_=nv_ev_can_3" >Cannes</a></li>
-                        <li><a href="/tribeca/?ref_=nv_ev_tri_4" >Tribeca</a></li>
-                        <li><a href="/oscars/?ref_=nv_ev_rto_5" >Road to the Oscars</a></li>
+                        <li><a href="/oscars/?ref_=nv_ev_rto_1" >Road to the Oscars</a></li>
+                        <li><a href="/emmys/?ref_=nv_ev_rte_2" >Road to the Emmys</a></li>
+                        <li><a href="/comic-con/?ref_=nv_ev_comic_3" >Comic-Con</a></li>
+                        <li><a href="/cannes/?ref_=nv_ev_can_4" >Cannes</a></li>
+                        <li><a href="/tribeca/?ref_=nv_ev_tri_5" >Tribeca</a></li>
                         <li><a href="/sundance/?ref_=nv_ev_sun_6" >Sundance</a></li>
                         <li><a href="/event/?ref_=nv_ev_all_7" >More Popular Events</a></li>
                     </ul>
@@ -245,7 +251,9 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
         </li>
         <li class="spacer"></li>
         <li class="css_nav_item" id="navNewsMenu">
-            <p class="navCategory">News &<br />Community</p>
+            <p class="navCategory">
+                <a href="/news/top?ref_=nv_tp_nw_1" >News</a> &<br />
+                <a href="/boards/?ref_=nv_tp_bd_2" >Community</a></p>
             <span class="downArrow"></span>
             <div id="navMenu3" class="sub_nav">
                 <div id="latestHeadlines">
@@ -253,17 +261,17 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
                         <h5>LATEST HEADLINES</h5>
     <ul>
                 <li itemprop="headline">
-<a href="/news/ni56355151/?ref_=nv_nw_tn_1" > Lou Reed, ‘Walk on the Wild Side’ Singer, Dead at 71
+<a href="/news/ni56738656/?ref_=nv_nw_tn_1" > 'Neighbors' with Seth Rogen, 'Space Station 76,' more join SXSW features lineup
 </a><br />
                         <span class="time">14 hours ago</span>
                 </li>
                 <li itemprop="headline">
-<a href="/news/ni56354884/?ref_=nv_nw_tn_2" > Box office report: 'Bad Grandpa' spoofs its way to $32 million debut
+<a href="/news/ni56738234/?ref_=nv_nw_tn_2" > Oscars: Michael B. Jordan, Kristen Bell to Host Sci-Tech Awards
 </a><br />
-                        <span class="time">16 hours ago</span>
+                        <span class="time">15 hours ago</span>
                 </li>
                 <li itemprop="headline">
-<a href="/news/ni56354920/?ref_=nv_nw_tn_3" > Chris Brown Arrested and Jailed for Felony Assault in Washington, D.C.
+<a href="/news/ni56737830/?ref_=nv_nw_tn_3" > Jerry Seinfeld Sorta Confirms Seinfeld Reunion, Gives Details on Secret Project With Jason Alexander
 </a><br />
                         <span class="time">16 hours ago</span>
                 </li>
@@ -297,7 +305,7 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
 <span class="downArrow"></span>
 <div id="navMenu4" class="sub_nav">
     <h5>
-        RECENTLY ADDED
+            YOUR WATCHLIST
     </h5> 
     <ul id="navWatchlist">
     </ul>
@@ -313,7 +321,7 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
                 src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot2_popular-4090757197._V360060945_.jpg"
                 },
                 {
-                    href : "/search/title?count=100&groups=top_250&sort=user_rating,desc&title_type=feature",
+                    href : "/chart/top",
                 src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot3_top250-575799966._V360061165_.jpg"
                 }
     ];
@@ -453,7 +461,7 @@ id="meterRank"
 </a>            </div>
             <div id="meterChangeRow" class="meterToggleOnHover">
                     <span>Down</span>
-                <span id="meterChange">28,485</span>
+                <span id="meterChange">98,240</span>
                 <span>this week</span>
             </div>
             <div id="meterSeeMoreRow" class="meterToggleOnHover">
@@ -492,7 +500,7 @@ href="/r/tt_moviemeter_why/title/tt0330508"
     <div class="star-box-rating-widget">
             <span class="star-box-rating-label">Your rating:</span>
 <div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0330508|imdb|0|0|title-maindetails" data-ga-identifier=""
-title="Users rated this 6.9/10 (47 votes) - click stars to rate" >
+title="Users rated this 6.9/10 (51 votes) - click stars to rate" >
 <span class="rating-bg">&nbsp;</span>
 <span class="rating-imdb " style="width: 0px">&nbsp;</span>
 <span class="rating-stars">
@@ -513,7 +521,7 @@ title="Users rated this 6.9/10 (47 votes) - click stars to rate" >
     </div> 
     <div class="star-box-details" itemtype="http://schema.org/AggregateRating" itemscope itemprop="aggregateRating">
             Ratings:
-<strong><span itemprop="ratingValue">6.9</span></strong><span class="mellow">/<span itemprop="bestRating">10</span></span>            from <a href="ratings?ref_=tt_ov_rt" title="47 IMDb users have given a weighted average vote of 6.9/10" > <span itemprop="ratingCount">47</span> users
+<strong><span itemprop="ratingValue">6.9</span></strong><span class="mellow">/<span itemprop="bestRating">10</span></span>            from <a href="ratings?ref_=tt_ov_rt" title="51 IMDb users have given a weighted average vote of 6.9/10" > <span itemprop="ratingCount">51</span> users
 </a>&nbsp;
             <br/>
             Reviews: 
@@ -528,14 +536,14 @@ title="Users rated this 6.9/10 (47 votes) - click stars to rate" >
     <p itemprop="description">
 Family opposition to a couple's coming together forms the basis for this standard love story.    </p>
                         <p></p>
-    <div class="txt-block" itemprop="director" itemscope itemtype="http://schema.org/Person"> 
+    <div class="txt-block" itemprop="director" itemscope itemtype="http://schema.org/Person">
         <h4 class="inline">Director:</h4>
 <a href="/name/nm1119422/?ref_=tt_ov_dr" itemprop='url'><span class="itemprop" itemprop="name">Ravichandran</span></a>
-    </div> 
+    </div>
     <div class="txt-block" itemprop="creator" itemscope itemtype="http://schema.org/Person"> 
         <h4 class="inline">Writers:</h4>
 <a href="/name/nm1119422/?ref_=tt_ov_wr" itemprop='url'><span class="itemprop" itemprop="name">Ravichandran</span></a>               (screenplay), 
-<a href="/name/nm0837675/?ref_=tt_ov_wr" itemprop='url'><span class="itemprop" itemprop="name">Sujatha</span></a>               (dialogue), <a href="fullcredits?ref_=tt_ov_wr#writers" >1 more credit</a>&nbsp;&raquo;
+<a href="/name/nm1119422/?ref_=tt_ov_wr" itemprop='url'><span class="itemprop" itemprop="name">Ravichandran</span></a>               (story), <a href="fullcredits?ref_=tt_ov_wr#writers" >1 more credit</a>&nbsp;&raquo;
     </div> 
                          
                           <div class="txt-block" itemprop="actors" itemscope itemtype="http://schema.org/Person"> 
@@ -604,33 +612,38 @@ href="https://secure.imdb.com/register-imdb/sharing?ref=tt_checkin_share"
     <a class="close-popover" href="#">X</a>
     <h4>Share</h4>
 
-<a onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F3%2Ftitle%2Ftt0330508', 'newWindow', 'width=626,height=436'); return false;"
-    href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F3%2Ftitle%2Ftt0330508"
-    target="_blank"
-    title="Share on Facebook"
-    class="facebook">
-    <div class="option facebook">
-        <span class="titlePageSprite share_facebook"></span>
-        <div>Facebook</div>
-    </div>
-</a>
-<a onclick="window.open('http://twitter.com/home?status=Kannethirey%20Thondrinal%20(1998)%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Ftitle%2Ftt0330508', 'newWindow', 'width=815,height=436'); return false;"
-    href="http://twitter.com/home?status=Kannethirey%20Thondrinal%20(1998)%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Ftitle%2Ftt0330508"
-    target="_blank"
-    title="Share on Twitter"
-    class="twitter">
-    <div class="option twitter">
-        <span class="titlePageSprite share_twitter"></span>
-        <div>Twitter</div>
-    </div>
-</a>
+     
+    
+    <a onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F3%2Ftitle%2Ftt0330508%3Fref_%3Dext_shr_fb_tt', 'newWindow', 'width=626,height=436'); return false;"
+       href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F3%2Ftitle%2Ftt0330508%3Fref_%3Dext_shr_fb_tt"
+       title="Share on Facebook"
+       class="facebook"
+       ref_="tt_shr_fb"
+       target="_blank"><div class="option facebook">
+                            <span class="titlePageSprite share_facebook"></span>
+                            <div>Facebook</div>
+                        </div></a>
 
-    <a href="mailto:?subject=IMDb%3A%20Kannethirey%20Thondrinal%20(1998)&body=IMDb%3A%20Kannethirey%20Thondrinal%20(1998)%0AFamily%20opposition%20to%20a%20couple's%20coming%20together%20forms%20the%20basis%20for%20this%20standard%20love%20story.%0Ahttp%3A%2F%2Fwww.imdb.com%2Frg%2Fem_share%2Ftitle_web%2Ftitle%2Ftt0330508" title="Share by e-mail">
-        <div class="option email">
-            <span class="titlePageSprite share_email"></span>
-            <div>E-mail</div>
-        </div>
-    </a>
+    
+    
+    <a onclick="window.open('http://twitter.com/intent/tweet?text=Kannethirey%20Thondrinal%20(1998)%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Ftitle%2Ftt0330508%3Fref_%3Dext_shr_tw_tt', 'newWindow', 'width=815,height=436'); return false;"
+       href="http://twitter.com/intent/tweet?text=Kannethirey%20Thondrinal%20(1998)%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Ftitle%2Ftt0330508%3Fref_%3Dext_shr_tw_tt"
+       title="Share on Twitter"
+       class="twitter"
+       ref_="tt_shr_tw"
+       target="_blank"><div class="option twitter">
+                            <span class="titlePageSprite share_twitter"></span>
+                            <div>Twitter</div>
+                        </div></a>
+    
+    <a href="mailto:?subject=IMDb%3A%20Kannethirey%20Thondrinal%20(1998)&body=IMDb%3A%20Kannethirey%20Thondrinal%20(1998)%0AFamily%20opposition%20to%20a%20couple's%20coming%20together%20forms%20the%20basis%20for%20this%20standard%20love%20story.%0Ahttp%3A%2F%2Fwww.imdb.com%2Frg%2Fem_share%2Ftitle_web%2Ftitle%2Ftt0330508%3Fref%3Dext_shr_eml_tt" 
+       title="Share by e-mail"
+       class=""
+       ref="tt_shr_eml"><div class='option email'>
+                        <span class='titlePageSprite share_email'></span>
+                        <div>E-mail</div>
+                    </div></a>
+
         <a href="#" class="open-checkin-popover">
             <div class="option checkin">
                 <span class="titlePageSprite share_checkin"></span>
@@ -701,9 +714,11 @@ href="/r/tt_owntherights/https://secure.imdb.com/store/photos/"
     <div id="maindetails_sidebar_bottom" class="maindetails_sidebar">
         
             
+    
+    
     <div class="aux-content-widget-3 links subnav" div="quicklinks">
 
-            <h3 class="inline">Quick Links</h3>
+            <h3>Quick Links</h3>
 
 
         <div id="maindetails_quicklinks">
@@ -924,6 +939,7 @@ href="/r/tt_owntherights/https://secure.imdb.com/store/photos/"
 	<!-- no content received for slot: middle_rhs -->
 	
         
+        
         <div class="aux-content-widget-2">
             <div id="relatedListsWidget">
                 <div class="rightcornerlink">
@@ -954,31 +970,31 @@ src="http://ia.media-imdb.com/images/M/MV5BMTY0NTM4NTIyMl5BMl5BanBnXkFtZTcwODgzO
                     </div>
                     <div class="list-preview odd">
                         <div class="list-preview-item-narrow">
-<a href="/list/OY5gabnSqq8/?ref_=tt_rls_2" >
+<a href="/list/jTliieFej1E/?ref_=tt_rls_2" >
 <img height="86" width="86" alt="list image" title="list image"
 src="/images/nopicture/medium/film.png" class="rec_poster_img" />
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/OY5gabnSqq8/?ref_=tt_rls_2" >All Time Favorite Romance Movie In Tamil</a></b>
+                            <b><a href="/list/jTliieFej1E/?ref_=tt_rls_2" >My All Time favorite Tamil Movies</a></b>
                         </div>
                         <div class="list_meta">
-                            a list of 24 titles 
+                            a list of 80 titles 
                              created 17&nbsp;Dec&nbsp;2011
                         </div>
                         <div class="clear">&nbsp;</div>
                     </div>
                     <div class="list-preview even">
                         <div class="list-preview-item-narrow">
-<a href="/list/LMIrZmGZ2I0/?ref_=tt_rls_3" >
+<a href="/list/OY5gabnSqq8/?ref_=tt_rls_3" >
 <img height="86" width="86" alt="list image" title="list image"
 src="/images/nopicture/medium/film.png" class="rec_poster_img" />
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/LMIrZmGZ2I0/?ref_=tt_rls_3" >Tamil Movies...Watched</a></b>
+                            <b><a href="/list/OY5gabnSqq8/?ref_=tt_rls_3" >All Time Favorite Romance Movie In Tamil</a></b>
                         </div>
                         <div class="list_meta">
-                            a list of 246 titles 
-                             created 11&nbsp;Jan&nbsp;2012
+                            a list of 24 titles 
+                             created 17&nbsp;Dec&nbsp;2011
                         </div>
                         <div class="clear">&nbsp;</div>
                     </div>
@@ -999,16 +1015,16 @@ src="/images/nopicture/medium/film.png" class="rec_poster_img" />
                     </div>
                     <div class="list-preview even">
                         <div class="list-preview-item-narrow">
-<a href="/list/yJ7XbI5yuUI/?ref_=tt_rls_5" >
+<a href="/list/s6d-shM1Wd4/?ref_=tt_rls_5" >
 <img height="86" width="86" alt="list image" title="list image"
 src="/images/nopicture/medium/film.png" class="rec_poster_img" />
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/yJ7XbI5yuUI/?ref_=tt_rls_5" >copied mollywood films and thier originals</a></b>
+                            <b><a href="/list/s6d-shM1Wd4/?ref_=tt_rls_5" >Tamil Movies To Watch from 1990 to 1999!!!!!!</a></b>
                         </div>
                         <div class="list_meta">
-                            a list of 1397 titles 
-                             created 28&nbsp;Jun&nbsp;2011
+                            a list of 90 titles 
+                             created 15&nbsp;Oct&nbsp;2012
                         </div>
                         <div class="clear">&nbsp;</div>
                     </div>
@@ -1102,6 +1118,10 @@ src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_46x22-2264473
     
     <div id="maindetails_center_bottom" class="maindetails_center">
         
+	
+	<!-- no content received for slot: maindetails_center_ad -->
+	
+
   <script>
     if ('csm' in window) {
       csm.measure('csm_TitleEpisodesWidget_started');
@@ -1517,10 +1537,6 @@ onclick="(new Image()).src='/rg/topmovies/footer/images/b.gif?link=/chart/';"
 href="/chart/"
 >Top Movies</a>
         | <a
-onclick="(new Image()).src='/rg/watchlist/footer/images/b.gif?link=/list/watchlist';"
-href="/list/watchlist"
->Watchlist</a>
-        | <a
 onclick="(new Image()).src='/rg/top250/footer/images/b.gif?link=/chart/top';"
 href="/chart/top"
 >Top 250</a>
@@ -1532,10 +1548,6 @@ href="/sections/tv/"
 onclick="(new Image()).src='/rg/news/footer/images/b.gif?link=/news/';"
 href="/news/"
 >News</a>
-        | <a
-onclick="(new Image()).src='/rg/video/footer/images/b.gif?link=/features/video/';"
-href="/features/video/"
->Video</a>
         | <a
 onclick="(new Image()).src='/rg/messageboards/footer/images/b.gif?link=/boards/';"
 href="/boards/"
@@ -1550,16 +1562,6 @@ href="/pressroom/"
 onclick="(new Image()).src='/rg/register-v2/footer/images/b.gif?link=https://secure.imdb.com/register-imdb/form-v2';"
 href="https://secure.imdb.com/register-imdb/form-v2"
 >Register</a>
-        | <a
-onclick="(new Image()).src='/rg/rss/footer/images/b.gif?link=/help/show_article?rssavailable';"
-href="/help/show_article?rssavailable"
-class="navbarSprite"
-id="footer_rss_image"
-></a>
-          <a
-onclick="(new Image()).src='/rg/rss/footer/images/b.gif?link=/help/show_article?rssavailable';"
-href="/help/show_article?rssavailable"
->RSS</a>
         | <a
 onclick="(new Image()).src='/rg/advertising/footer/images/b.gif?link=/advertising/';"
 href="/advertising/"
@@ -1584,10 +1586,6 @@ href="http://www.boxofficemojo.com/"
 onclick="(new Image()).src='/rg/WITHOUTABOX/FOOTER/images/b.gif?link=http://www.withoutabox.com/';"
 href="http://www.withoutabox.com/"
 >Withoutabox</a>
-        | <a
-onclick="(new Image()).src='/rg/LOVEFILM/FOOTER/images/b.gif?link=http://www.lovefilm.com/browse/film/watch-online/';"
-href="http://www.lovefilm.com/browse/film/watch-online/"
->LOVEFiLM</a>
         <br /><br />
         IMDb Mobile:
           <a
@@ -1622,7 +1620,7 @@ href="http://twitter.com/imdb"
         <a
 onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/show_article?conditions';"
 href="/help/show_article?conditions"
->Copyright &copy;</a> 1990-2013 
+>Copyright &copy;</a> 1990-2014 
         <a
 onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/';"
 href="/help/"
@@ -1642,9 +1640,9 @@ href="//www.amazon.com/InterestBasedAds"
         An <span id="amazon_logo" class="footer_logo" align="middle"></span> company.
     </p>
   
-  <table class="footer" id="amazon-affiliates" width="100%">
+  <table class="footer" id="amazon-affiliates">
     <tr>
-      <td colspan="10">
+      <td colspan="8">
         Amazon Affiliates
       </td>
     </tr>
@@ -1686,18 +1684,6 @@ href="//www.amazon.com/InterestBasedAds"
         </a>
     </td>
     <td class="amazon-affiliate-site-item-nth">
-        <a class="amazon-affiliate-site-link" href=http://www.lovefilm.com/browse/film/watch-online/ >
-          <span class="amazon-affiliate-site-name">LOVEFiLM</span><br>
-          <span class="amazon-affiliate-site-desc">Watch Movies<br>Online</span>
-        </a>
-    </td>
-    <td class="amazon-affiliate-site-item-nth">
-        <a class="amazon-affiliate-site-link" href=http://www.junglee.com/ >
-          <span class="amazon-affiliate-site-name">Junglee</span><br>
-          <span class="amazon-affiliate-site-desc">India Online<br>Shopping</span>
-        </a>
-    </td>
-    <td class="amazon-affiliate-site-item-nth">
         <a class="amazon-affiliate-site-link" href=http://www.dpreview.com >
           <span class="amazon-affiliate-site-name">DPReview</span><br>
           <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
@@ -1712,31 +1698,13 @@ href="//www.amazon.com/InterestBasedAds"
     </tr>
   </table>
   </div>
-
-    <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        var seg = -1;
-        _gaq.push(['_setAccount', 'UA-3916519-1']);
-        _gaq.push(['_setDomainName', '.imdb.com']); 
-        _gaq.push(['_setSampleRate', '10']); 
-        _gaq.push(['_setCustomVar', 2, 'Falkor', 'false']); 
-        _gaq.push(['_trackPageview']); // must come last
-  
-       (function() {
-           var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-           ga.src = 'http://www.google-analytics.com/ga.js';
-           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-       })();
-
-    </script>
 	
 	<!-- no content received for slot: bottom_ad -->
 	
             </div>
         </div>
 
-<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/title-2198698218._V354100628_.js"></script>
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/title-36935490._V363304090_.js"></script>
 
 <script type="text/imdblogin-js" id="login">
 jQuery(document).ready(function(){
@@ -1759,7 +1727,9 @@ jQuery(document).ready(function(){
                 );
                 jQuery(
                              function() {
-            var facebookTheme = custom && custom.full_page && custom.full_page.theme || "light",
+            var facebookTheme = (window.custom && window.custom.full_page &&
+                    window.custom.full_page.theme) ?
+                window.custom.full_page.theme : "light",
             url = "//www.facebook.com/plugins/likebox.php?href=facebook.com%2Fimdb&width=300&height=190&connections=5&header=false&stream=false&colorscheme=" + facebookTheme,
             like = document.getElementById('facebookIframe'),
             twitterIframe = document.getElementById('twitterIframe');
@@ -1774,7 +1744,7 @@ jQuery(document).ready(function(){
                 );
         </script>
 
-<div id="servertime" time="746"/>
+<div id="servertime" time="126"/>
 
 
 

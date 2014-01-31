@@ -28,7 +28,7 @@ describe "Imdb::Episode" do
   end
 
   it "has a plot" do
-    @episode.plot.should =~ /Rick finds himself trapped, with other survivors, inside a department store, surrounded by zombies/
+    @episode.plot.should =~ /Rick finds himself trapped with other survivors inside a department store, surrounded by walkers/
   end
 
   it "has a original air data" do

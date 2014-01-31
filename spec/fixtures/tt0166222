@@ -1,12 +1,13 @@
 HTTP/1.1 200 OK
-Date: Mon, 28 Oct 2013 08:53:14 GMT
+Date: Fri, 31 Jan 2014 10:08:11 GMT
 Server: Server
+X-Frame-Options: SAMEORIGIN
 Content-Type: text/html;charset=UTF-8
 Content-Language: en-US
 Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYrlD%2FudXORO49tZ8vsGkbOyJFwuR6t6BEz4%2F2%2BDF0e4CcFeDrHaTHOmlBNiZSxZHMQcwp1emYB%0D%0AYtIaodIn%2FEldjKL5DWNIkdgkF9t6t4VOCQ4i9tt%2Bj8rUrKO%2FAfFHipBEPKpi%2BY29ITJd5IcJ1kbv%0D%0AemVKHYHlzch503YQNFuqX8v3VptjJzuXMQPVJSwr0BnZy6s46AuM0ECEFj8vms2BnwNQUr8EMCbV%0D%0AoMxmGvnPOB%2FLz3fWNDksTSVi%2BTt9BMyI0ew2HwUhjfscN7sjJ%2FHNug%3D%3D%0D%0A; Domain=.imdb.com; Expires=Sat, 15-Nov-2081 12:07:21 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 15-Nov-2081 12:07:21 GMT; Path=/
-Set-Cookie: session-id-time=1540630394; Domain=.imdb.com; Expires=Sat, 15-Nov-2081 12:07:21 GMT; Path=/
+Set-Cookie: uu=BCYpbxX7j1-zgWXAL0Ch2eoZhuSMTvW0K42Fyi2eqwB0kYw51Xyp9zT8eexQ-UQv0mySgDtLjLYc%0D%0AtMs1kdjGD2p0Erlz1x_2rvBtZUpvtWBHGr_pHoAdiGQsqUN5iFV1OmChHWOoBCa09rSPVk98U2qj%0D%0ABLMGV0p9gjwgY79B9pv9JXQLjKNk5AptQHnaMQ0aHOO6EeJ8g5-Qy1yVMVDJpk2ALtlvO3VFNVTf%0D%0AjV4CZZevafzPxvdBkXfaVceXPFYO_hp7PkNIRGt2f9DCpyLP8H9Tng%0D%0A; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:19 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:19 GMT; Path=/
+Set-Cookie: session-id-time=1548842892; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:19 GMT; Path=/
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
 
@@ -22,15 +23,15 @@ Transfer-Encoding: chunked
 xmlns:og="http://ogp.me/ns#"
 xmlns:fb="http://www.facebook.com/2008/fbml">
     <head>
-                <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
-                <script type="text/javascript">
-                    var ue_mid = "A1EVAM02EL8SFB"; 
-                    var ue_sn = "www.imdb.com";  
-                    var ue_furl = "fls-na.amazon.com";
-                    var ue_sid = "000-0000000-0000000";
-                    var ue_id = "0N8VJ5ZRARRYNF49YQFV";
-                    (function(e){var c=e,a={main_scope:"mainscopecsm",q:[],t0:c.ue_t0||+new Date(),d:g};function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(k,j,h){var i={m:k,f:j,l:h,fromOnError:1,args:arguments};c.ueLogError(i);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-ef584a44e8ea58e3d4d928956600a9b6._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){b()}a.uels=c;e.ue=a})(window,document);
-                </script>
+            <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
+            <script type="text/javascript">
+                var ue_mid = "A1EVAM02EL8SFB"; 
+                var ue_sn = "www.imdb.com";  
+                var ue_furl = "fls-na.amazon.com";
+                var ue_sid = "000-0000000-0000000";
+                var ue_id = "1C791PWF7MRQ0PCF7AKP";
+                (function(e){var c=e,a={main_scope:"mainscopecsm",q:[],t0:c.ue_t0||+new Date(),d:g};function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(k,j,h){var i={m:k,f:j,l:h,fromOnError:1,args:arguments};c.ueLogError(i);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-ef584a44e8ea58e3d4d928956600a9b6._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){b()}a.uels=c;e.ue=a})(window,document);
+            </script>
  
 
         
@@ -51,24 +52,24 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
         <link rel="search" type="application/opensearchdescription+xml" href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._V379388505_.xml" title="IMDb" />
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
         
-        
-            <link rel='image_src' href="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V379391653_.png">
-            <meta property='og:image' content="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V379391653_.png" />
-        
-            <meta property='og:type' content="video.movie" />
-        <meta property='fb:app_id' content='115109575169727' />
-        <meta property='og:title' content="I Killed My Lesbian Wife, Hung Her on a Meathook, and Now I Have a Three Picture Deal at Disney (1993)" />
-        <meta property='og:site_name' content='IMDb' />
-        <meta name="title" content="I Killed My Lesbian Wife, Hung Her on a Meathook, and Now I Have a Three Picture Deal at Disney (1993) - IMDb" />
-            <meta name="description" content="Directed by Ben Affleck.  With Jay Lacopo, Karla Montana, Johanna McCloy, Robert Koch. A first-time feature-film director (who's also the writer and producer) is casting the lead actress. We meet him talking to his wife about the picture and the process. We meet the actress, Sandy, negotiating with her roommate and talking by phone to her mother. Then, we watch Sandy audition for the director at the call-back session; also attending are the casting director and the production ..." />
-            <meta property="og:description" content="Directed by Ben Affleck.  With Jay Lacopo, Karla Montana, Johanna McCloy, Robert Koch. A first-time feature-film director (who's also the writer and producer) is casting the lead actress. We meet him talking to his wife about the picture and the process. We meet the actress, Sandy, negotiating with her roommate and talking by phone to her mother. Then, we watch Sandy audition for the director at the call-back session; also attending are the casting director and the production ..." />
-            <meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
-            <meta name="request_id" content="0N8VJ5ZRARRYNF49YQFV" />
+    
+        <link rel='image_src' href="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V379391653_.png">
+        <meta property='og:image' content="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V379391653_.png" />
+    
+        <meta property='og:type' content="video.movie" />
+    <meta property='fb:app_id' content='115109575169727' />
+    <meta property='og:title' content="I Killed My Lesbian Wife, Hung Her on a Meathook, and Now I Have a Three Picture Deal at Disney (1993)" />
+    <meta property='og:site_name' content='IMDb' />
+    <meta name="title" content="I Killed My Lesbian Wife, Hung Her on a Meathook, and Now I Have a Three Picture Deal at Disney (1993) - IMDb" />
+        <meta name="description" content="Directed by Ben Affleck.  With Jay Lacopo, Karla Montana, Johanna McCloy, Robert Koch. A first-time feature-film director (who's also the writer and producer) is casting the lead actress. We meet him talking to his wife about the picture and the process. We meet the actress, Sandy, negotiating with her roommate and talking by phone to her mother. Then, we watch Sandy audition for the director at the call-back session; also attending are the casting director and the production ..." />
+        <meta property="og:description" content="Directed by Ben Affleck.  With Jay Lacopo, Karla Montana, Johanna McCloy, Robert Koch. A first-time feature-film director (who's also the writer and producer) is casting the lead actress. We meet him talking to his wife about the picture and the process. We meet the actress, Sandy, negotiating with her roommate and talking by phone to her mother. Then, we watch Sandy audition for the director at the call-back session; also attending are the casting director and the production ..." />
+        <meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
+        <meta name="request_id" content="1C791PWF7MRQ0PCF7AKP" />
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
-<!-- h=ics-1d-i-59a7b720.us-east-1 -->
+<!-- h=ics-1e-i-b1fc70d9.us-east-1 -->
 
-            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-3745012491._V353727349_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-2125033518._V363851123_.css" />
             <!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/ie-1918465287._V354866480_.css" /><![endif]-->
             <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-3538633082._V355276482_.css" />
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
@@ -166,17 +167,20 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
     <ul id="consumer_main_nav" class="main_nav">
         <li class="spacer"></li>
         <li class="css_nav_item" id="navTitleMenu">
-            <p class="navCategory">Movies, TV<br />& Showtimes</p>
+            <p class="navCategory">
+                <a href="/movies-in-theaters/?ref_=nv_tp_inth_1" >Movies</a>,
+                <a href="/tv/?ref_=nv_tp_tvhm_2" >TV</a><br />
+                & <a href="/showtimes/?ref_=nv_tp_sh_3" >Showtimes</a></p>
             <span class="downArrow"></span>
             <div id="navMenu1" class="sub_nav">
                 <div id="titleAd"></div>
                 <div class="subNavListContainer">
                     <h5>MOVIES</h5>
                     <ul>
-                        <li><a href="/showtimes/?ref_=nv_mv_sh_1" >Showtimes & Tickets</a></li>
-                        <li><a href="/trailers/?ref_=nv_mv_tr_2" >Latest Trailers</a></li>
-                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_3" >Coming Soon</a></li>
-                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_4" >In Theaters</a></li>
+                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_1" >In Theaters</a></li>
+                        <li><a href="/showtimes/?ref_=nv_mv_sh_2" >Showtimes & Tickets</a></li>
+                        <li><a href="/trailers/?ref_=nv_mv_tr_3" >Latest Trailers</a></li>
+                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_4" >Coming Soon</a></li>
                         <li><a href="/calendar/?ref_=nv_mv_cal_5" >Release Calendar</a></li>
                     </ul>
                     <h5>CHARTS & TRENDS</h5>
@@ -199,24 +203,26 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
                     </ul>
                     <h5>SPECIAL FEATURES</h5>
                     <ul>
-                        <li><a href="/emmys/?ref_=nv_sf_rte_1" >Road to the Emmys</a></li>
-                        <li><a href="/falltv/?ref_=nv_sf_ftp_2" >Fall TV Preview</a></li>
-                        <li><a href="/comic-con/?ref_=nv_sf_comic_3" >Comic-Con</a></li>
-                        <li><a href="/x-ray/?ref_=nv_sf_xray_4" >X-Ray for Movies & TV</a></li>
+                        <li><a href="/year-in-review/?ref_=nv_sf_best_1" >Best of 2013</a></li>
+                        <li><a href="/oscars/?ref_=nv_sf_rto_2" >Road to the Oscars 2014</a></li>
+                        <li><a href="/x-ray/?ref_=nv_sf_xray_3" >X-Ray for Movies & TV</a></li>
                     </ul>
                 </div>
             </div>
         </li>
         <li class="spacer"></li>
         <li class="css_nav_item" id="navNameMenu">
-            <p class="navCategory">Celebs, Events<br />& Photos</p>
+            <p class="navCategory">
+                <a href="/search/name?gender=male,female&ref_=nv_tp_cel_1" >Celebs</a>,
+                <a href="/event/?ref_=nv_tp_ev_2" >Events</a><br />
+                & <a href="/media/index/rg1176148480?ref_=nv_tp_ph_3" >Photos</a></p>
             <span class="downArrow"></span>
             <div id="navMenu2" class="sub_nav">
                 <div id="nameAd"></div>
                 <div class="subNavListContainer">
                     <h5>CELEBS</h5>
                     <ul>
-                        <li><a href="/search/name?birth_monthday=10-28&refine=birth_monthday&ref_=nv_cel_brn_1" >Born Today</a></li>
+                            <li><a href="/search/name?birth_monthday=01-31&refine=birth_monthday&ref_=nv_cel_brn_1" >Born Today</a></li>
                         <li><a href="/news/celebrity?ref_=nv_cel_nw_2" >Celebrity News</a></li>
                         <li><a href="/search/name?gender=male,female&ref_=nv_cel_m_3" >Most Popular Celebs</a></li>
                     </ul>
@@ -232,11 +238,11 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
                 <div class="subNavListContainer">
                     <h5>EVENTS</h5>
                     <ul>
-                        <li><a href="/emmys/?ref_=nv_ev_rte_1" >Road to the Emmys</a></li>
-                        <li><a href="/comic-con/?ref_=nv_ev_comic_2" >Comic-Con</a></li>
-                        <li><a href="/cannes/?ref_=nv_ev_can_3" >Cannes</a></li>
-                        <li><a href="/tribeca/?ref_=nv_ev_tri_4" >Tribeca</a></li>
-                        <li><a href="/oscars/?ref_=nv_ev_rto_5" >Road to the Oscars</a></li>
+                        <li><a href="/oscars/?ref_=nv_ev_rto_1" >Road to the Oscars</a></li>
+                        <li><a href="/emmys/?ref_=nv_ev_rte_2" >Road to the Emmys</a></li>
+                        <li><a href="/comic-con/?ref_=nv_ev_comic_3" >Comic-Con</a></li>
+                        <li><a href="/cannes/?ref_=nv_ev_can_4" >Cannes</a></li>
+                        <li><a href="/tribeca/?ref_=nv_ev_tri_5" >Tribeca</a></li>
                         <li><a href="/sundance/?ref_=nv_ev_sun_6" >Sundance</a></li>
                         <li><a href="/event/?ref_=nv_ev_all_7" >More Popular Events</a></li>
                     </ul>
@@ -245,7 +251,9 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
         </li>
         <li class="spacer"></li>
         <li class="css_nav_item" id="navNewsMenu">
-            <p class="navCategory">News &<br />Community</p>
+            <p class="navCategory">
+                <a href="/news/top?ref_=nv_tp_nw_1" >News</a> &<br />
+                <a href="/boards/?ref_=nv_tp_bd_2" >Community</a></p>
             <span class="downArrow"></span>
             <div id="navMenu3" class="sub_nav">
                 <div id="latestHeadlines">
@@ -253,17 +261,17 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
                         <h5>LATEST HEADLINES</h5>
     <ul>
                 <li itemprop="headline">
-<a href="/news/ni56355151/?ref_=nv_nw_tn_1" > Lou Reed, ‘Walk on the Wild Side’ Singer, Dead at 71
+<a href="/news/ni56738656/?ref_=nv_nw_tn_1" > 'Neighbors' with Seth Rogen, 'Space Station 76,' more join SXSW features lineup
 </a><br />
                         <span class="time">14 hours ago</span>
                 </li>
                 <li itemprop="headline">
-<a href="/news/ni56354884/?ref_=nv_nw_tn_2" > Box office report: 'Bad Grandpa' spoofs its way to $32 million debut
+<a href="/news/ni56738234/?ref_=nv_nw_tn_2" > Oscars: Michael B. Jordan, Kristen Bell to Host Sci-Tech Awards
 </a><br />
-                        <span class="time">16 hours ago</span>
+                        <span class="time">15 hours ago</span>
                 </li>
                 <li itemprop="headline">
-<a href="/news/ni56354920/?ref_=nv_nw_tn_3" > Chris Brown Arrested and Jailed for Felony Assault in Washington, D.C.
+<a href="/news/ni56737830/?ref_=nv_nw_tn_3" > Jerry Seinfeld Sorta Confirms Seinfeld Reunion, Gives Details on Secret Project With Jason Alexander
 </a><br />
                         <span class="time">16 hours ago</span>
                 </li>
@@ -297,7 +305,7 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
 <span class="downArrow"></span>
 <div id="navMenu4" class="sub_nav">
     <h5>
-        RECENTLY ADDED
+            YOUR WATCHLIST
     </h5> 
     <ul id="navWatchlist">
     </ul>
@@ -313,7 +321,7 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
                 src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot2_popular-4090757197._V360060945_.jpg"
                 },
                 {
-                    href : "/search/title?count=100&groups=top_250&sort=user_rating,desc&title_type=feature",
+                    href : "/chart/top",
                 src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot3_top250-575799966._V360061165_.jpg"
                 }
     ];
@@ -442,7 +450,7 @@ imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu
                     <td id="overview-top">
     
     <div id="prometer_container">
-        <div id="prometer" class="meter-collapsed down">
+        <div id="prometer" class="meter-collapsed up">
             <div id="meterHeaderBox">
                 <div id="meterTitle" class="meterToggleOnHover">MOVIEmeter</div>
 <a
@@ -452,8 +460,8 @@ id="meterRank"
 >SEE RANK
 </a>            </div>
             <div id="meterChangeRow" class="meterToggleOnHover">
-                    <span>Down</span>
-                <span id="meterChange">1,059</span>
+                    <span>Up</span>
+                <span id="meterChange">1,872</span>
                 <span>this week</span>
             </div>
             <div id="meterSeeMoreRow" class="meterToggleOnHover">
@@ -488,11 +496,11 @@ href="/r/tt_moviemeter_why/title/tt0166222"
     </div>
  
 <div class="star-box giga-star">
-        <div class="titlePageSprite star-box-giga-star"> 4.1 </div>
+        <div class="titlePageSprite star-box-giga-star"> 4.6 </div>
     <div class="star-box-rating-widget">
             <span class="star-box-rating-label">Your rating:</span>
 <div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0166222|imdb|0|0|title-maindetails" data-ga-identifier=""
-title="Users rated this 4.1/10 (429 votes) - click stars to rate" >
+title="Users rated this 4.6/10 (438 votes) - click stars to rate" >
 <span class="rating-bg">&nbsp;</span>
 <span class="rating-imdb " style="width: 0px">&nbsp;</span>
 <span class="rating-stars">
@@ -513,7 +521,7 @@ title="Users rated this 4.1/10 (429 votes) - click stars to rate" >
     </div> 
     <div class="star-box-details" itemtype="http://schema.org/AggregateRating" itemscope itemprop="aggregateRating">
             Ratings:
-<strong><span itemprop="ratingValue">4.1</span></strong><span class="mellow">/<span itemprop="bestRating">10</span></span>            from <a href="ratings?ref_=tt_ov_rt" title="429 IMDb users have given a weighted average vote of 4.1/10" > <span itemprop="ratingCount">429</span> users
+<strong><span itemprop="ratingValue">4.6</span></strong><span class="mellow">/<span itemprop="bestRating">10</span></span>            from <a href="ratings?ref_=tt_ov_rt" title="438 IMDb users have given a weighted average vote of 4.6/10" > <span itemprop="ratingCount">438</span> users
 </a>&nbsp;
             <br/>
             Reviews: 
@@ -530,10 +538,10 @@ title="Users rated this 4.1/10 (429 votes) - click stars to rate" >
 A first-time feature-film director (who's also the writer and producer) is casting the lead actress. We meet him talking to his wife about the picture and the process. We meet the actress, ...                <a href="/title/tt0166222/plotsummary?ref_=tt_ov_pl" >See full summary</a>&nbsp;&raquo;
     </p>
                         <p></p>
-    <div class="txt-block" itemprop="director" itemscope itemtype="http://schema.org/Person"> 
+    <div class="txt-block" itemprop="director" itemscope itemtype="http://schema.org/Person">
         <h4 class="inline">Director:</h4>
 <a href="/name/nm0000255/?ref_=tt_ov_dr" itemprop='url'><span class="itemprop" itemprop="name">Ben Affleck</span></a>
-    </div> 
+    </div>
     <div class="txt-block" itemprop="creator" itemscope itemtype="http://schema.org/Person"> 
         <h4 class="inline">Writers:</h4>
 <a href="/name/nm0480217/?ref_=tt_ov_wr" itemprop='url'><span class="itemprop" itemprop="name">Jay Lacopo</span></a>, 
@@ -606,33 +614,38 @@ href="https://secure.imdb.com/register-imdb/sharing?ref=tt_checkin_share"
     <a class="close-popover" href="#">X</a>
     <h4>Share</h4>
 
-<a onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F3%2Ftitle%2Ftt0166222', 'newWindow', 'width=626,height=436'); return false;"
-    href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F3%2Ftitle%2Ftt0166222"
-    target="_blank"
-    title="Share on Facebook"
-    class="facebook">
-    <div class="option facebook">
-        <span class="titlePageSprite share_facebook"></span>
-        <div>Facebook</div>
-    </div>
-</a>
-<a onclick="window.open('http://twitter.com/home?status=I%20Killed%20My%20Lesbian%20Wife%2C%20Hung%20Her%20on%20a%20Meathook%2C%20and%20Now%20I%20Have%20a%20Three%20Picture%20Deal%20at%20Disney%20(1993)%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Ftitle%2Ftt0166222', 'newWindow', 'width=815,height=436'); return false;"
-    href="http://twitter.com/home?status=I%20Killed%20My%20Lesbian%20Wife%2C%20Hung%20Her%20on%20a%20Meathook%2C%20and%20Now%20I%20Have%20a%20Three%20Picture%20Deal%20at%20Disney%20(1993)%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Ftitle%2Ftt0166222"
-    target="_blank"
-    title="Share on Twitter"
-    class="twitter">
-    <div class="option twitter">
-        <span class="titlePageSprite share_twitter"></span>
-        <div>Twitter</div>
-    </div>
-</a>
+     
+    
+    <a onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F3%2Ftitle%2Ftt0166222%3Fref_%3Dext_shr_fb_tt', 'newWindow', 'width=626,height=436'); return false;"
+       href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F3%2Ftitle%2Ftt0166222%3Fref_%3Dext_shr_fb_tt"
+       title="Share on Facebook"
+       class="facebook"
+       ref_="tt_shr_fb"
+       target="_blank"><div class="option facebook">
+                            <span class="titlePageSprite share_facebook"></span>
+                            <div>Facebook</div>
+                        </div></a>
 
-    <a href="mailto:?subject=IMDb%3A%20I%20Killed%20My%20Lesbian%20Wife%2C%20Hung%20Her%20on%20a%20Meathook%2C%20and%20Now%20I%20Have%20a%20Three%20Picture%20Deal%20at%20Disney%20(1993)&body=IMDb%3A%20I%20Killed%20My%20Lesbian%20Wife%2C%20Hung%20Her%20on%20a%20Meathook%2C%20and%20Now%20I%20Have%20a%20Three%20Picture%20Deal%20at%20Disney%20(1993)%0AA%20first-time%20feature-film%20director%20(who's%20also%20the%20writer%20and%20producer)%20is%20casting%20the%20lead%20actress.%20We%20meet%20him%20talking%20to%20his%20wife%20about%20the%20picture%20and%20the%20process.%20We%20meet%20the%20actress%2C%20Sandy%2C%20negotiating%20with%20her%20roommate%20and%20talking%20by%20phone%20to%20her%20mother.%20Then%2C%20we%20watch%20Sandy%20audition%20for%20the%20director%20at%20the%20call-back%20session%3B%20also%20attending%20are%20the%20casting%20director%20and%20the%20production%20...%0Ahttp%3A%2F%2Fwww.imdb.com%2Frg%2Fem_share%2Ftitle_web%2Ftitle%2Ftt0166222" title="Share by e-mail">
-        <div class="option email">
-            <span class="titlePageSprite share_email"></span>
-            <div>E-mail</div>
-        </div>
-    </a>
+    
+    
+    <a onclick="window.open('http://twitter.com/intent/tweet?text=I%20Killed%20My%20Lesbian%20Wife%2C%20Hung%20Her%20on%20a%20Meathook%2C%20and%20Now%20I%20Have%20a%20Three%20Picture%20Deal%20at%20Disney%20(1993)%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Ftitle%2Ftt0166222%3Fref_%3Dext_shr_tw_tt', 'newWindow', 'width=815,height=436'); return false;"
+       href="http://twitter.com/intent/tweet?text=I%20Killed%20My%20Lesbian%20Wife%2C%20Hung%20Her%20on%20a%20Meathook%2C%20and%20Now%20I%20Have%20a%20Three%20Picture%20Deal%20at%20Disney%20(1993)%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Ftitle%2Ftt0166222%3Fref_%3Dext_shr_tw_tt"
+       title="Share on Twitter"
+       class="twitter"
+       ref_="tt_shr_tw"
+       target="_blank"><div class="option twitter">
+                            <span class="titlePageSprite share_twitter"></span>
+                            <div>Twitter</div>
+                        </div></a>
+    
+    <a href="mailto:?subject=IMDb%3A%20I%20Killed%20My%20Lesbian%20Wife%2C%20Hung%20Her%20on%20a%20Meathook%2C%20and%20Now%20I%20Have%20a%20Three%20Picture%20Deal%20at%20Disney%20(1993)&body=IMDb%3A%20I%20Killed%20My%20Lesbian%20Wife%2C%20Hung%20Her%20on%20a%20Meathook%2C%20and%20Now%20I%20Have%20a%20Three%20Picture%20Deal%20at%20Disney%20(1993)%0AA%20first-time%20feature-film%20director%20(who's%20also%20the%20writer%20and%20producer)%20is%20casting%20the%20lead%20actress.%20We%20meet%20him%20talking%20to%20his%20wife%20about%20the%20picture%20and%20the%20process.%20We%20meet%20the%20actress%2C%20Sandy%2C%20negotiating%20with%20her%20roommate%20and%20talking%20by%20phone%20to%20her%20mother.%20Then%2C%20we%20watch%20Sandy%20audition%20for%20the%20director%20at%20the%20call-back%20session%3B%20also%20attending%20are%20the%20casting%20director%20and%20the%20production%20...%0Ahttp%3A%2F%2Fwww.imdb.com%2Frg%2Fem_share%2Ftitle_web%2Ftitle%2Ftt0166222%3Fref%3Dext_shr_eml_tt" 
+       title="Share by e-mail"
+       class=""
+       ref="tt_shr_eml"><div class='option email'>
+                        <span class='titlePageSprite share_email'></span>
+                        <div>E-mail</div>
+                    </div></a>
+
         <a href="#" class="open-checkin-popover">
             <div class="option checkin">
                 <span class="titlePageSprite share_checkin"></span>
@@ -703,9 +716,11 @@ href="/r/tt_owntherights/https://secure.imdb.com/store/photos/"
     <div id="maindetails_sidebar_bottom" class="maindetails_sidebar">
         
             
+    
+    
     <div class="aux-content-widget-3 links subnav" div="quicklinks">
 
-            <h3 class="inline">Quick Links</h3>
+            <h3>Quick Links</h3>
 
 
         <div id="maindetails_quicklinks">
@@ -936,7 +951,7 @@ href="/r/tt_owntherights/https://secure.imdb.com/store/photos/"
                         
                         <br /><small>
                                 <span itemprop="datePublished">
-                                  15 April 2005 1:34 PM, +01:00
+                                  15 April 2005
                                 </span>
                             
                                 <span class="ghost">|</span><span itemprop="provider" >
@@ -952,6 +967,7 @@ href="/r/tt_owntherights/https://secure.imdb.com/store/photos/"
 	<!-- no content received for slot: middle_rhs -->
 	
         
+        
         <div class="aux-content-widget-2">
             <div id="relatedListsWidget">
                 <div class="rightcornerlink">
@@ -962,91 +978,101 @@ href="/r/tt_owntherights/https://secure.imdb.com/store/photos/"
                 
                     <div class="list-preview even">
                         <div class="list-preview-item-narrow">
-<a href="/list/s5-YMMGA91c/?ref_=tt_rls_1" >
+<a href="/list/x7G6jDiLKNQ/?ref_=tt_rls_1" >
 <img height="86" width="86" alt="list image" title="list image"
 src="/images/nopicture/medium/film.png"
-class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTI0MDE4NTEzMl5BMl5BanBnXkFtZTcwNjg1NDMyMQ@@._V1_SX86_CR0,0,86,86_.jpg" />
+class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BNzQ3OTU3ODA3Nl5BMl5BanBnXkFtZTcwNzYwODk3OA@@._V1_SX86_CR0,0,86,86_.jpg" />
 <noscript>
 <img height="86" width="86" alt="list image" title="list image"
-src="http://ia.media-imdb.com/images/M/MV5BMTI0MDE4NTEzMl5BMl5BanBnXkFtZTcwNjg1NDMyMQ@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
+src="http://ia.media-imdb.com/images/M/MV5BNzQ3OTU3ODA3Nl5BMl5BanBnXkFtZTcwNzYwODk3OA@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
 </noscript>
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/s5-YMMGA91c/?ref_=tt_rls_1" >My film expedition</a></b>
+                            <b><a href="/list/x7G6jDiLKNQ/?ref_=tt_rls_1" >Got Flix</a></b>
                         </div>
                         <div class="list_meta">
-                            a list of 299 titles 
-                             created 31&nbsp;Jul&nbsp;2011
+                            a list of 1275 titles 
+                             created 01&nbsp;Oct&nbsp;2011
                         </div>
                         <div class="clear">&nbsp;</div>
                     </div>
                     <div class="list-preview odd">
                         <div class="list-preview-item-narrow">
-<a href="/list/TqyRQ5-bVTc/?ref_=tt_rls_2" >
+<a href="/list/536n1AviG8I/?ref_=tt_rls_2" >
 <img height="86" width="86" alt="list image" title="list image"
-src="/images/nopicture/medium/film.png"
-class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BOTU3NzExMTQ4N15BMl5BanBnXkFtZTcwMjkzNzQzNA@@._V1_SX86_CR0,0,86,86_.jpg" />
+src="/images/nopicture/medium/video.png"
+class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjE1ODMwNTkxMF5BMl5BanBnXkFtZTcwMDAyMzcxMQ@@._V1_SX86_CR0,0,86,86_.jpg" />
 <noscript>
 <img height="86" width="86" alt="list image" title="list image"
-src="http://ia.media-imdb.com/images/M/MV5BOTU3NzExMTQ4N15BMl5BanBnXkFtZTcwMjkzNzQzNA@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
+src="http://ia.media-imdb.com/images/M/MV5BMjE1ODMwNTkxMF5BMl5BanBnXkFtZTcwMDAyMzcxMQ@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
 </noscript>
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/TqyRQ5-bVTc/?ref_=tt_rls_2" >Movies I've Seen</a></b>
+                            <b><a href="/list/536n1AviG8I/?ref_=tt_rls_2" >Z Movies</a></b>
                         </div>
                         <div class="list_meta">
-                            a list of 1321 titles 
-                             created 9&nbsp;months&nbsp;ago
+                            a list of 13 titles 
+                             created 29&nbsp;Aug&nbsp;2012
                         </div>
                         <div class="clear">&nbsp;</div>
                     </div>
                     <div class="list-preview even">
                         <div class="list-preview-item-narrow">
-<a href="/list/5Ss3FMCRzUw/?ref_=tt_rls_3" >
+<a href="/list/gM1dJAJff1Y/?ref_=tt_rls_3" >
 <img height="86" width="86" alt="list image" title="list image"
-src="/images/nopicture/medium/film.png" class="rec_poster_img" />
+src="/images/nopicture/medium/film.png"
+class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjEzMzAzOTAwMF5BMl5BanBnXkFtZTcwMjUxODkxMQ@@._V1_SX86_CR0,0,86,86_.jpg" />
+<noscript>
+<img height="86" width="86" alt="list image" title="list image"
+src="http://ia.media-imdb.com/images/M/MV5BMjEzMzAzOTAwMF5BMl5BanBnXkFtZTcwMjUxODkxMQ@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
+</noscript>
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/5Ss3FMCRzUw/?ref_=tt_rls_3" >Long and Bizarre Film Titles</a></b>
+                            <b><a href="/list/gM1dJAJff1Y/?ref_=tt_rls_3" >Titles</a></b>
                         </div>
                         <div class="list_meta">
-                            a list of 10 titles 
-                             created 7&nbsp;months&nbsp;ago
+                            a list of 12 titles 
+                             created 11&nbsp;months&nbsp;ago
                         </div>
                         <div class="clear">&nbsp;</div>
                     </div>
                     <div class="list-preview odd">
                         <div class="list-preview-item-narrow">
-<a href="/list/sdAFQO3HWLs/?ref_=tt_rls_4" >
+<a href="/list/CmIIl_FZ4AM/?ref_=tt_rls_4" >
 <img height="86" width="86" alt="list image" title="list image"
 src="/images/nopicture/medium/film.png"
-class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjQzODQyMzk2Nl5BMl5BanBnXkFtZTcwNTg4MjQ3OA@@._V1_SX86_CR0,0,86,86_.jpg" />
+class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTIxOTc1MzYzMl5BMl5BanBnXkFtZTcwMzI5MjcyMQ@@._V1_SY86_CR27,0,86,86_.jpg" />
 <noscript>
 <img height="86" width="86" alt="list image" title="list image"
-src="http://ia.media-imdb.com/images/M/MV5BMjQzODQyMzk2Nl5BMl5BanBnXkFtZTcwNTg4MjQ3OA@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
+src="http://ia.media-imdb.com/images/M/MV5BMTIxOTc1MzYzMl5BMl5BanBnXkFtZTcwMzI5MjcyMQ@@._V1_SY86_CR27,0,86,86_.jpg" class="rec_poster_img" />
 </noscript>
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/sdAFQO3HWLs/?ref_=tt_rls_4" >My Movies: Pending</a></b>
+                            <b><a href="/list/CmIIl_FZ4AM/?ref_=tt_rls_4" >Short Films</a></b>
                         </div>
                         <div class="list_meta">
-                            a list of 963 titles 
-                             created 29&nbsp;Sep&nbsp;2011
+                            a list of 20 titles 
+                             created 4&nbsp;months&nbsp;ago
                         </div>
                         <div class="clear">&nbsp;</div>
                     </div>
                     <div class="list-preview even">
                         <div class="list-preview-item-narrow">
-<a href="/list/jgCvvn6BvNw/?ref_=tt_rls_5" >
+<a href="/list/l40vIvv6JIA/?ref_=tt_rls_5" >
 <img height="86" width="86" alt="list image" title="list image"
-src="/images/nopicture/medium/film.png" class="rec_poster_img" />
+src="/images/nopicture/medium/film.png"
+class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTkzMzM5MDk0NV5BMl5BanBnXkFtZTcwNTc3NzUyMQ@@._V1_SX86_CR0,0,86,86_.jpg" />
+<noscript>
+<img height="86" width="86" alt="list image" title="list image"
+src="http://ia.media-imdb.com/images/M/MV5BMTkzMzM5MDk0NV5BMl5BanBnXkFtZTcwNTc3NzUyMQ@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
+</noscript>
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/jgCvvn6BvNw/?ref_=tt_rls_5" >86 Politically Incorrect Titled Films</a></b>
+                            <b><a href="/list/l40vIvv6JIA/?ref_=tt_rls_5" >Weird Titles</a></b>
                         </div>
                         <div class="list_meta">
-                            a list of 86 titles 
-                             created 04&nbsp;Jun&nbsp;2011
+                            a list of 70 titles 
+                             created 3&nbsp;months&nbsp;ago
                         </div>
                         <div class="clear">&nbsp;</div>
                     </div>
@@ -1089,7 +1115,7 @@ src="/images/nopicture/medium/film.png" class="rec_poster_img" />
             <span class="imdbRatingPlugin imdbRatingStyle1" data-user="" data-title="tt0166222" data-style="t1">
 <a href="/title/tt0166222/?ref_=tt_plg_rt" > <img alt="I Killed My Lesbian Wife, Hung Her on a Meathook, and Now I Have a Three Picture Deal at Disney (1993) on IMDb"
 src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_46x22-2264473254._V379390954_.png">
-</a>                <span class="rating">4.1<span class="ofTen">/10</span></span>                
+</a>                <span class="rating">4.6<span class="ofTen">/10</span></span>                
 <img src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_star_22x21-2889147855._V379391454_.png" class="star">
             </span>
             <p>Want to share IMDb's rating on your own site? Use the HTML below.</p>
@@ -1140,6 +1166,10 @@ src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_46x22-2264473
     
     <div id="maindetails_center_bottom" class="maindetails_center">
         
+	
+	<!-- no content received for slot: maindetails_center_ad -->
+	
+
   <script>
     if ('csm' in window) {
       csm.measure('csm_TitleEpisodesWidget_started');
@@ -1552,32 +1582,29 @@ This short film was made while <a href="/name/nm0000255/?ref_=tt_trv_trv">Ben Af
     <div class="article" id="titleUserReviewsTeaser">
         <h2>User Reviews</h2>
         <div class="user-comments">
-                    <div class="tinystarbar" title="6/10">
-                        <div style="width: 60px;">&nbsp;</div>
-                    </div>
                 <span itemprop="review" itemscope itemtype="http://schema.org/Review">  
-                    <strong itemprop="name">Everyone Has Their Bad Day!</strong>
+                    <strong itemprop="name">Much better than it sounds</strong>
                     <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
                         <meta itemprop="worstRating" content = "1" />
-                        <meta itemprop="ratingValue" content="6" />
+                        <meta itemprop="ratingValue" content="0" />
                         <meta itemprop="bestRating" content="10" />
                     </span>
                     <div class="comment-meta">
-                        23 February 2013 | by <a href="/user/ur34967775/?ref_=tt_urv" ><span itemprop="author">Tejas Nair</span></a>
-                        <meta itemprop="datePublished" content="2013-02-23" />
-                              (Economic Capital Of India)
-                        &ndash; <a href="/user/ur34967775/comments?ref_=tt_urv" >See all my reviews</a>
+                        9 May 1999 | by <a href="/user/ur0221490/?ref_=tt_urv" ><span itemprop="author">Spunky-14</span></a>
+                        <meta itemprop="datePublished" content="1999-05-09" />
+                              (South Wallinton, Wyoming)
+                        &ndash; <a href="/user/ur0221490/comments?ref_=tt_urv" >See all my reviews</a>
                     </div>
                     <div>
-                        <p itemprop="reviewBody">Ben Affleck&#x27;s debut is a piece of talent superimposed over bad execution.<br /><br />The movie talks about a killer who is in search of a victim and the twist at the end makes it glitter. Poor camera work, poor editing &#x26; poor narration makes it look like an amateur film. But isn&#x27;t it it?<br /><br />The story is intriguing, and the lead character has some substance. Yet, it couldn&#x27;t score the tag for me.<br /><br />4/10 rating! Because of the dialogues and use of prose in this film made it look like a fresh written plot. But as a critic, I was disappointed. And at the same time, marvelled at the approach of the makers.<br /><br />Watch it because the director is now an Oscar winner.</p>
+                        <p itemprop="reviewBody"> This film sounds like cheap sensationalist trash made only for cheap laughs and to sell to drunks and idiots. It is. But that is what is so goood about it. I presents a simple funny look at the media and also at the state of society today, such as the line &quot; I'm not really sure that mickey mouse would want that boss.&quot; This film can be watched over and over again and does not need a serious plot or to make a moral point about the state of society. it does not need an expensive cast or soundtrack- It is just good raw entertainment. </p>
                     </div>
                 </span>
                 <hr />
-                <div class="yn" id="ynd_2757928">
-                    1 of 1 people found this review helpful.&nbsp;
+                <div class="yn" id="ynd_578589">
+                    15 of 21 people found this review helpful.&nbsp;
                     Was this review helpful to you?
-                    <button class="btn small" value="Yes" name="ynb_2757928_yes" onclick="CS.TMD.user_review_vote(2757928, 'tt0166222', 'yes');" >Yes</button>
-                    <button class="btn small" value="No" name="ynb_2757928_no" onclick="CS.TMD.user_review_vote(2757928, 'tt0166222', 'no');" >No</button>
+                    <button class="btn small" value="Yes" name="ynb_578589_yes" onclick="CS.TMD.user_review_vote(578589, 'tt0166222', 'yes');" >Yes</button>
+                    <button class="btn small" value="No" name="ynb_578589_no" onclick="CS.TMD.user_review_vote(578589, 'tt0166222', 'no');" >No</button>
                 </div>
             <div class="see-more">
                 
@@ -1733,10 +1760,6 @@ onclick="(new Image()).src='/rg/topmovies/footer/images/b.gif?link=/chart/';"
 href="/chart/"
 >Top Movies</a>
         | <a
-onclick="(new Image()).src='/rg/watchlist/footer/images/b.gif?link=/list/watchlist';"
-href="/list/watchlist"
->Watchlist</a>
-        | <a
 onclick="(new Image()).src='/rg/top250/footer/images/b.gif?link=/chart/top';"
 href="/chart/top"
 >Top 250</a>
@@ -1748,10 +1771,6 @@ href="/sections/tv/"
 onclick="(new Image()).src='/rg/news/footer/images/b.gif?link=/news/';"
 href="/news/"
 >News</a>
-        | <a
-onclick="(new Image()).src='/rg/video/footer/images/b.gif?link=/features/video/';"
-href="/features/video/"
->Video</a>
         | <a
 onclick="(new Image()).src='/rg/messageboards/footer/images/b.gif?link=/boards/';"
 href="/boards/"
@@ -1766,16 +1785,6 @@ href="/pressroom/"
 onclick="(new Image()).src='/rg/register-v2/footer/images/b.gif?link=https://secure.imdb.com/register-imdb/form-v2';"
 href="https://secure.imdb.com/register-imdb/form-v2"
 >Register</a>
-        | <a
-onclick="(new Image()).src='/rg/rss/footer/images/b.gif?link=/help/show_article?rssavailable';"
-href="/help/show_article?rssavailable"
-class="navbarSprite"
-id="footer_rss_image"
-></a>
-          <a
-onclick="(new Image()).src='/rg/rss/footer/images/b.gif?link=/help/show_article?rssavailable';"
-href="/help/show_article?rssavailable"
->RSS</a>
         | <a
 onclick="(new Image()).src='/rg/advertising/footer/images/b.gif?link=/advertising/';"
 href="/advertising/"
@@ -1800,10 +1809,6 @@ href="http://www.boxofficemojo.com/"
 onclick="(new Image()).src='/rg/WITHOUTABOX/FOOTER/images/b.gif?link=http://www.withoutabox.com/';"
 href="http://www.withoutabox.com/"
 >Withoutabox</a>
-        | <a
-onclick="(new Image()).src='/rg/LOVEFILM/FOOTER/images/b.gif?link=http://www.lovefilm.com/browse/film/watch-online/';"
-href="http://www.lovefilm.com/browse/film/watch-online/"
->LOVEFiLM</a>
         <br /><br />
         IMDb Mobile:
           <a
@@ -1838,7 +1843,7 @@ href="http://twitter.com/imdb"
         <a
 onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/show_article?conditions';"
 href="/help/show_article?conditions"
->Copyright &copy;</a> 1990-2013 
+>Copyright &copy;</a> 1990-2014 
         <a
 onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/';"
 href="/help/"
@@ -1858,9 +1863,9 @@ href="//www.amazon.com/InterestBasedAds"
         An <span id="amazon_logo" class="footer_logo" align="middle"></span> company.
     </p>
   
-  <table class="footer" id="amazon-affiliates" width="100%">
+  <table class="footer" id="amazon-affiliates">
     <tr>
-      <td colspan="10">
+      <td colspan="8">
         Amazon Affiliates
       </td>
     </tr>
@@ -1902,18 +1907,6 @@ href="//www.amazon.com/InterestBasedAds"
         </a>
     </td>
     <td class="amazon-affiliate-site-item-nth">
-        <a class="amazon-affiliate-site-link" href=http://www.lovefilm.com/browse/film/watch-online/ >
-          <span class="amazon-affiliate-site-name">LOVEFiLM</span><br>
-          <span class="amazon-affiliate-site-desc">Watch Movies<br>Online</span>
-        </a>
-    </td>
-    <td class="amazon-affiliate-site-item-nth">
-        <a class="amazon-affiliate-site-link" href=http://www.junglee.com/ >
-          <span class="amazon-affiliate-site-name">Junglee</span><br>
-          <span class="amazon-affiliate-site-desc">India Online<br>Shopping</span>
-        </a>
-    </td>
-    <td class="amazon-affiliate-site-item-nth">
         <a class="amazon-affiliate-site-link" href=http://www.dpreview.com >
           <span class="amazon-affiliate-site-name">DPReview</span><br>
           <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
@@ -1928,31 +1921,13 @@ href="//www.amazon.com/InterestBasedAds"
     </tr>
   </table>
   </div>
-
-    <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        var seg = -1;
-        _gaq.push(['_setAccount', 'UA-3916519-1']);
-        _gaq.push(['_setDomainName', '.imdb.com']); 
-        _gaq.push(['_setSampleRate', '10']); 
-        _gaq.push(['_setCustomVar', 2, 'Falkor', 'false']); 
-        _gaq.push(['_trackPageview']); // must come last
-  
-       (function() {
-           var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-           ga.src = 'http://www.google-analytics.com/ga.js';
-           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-       })();
-
-    </script>
 	
 	<!-- no content received for slot: bottom_ad -->
 	
             </div>
         </div>
 
-<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/title-2198698218._V354100628_.js"></script>
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/title-36935490._V363304090_.js"></script>
 
 <script type="text/imdblogin-js" id="login">
 jQuery(document).ready(function(){
@@ -1975,7 +1950,9 @@ jQuery(document).ready(function(){
                 );
                 jQuery(
                              function() {
-            var facebookTheme = custom && custom.full_page && custom.full_page.theme || "light",
+            var facebookTheme = (window.custom && window.custom.full_page &&
+                    window.custom.full_page.theme) ?
+                window.custom.full_page.theme : "light",
             url = "//www.facebook.com/plugins/likebox.php?href=facebook.com%2Fimdb&width=300&height=190&connections=5&header=false&stream=false&colorscheme=" + facebookTheme,
             like = document.getElementById('facebookIframe'),
             twitterIframe = document.getElementById('twitterIframe');
@@ -1990,7 +1967,7 @@ jQuery(document).ready(function(){
                 );
         </script>
 
-<div id="servertime" time="585"/>
+<div id="servertime" time="277"/>
 
 
 
