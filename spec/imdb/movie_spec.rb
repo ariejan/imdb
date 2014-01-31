@@ -177,7 +177,17 @@ describe "Imdb::Movie" do
       filming_locations.should be_an(Array)
       filming_locations.size.should eql(4)
       filming_locations[0].should match(/.*, USA$/i)
+    end
 
+    it "should find multiple 'also known as' versions" do
+      also_known_as = @movie.also_known_as
+      also_known_as.should be_an(Array)
+      also_known_as.size.should eql(40)
+    end
+
+    it "should find a specific 'also known as' version" do
+      also_known_as = @movie.also_known_as
+      also_known_as.should include({ version: "Russia", title: "Крепкий орешек"})
     end
 
     it "should provide a convenience method to search" do

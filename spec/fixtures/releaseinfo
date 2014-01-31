@@ -5,11 +5,12 @@ X-Frame-Options: SAMEORIGIN
 Content-Type: text/html;charset=UTF-8
 Content-Language: en-US
 Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYtrnd-r5Ep5YoFDrX6xKjHRR87f6Q-pL3lu07YvSfNAR7bI4GQewKpefcHoE61xhww3J1slN7A%0D%0AkdhydLQUYJvRR2yRUxwroyENmSPKWjX4y5VBOcCQ85lWEO8FiREt1rXu_zIN3DYV00r6zT24tdTD%0D%0AZ5wqpzdzfqNpiCy3YtMKoq3x-nXSP6dndqqqOBT9WC-rab5z4lW-6iC-svpmze21ZFfy3WOBq64t%0D%0AO6j8L4janQSxRsQT1irJoxmuKL6WeW9n_wePY9Nkx9kA91BXKeBBKg%0D%0A; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 14:39:47 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 14:39:47 GMT; Path=/
-Set-Cookie: session-id-time=1548847540; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 14:39:47 GMT; Path=/
+Set-Cookie: uu=BCYgjePVtSFb0IjQryNnCssuGM6lYsVkCDZzOZkwDphc5TyBhg_DuxL09-a_55xTPiQqepYH-dgl%0D%0AEI3VXiAHt5cBA2-odDN2j2vM_jKdk6nyiL9MdQuCNgTktLRequS9PHl5JyP2kfYMuumpP0_6ch2y%0D%0Aoh_nupdgzjSfIydE7aPeEsmrTs1bvI-672dYc42fyXn9EFtTKyM3BerpTyuANIZ24wwkfyBM3LuE%0D%0AczbVAYpa_7i1V150nwDzSjPjRgTSo6Sbi-COyK36RMydx--FcMwr7Q%0D%0A; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 14:39:48 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 14:39:48 GMT; Path=/
+Set-Cookie: session-id-time=1548847541; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 14:39:48 GMT; Path=/
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
+
 
 
 
@@ -32,7 +33,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
                 var ue_sn = "www.imdb.com";  
                 var ue_furl = "fls-na.amazon.com";
                 var ue_sid = "000-0000000-0000000";
-                var ue_id = "173PREXW0B6WV067R493";
+                var ue_id = "0B6170Y4JXCQM24HAXSV";
                 (function(e){var c=e,a={main_scope:"mainscopecsm",q:[],t0:c.ue_t0||+new Date(),d:g};function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(k,j,h){var i={m:k,f:j,l:h,fromOnError:1,args:arguments};c.ueLogError(i);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-ef584a44e8ea58e3d4d928956600a9b6._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){b()}a.uels=c;e.ue=a})(window,document);
             </script>
  
@@ -41,12 +42,12 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
         <script type="text/javascript">var IMDbTimer={starttime: new Date().getTime(),pt:'java'};</script>
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
-        <title>Die Hard (1988) - Plot Summary - IMDb</title>
+        <title>Die Hard (1988) - Release Info - IMDb</title>
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
         
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-            <link rel="canonical" href="http://www.imdb.com/title/tt0095016/plotsummary" />
-            <meta property="og:url" content="http://www.imdb.com/title/tt0095016/plotsummary" />
+            <link rel="canonical" href="http://www.imdb.com/title/tt0095016/releaseinfo" />
+            <meta property="og:url" content="http://www.imdb.com/title/tt0095016/releaseinfo" />
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
         <link rel="icon" type="image/ico" href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._V379387995_.ico" />
@@ -61,16 +62,16 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     
         <meta property='og:type' content="video.movie" />
     <meta property='fb:app_id' content='115109575169727' />
-    <meta property='og:title' content="Die Hard (1988) - Plot Summary" />
+    <meta property='og:title' content="Die Hard (1988)" />
     <meta property='og:site_name' content='IMDb' />
-    <meta name="title" content="Die Hard (1988) - Plot Summary - IMDb" />
-        <meta name="description" content="Die Hard (1988) on IMDb: New York City Detective John McClane has just arrived in Los Angeles to spend Christmas with his wife. Unfortunatly, it is not going to be a Merry Chr" />
-        <meta property="og:description" content="Die Hard (1988) on IMDb: New York City Detective John McClane has just arrived in Los Angeles to spend Christmas with his wife. Unfortunatly, it is not going to be a Merry Chr" />
-        <meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
-        <meta name="request_id" content="173PREXW0B6WV067R493" />
+    <meta name="title" content="Die Hard (1988) - IMDb" />
+        <meta name="description" content="Die Hard (1988) on IMDb: Movies, TV, Celebs, and more..." />
+        <meta property="og:description" content="Die Hard (1988) on IMDb: Movies, TV, Celebs, and more..." />
+        <meta name="keywords" content="Reviews, Showtimes, DVDs, PHotos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
+        <meta name="request_id" content="0B6170Y4JXCQM24HAXSV" />
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
-<!-- h=ics-1d-i-0f44a621.us-east-1 -->
+<!-- h=ics-1a-i-fa55c89e.us-east-1 -->
 
             <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-2125033518._V363851123_.css" />
             <!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/ie-1918465287._V354866480_.css" /><![endif]-->
@@ -431,20 +432,20 @@ imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu
 
 <div id="content-2-wide" class="redesign">
 <div id="main">
-  <div class="article listo">
+    <div class="article listo">
     <span class=rightcornerlink >
-            <a href="/register/login?why=edit&ref_=ttpl_pl_edt" rel="login">Edit</a>
+            <a href="/register/login?why=edit&ref_=ttrel_rel_edt" rel="login">Edit</a>
     </span>
 <div class="subpage_title_block">
-<a href="/title/tt0095016/?ref_=ttpl_pl_tt" > <img itemprop="image"
+<a href="/title/tt0095016/?ref_=ttrel_rel_tt" > <img itemprop="image"
 class="poster"
 height="98"
 width="67"
-alt="Die Hard (1988) - Plot Summary Poster"
+alt="Die Hard (1988) Poster"
 src="http://ia.media-imdb.com/images/M/MV5BMTY4ODM0OTc2M15BMl5BanBnXkFtZTcwNzE0MTk3OA@@._V1_SX67_CR0,0,67,98_.jpg" />
 </a>  <div class="parent">   
     <h3 itemprop="name">
-<a href="/title/tt0095016/?ref_=ttpl_pl_tt" itemprop='url'>Die Hard</a>         <span class="nobr">
+<a href="/title/tt0095016/?ref_=ttrel_rel_tt" itemprop='url'>Die Hard</a>         <span class="nobr">
              (1988)
          </span>
     </h3>
@@ -454,46 +455,356 @@ src="http://ia.media-imdb.com/images/M/MV5BMTY4ODM0OTc2M15BMl5BanBnXkFtZTcwNzE0M
       csm.measure('csm_body_delivery_started');
     }
   </script>
-  <h1 class="header">Plot Summary</h1>
+  <h1 class="header">Release Info</h1>
 </div>
-    <div class="header">
-  <ul class="zebraList">
-<div class="header"><div class="nav"><div class="desc">Showing all 5 plot summaries</div></div></div>
-        <li class="odd">
-            <p class="plotSummary">
-New York City Detective John McClane has just arrived in Los Angeles to spend Christmas with his wife. Unfortunatly, it is not going to be a Merry Christmas for everyone. A group of terrorists, led by Hans Gruber is holding everyone in the Nakatomi Plaza building hostage. With no way of anyone getting in or out, it's up to McClane to stop them all. All 12!            </p>
-                <span class="nobr">- <em>Written by
-<a href="/search/title?plot_author=Film_Fan&view=simple&sort=alpha&ref_=ttpl_pl_1" >Film_Fan</a></span></em>        </li>
-        <li class="even">
-            <p class="plotSummary">
-Tough New York cop John McClane finds himself in a tight situation when an office building in Los Angeles is taken over by terrorists. Apart from himself, everyone else in the building - including his wife - is held at gunpoint while their captors spell out their demands. The F.B.I. are called in to survey the situation, but John McClane has other plans for the terrorists...            </p>
-                <span class="nobr">- <em>Written by
-<a href="/search/title?plot_author=Graeme%20Roy%20%3Cgsr%40cbmamiga.demon.co.uk%3E&view=simple&sort=alpha&ref_=ttpl_pl_2" >Graeme Roy &lt;gsr@cbmamiga.demon.co.uk&gt;</a></span></em>        </li>
-        <li class="odd">
-            <p class="plotSummary">
-New York cop John McClane flies to Los Angeles on Christmas eve to spend the holidays with his family. He arrives at the Nakatomi corp. building for his wife's office party. International terrorists take over the building and hold every one as hostage to steel $600 million of bonds from the vaults of the building. Now its up to McCLane to face the terrorists and save his wife and the other hostages.            </p>
-                <span class="nobr">- <em>Written by
-<a href="/search/title?plot_author=Sami%20Al-Taher%20%3Cstaher2000%40yahoo.com%3E&view=simple&sort=alpha&ref_=ttpl_pl_3" >Sami Al-Taher &lt;staher2000@yahoo.com&gt;</a></span></em>        </li>
-        <li class="even">
-            <p class="plotSummary">
-In the city of Los Angeles, a Christmas party is held on the 30th floor of the Nakatomi Plaza Hotel. While the party is going on, downstairs, a band of German terrorists arrive and take the entire building hostage including its employees and attempts a huge robbery. But the only one who eludes capture is New York City Cop John McClane who launches a one man war in an attempt to stop the terrorists and save all hostages including his wife Holly.            </p>
-                <span class="nobr">- <em>Written by
-<a href="/search/title?plot_author=Shaun%20Ouimette%20%7Bxtreemshaun589%40hotmail.com%7D&view=simple&sort=alpha&ref_=ttpl_pl_4" >Shaun Ouimette {xtreemshaun589@hotmail.com}</a></span></em>        </li>
-        <li class="odd">
-            <p class="plotSummary">
-John McClane is a cop from New York City who is on his way to Los Angeles to see his kids and his wife Holly, who moved to LA because of a job at the Nakatomi Corporation. When he arrives at Nakatomi Plaza, he meets Holly's boss Joe Takagi and her co-worker Harry Ellis. He and Holly go into a private bathroom and get into an argument. When Holly leaves to give a speech, thirteen armed terrorists lead by Hans Gruber seize control of the building and take the occupants of the 30th floor, who are the only ones left in the building, hostage. Luckily, they missed John and he has to figure out how to save the hostages before the terrorists get their way.            </p>
-                <span class="nobr">- <em>Written by
-<a href="/search/title?plot_author=Ridley%20Lavine&view=simple&sort=alpha&ref_=ttpl_pl_5" >Ridley Lavine</a></span></em>        </li>
-  </ul>
-  <h4 class="dataHeaderWithBorder">Synopsis</h4>
-  <div class="odd" id="plotSynopsis">
-    <p>
-John McClane, a detective with the New York City Police Department, arrives in Los Angeles to attempt a Christmas reunion and reconciliation with his estranged wife Holly...    </p>
-        <span class="nobr"><a href="synopsis?ref_=ttpl_pl_syn" >See full synopsis</a></span>&nbsp;&raquo;
-        <span class="spoilerWarning">(Warning: contains spoilers!)</span>
-  </div>
+        <div id="releaseinfo_content" class="header">
+<div class="header"><div class="nav"><div class="desc">Showing all 66 items</div></div>
+  <div class="jumpto">
+Jump to:
+<a href="#releases">Release Dates</a>&nbsp;(34)&nbsp;<span class="ghost">|</span>
+<a href="#akas">Also Known As (AKA)</a>&nbsp;(32)  </div>
+</div>
+  <a id="releases" name="releases"></a>
+  <h4 class="li_group">Release Dates&nbsp;</h4>
+    <table id="release_dates" class="subpage_data spFirst">
+        <tr class="odd">
+            <td><a href="/calendar/?region=us&ref_=ttrel_rel_1" >USA</a></td>
+            <td class="release_date">15 July <a href="/year/1988/?ref_=ttrel_rel_1" >1988</a></td>
+            <td> (limited)</td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=us&ref_=ttrel_rel_2" >USA</a></td>
+            <td class="release_date">22 July <a href="/year/1988/?ref_=ttrel_rel_2" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=fr&ref_=ttrel_rel_3" >France</a></td>
+            <td class="release_date">21 September <a href="/year/1988/?ref_=ttrel_rel_3" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=kr&ref_=ttrel_rel_4" >South Korea</a></td>
+            <td class="release_date">24 September <a href="/year/1988/?ref_=ttrel_rel_4" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=ph&ref_=ttrel_rel_5" >Philippines</a></td>
+            <td class="release_date">27 September <a href="/year/1988/?ref_=ttrel_rel_5" >1988</a></td>
+            <td> (Davao)</td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=es&ref_=ttrel_rel_6" >Spain</a></td>
+            <td class="release_date">30 September <a href="/year/1988/?ref_=ttrel_rel_6" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=se&ref_=ttrel_rel_7" >Sweden</a></td>
+            <td class="release_date">30 September <a href="/year/1988/?ref_=ttrel_rel_7" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=au&ref_=ttrel_rel_8" >Australia</a></td>
+            <td class="release_date">6 October <a href="/year/1988/?ref_=ttrel_rel_8" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=fi&ref_=ttrel_rel_9" >Finland</a></td>
+            <td class="release_date">7 October <a href="/year/1988/?ref_=ttrel_rel_9" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=hk&ref_=ttrel_rel_10" >Hong Kong</a></td>
+            <td class="release_date">19 October <a href="/year/1988/?ref_=ttrel_rel_10" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=nl&ref_=ttrel_rel_11" >Netherlands</a></td>
+            <td class="release_date">3 November <a href="/year/1988/?ref_=ttrel_rel_11" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=gr&ref_=ttrel_rel_12" >Greece</a></td>
+            <td class="release_date">10 November <a href="/year/1988/?ref_=ttrel_rel_12" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=xwg&ref_=ttrel_rel_13" >West Germany</a></td>
+            <td class="release_date">10 November <a href="/year/1988/?ref_=ttrel_rel_13" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=at&ref_=ttrel_rel_14" >Austria</a></td>
+            <td class="release_date">11 November <a href="/year/1988/?ref_=ttrel_rel_14" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=no&ref_=ttrel_rel_15" >Norway</a></td>
+            <td class="release_date">18 November <a href="/year/1988/?ref_=ttrel_rel_15" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=gb&ref_=ttrel_rel_16" >UK</a></td>
+            <td class="release_date">27 November <a href="/year/1988/?ref_=ttrel_rel_16" >1988</a></td>
+            <td> (London Film Festival)</td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=ar&ref_=ttrel_rel_17" >Argentina</a></td>
+            <td class="release_date">15 December <a href="/year/1988/?ref_=ttrel_rel_17" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=pt&ref_=ttrel_rel_18" >Portugal</a></td>
+            <td class="release_date">16 December <a href="/year/1988/?ref_=ttrel_rel_18" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=br&ref_=ttrel_rel_19" >Brazil</a></td>
+            <td class="release_date">22 December <a href="/year/1988/?ref_=ttrel_rel_19" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=sv&ref_=ttrel_rel_20" >El Salvador</a></td>
+            <td class="release_date">25 December <a href="/year/1988/?ref_=ttrel_rel_20" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=uy&ref_=ttrel_rel_21" >Uruguay</a></td>
+            <td class="release_date">25 December <a href="/year/1988/?ref_=ttrel_rel_21" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=dk&ref_=ttrel_rel_22" >Denmark</a></td>
+            <td class="release_date">26 December <a href="/year/1988/?ref_=ttrel_rel_22" >1988</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=pl&ref_=ttrel_rel_23" >Poland</a></td>
+            <td class="release_date">6 January <a href="/year/1989/?ref_=ttrel_rel_23" >1989</a></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=pe&ref_=ttrel_rel_24" >Peru</a></td>
+            <td class="release_date">2 February <a href="/year/1989/?ref_=ttrel_rel_24" >1989</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=gb&ref_=ttrel_rel_25" >UK</a></td>
+            <td class="release_date">3 February <a href="/year/1989/?ref_=ttrel_rel_25" >1989</a></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=jp&ref_=ttrel_rel_26" >Japan</a></td>
+            <td class="release_date">4 February <a href="/year/1989/?ref_=ttrel_rel_26" >1989</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=ie&ref_=ttrel_rel_27" >Ireland</a></td>
+            <td class="release_date">3 March <a href="/year/1989/?ref_=ttrel_rel_27" >1989</a></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=co&ref_=ttrel_rel_28" >Colombia</a></td>
+            <td class="release_date">20 April <a href="/year/1989/?ref_=ttrel_rel_28" >1989</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=it&ref_=ttrel_rel_29" >Italy</a></td>
+            <td class="release_date">23 June <a href="/year/1989/?ref_=ttrel_rel_29" >1989</a></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=hu&ref_=ttrel_rel_30" >Hungary</a></td>
+            <td class="release_date">14 December <a href="/year/1989/?ref_=ttrel_rel_30" >1989</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=tr&ref_=ttrel_rel_31" >Turkey</a></td>
+            <td class="release_date">26 January <a href="/year/1990/?ref_=ttrel_rel_31" >1990</a></td>
+            <td></td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=cshh&ref_=ttrel_rel_32" >Czechoslovakia</a></td>
+            <td class="release_date">20 June <a href="/year/1991/?ref_=ttrel_rel_32" >1991</a></td>
+            <td></td>
+        </tr>
+        <tr class="odd">
+            <td><a href="/calendar/?region=fr&ref_=ttrel_rel_33" >France</a></td>
+            <td class="release_date">28 January <a href="/year/2010/?ref_=ttrel_rel_33" >2010</a></td>
+            <td> (Gerardmer International Fantasy Film Festival)</td>
+        </tr>
+        <tr class="even">
+            <td><a href="/calendar/?region=ca&ref_=ttrel_rel_34" >Canada</a></td>
+            <td class="release_date">9 February <a href="/year/2010/?ref_=ttrel_rel_34" >2010</a></td>
+            <td> (Digital Film Festival)</td>
+        </tr>
+    </table>
+  <a id="akas" name="akas"></a>
+  <h4 class="li_group">Also Known As (AKA)&nbsp;</h4>
+    <table id="akas" class="subpage_data spEven2Col">
+        
+                    <tr class="odd">
+                        <td> (original title)</td>
+                        <td>Die Hard</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Argentina</td>
+                        <td>Duro de matar</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Austria</td>
+                        <td>Stirb langsam</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Bulgaria (Bulgarian title)</td>
+                        <td>Умирай трудно</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Brazil</td>
+                        <td>Duro de Matar</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Canada (French title)</td>
+                        <td>Piège de cristal</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Czechoslovakia (Slovak title)</td>
+                        <td>Smrtonosná pasca</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Czechoslovakia</td>
+                        <td>Smrtonosná past</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Czechoslovakia (Czech title)</td>
+                        <td>Smrtonosná past</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Czech Republic</td>
+                        <td>Smrtonosná past</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Denmark</td>
+                        <td>Die Hard</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Estonia</td>
+                        <td>Visa hing</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Spain</td>
+                        <td>Jungla de cristal</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Finland (alternative title)</td>
+                        <td>Die hard - vain kuolleen ruumiini yli</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Finland (Swedish title)</td>
+                        <td>Med dödlig påföljd</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Finland</td>
+                        <td>Vain kuolleen ruumiini yli</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>France</td>
+                        <td>Piège de cristal</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Greece (transliterated ISO-LATIN-1 title)</td>
+                        <td>Poly skliros gia na pethanei</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Greece</td>
+                        <td>Πολύ Σκληρός για να Πεθάνει</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Croatia</td>
+                        <td>Umri muški</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Hungary</td>
+                        <td>Drágán add az életed!</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Italy (pre-release title)</td>
+                        <td>A un passo dall'inferno - Trappola di cristallo</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Italy (DVD title)</td>
+                        <td>Die Hard - Trappola di cristallo</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Italy</td>
+                        <td>Trappola di cristallo</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Japan (English title)</td>
+                        <td>Die Hard</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Lithuania</td>
+                        <td>Kietas riesutelis</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Mexico</td>
+                        <td>Duro de matar</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Norway (alternative title)</td>
+                        <td>Aksjon skyskraper</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Peru</td>
+                        <td>Duro de matar</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Poland</td>
+                        <td>Szklana pulapka</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Portugal</td>
+                        <td>Assalto ao Arranha-Céus</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Romania</td>
+                        <td>Greu de Ucis</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Romania</td>
+                        <td>Greu de ucis</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Serbia</td>
+                        <td>Umri muški</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Russia</td>
+                        <td>Крепкий орешек</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Slovenia</td>
+                        <td>Umri pokoncno</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>Turkey (Turkish title)</td>
+                        <td>Zor Ölüm</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Uruguay</td>
+                        <td>Duro de matar</td>
+                    </tr>
+                    <tr class="odd">
+                        <td>West Germany</td>
+                        <td>Stirb langsam</td>
+                    </tr>
+                    <tr class="even">
+                        <td>Yugoslavia (Serbian title)</td>
+                        <td>Umri muski</td>
+                    </tr>
+    </table>
+        </div>
     </div>
-  </div> 
 
 
 
@@ -501,13 +812,19 @@ John McClane, a detective with the New York City Police Department, arrives in L
         <h2>See also</h2>
         <p>
                             <span class="nobr">
-<a href="/title/tt0095016/taglines?ref_=ttpl_sa_1" class="link" >Taglines</a>
+<a href="/title/tt0095016/fullcredits?ref_=ttrel_sa_1" class="link" >Full Cast and Crew</a>
 <span class="ghost">|</span></span>                            <span class="nobr">
-<a href="/title/tt0095016/synopsis?ref_=ttpl_sa_2" class="link" >Synopsis</a>
+<a href="/title/tt0095016/officialsites?ref_=ttrel_sa_2" class="link" >Official Sites</a>
 <span class="ghost">|</span></span>                            <span class="nobr">
-<a href="/title/tt0095016/keywords?ref_=ttpl_sa_3" class="link" >Plot Keywords</a>
+<a href="/title/tt0095016/business?ref_=ttrel_sa_3" class="link" >Box Office/Business</a>
 <span class="ghost">|</span></span>                            <span class="nobr">
-<a href="/title/tt0095016/parentalguide?ref_=ttpl_sa_4" class="link" >Parents Guide</a>
+<a href="/title/tt0095016/companycredits?ref_=ttrel_sa_4" class="link" >Company Credits</a>
+<span class="ghost">|</span></span>                            <span class="nobr">
+<a href="/title/tt0095016/locations?ref_=ttrel_sa_5" class="link" >Filming Locations</a>
+<span class="ghost">|</span></span>                            <span class="nobr">
+<a href="/title/tt0095016/technical?ref_=ttrel_sa_6" class="link" >Technical Specs</a>
+<span class="ghost">|</span></span>                            <span class="nobr">
+<a href="/title/tt0095016/literature?ref_=ttrel_sa_7" class="link ghost" >Literature</a>
 </span>        </p>
     </div>
     
@@ -519,14 +836,14 @@ John McClane, a detective with the New York City Police Department, arrives in L
 
     <div class="article contribute">
         <div class="rightcornerlink">
-<a href="/help/?adding/&ref_=ttpl_cn_hlp" >Getting Started</a>
+<a href="/help/?adding/&ref_=ttrel_cn_hlp" >Getting Started</a>
             <span>|</span>
-<a href="/czone/?ref_=ttpl_cn_cz" >Contributor Zone</a>&nbsp;&raquo;</div>
+<a href="/czone/?ref_=ttrel_cn_cz" >Contributor Zone</a>&nbsp;&raquo;</div>
         <h2>Contribute to This Page</h2>
 
             <div class="button-box">
-                <form method="post" action="/updates?ref_=ttpl_cn_edt">
-                    <input type="hidden" name="auto" value="legacy/title/tt0095016/plotsummary">
+                <form method="post" action="/updates?ref_=ttrel_cn_edt">
+                    <input type="hidden" name="auto" value="legacy/title/tt0095016/releaseinfo">
                         <button class="btn primary large" rel="login" type="submit">Edit page</button>
                 </form>
             </div>
@@ -557,25 +874,34 @@ John McClane, a detective with the New York City Police Department, arrives in L
     
     <div class="aux-content-widget-3 links subnav" div="quicklinks">
 
-<a href="/title/tt0095016/?ref_=ttpl_ql" class="subnav_heading" >Die Hard</a>                <hr/>
+<a href="/title/tt0095016/?ref_=ttrel_ql" class="subnav_heading" >Die Hard</a>                <hr/>
 
 
-        <h4>Storyline</h4>
+        <h4>Details</h4>
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/taglines?ref_=ttpl_ql_1" class="link" >Taglines</a>
+<a href="/title/tt0095016/fullcredits?ref_=ttrel_ql_1" class="link" >Full Cast and Crew</a>
                 </li>
                 <li class="subnav_item_main subnav_selected">
-<a href="/title/tt0095016/plotsummary?ref_=ttpl_ql_2" class="link" >Plot Summary</a>
+<a href="/title/tt0095016/releaseinfo?ref_=ttrel_ql_2" class="link" >Release Dates</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/synopsis?ref_=ttpl_ql_3" class="link" >Synopsis</a>
+<a href="/title/tt0095016/officialsites?ref_=ttrel_ql_3" class="link" >Official Sites</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/keywords?ref_=ttpl_ql_4" class="link" >Plot Keywords</a>
+<a href="/title/tt0095016/business?ref_=ttrel_ql_4" class="link" >Box Office/Business</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/parentalguide?ref_=ttpl_ql_5" class="link" >Parents Guide</a>
+<a href="/title/tt0095016/companycredits?ref_=ttrel_ql_5" class="link" >Company Credits</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0095016/locations?ref_=ttrel_ql_6" class="link" >Filming Locations</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0095016/technical?ref_=ttrel_ql_7" class="link" >Technical Specs</a>
+                </li>
+                <li class="subnav_item_main">
+<a href="/title/tt0095016/literature?ref_=ttrel_ql_8" class="link ghost" >Literature</a>
                 </li>
     </ul>
         <hr/>
@@ -583,58 +909,49 @@ John McClane, a detective with the New York City Police Department, arrives in L
         <div id="full_subnav">
 
 
-        <h4>Details</h4>
+
+        <h4>Storyline</h4>
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/fullcredits?ref_=ttpl_ql_dt_1" class="link" >Full Cast and Crew</a>
+<a href="/title/tt0095016/taglines?ref_=ttrel_ql_stry_1" class="link" >Taglines</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/releaseinfo?ref_=ttpl_ql_dt_2" class="link" >Release Dates</a>
+<a href="/title/tt0095016/plotsummary?ref_=ttrel_ql_stry_2" class="link" >Plot Summary</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/officialsites?ref_=ttpl_ql_dt_3" class="link" >Official Sites</a>
+<a href="/title/tt0095016/synopsis?ref_=ttrel_ql_stry_3" class="link" >Synopsis</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/business?ref_=ttpl_ql_dt_4" class="link" >Box Office/Business</a>
+<a href="/title/tt0095016/keywords?ref_=ttrel_ql_stry_4" class="link" >Plot Keywords</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/companycredits?ref_=ttpl_ql_dt_5" class="link" >Company Credits</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/locations?ref_=ttpl_ql_dt_6" class="link" >Filming Locations</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/technical?ref_=ttpl_ql_dt_7" class="link" >Technical Specs</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/literature?ref_=ttpl_ql_dt_8" class="link ghost" >Literature</a>
+<a href="/title/tt0095016/parentalguide?ref_=ttrel_ql_stry_5" class="link" >Parents Guide</a>
                 </li>
     </ul>
-
 
 
         <h4>Did You Know?</h4>
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/trivia?ref_=ttpl_ql_trv_1" class="link" >Trivia</a>
+<a href="/title/tt0095016/trivia?ref_=ttrel_ql_trv_1" class="link" >Trivia</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/goofs?ref_=ttpl_ql_trv_2" class="link" >Goofs</a>
+<a href="/title/tt0095016/goofs?ref_=ttrel_ql_trv_2" class="link" >Goofs</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/crazycredits?ref_=ttpl_ql_trv_3" class="link ghost" >Crazy Credits</a>
+<a href="/title/tt0095016/crazycredits?ref_=ttrel_ql_trv_3" class="link ghost" >Crazy Credits</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/quotes?ref_=ttpl_ql_trv_4" class="link" >Quotes</a>
+<a href="/title/tt0095016/quotes?ref_=ttrel_ql_trv_4" class="link" >Quotes</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/alternateversions?ref_=ttpl_ql_trv_5" class="link" >Alternate Versions</a>
+<a href="/title/tt0095016/alternateversions?ref_=ttrel_ql_trv_5" class="link" >Alternate Versions</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/movieconnections?ref_=ttpl_ql_trv_6" class="link" >Connections</a>
+<a href="/title/tt0095016/movieconnections?ref_=ttrel_ql_trv_6" class="link" >Connections</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/soundtrack?ref_=ttpl_ql_trv_7" class="link" >Soundtracks</a>
+<a href="/title/tt0095016/soundtrack?ref_=ttrel_ql_trv_7" class="link" >Soundtracks</a>
                 </li>
     </ul>
 
@@ -642,10 +959,10 @@ John McClane, a detective with the New York City Police Department, arrives in L
         <h4>Photo & Video</h4>
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/mediaindex?ref_=ttpl_ql_pv_1" class="link" >Photo Gallery</a>
+<a href="/title/tt0095016/mediaindex?ref_=ttrel_ql_pv_1" class="link" >Photo Gallery</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/videogallery?ref_=ttpl_ql_pv_2" class="link" >Trailers and Videos</a>
+<a href="/title/tt0095016/videogallery?ref_=ttrel_ql_pv_2" class="link" >Trailers and Videos</a>
                 </li>
     </ul>
 
@@ -653,25 +970,25 @@ John McClane, a detective with the New York City Police Department, arrives in L
         <h4>Opinion</h4>
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/awards?ref_=ttpl_ql_op_1" class="link" >Awards</a>
+<a href="/title/tt0095016/awards?ref_=ttrel_ql_op_1" class="link" >Awards</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/faq?ref_=ttpl_ql_op_2" class="link" >FAQ</a>
+<a href="/title/tt0095016/faq?ref_=ttrel_ql_op_2" class="link" >FAQ</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/reviews?ref_=ttpl_ql_op_3" class="link" >User Reviews</a>
+<a href="/title/tt0095016/reviews?ref_=ttrel_ql_op_3" class="link" >User Reviews</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/ratings?ref_=ttpl_ql_op_4" class="link" >User Ratings</a>
+<a href="/title/tt0095016/ratings?ref_=ttrel_ql_op_4" class="link" >User Ratings</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/externalreviews?ref_=ttpl_ql_op_5" class="link" >External Reviews</a>
+<a href="/title/tt0095016/externalreviews?ref_=ttrel_ql_op_5" class="link" >External Reviews</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/criticreviews?ref_=ttpl_ql_op_6" class="link" >Metacritic Reviews</a>
+<a href="/title/tt0095016/criticreviews?ref_=ttrel_ql_op_6" class="link" >Metacritic Reviews</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/board/?ref_=ttpl_ql_op_7" class="link" >Message Board</a>
+<a href="/title/tt0095016/board/?ref_=ttrel_ql_op_7" class="link" >Message Board</a>
                 </li>
     </ul>
 
@@ -679,7 +996,7 @@ John McClane, a detective with the New York City Police Department, arrives in L
         <h4>TV</h4>
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/tvschedule?ref_=ttpl_ql_tv_1" class="link ghost" >TV Schedule</a>
+<a href="/title/tt0095016/tvschedule?ref_=ttrel_ql_tv_1" class="link ghost" >TV Schedule</a>
                 </li>
     </ul>
 
@@ -687,13 +1004,13 @@ John McClane, a detective with the New York City Police Department, arrives in L
         <h4>Related Items</h4>
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/news?ref_=ttpl_ql_rel_1" class="link" >NewsDesk</a>
+<a href="/title/tt0095016/news?ref_=ttrel_ql_rel_1" class="link" >NewsDesk</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/showtimes/title/tt0095016?ref_=ttpl_ql_rel_2" class="link ghost" >Showtimes</a>
+<a href="/showtimes/title/tt0095016?ref_=ttrel_ql_rel_2" class="link ghost" >Showtimes</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/externalsites?ref_=ttpl_ql_rel_3" class="link" >External Sites</a>
+<a href="/title/tt0095016/externalsites?ref_=ttrel_ql_rel_3" class="link" >External Sites</a>
                 </li>
     </ul>
 
@@ -701,10 +1018,10 @@ John McClane, a detective with the New York City Police Department, arrives in L
         <h4>Professional Services</h4>
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/r/tt_moviemeter_why/title/tt0095016?ref_=ttpl_ql_pro_1" class="link" >Get more at IMDbPro</a>
+<a href="/r/tt_moviemeter_why/title/tt0095016?ref_=ttrel_ql_pro_1" class="link" >Get more at IMDbPro</a>
                 </li>
                 <li class="subnav_item_main">
-<a href="https://secure.imdb.com/store/photos/?ref_=ttpl_ql_pro_2" class="link" >Add posters & stills to this title</a>
+<a href="https://secure.imdb.com/store/photos/?ref_=ttrel_ql_pro_2" class="link" >Add posters & stills to this title</a>
                 </li>
     </ul>
             <hr/>
@@ -718,7 +1035,7 @@ John McClane, a detective with the New York City Police Department, arrives in L
       <div class="social_networking"> 
        <span><strong>Share</strong> this page:</span>
   <a onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F', 'newWindow', 'width=626, height=436'); return false;" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
-  <a onclick="window.open('http://twitter.com/intent/tweet?text=Die%20Hard%20(1988)%20-%20Plot%20Summary%20-%20http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F', 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/intent/tweet?text=Die%20Hard%20(1988)%20-%20Plot%20Summary%20-%20http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
+  <a onclick="window.open('http://twitter.com/intent/tweet?text=Die%20Hard%20(1988)%20-%20http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F', 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/intent/tweet?text=Die%20Hard%20(1988)%20-%20http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
   <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/title/tt0095016/"></a>
       </div>
       <input type="text" name="share-link" value="http://www.imdb.com/title/tt0095016/" readonly>
@@ -740,14 +1057,14 @@ John McClane, a detective with the New York City Police Department, arrives in L
         <div class="aux-content-widget-2">
             <div id="relatedListsWidget">
                 <div class="rightcornerlink">
-                    <a href="/list/create?ref_=ttpl_rls" >Create a list</a>&nbsp;&raquo;
+                    <a href="/list/create?ref_=tt_rls" >Create a list</a>&nbsp;&raquo;
                 </div>
                 <h3>User Lists</h3>
                 <p>Related lists from IMDb users</p>
                 
                     <div class="list-preview even">
                         <div class="list-preview-item-narrow">
-<a href="/list/94AxxdmHt3k/?ref_=ttpl_rls_1" >
+<a href="/list/94AxxdmHt3k/?ref_=tt_rls_1" >
 <img height="86" width="86" alt="list image" title="list image"
 src="/images/nopicture/medium/film.png"
 class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjE0Mjc3ODAwNV5BMl5BanBnXkFtZTgwMDM3ODI1MDE@._V1_SX86_CR0,0,86,86_.jpg" />
@@ -757,7 +1074,7 @@ src="http://ia.media-imdb.com/images/M/MV5BMjE0Mjc3ODAwNV5BMl5BanBnXkFtZTgwMDM3O
 </noscript>
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/94AxxdmHt3k/?ref_=ttpl_rls_1" >Great Movie Quotes from the 1980s</a></b>
+                            <b><a href="/list/94AxxdmHt3k/?ref_=tt_rls_1" >Great Movie Quotes from the 1980s</a></b>
                         </div>
                         <div class="list_meta">
                             a list of 44 titles 
@@ -767,12 +1084,12 @@ src="http://ia.media-imdb.com/images/M/MV5BMjE0Mjc3ODAwNV5BMl5BanBnXkFtZTgwMDM3O
                     </div>
                     <div class="list-preview odd">
                         <div class="list-preview-item-narrow">
-<a href="/list/yJU7d0IpOjQ/?ref_=ttpl_rls_2" >
+<a href="/list/yJU7d0IpOjQ/?ref_=tt_rls_2" >
 <img height="86" width="86" alt="list image" title="list image"
 src="/images/nopicture/medium/film.png" class="rec_poster_img" />
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/yJU7d0IpOjQ/?ref_=ttpl_rls_2" >The League of Extremely Frightening Men</a></b>
+                            <b><a href="/list/yJU7d0IpOjQ/?ref_=tt_rls_2" >The League of Extremely Frightening Men</a></b>
                         </div>
                         <div class="list_meta">
                             a list of 31 images 
@@ -782,7 +1099,7 @@ src="/images/nopicture/medium/film.png" class="rec_poster_img" />
                     </div>
                     <div class="list-preview even">
                         <div class="list-preview-item-narrow">
-<a href="/list/yuanCaiOWiE/?ref_=ttpl_rls_3" >
+<a href="/list/yuanCaiOWiE/?ref_=tt_rls_3" >
 <img height="86" width="86" alt="list image" title="list image"
 src="/images/nopicture/medium/film.png"
 class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@._V1_SX86_CR0,0,86,86_.jpg" />
@@ -792,7 +1109,7 @@ src="http://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyM
 </noscript>
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/yuanCaiOWiE/?ref_=ttpl_rls_3" >Movies I've watched</a></b>
+                            <b><a href="/list/yuanCaiOWiE/?ref_=tt_rls_3" >Movies I've watched</a></b>
                         </div>
                         <div class="list_meta">
                             a list of 383 titles 
@@ -802,7 +1119,7 @@ src="http://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyM
                     </div>
                     <div class="list-preview odd">
                         <div class="list-preview-item-narrow">
-<a href="/list/A_1NRcSpi4c/?ref_=ttpl_rls_4" >
+<a href="/list/A_1NRcSpi4c/?ref_=tt_rls_4" >
 <img height="86" width="86" alt="list image" title="list image"
 src="/images/nopicture/medium/film.png"
 class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQxMTAwMDQ3Nl5BMl5BanBnXkFtZTcwODMwNTgzMQ@@._V1_SX86_CR0,0,86,86_.jpg" />
@@ -812,7 +1129,7 @@ src="http://ia.media-imdb.com/images/M/MV5BMTQxMTAwMDQ3Nl5BMl5BanBnXkFtZTcwODMwN
 </noscript>
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/A_1NRcSpi4c/?ref_=ttpl_rls_4" >Top 50 movies</a></b>
+                            <b><a href="/list/A_1NRcSpi4c/?ref_=tt_rls_4" >Top 50 movies</a></b>
                         </div>
                         <div class="list_meta">
                             a list of 38 titles 
@@ -822,7 +1139,7 @@ src="http://ia.media-imdb.com/images/M/MV5BMTQxMTAwMDQ3Nl5BMl5BanBnXkFtZTcwODMwN
                     </div>
                     <div class="list-preview even">
                         <div class="list-preview-item-narrow">
-<a href="/list/gkFvKWNuLZQ/?ref_=ttpl_rls_5" >
+<a href="/list/gkFvKWNuLZQ/?ref_=tt_rls_5" >
 <img height="86" width="86" alt="list image" title="list image"
 src="/images/nopicture/medium/film.png"
 class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ3MDA4MDIyN15BMl5BanBnXkFtZTYwOTg0Njk4._V1_SX86_CR0,0,86,86_.jpg" />
@@ -832,7 +1149,7 @@ src="http://ia.media-imdb.com/images/M/MV5BMTQ3MDA4MDIyN15BMl5BanBnXkFtZTYwOTg0N
 </noscript>
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/gkFvKWNuLZQ/?ref_=ttpl_rls_5" >Top Action Flicks</a></b>
+                            <b><a href="/list/gkFvKWNuLZQ/?ref_=tt_rls_5" >Top Action Flicks</a></b>
                         </div>
                         <div class="list_meta">
                             a list of 37 titles 
@@ -841,7 +1158,7 @@ src="http://ia.media-imdb.com/images/M/MV5BMTQ3MDA4MDIyN15BMl5BanBnXkFtZTYwOTg0N
                         <div class="clear">&nbsp;</div>
                     </div>
                 <div class="see-more">
-                    <a href="/lists/tt0095016?ref_=ttpl_rls_sm" >See all related lists</a>&nbsp;&raquo;
+                    <a href="/lists/tt0095016?ref_=tt_rls_sm" >See all related lists</a>&nbsp;&raquo;
                 </div>
             </div>
         </div>
@@ -1063,7 +1380,7 @@ href="//www.amazon.com/InterestBasedAds"
 
 <script type="text/imdblogin-js" id="login">
 jQuery(document).ready(function(){
-    window.imdb.login_lightbox("https://secure.imdb.com", "http://www.imdb.com/title/tt0095016/plotsummary");
+    window.imdb.login_lightbox("https://secure.imdb.com", "http://www.imdb.com/title/tt0095016/releaseinfo");
 });
 </script>
 
@@ -1082,7 +1399,7 @@ jQuery(document).ready(function(){
                 );
         </script>
 
-<div id="servertime" time="58"/>
+<div id="servertime" time="36"/>
 
 
 
@@ -1093,3 +1410,4 @@ jQuery(document).ready(function(){
 </script>
     </body>
 </html>
+
