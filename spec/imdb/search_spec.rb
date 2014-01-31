@@ -1,7 +1,6 @@
 require 'spec_helper'
 
 describe "Imdb::Search with multiple search results" do
-
   before(:each) do
     @search = Imdb::Search.new("Star Trek: TOS")
   end
@@ -28,7 +27,6 @@ describe "Imdb::Search with multiple search results" do
 end
 
 describe "Imdb::Search with an exact match and no poster" do
-
   it "should not raise an exception" do
     expect {
       @search = Imdb::Search.new("Kannethirey Thondrinal").movies
@@ -38,21 +36,5 @@ describe "Imdb::Search with an exact match and no poster" do
   it "should return the movie id correctly" do
     @search = Imdb::Search.new("Kannethirey Thondrinal")
     @search.movies.first.id.should eql("0330508")
-  end
-
-end
-
-describe "Imdb::Search with an exact match" do
-
-  before(:each) do
-    @search = Imdb::Search.new("I killed my lesbian wife")
-  end
-
-  it "should find one result" do
-    @search.movies.size.should eql(1)
-  end
-
-  it "should have the corrected title" do
-    @search.movies.first.title.should =~ /I Killed My Lesbian Wife/i
   end
 end
