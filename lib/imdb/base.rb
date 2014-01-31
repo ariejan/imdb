@@ -151,7 +151,7 @@ module Imdb
 
     # Returns alternative titles from imdb_url/releaseinfo
     def also_known_as
-      akas_document.search("#akas tr").map { |aka|
+      releaseinfo_document.search("#akas tr").map { |aka|
         {
           :version => aka.search("td:nth-child(1)").text,
           :title   => aka.search("td:nth-child(2)").text
@@ -170,8 +170,8 @@ module Imdb
       @locations_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "locations"))
     end
 
-    def akas_document
-      @akas_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "releaseinfo"))
+    def releaseinfo_document
+      @releaseinfo_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "releaseinfo"))
     end
 
     # Use HTTParty to fetch the raw HTML for this movie.

@@ -182,8 +182,12 @@ describe "Imdb::Movie" do
     it "should find multiple 'also known as' versions" do
       also_known_as = @movie.also_known_as
       also_known_as.should be_an(Array)
-      also_known_as.size.should eql(37)
-      also_known_as[11].should == {:version => "Finland (alternative title)", :title => "Die hard - vain kuolleen ruumiini yli"}
+      also_known_as.size.should eql(40)
+    end
+
+    it "should find a specific 'also known as' version" do
+      also_known_as = @movie.also_known_as
+      also_known_as.should include({ version: "Russia", title: "Крепкий орешек"})
     end
 
     it "should provide a convenience method to search" do
