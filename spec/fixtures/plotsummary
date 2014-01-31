@@ -1,12 +1,13 @@
 HTTP/1.1 200 OK
-Date: Mon, 28 Oct 2013 08:53:12 GMT
+Date: Fri, 31 Jan 2014 10:08:08 GMT
 Server: Server
+X-Frame-Options: SAMEORIGIN
 Content-Type: text/html;charset=UTF-8
 Content-Language: en-US
 Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYlq7zgdyYJlK3Np1GMagjroFnBgmyPp0hiDY8s86yNR14ENHVajYcEHfqS%2FYoSTNDI7qZZOAPz%0D%0A0Mi1CfgPqfrJ60EKpYmBeHA%2FeWFhW5fzbalxN74bj0gAtZteuL%2BsAEmaUsayf%2B%2FnEuvWMuvsiLtc%0D%0A6lswhCtQvVnSex8wx4Th40QcEkGZivriqTUEyWuUgt%2FF%2BHUEGPUXu%2BDK%2FoNSaPtme4%2BvLI8M72FH%0D%0AP8NHvKsyRmNqpc8tLIiALPHrzlpIlaLfLyBWRqsrn28NMg70elJ0Tg%3D%3D%0D%0A; Domain=.imdb.com; Expires=Sat, 15-Nov-2081 12:07:19 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Sat, 15-Nov-2081 12:07:19 GMT; Path=/
-Set-Cookie: session-id-time=1540630392; Domain=.imdb.com; Expires=Sat, 15-Nov-2081 12:07:19 GMT; Path=/
+Set-Cookie: uu=BCYjyTUQu6x2yLfoettgqVT0OkjyhJurUKGHeXaEItnwobv6osmlUhMvGPJrdDdVAjORIiG7HvZa%0D%0AttsHW26O63C4m_yF1-Rye_CLzF4ALT0l284i6eT46k9eHC_WdmyidkcvXnRU_9vjMsuW54q8h8sh%0D%0AOP3wer7FHZWrOCDr85_uOVfS5Dl8K_GuJVyUQL1_PZ_f5uVLSWKCflo8q7sHPl7pSOLYjF6XTcTJ%0D%0ACNpdWSzXI_R-USVDX0Y7jT6NC_A8Lbwfy-CqrzOo4iJ5FgtnAK3pFw%0D%0A; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:15 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:15 GMT; Path=/
+Set-Cookie: session-id-time=1548842888; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:15 GMT; Path=/
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
 
@@ -25,15 +26,15 @@ Transfer-Encoding: chunked
 xmlns:og="http://ogp.me/ns#"
 xmlns:fb="http://www.facebook.com/2008/fbml">
     <head>
-                <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
-                <script type="text/javascript">
-                    var ue_mid = "A1EVAM02EL8SFB"; 
-                    var ue_sn = "www.imdb.com";  
-                    var ue_furl = "fls-na.amazon.com";
-                    var ue_sid = "000-0000000-0000000";
-                    var ue_id = "0YAWPDZGCS5YAX5FSPQP";
-                    (function(e){var c=e,a={main_scope:"mainscopecsm",q:[],t0:c.ue_t0||+new Date(),d:g};function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(k,j,h){var i={m:k,f:j,l:h,fromOnError:1,args:arguments};c.ueLogError(i);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-ef584a44e8ea58e3d4d928956600a9b6._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){b()}a.uels=c;e.ue=a})(window,document);
-                </script>
+            <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
+            <script type="text/javascript">
+                var ue_mid = "A1EVAM02EL8SFB"; 
+                var ue_sn = "www.imdb.com";  
+                var ue_furl = "fls-na.amazon.com";
+                var ue_sid = "000-0000000-0000000";
+                var ue_id = "1B92NE0W07R82T9HW5PC";
+                (function(e){var c=e,a={main_scope:"mainscopecsm",q:[],t0:c.ue_t0||+new Date(),d:g};function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(k,j,h){var i={m:k,f:j,l:h,fromOnError:1,args:arguments};c.ueLogError(i);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-ef584a44e8ea58e3d4d928956600a9b6._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){b()}a.uels=c;e.ue=a})(window,document);
+            </script>
  
 
         
@@ -54,24 +55,24 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
         <link rel="search" type="application/opensearchdescription+xml" href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._V379388505_.xml" title="IMDb" />
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
         
-        
-            <link rel='image_src' href="http://ia.media-imdb.com/images/M/MV5BMTY4ODM0OTc2M15BMl5BanBnXkFtZTcwNzE0MTk3OA@@._V1_SX214_CR0,0,214,317_.jpg">
-            <meta property='og:image' content="http://ia.media-imdb.com/images/M/MV5BMTY4ODM0OTc2M15BMl5BanBnXkFtZTcwNzE0MTk3OA@@._V1_SX214_CR0,0,214,317_.jpg" />
-        
-            <meta property='og:type' content="video.movie" />
-        <meta property='fb:app_id' content='115109575169727' />
-        <meta property='og:title' content="Die Hard (1988) - Plot Summary" />
-        <meta property='og:site_name' content='IMDb' />
-        <meta name="title" content="Die Hard (1988) - Plot Summary - IMDb" />
-            <meta name="description" content="Die Hard (1988) on IMDb: New York City Detective John McClane has just arrived in Los Angeles to spend Christmas with his wife. Unfortunatly, it is not going to be a Merry Chr" />
-            <meta property="og:description" content="Die Hard (1988) on IMDb: New York City Detective John McClane has just arrived in Los Angeles to spend Christmas with his wife. Unfortunatly, it is not going to be a Merry Chr" />
-            <meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
-            <meta name="request_id" content="0YAWPDZGCS5YAX5FSPQP" />
+    
+        <link rel='image_src' href="http://ia.media-imdb.com/images/M/MV5BMTY4ODM0OTc2M15BMl5BanBnXkFtZTcwNzE0MTk3OA@@._V1_SY500_SX335_.jpg">
+        <meta property='og:image' content="http://ia.media-imdb.com/images/M/MV5BMTY4ODM0OTc2M15BMl5BanBnXkFtZTcwNzE0MTk3OA@@._V1_SY500_SX335_.jpg" />
+    
+        <meta property='og:type' content="video.movie" />
+    <meta property='fb:app_id' content='115109575169727' />
+    <meta property='og:title' content="Die Hard (1988) - Plot Summary" />
+    <meta property='og:site_name' content='IMDb' />
+    <meta name="title" content="Die Hard (1988) - Plot Summary - IMDb" />
+        <meta name="description" content="Die Hard (1988) on IMDb: New York City Detective John McClane has just arrived in Los Angeles to spend Christmas with his wife. Unfortunatly, it is not going to be a Merry Chr" />
+        <meta property="og:description" content="Die Hard (1988) on IMDb: New York City Detective John McClane has just arrived in Los Angeles to spend Christmas with his wife. Unfortunatly, it is not going to be a Merry Chr" />
+        <meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
+        <meta name="request_id" content="1B92NE0W07R82T9HW5PC" />
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
-<!-- h=ics-1d-i-5ba7b722.us-east-1 -->
+<!-- h=ics-1e-i-193bff60.us-east-1 -->
 
-            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-3745012491._V353727349_.css" />
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-2125033518._V363851123_.css" />
             <!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/ie-1918465287._V354866480_.css" /><![endif]-->
             <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-3538633082._V355276482_.css" />
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
@@ -169,17 +170,20 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
     <ul id="consumer_main_nav" class="main_nav">
         <li class="spacer"></li>
         <li class="css_nav_item" id="navTitleMenu">
-            <p class="navCategory">Movies, TV<br />& Showtimes</p>
+            <p class="navCategory">
+                <a href="/movies-in-theaters/?ref_=nv_tp_inth_1" >Movies</a>,
+                <a href="/tv/?ref_=nv_tp_tvhm_2" >TV</a><br />
+                & <a href="/showtimes/?ref_=nv_tp_sh_3" >Showtimes</a></p>
             <span class="downArrow"></span>
             <div id="navMenu1" class="sub_nav">
                 <div id="titleAd"></div>
                 <div class="subNavListContainer">
                     <h5>MOVIES</h5>
                     <ul>
-                        <li><a href="/showtimes/?ref_=nv_mv_sh_1" >Showtimes & Tickets</a></li>
-                        <li><a href="/trailers/?ref_=nv_mv_tr_2" >Latest Trailers</a></li>
-                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_3" >Coming Soon</a></li>
-                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_4" >In Theaters</a></li>
+                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_1" >In Theaters</a></li>
+                        <li><a href="/showtimes/?ref_=nv_mv_sh_2" >Showtimes & Tickets</a></li>
+                        <li><a href="/trailers/?ref_=nv_mv_tr_3" >Latest Trailers</a></li>
+                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_4" >Coming Soon</a></li>
                         <li><a href="/calendar/?ref_=nv_mv_cal_5" >Release Calendar</a></li>
                     </ul>
                     <h5>CHARTS & TRENDS</h5>
@@ -202,24 +206,26 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
                     </ul>
                     <h5>SPECIAL FEATURES</h5>
                     <ul>
-                        <li><a href="/emmys/?ref_=nv_sf_rte_1" >Road to the Emmys</a></li>
-                        <li><a href="/falltv/?ref_=nv_sf_ftp_2" >Fall TV Preview</a></li>
-                        <li><a href="/comic-con/?ref_=nv_sf_comic_3" >Comic-Con</a></li>
-                        <li><a href="/x-ray/?ref_=nv_sf_xray_4" >X-Ray for Movies & TV</a></li>
+                        <li><a href="/year-in-review/?ref_=nv_sf_best_1" >Best of 2013</a></li>
+                        <li><a href="/oscars/?ref_=nv_sf_rto_2" >Road to the Oscars 2014</a></li>
+                        <li><a href="/x-ray/?ref_=nv_sf_xray_3" >X-Ray for Movies & TV</a></li>
                     </ul>
                 </div>
             </div>
         </li>
         <li class="spacer"></li>
         <li class="css_nav_item" id="navNameMenu">
-            <p class="navCategory">Celebs, Events<br />& Photos</p>
+            <p class="navCategory">
+                <a href="/search/name?gender=male,female&ref_=nv_tp_cel_1" >Celebs</a>,
+                <a href="/event/?ref_=nv_tp_ev_2" >Events</a><br />
+                & <a href="/media/index/rg1176148480?ref_=nv_tp_ph_3" >Photos</a></p>
             <span class="downArrow"></span>
             <div id="navMenu2" class="sub_nav">
                 <div id="nameAd"></div>
                 <div class="subNavListContainer">
                     <h5>CELEBS</h5>
                     <ul>
-                        <li><a href="/search/name?birth_monthday=10-28&refine=birth_monthday&ref_=nv_cel_brn_1" >Born Today</a></li>
+                            <li><a href="/search/name?birth_monthday=01-31&refine=birth_monthday&ref_=nv_cel_brn_1" >Born Today</a></li>
                         <li><a href="/news/celebrity?ref_=nv_cel_nw_2" >Celebrity News</a></li>
                         <li><a href="/search/name?gender=male,female&ref_=nv_cel_m_3" >Most Popular Celebs</a></li>
                     </ul>
@@ -235,11 +241,11 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
                 <div class="subNavListContainer">
                     <h5>EVENTS</h5>
                     <ul>
-                        <li><a href="/emmys/?ref_=nv_ev_rte_1" >Road to the Emmys</a></li>
-                        <li><a href="/comic-con/?ref_=nv_ev_comic_2" >Comic-Con</a></li>
-                        <li><a href="/cannes/?ref_=nv_ev_can_3" >Cannes</a></li>
-                        <li><a href="/tribeca/?ref_=nv_ev_tri_4" >Tribeca</a></li>
-                        <li><a href="/oscars/?ref_=nv_ev_rto_5" >Road to the Oscars</a></li>
+                        <li><a href="/oscars/?ref_=nv_ev_rto_1" >Road to the Oscars</a></li>
+                        <li><a href="/emmys/?ref_=nv_ev_rte_2" >Road to the Emmys</a></li>
+                        <li><a href="/comic-con/?ref_=nv_ev_comic_3" >Comic-Con</a></li>
+                        <li><a href="/cannes/?ref_=nv_ev_can_4" >Cannes</a></li>
+                        <li><a href="/tribeca/?ref_=nv_ev_tri_5" >Tribeca</a></li>
                         <li><a href="/sundance/?ref_=nv_ev_sun_6" >Sundance</a></li>
                         <li><a href="/event/?ref_=nv_ev_all_7" >More Popular Events</a></li>
                     </ul>
@@ -248,7 +254,9 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
         </li>
         <li class="spacer"></li>
         <li class="css_nav_item" id="navNewsMenu">
-            <p class="navCategory">News &<br />Community</p>
+            <p class="navCategory">
+                <a href="/news/top?ref_=nv_tp_nw_1" >News</a> &<br />
+                <a href="/boards/?ref_=nv_tp_bd_2" >Community</a></p>
             <span class="downArrow"></span>
             <div id="navMenu3" class="sub_nav">
                 <div id="latestHeadlines">
@@ -256,17 +264,17 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
                         <h5>LATEST HEADLINES</h5>
     <ul>
                 <li itemprop="headline">
-<a href="/news/ni56355151/?ref_=nv_nw_tn_1" > Lou Reed, ‘Walk on the Wild Side’ Singer, Dead at 71
+<a href="/news/ni56738656/?ref_=nv_nw_tn_1" > 'Neighbors' with Seth Rogen, 'Space Station 76,' more join SXSW features lineup
 </a><br />
                         <span class="time">14 hours ago</span>
                 </li>
                 <li itemprop="headline">
-<a href="/news/ni56354884/?ref_=nv_nw_tn_2" > Box office report: 'Bad Grandpa' spoofs its way to $32 million debut
+<a href="/news/ni56738234/?ref_=nv_nw_tn_2" > Oscars: Michael B. Jordan, Kristen Bell to Host Sci-Tech Awards
 </a><br />
-                        <span class="time">16 hours ago</span>
+                        <span class="time">15 hours ago</span>
                 </li>
                 <li itemprop="headline">
-<a href="/news/ni56354920/?ref_=nv_nw_tn_3" > Chris Brown Arrested and Jailed for Felony Assault in Washington, D.C.
+<a href="/news/ni56737830/?ref_=nv_nw_tn_3" > Jerry Seinfeld Sorta Confirms Seinfeld Reunion, Gives Details on Secret Project With Jason Alexander
 </a><br />
                         <span class="time">16 hours ago</span>
                 </li>
@@ -300,7 +308,7 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
 <span class="downArrow"></span>
 <div id="navMenu4" class="sub_nav">
     <h5>
-        RECENTLY ADDED
+            YOUR WATCHLIST
     </h5> 
     <ul id="navWatchlist">
     </ul>
@@ -316,7 +324,7 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
                 src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot2_popular-4090757197._V360060945_.jpg"
                 },
                 {
-                    href : "/search/title?count=100&groups=top_250&sort=user_rating,desc&title_type=feature",
+                    href : "/chart/top",
                 src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot3_top250-575799966._V360061165_.jpg"
                 }
     ];
@@ -488,6 +496,7 @@ John McClane, a detective with the New York City Police Department, arrives in L
   </div> 
 
 
+
     <div class="article" id="see_also">
         <h2>See also</h2>
         <p>
@@ -544,9 +553,11 @@ John McClane, a detective with the New York City Police Department, arrives in L
 	<!-- no content received for slot: top_rhs -->
 	
             
+    
+    
     <div class="aux-content-widget-3 links subnav" div="quicklinks">
 
-<a href="/title/tt0095016/?ref_=ttpl_ql" class="subnav_heading" >Die Hard</a>            <hr/>
+<a href="/title/tt0095016/?ref_=ttpl_ql" class="subnav_heading" >Die Hard</a>                <hr/>
 
 
         <h4>Storyline</h4>
@@ -668,7 +679,7 @@ John McClane, a detective with the New York City Police Department, arrives in L
         <h4>TV</h4>
     <ul class="quicklinks">
                 <li class="subnav_item_main">
-<a href="/title/tt0095016/tvschedule?ref_=ttpl_ql_tv_1" class="link ghost" >TV Schedule</a>
+<a href="/title/tt0095016/tvschedule?ref_=ttpl_ql_tv_1" class="link" >TV Schedule</a>
                 </li>
     </ul>
 
@@ -707,7 +718,7 @@ John McClane, a detective with the New York City Police Department, arrives in L
       <div class="social_networking"> 
        <span><strong>Share</strong> this page:</span>
   <a onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F', 'newWindow', 'width=626, height=436'); return false;" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
-  <a onclick="window.open('http://twitter.com/home?status=Die%20Hard%20(1988)%20-%20Plot%20Summary%20-%20http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F', 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/home?status=Die%20Hard%20(1988)%20-%20Plot%20Summary%20-%20http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
+  <a onclick="window.open('http://twitter.com/intent/tweet?text=Die%20Hard%20(1988)%20-%20Plot%20Summary%20-%20http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F', 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/intent/tweet?text=Die%20Hard%20(1988)%20-%20Plot%20Summary%20-%20http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
   <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/title/tt0095016/"></a>
       </div>
       <input type="text" name="share-link" value="http://www.imdb.com/title/tt0095016/" readonly>
@@ -729,113 +740,108 @@ John McClane, a detective with the New York City Police Department, arrives in L
         <div class="aux-content-widget-2">
             <div id="relatedListsWidget">
                 <div class="rightcornerlink">
-                    <a href="/list/create?ref_=ttps_rls" >Create a list</a>&nbsp;&raquo;
+                    <a href="/list/create?ref_=ttpl_rls" >Create a list</a>&nbsp;&raquo;
                 </div>
                 <h3>User Lists</h3>
                 <p>Related lists from IMDb users</p>
                 
                     <div class="list-preview even">
                         <div class="list-preview-item-narrow">
-<a href="/list/lLyTuFg57nc/?ref_=ttps_rls_1" >
+<a href="/list/94AxxdmHt3k/?ref_=ttpl_rls_1" >
 <img height="86" width="86" alt="list image" title="list image"
 src="/images/nopicture/medium/film.png"
-class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTAyMjI4NTEzNTNeQTJeQWpwZ15BbWU3MDY3NjIxMjE@._V1_SX86_CR0,0,86,86_.jpg" />
+class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjE0Mjc3ODAwNV5BMl5BanBnXkFtZTgwMDM3ODI1MDE@._V1_SX86_CR0,0,86,86_.jpg" />
 <noscript>
 <img height="86" width="86" alt="list image" title="list image"
-src="http://ia.media-imdb.com/images/M/MV5BMTAyMjI4NTEzNTNeQTJeQWpwZ15BbWU3MDY3NjIxMjE@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
+src="http://ia.media-imdb.com/images/M/MV5BMjE0Mjc3ODAwNV5BMl5BanBnXkFtZTgwMDM3ODI1MDE@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
 </noscript>
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/lLyTuFg57nc/?ref_=ttps_rls_1" >Let me out, let me out!</a></b>
+                            <b><a href="/list/94AxxdmHt3k/?ref_=ttpl_rls_1" >Great Movie Quotes from the 1980s</a></b>
                         </div>
                         <div class="list_meta">
-                            a list of 47 titles 
-                             created 8&nbsp;months&nbsp;ago
+                            a list of 44 titles 
+                             created 16&nbsp;Oct&nbsp;2010
                         </div>
                         <div class="clear">&nbsp;</div>
                     </div>
                     <div class="list-preview odd">
                         <div class="list-preview-item-narrow">
-<a href="/list/fKj6jQVzA9w/?ref_=ttps_rls_2" >
+<a href="/list/yJU7d0IpOjQ/?ref_=ttpl_rls_2" >
 <img height="86" width="86" alt="list image" title="list image"
-src="/images/nopicture/medium/film.png"
-class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjA4Njg1MDcwN15BMl5BanBnXkFtZTYwMzAxNjM3._V1_SX86_CR0,0,86,86_.jpg" />
-<noscript>
-<img height="86" width="86" alt="list image" title="list image"
-src="http://ia.media-imdb.com/images/M/MV5BMjA4Njg1MDcwN15BMl5BanBnXkFtZTYwMzAxNjM3._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
-</noscript>
+src="/images/nopicture/medium/film.png" class="rec_poster_img" />
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/fKj6jQVzA9w/?ref_=ttps_rls_2" >A Very Naughty Christmas List</a></b>
+                            <b><a href="/list/yJU7d0IpOjQ/?ref_=ttpl_rls_2" >The League of Extremely Frightening Men</a></b>
                         </div>
                         <div class="list_meta">
-                            a list of 22 titles 
-                             created 15&nbsp;Dec&nbsp;2011
+                            a list of 31 images 
+                             created 10&nbsp;Nov&nbsp;2012
                         </div>
                         <div class="clear">&nbsp;</div>
                     </div>
                     <div class="list-preview even">
                         <div class="list-preview-item-narrow">
-<a href="/list/kLhN5Emc8ZI/?ref_=ttps_rls_3" >
+<a href="/list/yuanCaiOWiE/?ref_=ttpl_rls_3" >
 <img height="86" width="86" alt="list image" title="list image"
 src="/images/nopicture/medium/film.png"
-class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_SX86_CR0,0,86,86_.jpg" />
+class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@._V1_SX86_CR0,0,86,86_.jpg" />
 <noscript>
 <img height="86" width="86" alt="list image" title="list image"
-src="http://ia.media-imdb.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
+src="http://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
 </noscript>
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/kLhN5Emc8ZI/?ref_=ttps_rls_3" >Movies</a></b>
+                            <b><a href="/list/yuanCaiOWiE/?ref_=ttpl_rls_3" >Movies I've watched</a></b>
                         </div>
                         <div class="list_meta">
-                            a list of 28 titles 
-                             created 17&nbsp;Feb&nbsp;2012
+                            a list of 383 titles 
+                             created 11&nbsp;months&nbsp;ago
                         </div>
                         <div class="clear">&nbsp;</div>
                     </div>
                     <div class="list-preview odd">
                         <div class="list-preview-item-narrow">
-<a href="/list/Vp4UZ6Puu1I/?ref_=ttps_rls_4" >
+<a href="/list/A_1NRcSpi4c/?ref_=ttpl_rls_4" >
 <img height="86" width="86" alt="list image" title="list image"
 src="/images/nopicture/medium/film.png"
-class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX86_CR0,0,86,86_.jpg" />
+class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQxMTAwMDQ3Nl5BMl5BanBnXkFtZTcwODMwNTgzMQ@@._V1_SX86_CR0,0,86,86_.jpg" />
 <noscript>
 <img height="86" width="86" alt="list image" title="list image"
-src="http://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
+src="http://ia.media-imdb.com/images/M/MV5BMTQxMTAwMDQ3Nl5BMl5BanBnXkFtZTcwODMwNTgzMQ@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
 </noscript>
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/Vp4UZ6Puu1I/?ref_=ttps_rls_4" >Best action movies</a></b>
+                            <b><a href="/list/A_1NRcSpi4c/?ref_=ttpl_rls_4" >Top 50 movies</a></b>
                         </div>
                         <div class="list_meta">
-                            a list of 25 titles 
-                             created 29&nbsp;Nov&nbsp;2011
+                            a list of 38 titles 
+                             created 11&nbsp;months&nbsp;ago
                         </div>
                         <div class="clear">&nbsp;</div>
                     </div>
                     <div class="list-preview even">
                         <div class="list-preview-item-narrow">
-<a href="/list/-CiFX2KaJO4/?ref_=ttps_rls_5" >
+<a href="/list/gkFvKWNuLZQ/?ref_=ttpl_rls_5" >
 <img height="86" width="86" alt="list image" title="list image"
 src="/images/nopicture/medium/film.png"
-class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTM4NjY1MDQwMl5BMl5BanBnXkFtZTcwNTI3Njg3NA@@._V1_SX86_CR0,0,86,86_.jpg" />
+class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ3MDA4MDIyN15BMl5BanBnXkFtZTYwOTg0Njk4._V1_SX86_CR0,0,86,86_.jpg" />
 <noscript>
 <img height="86" width="86" alt="list image" title="list image"
-src="http://ia.media-imdb.com/images/M/MV5BMTM4NjY1MDQwMl5BMl5BanBnXkFtZTcwNTI3Njg3NA@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
+src="http://ia.media-imdb.com/images/M/MV5BMTQ3MDA4MDIyN15BMl5BanBnXkFtZTYwOTg0Njk4._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
 </noscript>
 </a>                        </div>
                         <div class="list_name">
-                            <b><a href="/list/-CiFX2KaJO4/?ref_=ttps_rls_5" >Movies to Buy</a></b>
+                            <b><a href="/list/gkFvKWNuLZQ/?ref_=ttpl_rls_5" >Top Action Flicks</a></b>
                         </div>
                         <div class="list_meta">
-                            a list of 127 titles 
-                             created 26&nbsp;Sep&nbsp;2012
+                            a list of 37 titles 
+                             created 3&nbsp;months&nbsp;ago
                         </div>
                         <div class="clear">&nbsp;</div>
                     </div>
                 <div class="see-more">
-                    <a href="/lists/tt0095016?ref_=ttps_rls_sm" >See all related lists</a>&nbsp;&raquo;
+                    <a href="/lists/tt0095016?ref_=ttpl_rls_sm" >See all related lists</a>&nbsp;&raquo;
                 </div>
             </div>
         </div>
@@ -886,10 +892,6 @@ onclick="(new Image()).src='/rg/topmovies/footer/images/b.gif?link=/chart/';"
 href="/chart/"
 >Top Movies</a>
         | <a
-onclick="(new Image()).src='/rg/watchlist/footer/images/b.gif?link=/list/watchlist';"
-href="/list/watchlist"
->Watchlist</a>
-        | <a
 onclick="(new Image()).src='/rg/top250/footer/images/b.gif?link=/chart/top';"
 href="/chart/top"
 >Top 250</a>
@@ -901,10 +903,6 @@ href="/sections/tv/"
 onclick="(new Image()).src='/rg/news/footer/images/b.gif?link=/news/';"
 href="/news/"
 >News</a>
-        | <a
-onclick="(new Image()).src='/rg/video/footer/images/b.gif?link=/features/video/';"
-href="/features/video/"
->Video</a>
         | <a
 onclick="(new Image()).src='/rg/messageboards/footer/images/b.gif?link=/boards/';"
 href="/boards/"
@@ -919,16 +917,6 @@ href="/pressroom/"
 onclick="(new Image()).src='/rg/register-v2/footer/images/b.gif?link=https://secure.imdb.com/register-imdb/form-v2';"
 href="https://secure.imdb.com/register-imdb/form-v2"
 >Register</a>
-        | <a
-onclick="(new Image()).src='/rg/rss/footer/images/b.gif?link=/help/show_article?rssavailable';"
-href="/help/show_article?rssavailable"
-class="navbarSprite"
-id="footer_rss_image"
-></a>
-          <a
-onclick="(new Image()).src='/rg/rss/footer/images/b.gif?link=/help/show_article?rssavailable';"
-href="/help/show_article?rssavailable"
->RSS</a>
         | <a
 onclick="(new Image()).src='/rg/advertising/footer/images/b.gif?link=/advertising/';"
 href="/advertising/"
@@ -953,10 +941,6 @@ href="http://www.boxofficemojo.com/"
 onclick="(new Image()).src='/rg/WITHOUTABOX/FOOTER/images/b.gif?link=http://www.withoutabox.com/';"
 href="http://www.withoutabox.com/"
 >Withoutabox</a>
-        | <a
-onclick="(new Image()).src='/rg/LOVEFILM/FOOTER/images/b.gif?link=http://www.lovefilm.com/browse/film/watch-online/';"
-href="http://www.lovefilm.com/browse/film/watch-online/"
->LOVEFiLM</a>
         <br /><br />
         IMDb Mobile:
           <a
@@ -991,7 +975,7 @@ href="http://twitter.com/imdb"
         <a
 onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/show_article?conditions';"
 href="/help/show_article?conditions"
->Copyright &copy;</a> 1990-2013 
+>Copyright &copy;</a> 1990-2014 
         <a
 onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/';"
 href="/help/"
@@ -1011,9 +995,9 @@ href="//www.amazon.com/InterestBasedAds"
         An <span id="amazon_logo" class="footer_logo" align="middle"></span> company.
     </p>
   
-  <table class="footer" id="amazon-affiliates" width="100%">
+  <table class="footer" id="amazon-affiliates">
     <tr>
-      <td colspan="10">
+      <td colspan="8">
         Amazon Affiliates
       </td>
     </tr>
@@ -1055,18 +1039,6 @@ href="//www.amazon.com/InterestBasedAds"
         </a>
     </td>
     <td class="amazon-affiliate-site-item-nth">
-        <a class="amazon-affiliate-site-link" href=http://www.lovefilm.com/browse/film/watch-online/ >
-          <span class="amazon-affiliate-site-name">LOVEFiLM</span><br>
-          <span class="amazon-affiliate-site-desc">Watch Movies<br>Online</span>
-        </a>
-    </td>
-    <td class="amazon-affiliate-site-item-nth">
-        <a class="amazon-affiliate-site-link" href=http://www.junglee.com/ >
-          <span class="amazon-affiliate-site-name">Junglee</span><br>
-          <span class="amazon-affiliate-site-desc">India Online<br>Shopping</span>
-        </a>
-    </td>
-    <td class="amazon-affiliate-site-item-nth">
         <a class="amazon-affiliate-site-link" href=http://www.dpreview.com >
           <span class="amazon-affiliate-site-name">DPReview</span><br>
           <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
@@ -1081,31 +1053,13 @@ href="//www.amazon.com/InterestBasedAds"
     </tr>
   </table>
   </div>
-
-    <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        var seg = -1;
-        _gaq.push(['_setAccount', 'UA-3916519-1']);
-        _gaq.push(['_setDomainName', '.imdb.com']); 
-        _gaq.push(['_setSampleRate', '10']); 
-        _gaq.push(['_setCustomVar', 2, 'Falkor', 'false']); 
-        _gaq.push(['_trackPageview']); // must come last
-  
-       (function() {
-           var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-           ga.src = 'http://www.google-analytics.com/ga.js';
-           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-       })();
-
-    </script>
 	
 	<!-- no content received for slot: bottom_ad -->
 	
             </div>
         </div>
 
-<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/title-2198698218._V354100628_.js"></script>
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/title-36935490._V363304090_.js"></script>
 
 <script type="text/imdblogin-js" id="login">
 jQuery(document).ready(function(){
@@ -1128,7 +1082,7 @@ jQuery(document).ready(function(){
                 );
         </script>
 
-<div id="servertime" time="86"/>
+<div id="servertime" time="162"/>
 
 
 

@@ -1,13 +1,13 @@
 HTTP/1.1 200 OK
-Date: Thu, 30 Jan 2014 17:52:48 GMT
+Date: Fri, 31 Jan 2014 10:08:25 GMT
 Server: Server
 X-Frame-Options: SAMEORIGIN
 Content-Type: text/html;charset=UTF-8
 Content-Language: en-US
 Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYlUV6Kf71a5_lS6qc5NINJyk3RmIkwyJSFjo5yxPlnAoPRYz9ofChefNG-37m3u8qHg3LWIvaj%0D%0ACITQKyfRLqRD8r3YkNMxltIX3nMsBtPygIM3Dk5pKXxH76wKLGecUpiUQyh0inChvpodcdQ_5J-g%0D%0AuphJArYD5ITRVQL2cGcptwUBtnYQld1YOhIEZAH8xGd4805Bf578jFQSpEC1LJJQGK4Cj1i90euR%0D%0A5wltyL_0au0kFW5ZSsgw1A6e79eAGZKRf6ssX8cJsWQwweH5OX6YEA%0D%0A; Domain=.imdb.com; Expires=Tue, 17-Feb-2082 21:06:55 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Tue, 17-Feb-2082 21:06:55 GMT; Path=/
-Set-Cookie: session-id-time=1548784368; Domain=.imdb.com; Expires=Tue, 17-Feb-2082 21:06:55 GMT; Path=/
+Set-Cookie: uu=BCYmHGVTc5180EWsmabwZe1-0g9-aUqE-ebLO6_0BXGtDHZyzyrzHNoAkPkdzi9f6INngRKhFewS%0D%0AIuJLBc9xppazAUhwXC7-n8F8JosDzaOueMQxOjUCDqd3qx_GUk1xGCm7oo3W0hPdzBnxqRQk74Fb%0D%0ANmil287rYz1NDP3TpCNFtG6UwhgkEB2ELmD_bKtgEVpdvEtkEzFdJvLuauC5wcnu2xqB0J5a7ZHJ%0D%0Afv_E6h589kiw4IN9E_5Du345wXQZzUUwswlFxDq1eDWiLWPBAjl5rQ%0D%0A; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:32 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:32 GMT; Path=/
+Set-Cookie: session-id-time=1548842905; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:32 GMT; Path=/
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
 
@@ -22,68 +22,68 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     <head>
             <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
             <script type="text/javascript">
-                var ue_mid = "A1EVAM02EL8SFB";
-                var ue_sn = "www.imdb.com";
+                var ue_mid = "A1EVAM02EL8SFB"; 
+                var ue_sn = "www.imdb.com";  
                 var ue_furl = "fls-na.amazon.com";
                 var ue_sid = "000-0000000-0000000";
-                var ue_id = "1TTEG1HE2E0EA8NV2D63";
+                var ue_id = "0KP2X86X3KRXQGDDEY3K";
                 (function(e){var c=e,a={main_scope:"mainscopecsm",q:[],t0:c.ue_t0||+new Date(),d:g};function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(k,j,h){var i={m:k,f:j,l:h,fromOnError:1,args:arguments};c.ueLogError(i);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-ef584a44e8ea58e3d4d928956600a9b6._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){b()}a.uels=c;e.ue=a})(window,document);
             </script>
+ 
 
-
-
+        
         <script type="text/javascript">var IMDbTimer={starttime: new Date().getTime(),pt:'java'};</script>
-
+        
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
         <title>Find - IMDb</title>
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
-
+        
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
             <link rel="canonical" href="http://www.imdb.com/find" />
             <meta property="og:url" content="http://www.imdb.com/find" />
-
+        
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
         <link rel="icon" type="image/ico" href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._V379387995_.ico" />
         <link rel="shortcut icon" type="image/x-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._V379390718_.ico" />
         <link rel="apple-touch-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/apple-touch-icon-3173846443._V379391250_.png" />
         <link rel="search" type="application/opensearchdescription+xml" href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._V379388505_.xml" title="IMDb" />
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
-
-
+        
+    
         <link rel='image_src' href="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V379391653_.png">
         <meta property='og:image' content="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V379391653_.png" />
-
+    
     <meta property='fb:app_id' content='115109575169727' />
     <meta property='og:title' content="" />
     <meta property='og:site_name' content='IMDb' />
     <meta name="title" content="IMDb" />
         <meta name="description" content="" />
         <meta property="og:description" content="" />
-        <meta name="request_id" content="1TTEG1HE2E0EA8NV2D63" />
-
+        <meta name="request_id" content="0KP2X86X3KRXQGDDEY3K" />
+        
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
 <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/consumersite-1747819599._V363851122_.css" />
-<!-- h=ics-1e-i-cfbff3be.us-east-1 -->
+<!-- h=ics-1a-i-584b9e79.us-east-1 -->
 <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-3538633082._V355276482_.css" />
 <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/app/consumersite/find-2392946780._V379391851_.css" />
 <!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/ie-1918465287._V354866480_.css" /><![endif]-->
 
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
-
+        
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
-
+        
         <script  type="text/javascript">
-            // ensures js doesn't die if ads service fails.
+            // ensures js doesn't die if ads service fails.  
             // Note that we need to define the js here, since ad js is being rendered inline after this.
             (function(f) {
-                // Fallback javascript, when the ad Service call fails.
-
+                // Fallback javascript, when the ad Service call fails.  
+                
                 if((window.csm === undefined || window.generic === undefined || window.consoleLog === undefined)) {
                     if (console !== undefined && console.log !== undefined) {
                         console.log("one or more of window.csm, window.generic or window.consoleLog has been stubbed...");
                     }
                 }
-
+                
                 window.csm = window.csm || { measure:f, record:f, duration:f, listen:f, metrics:{} };
                 window.generic = window.generic || { monitoring: { start_timing: f, stop_timing: f } };
                 window.consoleLog = window.consoleLog || f;
@@ -114,9 +114,9 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
     }
 </script>
 <div id="nb20" class="navbarSprite">
-<div id="supertab">
+<div id="supertab">	
 	<!-- no content received for slot: top_ad -->
-
+	
 </div>
   <div id="navbar" class="navbarSprite">
 <noscript>
@@ -218,7 +218,7 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
                 <div class="subNavListContainer">
                     <h5>CELEBS</h5>
                     <ul>
-                            <li><a href="/search/name?birth_monthday=01-30&refine=birth_monthday&ref_=nv_cel_brn_1" >Born Today</a></li>
+                            <li><a href="/search/name?birth_monthday=01-31&refine=birth_monthday&ref_=nv_cel_brn_1" >Born Today</a></li>
                         <li><a href="/news/celebrity?ref_=nv_cel_nw_2" >Celebrity News</a></li>
                         <li><a href="/search/name?gender=male,female&ref_=nv_cel_m_3" >Most Popular Celebs</a></li>
                     </ul>
@@ -257,19 +257,19 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
                         <h5>LATEST HEADLINES</h5>
     <ul>
                 <li itemprop="headline">
-<a href="/news/ni56734104/?ref_=nv_nw_tn_1" > Oscars kill Original Song nomination for 'Alone Yet Not Alone' -- Breaking
+<a href="/news/ni56738656/?ref_=nv_nw_tn_1" > 'Neighbors' with Seth Rogen, 'Space Station 76,' more join SXSW features lineup
 </a><br />
-                        <span class="time">18 hours ago</span>
+                        <span class="time">14 hours ago</span>
                 </li>
                 <li itemprop="headline">
-<a href="/news/ni56733736/?ref_=nv_nw_tn_2" > 'Entourage' movie: Billy Bob Thornton in talks to play billionaire cowboy
+<a href="/news/ni56738234/?ref_=nv_nw_tn_2" > Oscars: Michael B. Jordan, Kristen Bell to Host Sci-Tech Awards
 </a><br />
-                        <span class="time">19 hours ago</span>
+                        <span class="time">15 hours ago</span>
                 </li>
                 <li itemprop="headline">
-<a href="/news/ni56737803/?ref_=nv_nw_tn_3" > Comcast, NBCU To Let Sponsors Use Subscriber Data To Tailor Ad Pitches
+<a href="/news/ni56737830/?ref_=nv_nw_tn_3" > Jerry Seinfeld Sorta Confirms Seinfeld Reunion, Gives Details on Secret Project With Jason Alexander
 </a><br />
-                        <span class="time">12 minutes ago</span>
+                        <span class="time">16 hours ago</span>
                 </li>
     </ul>
                     </div>
@@ -302,7 +302,7 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
 <div id="navMenu4" class="sub_nav">
     <h5>
             YOUR WATCHLIST
-    </h5>
+    </h5> 
     <ul id="navWatchlist">
     </ul>
     <script>
@@ -384,7 +384,7 @@ imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu
 <div id="nb_personal">
     <ul id="consumer_user_nav" class="main_nav">
         <li class="css_nav_menu" id="navUserMenu">
-            <p class="navCategory singleLine">
+            <p class="navCategory singleLine">        
                 <a rel="login" href="/register/login?ref_=nv_usr_lgin_1" id="nblogin" >Login</a>
             </p>
             <span class="downArrow"></span>
@@ -406,21 +406,21 @@ imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu
 </div>
   </div>
 </div>
-
+	
 	<!-- no content received for slot: navstrip -->
-
-
+	
+	
 	<!-- no content received for slot: injected_navstrip -->
-
+	
 <script>
     if (typeof uet == 'function') {
       uet("ne");
     }
 </script>
                     <div id="pagecontent">
-
+	
 	<!-- no content received for slot: injected_billboard -->
-
+	
 <div id="content-2-wide">
     <div id="main">
         <div class="article">
@@ -428,12 +428,12 @@ imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu
 
 
         <div id="findSubHeader"><span id="findSubHeaderLabel">Jump to:</span>
-              <a href="#tt">Titles</a>
+              <a href="#tt">Titles</a> 
               <span class="ghost">|</span>
-              <a href="#nm">Names</a>
+              <a href="#nm">Names</a> 
               <span class="ghost">|</span>
-              <a href="#co">Companies</a>
-
+              <a href="#co">Companies</a> 
+              
         </div>
 
 <div class="findSection">
@@ -466,9 +466,9 @@ imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu
     </div>
 
     <div id="sidebar">
-
+	
 	<!-- no content received for slot: top_rhs -->
-
+	
 
 <div class="aux-content-widget-3">
 <h3>Category Search</h3>
@@ -493,9 +493,9 @@ imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu
 <li><a href="/search/text?realm=title&amp;field=quotes&amp;q=Wall-E&ref_=fn_qu" >Quotes</a></li>
 </ul>
 </div>
-
+	
 	<!-- no content received for slot: rhs_cornerstone -->
-
+	
 <div class="aux-content-widget-3">
     <h3>Additional Search Options</h3>
     <ul class="findSearchOptionsList">
@@ -509,9 +509,9 @@ imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu
 </div>
 </div>
 
-
+	
 	<!-- no content received for slot: bottom_rhs -->
-
+	
     </div>
 </div>
                    <br class="clear" />
@@ -629,12 +629,12 @@ href="http://twitter.com/imdb"
 >Twitter</a>
        <br /><br />
     </p>
-
+  
     <p class="footer" align="center">
         <a
 onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/show_article?conditions';"
 href="/help/show_article?conditions"
->Copyright &copy;</a> 1990-2014
+>Copyright &copy;</a> 1990-2014 
         <a
 onclick="(new Image()).src='/rg/help/footer/images/b.gif?link=/help/';"
 href="/help/"
@@ -653,7 +653,7 @@ href="//www.amazon.com/InterestBasedAds"
         <br>
         An <span id="amazon_logo" class="footer_logo" align="middle"></span> company.
     </p>
-
+  
   <table class="footer" id="amazon-affiliates">
     <tr>
       <td colspan="8">
@@ -712,9 +712,9 @@ href="//www.amazon.com/InterestBasedAds"
     </tr>
   </table>
   </div>
-
+	
 	<!-- no content received for slot: bottom_ad -->
-
+	
             </div>
         </div>
 <script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/jquery-4133058748._V354516613_.js"></script>
@@ -728,7 +728,7 @@ jQuery(document).ready(function(){
 </script>
 
 
-<div id="servertime" time="221"/>
+<div id="servertime" time="651"/>
 
 
 
