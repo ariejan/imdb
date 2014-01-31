@@ -149,6 +149,16 @@ module Imdb
       locations_document.search("#filming_locations_content .soda dt a").map { |link| link.content.strip } rescue []
     end
 
+    # Returns alternative titles from imdb_url/releaseinfo
+    def also_known_as
+      akas_document.search("#akas tr").map { |aka|
+        {
+          :version => aka.search("td:nth-child(1)").text,
+          :title   => aka.search("td:nth-child(2)").text
+        }
+      } rescue []
+    end
+
     private
 
     # Returns a new Nokogiri document for parsing.
@@ -158,6 +168,10 @@ module Imdb
 
     def locations_document
       @locations_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "locations"))
+    end
+
+    def akas_document
+      @akas_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "releaseinfo"))
     end
 
     # Use HTTParty to fetch the raw HTML for this movie.

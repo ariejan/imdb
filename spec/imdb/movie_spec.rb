@@ -177,7 +177,13 @@ describe "Imdb::Movie" do
       filming_locations.should be_an(Array)
       filming_locations.size.should eql(4)
       filming_locations[0].should match(/.*, USA$/i)
+    end
 
+    it "should find multiple 'also known as' versions" do
+      also_known_as = @movie.also_known_as
+      also_known_as.should be_an(Array)
+      also_known_as.size.should eql(37)
+      also_known_as[11].should == {:version => "Finland (alternative title)", :title => "Die hard - vain kuolleen ruumiini yli"}
     end
 
     it "should provide a convenience method to search" do
