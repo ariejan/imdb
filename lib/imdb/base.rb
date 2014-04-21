@@ -2,7 +2,7 @@ module Imdb
 
   # Represents something on IMDB.com
   class Base
-    attr_accessor :id, :url, :title, :also_known_as
+    attr_accessor :id, :url, :client, :title, :also_known_as
 
     # Initialize a new IMDB movie object with it's IMDB id (as a String)
     #
@@ -12,10 +12,11 @@ module Imdb
     # will be performed when a new object is created. Only when you use an
     # accessor that needs the remote data, a HTTP request is made (once).
     #
-    def initialize(imdb_id, title = nil)
+    def initialize(imdb_id, title = nil, options = {})
       @id = imdb_id
       @url = "http://akas.imdb.com/title/tt#{imdb_id}/combined"
       @title = title.gsub(/"/, "").strip if title
+      @client = options[:client] || Client.new
     end
 
     # Returns an array with cast members
@@ -85,12 +86,12 @@ module Imdb
 
     # Returns a string containing the plot summary
     def plot_synopsis
-      doc = Nokogiri::HTML(Imdb::Movie.find_by_id(@id, :synopsis))
+      doc = Nokogiri::HTML(Imdb::Movie.find_by_id(@id, :synopsis, client))
       doc.at("div[@id='swiki.2.1']").content.strip rescue nil
     end
 
     def plot_summary
-      doc = Nokogiri::HTML(Imdb::Movie.find_by_id(@id, :plotsummary))
+      doc = Nokogiri::HTML(Imdb::Movie.find_by_id(@id, :plotsummary, client))
       doc.at("p.plotSummary").inner_html.gsub(/<i.*/im, '').strip.imdb_unescape_html rescue nil
     end
 
@@ -163,20 +164,20 @@ module Imdb
 
     # Returns a new Nokogiri document for parsing.
     def document
-      @document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id))
+      @document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, :combined, client))
     end
 
     def locations_document
-      @locations_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "locations"))
+      @locations_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "locations", client))
     end
 
     def releaseinfo_document
-      @releaseinfo_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "releaseinfo"))
+      @releaseinfo_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "releaseinfo", client))
     end
 
     # Use HTTParty to fetch the raw HTML for this movie.
-    def self.find_by_id(imdb_id, page = :combined)
-      open("http://akas.imdb.com/title/tt#{imdb_id}/#{page}")
+    def self.find_by_id(imdb_id, page = :combined, client = Imdb::Client.new)
+      client.get("http://akas.imdb.com/title/tt#{imdb_id}/#{page}")
     end
 
     # Convenience method for search

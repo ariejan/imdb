@@ -1,6 +1,12 @@
 module Imdb
 
   class MovieList
+    attr_accessor :client
+
+    def initialize(options = {})
+      @client = options[:client] || Imdb::Client.new
+    end
+
     def movies
       @movies ||= parse_movies
     end

@@ -5,6 +5,7 @@ require 'open-uri'
 require 'rubygems'
 require 'nokogiri'
 
+require 'imdb/client'
 require 'imdb/base'
 require 'imdb/movie'
 require 'imdb/serie'
