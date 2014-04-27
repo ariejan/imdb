@@ -40,7 +40,7 @@ IMDB currently features the following:
     serie.seasons.size
     #=> 3
 
-    serie.seaon(1).episodes.size
+    serie.season(1).episodes.size
     #=> 6
 
     series.season(1).episode(2).title
