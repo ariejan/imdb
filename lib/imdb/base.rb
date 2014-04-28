@@ -12,10 +12,11 @@ module Imdb
     # will be performed when a new object is created. Only when you use an
     # accessor that needs the remote data, a HTTP request is made (once).
     #
-    def initialize(imdb_id, title = nil, options = {})
+    def initialize(imdb_id, title = nil, year = nil, options = {})
       @id = imdb_id
       @url = "http://akas.imdb.com/title/tt#{imdb_id}/combined"
       @title = title.gsub(/"/, "").strip if title
+      @year = year if year
       @client = options[:client] || Client.new
     end
 
@@ -137,7 +138,7 @@ module Imdb
 
     # Returns an integer containing the year (CCYY) the movie was released in.
     def year
-      document.at("a[@href^='/year/']").content.to_i rescue nil
+      @year ||= document.at("a[@href^='/year/']").content.to_i rescue nil
     end
 
     # Returns release date for the movie.

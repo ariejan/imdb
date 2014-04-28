@@ -20,10 +20,10 @@ module Imdb
       end.map do |element|
         id = element['href'][/\d+/]
 
-        data = element.parent.inner_html.split("<br />")
-        title = (!data[0].nil? && !data[1].nil? && data[0] =~ /img/) ? data[1] : data[0]
-        title = title.imdb_strip_tags.imdb_unescape_html
-        title.gsub!(/\s+\(\d\d\d\d\)$/, '')
+        title = element.text
+
+        full_title = element.parent.text
+        year = full_title.match(/\((\d{4})\)/)[1] || nil
 
         alternative_titles = []
 
@@ -32,7 +32,7 @@ module Imdb
           title = titles.shift.strip.imdb_unescape_html
         end
 
-        [id, title]
+        [id, title, year]
       end.uniq.map do |values|
         Imdb::Movie.new(*values)
       end
