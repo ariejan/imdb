@@ -23,7 +23,8 @@ module Imdb
         title = element.text
 
         full_title = element.parent.text
-        year = full_title.match(/\((\d{4})\)/)[1] || nil
+        year_match = full_title.match(/\((\d{4})\)/)
+        year = year_match.length == 2 ? year_match[1] : nil
 
         alternative_titles = []
 
