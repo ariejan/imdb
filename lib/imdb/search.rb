@@ -11,8 +11,9 @@ module Imdb
     # Imdb::Search is lazy loading, meaning that unless you access the +movies+
     # attribute, no query is made to IMDB.com.
     #
-    def initialize(query)
+    def initialize(query, options = {})
       @query = query
+      super(options)
     end
 
     # Returns an array of Imdb::Movie objects for easy search result yielded.
@@ -23,18 +24,18 @@ module Imdb
 
     private
     def document
-      @document ||= Nokogiri::HTML(Imdb::Search.query(@query))
+      @document ||= Nokogiri::HTML(fetch(@query))
     end
 
-    def self.query(query)
-      open("http://akas.imdb.com/find?q=#{CGI::escape(query)};s=tt")
+    def fetch(query)
+      client.get("http://akas.imdb.com/find?q=#{CGI::escape(query)};s=tt")
     end
 
     def parse_movie
       id    = document.at("head/link[@rel='canonical']")['href'][/\d+/]
       title = document.at("h1").inner_html.split('<span').first.strip.imdb_unescape_html
 
-      [Imdb::Movie.new(id, title)]
+      [Imdb::Movie.new(id, title, client: client)]
     end
 
     # Returns true if the search yielded only one result, an exact match

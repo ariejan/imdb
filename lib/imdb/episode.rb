@@ -2,8 +2,8 @@ module Imdb
   class Episode < Base
     attr_accessor :season, :episode, :episode_title
 
-    def initialize(imdb_id, season, episode, episode_title)
-      super(imdb_id, episode_title)
+    def initialize(imdb_id, season, episode, episode_title, options = {})
+      super(imdb_id, episode_title, options)
       @url = "http://akas.imdb.com/title/tt#{imdb_id}/combined"
       @season = season
       @episode = episode
@@ -17,7 +17,7 @@ module Imdb
     private
 
     def document
-      @document ||= Nokogiri::HTML(open(@url))
+      @document ||= Nokogiri::HTML(client.get(@url))
     end
   end
 end

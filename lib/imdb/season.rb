@@ -1,8 +1,9 @@
 module Imdb
   class Season
-    attr_accessor :id, :url, :season_number, :episodes
+    attr_accessor :id, :url, :client, :season_number, :episodes
 
-    def initialize(url)
+    def initialize(url, options = {})
+      @client = options[:client] || Imdb::Client.new
       @url = url
       @season_number = @url.scan(/episodes\?season=(\d+)/).flatten.first.to_i
       @episodes = []
@@ -32,7 +33,7 @@ module Imdb
     private
 
     def document
-      @document ||= Nokogiri::HTML(open(@url))
+      @document ||= Nokogiri::HTML(client.get(@url))
     end
   end
 end

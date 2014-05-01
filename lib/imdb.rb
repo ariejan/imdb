@@ -1,10 +1,11 @@
 $:.unshift(File.dirname(__FILE__)) unless
   $:.include?(File.dirname(__FILE__)) || $:.include?(File.expand_path(File.dirname(__FILE__)))
 
-require 'open-uri'
+require 'net/http'
 require 'rubygems'
 require 'nokogiri'
 
+require 'imdb/client'
 require 'imdb/base'
 require 'imdb/movie'
 require 'imdb/serie'

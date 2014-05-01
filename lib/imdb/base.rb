@@ -2,7 +2,7 @@ module Imdb
 
   # Represents something on IMDB.com
   class Base
-    attr_accessor :id, :url, :title, :also_known_as
+    attr_accessor :id, :url, :client, :title, :also_known_as
 
     # Initialize a new IMDB movie object with it's IMDB id (as a String)
     #
@@ -12,10 +12,14 @@ module Imdb
     # will be performed when a new object is created. Only when you use an
     # accessor that needs the remote data, a HTTP request is made (once).
     #
-    def initialize(imdb_id, title = nil)
+    def initialize(imdb_id, options = {})
       @id = imdb_id
       @url = "http://akas.imdb.com/title/tt#{imdb_id}/combined"
-      @title = title.gsub(/"/, "").strip if title
+      @title = options[:title].gsub(/"/, "").strip if options[:title]
+      @year = options[:year] if options[:year]
+      @poster = options[:poster] if options.key?(:poster)
+
+      @client = options[:client] || Client.new
     end
 
     # Returns an array with cast members
@@ -85,24 +89,24 @@ module Imdb
 
     # Returns a string containing the plot summary
     def plot_synopsis
-      doc = Nokogiri::HTML(Imdb::Movie.find_by_id(@id, :synopsis))
+      doc = Nokogiri::HTML(Imdb::Movie.find_by_id(@id, :synopsis, client))
       doc.at("div[@id='swiki.2.1']").content.strip rescue nil
     end
 
     def plot_summary
-      doc = Nokogiri::HTML(Imdb::Movie.find_by_id(@id, :plotsummary))
+      doc = Nokogiri::HTML(Imdb::Movie.find_by_id(@id, :plotsummary, client))
       doc.at("p.plotSummary").inner_html.gsub(/<i.*/im, '').strip.imdb_unescape_html rescue nil
     end
 
     # Returns a string containing the URL to the movie poster.
     def poster
-      src = document.at("a[@name='poster'] img")['src'] rescue nil
-      case src
-      when /^(http:.+@@)/
-        $1 + '.jpg'
-      when /^(http:.+?)\.[^\/]+$/
-        $1 + '.jpg'
-      end
+      return @poster if defined?(@poster)
+
+      src = document.at("a[@name='poster'] img")['src']
+      @poster = Base.format_poster_url(src)
+
+      rescue
+      nil
     end
 
     # Returns a float containing the average user rating
@@ -136,7 +140,7 @@ module Imdb
 
     # Returns an integer containing the year (CCYY) the movie was released in.
     def year
-      document.at("a[@href^='/year/']").content.to_i rescue nil
+      @year ||= document.at("a[@href^='/year/']").content.to_i rescue nil
     end
 
     # Returns release date for the movie.
@@ -163,20 +167,20 @@ module Imdb
 
     # Returns a new Nokogiri document for parsing.
     def document
-      @document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id))
+      @document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, :combined, client))
     end
 
     def locations_document
-      @locations_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "locations"))
+      @locations_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "locations", client))
     end
 
     def releaseinfo_document
-      @releaseinfo_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "releaseinfo"))
+      @releaseinfo_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "releaseinfo", client))
     end
 
     # Use HTTParty to fetch the raw HTML for this movie.
-    def self.find_by_id(imdb_id, page = :combined)
-      open("http://akas.imdb.com/title/tt#{imdb_id}/#{page}")
+    def self.find_by_id(imdb_id, page = :combined, client = Imdb::Client.new)
+      client.get("http://akas.imdb.com/title/tt#{imdb_id}/#{page}")
     end
 
     # Convenience method for search
@@ -198,6 +202,15 @@ module Imdb
 
     def sanitize_release_date(the_release_date)
       the_release_date.gsub(/see|more|\u00BB|\u00A0/i, "").strip
+    end
+
+    def self.format_poster_url poster_url
+      case poster_url
+      when /^(http:.+@@)/
+        $1 + '.jpg'
+      when /^(http:.+?)\.[^\/]+$/
+        $1 + '.jpg'
+      end
     end
 
   end # Movie
