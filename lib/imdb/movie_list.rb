@@ -23,8 +23,12 @@ module Imdb
         title = element.text
 
         full_title = element.parent.text
+
         year_match = full_title.match(/\((\d{4})\)/)
-        year = year_match.length == 2 ? year_match[1] : nil
+        year = (year_match && year_match.length == 2) ? year_match[1] : nil
+
+        poster_element = element.parent.parent.css('td.primary_photo a img').first
+        poster = poster_element ? Base.format_poster_url(poster_element.attr(:src)) : nil
 
         alternative_titles = []
 
@@ -33,9 +37,16 @@ module Imdb
           title = titles.shift.strip.imdb_unescape_html
         end
 
-        [id, title, year]
-      end.uniq.map do |values|
-        Imdb::Movie.new(*values)
+        movie_data = {}
+        movie_data[:id] = id
+        movie_data[:title] = title if title
+        movie_data[:year] = year if year
+        movie_data[:poster] = poster if poster
+        movie_data[:client] = client
+
+        movie_data
+      end.uniq.map do |movie_data|
+        Imdb::Movie.new(movie_data[:id], movie_data)
       end
     end
   end # MovieList

@@ -12,11 +12,13 @@ module Imdb
     # will be performed when a new object is created. Only when you use an
     # accessor that needs the remote data, a HTTP request is made (once).
     #
-    def initialize(imdb_id, title = nil, year = nil, options = {})
+    def initialize(imdb_id, options = {})
       @id = imdb_id
       @url = "http://akas.imdb.com/title/tt#{imdb_id}/combined"
-      @title = title.gsub(/"/, "").strip if title
-      @year = year if year
+      @title = options[:title].gsub(/"/, "").strip if options[:title]
+      @year = options[:year] if options[:year]
+      @poster = options[:poster]
+
       @client = options[:client] || Client.new
     end
 
@@ -98,13 +100,13 @@ module Imdb
 
     # Returns a string containing the URL to the movie poster.
     def poster
-      src = document.at("a[@name='poster'] img")['src'] rescue nil
-      case src
-      when /^(http:.+@@)/
-        $1 + '.jpg'
-      when /^(http:.+?)\.[^\/]+$/
-        $1 + '.jpg'
-      end
+      return @poster if @poster
+
+      src = document.at("a[@name='poster'] img")['src']
+      @poster = Base.format_poster_url(src)
+
+      rescue
+      nil
     end
 
     # Returns a float containing the average user rating
@@ -200,6 +202,15 @@ module Imdb
 
     def sanitize_release_date(the_release_date)
       the_release_date.gsub(/see|more|\u00BB|\u00A0/i, "").strip
+    end
+
+    def self.format_poster_url poster_url
+      case poster_url
+      when /^(http:.+@@)/
+        $1 + '.jpg'
+      when /^(http:.+?)\.[^\/]+$/
+        $1 + '.jpg'
+      end
     end
 
   end # Movie
