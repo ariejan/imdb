@@ -12,6 +12,19 @@ module Imdb
     end
 
     private
+
+    def find_poster(element)
+      poster_css = 'td.primary_photo a img'
+
+      poster_element = element.parent.parent.css(poster_css).first
+
+      unless poster_element
+        poster_element = element.parent.parent.parent.css(poster_css).first
+      end
+
+      poster = poster_element ? Base.format_poster_url(poster_element.attr(:src)) : nil
+    end
+
     def parse_movies
       document.search("a[@href^='/title/tt']").reject do |element|
         element.inner_html.imdb_strip_tags.empty? ||
@@ -27,8 +40,7 @@ module Imdb
         year_match = full_title.match(/\((\d{4})\)/)
         year = (year_match && year_match.length == 2) ? year_match[1] : nil
 
-        poster_element = element.parent.parent.css('td.primary_photo a img').first
-        poster = poster_element ? Base.format_poster_url(poster_element.attr(:src)) : nil
+        poster = find_poster(element)
 
         alternative_titles = []
 

@@ -17,7 +17,7 @@ module Imdb
       @url = "http://akas.imdb.com/title/tt#{imdb_id}/combined"
       @title = options[:title].gsub(/"/, "").strip if options[:title]
       @year = options[:year] if options[:year]
-      @poster = options[:poster]
+      @poster = options[:poster] if options.key?(:poster)
 
       @client = options[:client] || Client.new
     end
@@ -100,7 +100,7 @@ module Imdb
 
     # Returns a string containing the URL to the movie poster.
     def poster
-      return @poster if @poster
+      return @poster if defined?(@poster)
 
       src = document.at("a[@name='poster'] img")['src']
       @poster = Base.format_poster_url(src)
