@@ -50,7 +50,17 @@ module Imdb
 
     # Returns the names of Writers
     def writers
-      document.search("h5[text()^='Writers'] ~ div a").map { |link| link.content.strip } rescue []
+      writers_list = Array.new
+      i = 0
+      begin
+        detail_page = Nokogiri::HTML open "http://akas.imdb.com/title/tt#{@id}/fullcredits#writers"
+        rescue
+      end
+      detail_page.search("h4[text()^='Writing Credits'] + table tbody tr td[class='name']").map {|name|
+        writers_list[i] = name.content.strip if !writers_list.include? name.content.strip
+        i=i+1
+      } rescue []
+      writers_list
     end
     
     # Returns the url to the "Watch a trailer" page
