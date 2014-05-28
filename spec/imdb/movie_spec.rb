@@ -171,7 +171,16 @@ describe "Imdb::Movie" do
         movie.director.should include("Andy Wachowski")
       end
     end
-
+    
+    it "should find multiple writers" do
+    	movie  = Imdb::Movie.new("0242653") 
+    	
+    	movie.writers.should be_an(Array)
+        movie.writers.size.should eql(2)
+        movie.writers.should include("Lana Wachowski")
+        movie.writers.should include("Andy Wachowski")
+    end
+    
     it "should find multiple filming locations" do
       filming_locations = @movie.filming_locations
       filming_locations.should be_an(Array)
