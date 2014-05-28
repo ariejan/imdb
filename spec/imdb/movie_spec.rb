@@ -170,16 +170,21 @@ describe "Imdb::Movie" do
         movie.director.should include("Lana Wachowski")
         movie.director.should include("Andy Wachowski")
       end
-    end
-    
-    it "should find multiple writers" do
+      
+      it "should find multiple writers" do
+    	# The Matrix Revolutions (2003)
     	movie  = Imdb::Movie.new("0242653") 
     	
     	movie.writers.should be_an(Array)
         movie.writers.size.should eql(2)
         movie.writers.should include("Lana Wachowski")
         movie.writers.should include("Andy Wachowski")
+      
+      end
+
     end
+    
+   
     
     it "should find multiple filming locations" do
       filming_locations = @movie.filming_locations
