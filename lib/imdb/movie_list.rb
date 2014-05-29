@@ -2,6 +2,8 @@ module Imdb
 
   class MovieList
     def movies
+      list = parse_movies
+      parse_movies = list.values_at(* list.each_index.select {|i| i.odd?})
       @movies ||= parse_movies
     end
 

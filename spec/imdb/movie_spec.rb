@@ -125,14 +125,7 @@ describe "Imdb::Movie" do
     end
 
     it "should find the plot" do
-      @movie.plot.should eql("John McClane, officeSuccessfully installed columnize-0.8.9
-Fetching: debugger-linecache-1.2.0.gem (100%)
-Successfully installed debugger-linecache-1.2.0
-Fetching: byebug-3.1.2.gem (100%)
-Building native extensions.  This could take a while...
-Successfully installed byebug-3.1.2
-Parsing documentation for byebug-3.1.2
-r of the NYPD, tries to save wife Holly Gennaro and several others, taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.")
+      @movie.plot.should eql("John McClane, officer of the NYPD, tries to save wife Holly Gennaro and several others, taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.")
     end
 
     it "should find plot synopsis" do

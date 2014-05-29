@@ -54,7 +54,7 @@ module Imdb
     def writers
       writers_list = Array.new
       i = 0
-     
+      
       fullcredits_document.search("h4[text()^='Writing Credits'] + table tbody tr td[class='name']").map {|name|
         writers_list[i] = name.content.strip if !writers_list.include? name.content.strip
         i=i+1
