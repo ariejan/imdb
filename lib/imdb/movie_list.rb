@@ -7,7 +7,7 @@ module Imdb
 
     private
     def parse_movies
-      document.search("a[@href^='/title/tt']").reject do |element|
+      r = document.search("a[@href^='/title/tt']").reject do |element|
         element.inner_html.imdb_strip_tags.empty? ||
         element.inner_html.imdb_strip_tags == "X" ||
         element.parent.inner_html =~ /media from/i
@@ -26,8 +26,8 @@ module Imdb
           title = titles.shift.strip.imdb_unescape_html
         end
 
-        [id, title]
-      end.uniq.map do |values|
+        !title.strip.blank? ? [id, title] : nil
+      end.compact.uniq.map do |values|
         Imdb::Movie.new(*values)
       end
     end
