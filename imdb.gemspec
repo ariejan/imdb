@@ -26,4 +26,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'gokdok'
   s.add_development_dependency 'rdoc', '~> 4.0'
   s.add_development_dependency 'fakeweb'
+  s.add_development_dependency 'byebug'
 end

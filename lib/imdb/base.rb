@@ -2,8 +2,10 @@ module Imdb
 
   # Represents something on IMDB.com
   class Base
+    require 'byebug'
+    
     attr_accessor :id, :url, :title, :also_known_as
-
+    
     # Initialize a new IMDB movie object with it's IMDB id (as a String)
     #
     #   movie = Imdb::Movie.new("0095016")
@@ -52,11 +54,8 @@ module Imdb
     def writers
       writers_list = Array.new
       i = 0
-      begin
-        detail_page = Nokogiri::HTML open "http://akas.imdb.com/title/tt#{@id}/fullcredits#writers"
-        rescue
-      end
-      detail_page.search("h4[text()^='Writing Credits'] + table tbody tr td[class='name']").map {|name|
+     
+      fullcredits_document.search("h4[text()^='Writing Credits'] + table tbody tr td[class='name']").map {|name|
         writers_list[i] = name.content.strip if !writers_list.include? name.content.strip
         i=i+1
       } rescue []
@@ -187,6 +186,10 @@ module Imdb
 
     def releaseinfo_document
       @releaseinfo_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "releaseinfo"))
+    end
+    
+    def fullcredits_document
+      @fullcredits_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "fullcredits")) 
     end
 
     # Use HTTParty to fetch the raw HTML for this movie.
