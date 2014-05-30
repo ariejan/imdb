@@ -1,7 +1,7 @@
 # encoding: utf-8
 
 require 'spec_helper'
-require 'byebug'
+
 
 # This test uses "Die hard (1988)" as a testing sample:
 #
@@ -172,7 +172,7 @@ describe "Imdb::Movie" do
         movie.director.should include("Andy Wachowski")
       end
       
-      it "should find multiple writers" do
+      it "should find writers" do
     	# Waar (2013)
     	movie  = Imdb::Movie.new("1821700") 
     	

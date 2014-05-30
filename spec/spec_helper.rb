@@ -9,7 +9,6 @@
 ###
 
 require 'rspec'
-require 'byebug'
 
 $:.unshift(File.dirname(__FILE__) + '/../lib')
 require 'imdb'

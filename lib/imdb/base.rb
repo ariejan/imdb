@@ -2,7 +2,6 @@ module Imdb
 
   # Represents something on IMDB.com
   class Base
-    require 'byebug'
     
     attr_accessor :id, :url, :title, :also_known_as
     
