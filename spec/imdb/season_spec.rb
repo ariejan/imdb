@@ -12,8 +12,8 @@ describe 'Imdb::Season' do
 
   it 'can fetch a specific episode' do
     @season.episode(1).title.should =~ /Days Gone By/i
-    @season.episode(1).episode.should == 1
-    @season.episode(1).season.should == 1
+    @season.episode(1).episode.should eq(1)
+    @season.episode(1).season.should eq(1)
   end
 end
 

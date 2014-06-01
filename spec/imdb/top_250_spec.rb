@@ -10,12 +10,12 @@ describe Imdb::Top250 do
   end
 
   it 'should return the top 250 movies from IMDB.com' do
-    @movies.size.should == 250
+    @movies.size.should eq(250)
   end
 
   it 'should provide array like access to the movies' do
-    @movies[0].title.should == '1. The Shawshank Redemption'
-    @movies[1].title.should == '2. The Godfather'
-    @movies[2].title.should == '3. The Godfather: Part II'
+    @movies[0].title.should eq('1. The Shawshank Redemption')
+    @movies[1].title.should eq('2. The Godfather')
+    @movies[2].title.should eq('3. The Godfather: Part II')
   end
 end

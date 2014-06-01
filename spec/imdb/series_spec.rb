@@ -15,7 +15,7 @@ describe 'Imdb::Serie' do
   end
 
   it 'can fetch a specific season' do
-    @serie.season(1).season_number.should == 1
-    @serie.season(1).episodes.size.should == 6
+    @serie.season(1).season_number.should eq(1)
+    @serie.season(1).episodes.size.should eq(6)
   end
 end

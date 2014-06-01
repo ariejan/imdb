@@ -34,7 +34,3 @@ MultilineBlockChain:
 # Offense count: 5
 RescueModifier:
   Enabled: false
-
-# Offense count: 4
-Void:
-  Enabled: false
