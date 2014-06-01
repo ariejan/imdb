@@ -54,7 +54,7 @@ unless ENV['LIVE_TEST']
 
     FakeWeb.allow_net_connect = false
     IMDB_SAMPLES.each do |url, response|
-      FakeWeb.register_uri(:get, url, :response => read_fixture(response))
+      FakeWeb.register_uri(:get, url, response: read_fixture(response))
     end
   rescue LoadError
     puts "Could not load FakeWeb, these tests will hit IMDB.com"

@@ -2,9 +2,9 @@ module Imdb
 
   # Represents something on IMDB.com
   class Base
-    
+
     attr_accessor :id, :url, :title, :also_known_as
-    
+
     # Initialize a new IMDB movie object with it's IMDB id (as a String)
     #
     #   movie = Imdb::Movie.new("0095016")
@@ -53,14 +53,14 @@ module Imdb
     def writers
       writers_list = Array.new
       i = 0
-      
+
       fullcredits_document.search("h4[text()^='Writing Credits'] + table tbody tr td[class='name']").map {|name|
         writers_list[i] = name.content.strip if !writers_list.include? name.content.strip
         i=i+1
       } rescue []
       writers_list
     end
-    
+
     # Returns the url to the "Watch a trailer" page
     def trailer_url
       'http://imdb.com' + document.at("a[@href*='/video/screenplay/']")["href"] rescue nil
@@ -166,8 +166,8 @@ module Imdb
     def also_known_as
       releaseinfo_document.search("#akas tr").map { |aka|
         {
-          :version => aka.search("td:nth-child(1)").text,
-          :title   => aka.search("td:nth-child(2)").text
+          version: aka.search("td:nth-child(1)").text,
+          title:   aka.search("td:nth-child(2)").text
         }
       } rescue []
     end
@@ -186,9 +186,9 @@ module Imdb
     def releaseinfo_document
       @releaseinfo_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "releaseinfo"))
     end
-    
+
     def fullcredits_document
-      @fullcredits_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "fullcredits")) 
+      @fullcredits_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "fullcredits"))
     end
 
     # Use HTTParty to fetch the raw HTML for this movie.
