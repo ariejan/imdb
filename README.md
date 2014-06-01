@@ -1,5 +1,6 @@
-# imdb [![Build Status](https://travis-ci.org/ariejan/imdb.png?branch=master)](https://travis-ci.org/ariejan/imdb) [![Gem Version](https://badge.fury.io/rb/imdb.png)](http://badge.fury.io/rb/imdb)
+# imdb [![Build Status](https://travis-ci.org/ariejan/imdb.png?branch=master)](https://travis-ci.org/ariejan/imdb) [![Gem Version](https://badge.fury.io/rb/imdb.png)](http://badge.fury.io/rb/imdb) [![Code Climate](https://codeclimate.com/github/ariejan/imdb.png)](https://codeclimate.com/github/ariejan/imdb) [![Dependency Status](https://gemnasium.com/ariejan/imdb.svg)](https://gemnasium.com/ariejan/imdb)
 
+* [Documentation](http://rubydoc.info/github/ariejan/imdb/master/frames)
 * [Sources](https://github.com/ariejan/imdb)
 * [Issues](https://github.com/ariejan/imdb/issues)
 
@@ -11,11 +12,15 @@ The IMDB gem allows you to easy access publicly available data from IMDB.
 
 IMDB currently features the following:
 
-* Querying details movie info
-* Searching for movies
-* Command-line utility included.
+* Search for movies and TV series
+* Retrieve the Top 250 listing
+* Retrieve complete movie information
+* Retrieve TV series and episode information
 
-## Synopsis
+Read the [documentation](http://rubydoc.info/github/ariejan/imdb/master/frames) to see all
+you can do with this gem.
+
+## Examples
 
 ### Movies:
 
@@ -63,20 +68,33 @@ Or, if you're using this in a project with Bundler:
 
 ## Running Tests
 
-You'll need rspec and fakeweb installed to run the specs.
+As this gem uses content from imdb.com, the test suite uses a set of
+pre-defined fixute files in `spec/fixtures`. These fixtures are 
+copies of imdb page used in tests. 
+
+Run bundle install to install all dependencies, including fakeweb, which
+will serve the fixture files instead of doing actual requests to imdb.com.
 
     $ bundle install
-    $ bundle exec rake spec
 
-Although not recommended, you may run the specs against the live imdb.com 
-website. This will make a lot of calls to imdb.com, use it wisely.
+Next, simple run `rake` to run the entire test suite.
 
-    $ LIVE_TEST=true bundle exec rake spec
+### Running against actual IMDB data
 
-To update the packaged fixtures files with actual imdb.com samples, use the 
-`fixtures:refresh` rake task
+It's possible to run the test suite directly against imdb.com. This has 
+two disadvantages:
 
-    $ bundle exec rake fixtures:refresh
+ 1. Tests will be slow
+ 2. Running tests often will probably get you into trouble, see Disclaimer.
+
+    $ LIVE_TEST=true rake
+
+If you want to run against actual imdb data, it's better to just update 
+the fixture files once with up-to-date content:
+
+    $ rake fixtures:refresh
+
+When you run the test suite now, it will use the updated fixture files.
 
 ## Disclaimer
 
@@ -89,6 +107,11 @@ Using this library for anything other than limited personal use may result
 in an IP ban to the IMDB website.
 
 _This gem is not endorsed or affiliated with IMDB, or IMDb.com, Inc._
+
+## Contributors
+
+This gem is created and maintained by [Ariejan de Vroom](https://ariejan.net), with
+help from lots of awesome [contributors](https://github.com/ariejan/imdb/graphs/contributors)
 
 ## License
 
