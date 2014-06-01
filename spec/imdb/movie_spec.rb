@@ -162,10 +162,10 @@ describe 'Imdb::Movie' do
       end
 
       it 'should find writers' do
-    	   # Waar (2013)
-    	   movie  = Imdb::Movie.new('1821700')
+        # Waar (2013)
+        movie  = Imdb::Movie.new('1821700')
 
-    	   movie.writers.should be_an(Array)
+        movie.writers.should be_an(Array)
         movie.writers.size.should eql(1)
         movie.writers.should include('Hassan Waqas Rana')
       end
