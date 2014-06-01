@@ -6,15 +6,6 @@
 # versions of RuboCop, may require this file to be generated again.
 
 # Offense count: 1
-# BlockAlignment:
-#   Enabled: false
-
-# Offense count: 2
-# Cop supports --auto-correct.
-# Blocks:
-#   Enabled: false
-
-# Offense count: 1
 # Configuration parameters: CountComments.
 ClassLength:
   Max: 142
@@ -25,10 +16,6 @@ CyclomaticComplexity:
 
 # Offense count: 5
 Documentation:
-  Enabled: false
-
-# Offense count: 2
-EmptyLinesAroundAccessModifier:
   Enabled: false
 
 # Offense count: 53

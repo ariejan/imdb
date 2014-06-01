@@ -21,6 +21,7 @@ module Imdb
     end
 
     private
+
     def document
       @document ||= Nokogiri::HTML(Imdb::Search.query(@query))
     end
