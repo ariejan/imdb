@@ -35,10 +35,6 @@ MultilineBlockChain:
 RescueModifier:
   Enabled: false
 
-# Offense count: 1
-UselessAssignment:
-  Enabled: false
-
 # Offense count: 4
 Void:
   Enabled: false

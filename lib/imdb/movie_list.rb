@@ -19,8 +19,6 @@ module Imdb
         title = title.imdb_strip_tags.imdb_unescape_html
         title.gsub!(/\s+\(\d\d\d\d\)$/, '')
 
-        alternative_titles = []
-
         if title =~ /\saka\s/
           titles = title.split(/\saka\s/)
           title = titles.shift.strip.imdb_unescape_html
