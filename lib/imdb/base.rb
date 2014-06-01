@@ -35,7 +35,7 @@ module Imdb
     def cast_members_characters(sep = '=>')
       memb_char = []
       i = 0
-      cast_members.each{|_m|
+      cast_members.each { |_m|
         memb_char[i] = "#{cast_members[i]} #{sep} #{cast_characters[i]}"
         i = i + 1
       }
