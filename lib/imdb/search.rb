@@ -1,5 +1,4 @@
 module Imdb
-
   # Search IMDB for a title
   class Search < MovieList
     attr_reader :query
@@ -27,12 +26,12 @@ module Imdb
     end
 
     def self.query(query)
-      open("http://akas.imdb.com/find?q=#{CGI::escape(query)};s=tt")
+      open("http://akas.imdb.com/find?q=#{CGI.escape(query)};s=tt")
     end
 
     def parse_movie
       id    = document.at("head/link[@rel='canonical']")['href'][/\d+/]
-      title = document.at("h1").inner_html.split('<span').first.strip.imdb_unescape_html
+      title = document.at('h1').inner_html.split('<span').first.strip.imdb_unescape_html
 
       [Imdb::Movie.new(id, title)]
     end
@@ -41,6 +40,5 @@ module Imdb
     def exact_match?
       !document.at("table[@id='title-overview-widget-layout']").nil?
     end
-
   end # Search
 end # Imdb

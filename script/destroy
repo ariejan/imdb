@@ -9,6 +9,6 @@ rescue LoadError
 end
 require 'rubigen/scripts/destroy'
 
-ARGV.shift if ['--help', '-h'].include?(ARGV[0])
+ARGV.shift if %w(--help -h).include?(ARGV[0])
 RubiGen::Base.use_component_sources! [:rubygems, :newgem, :newgem_theme, :test_unit]
 RubiGen::Scripts::Destroy.new.run(ARGV)
