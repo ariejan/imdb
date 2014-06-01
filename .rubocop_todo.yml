@@ -6,8 +6,8 @@
 # versions of RuboCop, may require this file to be generated again.
 
 # Offense count: 1
-BlockAlignment:
-  Enabled: false
+# BlockAlignment:
+#   Enabled: false
 
 # Offense count: 2
 # Cop supports --auto-correct.
