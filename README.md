@@ -5,7 +5,7 @@
 
 ## Description
 
-This gem allows you to easy access publicly available data from IMDB.
+The IMDB gem allows you to easy access publicly available data from IMDB.
 
 ## Features
 
@@ -53,17 +53,13 @@ IMDB currently features the following:
     i.movies.size
     #=> 97
 
-### Using the command line utility is quite easy:
-
-    $ imdb Star Trek
-
-or get movie info
-
-    $ imdb 0095016
-
 ## Installation
 
     gem install imdb
+
+Or, if you're using this in a project with Bundler:
+
+    gem 'imdb', '~> 0.8'
 
 ## Running Tests
 
@@ -91,6 +87,8 @@ IMDB does not permit use of its data by third parties without their consent.
 
 Using this library for anything other than limited personal use may result
 in an IP ban to the IMDB website.
+
+_This gem is not endorsed or affiliated with IMDB, or IMDb.com, Inc._
 
 ## License
 
