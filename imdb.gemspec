@@ -17,10 +17,12 @@ Gem::Specification.new do |spec|
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ["lib"]
 
+  spec.add_dependency 'hashie',   '~> 2.1.1'
   spec.add_dependency 'nokogiri', '= 1.6.2.1'
 
-  spec.add_development_dependency "bundler", "~> 1.6"
-  spec.add_development_dependency "rake"
-  spec.add_development_dependency "minitest"
-  spec.add_development_dependency "vcr"
+  spec.add_development_dependency "bundler",  "~> 1.6"
+  spec.add_development_dependency "rake",     "~> 10.3.2"
+  spec.add_development_dependency "minitest", "~> 5.3.4"
+  spec.add_development_dependency "webmock",  "~> 1.18.0"
+  spec.add_development_dependency "vcr",      "~> 2.9.2"
 end
