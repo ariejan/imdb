@@ -35,10 +35,10 @@ module Imdb
     def cast_members_characters(sep = '=>')
       memb_char = []
       i = 0
-      cast_members.each { |_m|
+      cast_members.each do |_m|
         memb_char[i] = "#{cast_members[i]} #{sep} #{cast_characters[i]}"
         i = i + 1
-      }
+      end
       memb_char
     end
 
@@ -52,10 +52,10 @@ module Imdb
       writers_list = []
       i = 0
 
-      fullcredits_document.search("h4[text()^='Writing Credits'] + table tbody tr td[class='name']").map {|name|
+      fullcredits_document.search("h4[text()^='Writing Credits'] + table tbody tr td[class='name']").map do |name|
         writers_list[i] = name.content.strip unless writers_list.include? name.content.strip
         i = i + 1
-      } rescue []
+      end rescue []
       writers_list
     end
 

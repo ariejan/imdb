@@ -11,8 +11,8 @@
 
 # Offense count: 2
 # Cop supports --auto-correct.
-Blocks:
-  Enabled: false
+# Blocks:
+#   Enabled: false
 
 # Offense count: 1
 # Configuration parameters: CountComments.
