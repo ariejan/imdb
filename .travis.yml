@@ -4,8 +4,8 @@ notifications:
   email: false
 
 rvm:
-  - 2.0.0
-  - 2.1.0
+  - 2.0
+  - 2.1
   - ruby-head
 
 matrix:
@@ -17,4 +17,3 @@ before_install:
 
 script:
   - "bundle exec rake spec"
-
