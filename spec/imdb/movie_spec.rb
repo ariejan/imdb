@@ -2,6 +2,7 @@
 
 require 'spec_helper'
 
+
 # This test uses "Die hard (1988)" as a testing sample:
 #
 #     http://akas.imdb.com/title/tt0095016/combined
@@ -170,8 +171,19 @@ describe "Imdb::Movie" do
         movie.director.should include("Lana Wachowski")
         movie.director.should include("Andy Wachowski")
       end
+      
+      it "should find writers" do
+    	# Waar (2013)
+    	movie  = Imdb::Movie.new("1821700") 
+    	
+    	movie.writers.should be_an(Array)
+        movie.writers.size.should eql(1)
+        movie.writers.should include("Hassan Waqas Rana")
+      end
     end
-
+    
+   
+    
     it "should find multiple filming locations" do
       filming_locations = @movie.filming_locations
       filming_locations.should be_an(Array)
