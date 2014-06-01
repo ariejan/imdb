@@ -1,4 +1,4 @@
-# imdb [![Build Status](https://travis-ci.org/ariejan/imdb.png?branch=master)](https://travis-ci.org/ariejan/imdb)
+# imdb [![Build Status](https://travis-ci.org/ariejan/imdb.png?branch=master)](https://travis-ci.org/ariejan/imdb) [![Gem Version](https://badge.fury.io/rb/imdb.png)](http://badge.fury.io/rb/imdb)
 
 * [Sources](https://github.com/ariejan/imdb)
 * [Issues](https://github.com/ariejan/imdb/issues)
