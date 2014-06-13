@@ -44,9 +44,9 @@ module Imdb
     # Returns array of movies with person in some category, e.g. as an actor, director, etc.
     def movies_as(category)
       movies = document.css("#filmo-head-#{category}").first.next_element.children.to_a
-      movies.reject!{|movie| movie.class == Nokogiri::XML::Text}
+      movies.reject! { |movie| movie.class == Nokogiri::XML::Text }
       movies.map do |movie|
-        movie_id = movie.attr("id")[/\d+/]
+        movie_id = movie.attr('id')[/\d+/]
         Movie.new(movie_id)
       end
     end
@@ -67,12 +67,11 @@ module Imdb
     def method_missing(method_name, *args)
       get_movies = method_name.to_s.match(/^movies_as_(.+)$/)
       category = get_movies[1] if get_movies
-      if get_movies and categories.map(&:downcase).include? category.gsub(/_/," ")
+      if get_movies && categories.map(&:downcase).include?(category.gsub(/_/, ' '))
         movies_as category
       else
         super
       end
     end
-
   end # Person
 end # Imdb
