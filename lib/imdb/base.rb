@@ -40,11 +40,11 @@ module Imdb
       memb_char
     end
 
-    # Returns the name of the directors
-    def directors
+    # Returns the name of the director(s)
+    def director
     	directors_list = []
     	
-    	fullcredits_document.search("h4[text()^='Directed by'] + table tbody tr td[class='name'] a").each_with_index do |name, i|
+    	fullcredits_document.search("h4[text()^='Directed by'] + table tbody tr td[class='name']").each_with_index do |name, i|
     		directors_list[i] = name.content.strip unless directors_list.include? name.content.strip
     	end rescue []
     
