@@ -13,8 +13,12 @@ module Imdb
     #
     def initialize(imdb_id, name = nil)
       @id = imdb_id
-      @url = "http://akas.imdb.com/name/nm#{imdb_id}"
+      @url = Imdb::Person.url(imdb_id)
       @name = name.gsub(/"/, '').strip if name
+    end
+
+    def self.url(imdb_id)
+      "http://akas.imdb.com/name/nm#{imdb_id}/"
     end
 
     # Returns a string containing the name
@@ -60,7 +64,7 @@ module Imdb
 
     # Use HTTParty to fetch the raw HTML for this person.
     def self.find_by_id(imdb_id)
-      open("http://akas.imdb.com/name/nm#{imdb_id}")
+      open(Imdb::Person.url(imdb_id))
     end
 
     # Dynamic aliasing for movies_as method. e.g. movies_as_actor equals movies_as(:actor)
