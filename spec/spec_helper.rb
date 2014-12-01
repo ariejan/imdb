@@ -27,6 +27,7 @@ IMDB_SAMPLES = {
   'http://akas.imdb.com/title/tt0095016/synopsis' => 'synopsis',
   'http://akas.imdb.com/title/tt0095016/plotsummary' => 'plotsummary',
   'http://akas.imdb.com/title/tt0095016/locations' => 'locations',
+  'http://akas.imdb.com/title/tt0095016/awards' => 'awards',
   'http://akas.imdb.com/title/tt0095016/releaseinfo' => 'releaseinfo',
   'http://akas.imdb.com:80/title/tt0242653/combined' => 'tt0242653',
   'http://akas.imdb.com:80/title/tt1821700/combined' => 'tt1821700',

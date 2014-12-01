@@ -63,6 +63,48 @@ describe 'Imdb::Movie' do
       it 'should return the imdb actor number for each cast member' do
         @movie.cast_member_ids.sort.should == %w(nm0000246 nm0000614 nm0000889 nm0000952 nm0001108 nm0001817 nm0005598 nm0033749 nm0040472 nm0048326 nm0072054 nm0094770 nm0101088 nm0112505 nm0112779 nm0119594 nm0127960 nm0142420 nm0160690 nm0162041 nm0234426 nm0236525 nm0239958 nm0278010 nm0296791 nm0319739 nm0322339 nm0324231 nm0326276 nm0338808 nm0356114 nm0370729 nm0383487 nm0416429 nm0421114 nm0441665 nm0484360 nm0484650 nm0493493 nm0502959 nm0503610 nm0504342 nm0539639 nm0546076 nm0546747 nm0662568 nm0669625 nm0681604 nm0687270 nm0688235 nm0718021 nm0731114 nm0776208 nm0793363 nm0852311 nm0870729 nm0882139 nm0902455 nm0907234 nm0924636 nm0936591 nm0958105 nm2143912 nm2476262 nm2565888).sort
       end
+
+      it 'should find multiple awards' do
+        awards = @movie.awards
+        awards.size.should eql(12)
+
+        award = Imdb::Award.new('Oscar', category: 'Best Sound', nominees: ['Don J. Bassman', 'Kevin F. Cleary', 'Richard Overton', 'Al Overton Jr.'])
+        awards[0].should eql(award)
+
+        award = Imdb::Award.new('Oscar', category: 'Best Film Editing', nominees: ['Frank J. Urioste', 'John F. Link'])
+        awards[1].should eql(award)
+
+        award = Imdb::Award.new('Oscar', category: 'Best Effects, Sound Effects Editing', nominees: ['Stephen Hunter Flick', 'Richard Shorr'])
+        awards[2].should eql(award)
+
+        award = Imdb::Award.new('Oscar', category: 'Best Effects, Visual Effects', nominees: ['Richard Edlund', 'Al Di Sarro', 'Brent Boates', 'Thaine Morris'])
+        awards[3].should eql(award)
+
+        award = Imdb::Award.new('Award of the Japanese Academy', category: 'Best Foreign Language Film', winner: true)
+        awards[4].should eql(award)
+
+        award = Imdb::Award.new('BMI Film Music Award', winner: true, category: "", nominees: ['Michael Kamen'])
+        awards[5].should eql(award)
+
+        award = Imdb::Award.new('Blue Ribbon Award', winner: true, category: 'Best Foreign Language Film', nominees: ['John McTiernan'])
+        awards[6].should eql(award)
+
+        award = Imdb::Award.new('Video Premiere Award', category: 'Best Overall New Extra Features, Library Title', nominees: ['David Prior'])
+        awards[7].should eql(award)
+
+        award = Imdb::Award.new('Edgar', category: 'Best Motion Picture', nominees: ['Jeb Stuart', 'Steven E. de Souza'])
+        awards[8].should eql(award)
+
+        award = Imdb::Award.new('Hochi Film Award', winner: true, category: 'Best Foreign Language Film', nominees: ['John McTiernan'])
+        awards[9].should eql(award)
+
+        award = Imdb::Award.new('Kinema Junpo Award', winner: true, category: 'Best Foreign Language Film', nominees: ['John McTiernan'])
+        awards[10].should eql(award)
+
+        award = Imdb::Award.new('Golden Reel Award', winner: true, category: 'Best Sound Editing - Sound Effects', nominees: ['Richard Shorr'])
+        awards[11].should eql(award)
+      end
+
     end
 
     it 'returns the url to the movie trailer' do
