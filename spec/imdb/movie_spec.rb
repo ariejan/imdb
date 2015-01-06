@@ -149,6 +149,10 @@ describe 'Imdb::Movie' do
       @movie.year.should eql(1988)
     end
 
+    it 'should not be an episode' do
+      @movie.episode?.should eql(false)
+    end
+
     describe 'special scenarios' do
 
       it 'should find multiple directors' do
@@ -270,6 +274,41 @@ describe 'Imdb::Movie' do
 
     it 'should give the proper title' do
       @movie.title.should == 'WALL·E (2008)'
+    end
+  end
+
+  describe 'episode of a series' do
+    # Game of Thrones S04E03
+    before(:each) do
+      @movie = Imdb::Movie.new('2972426')
+    end
+
+    it 'should be an episode' do
+      @movie.episode?.should eql(true)
+    end
+
+    it 'should give the proper title' do
+      @movie.title.should eql('Game of Thrones')
+    end
+
+    it 'should give the proper episode title' do
+      @movie.episode_title.should eql('Breaker of Chains')
+    end
+
+    it 'should give the proper season' do
+      @movie.episode_season.should eql(4)
+    end
+
+    it 'should give the proper episode number' do
+      @movie.episode_number.should eql(3)
+    end
+
+    it 'should give the proper year' do
+      @movie.year.should eql(2014)
+    end
+
+    it 'should give the proper release date' do
+      @movie.release_date.should eql('20 April 2014')
     end
   end
 end
