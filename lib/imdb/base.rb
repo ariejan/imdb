@@ -139,17 +139,51 @@ module Imdb
         @title
       else
         @title = document.at('h1').inner_html.split('<span').first.strip.imdb_unescape_html rescue nil
-      end
+      end.gsub(/^\"|\"?$/, '')
+    end
+
+    # Returns true if this is an episode from a series
+    def episode?
+      episode_title != nil
+    end
+  
+    # Returns the serie of this episode
+    def episode_serie
+      id = document.at("h5[text()*='TV Series:'] ~ div//a")['href'].match('\d+')[0]
+      Imdb::Serie.new id
+    end
+
+    # Returns the episode title
+    def episode_title
+      document.at('h1//span//em').content rescue nil
+    end
+
+    # Returns an integer containing the episode's season
+    def episode_season
+      episode_raw_info.last.match(/Season (\d+)/)[1].to_i rescue nil
+    end
+
+    # Returns an integer containing the episode number in the season
+    def episode_number
+      episode_raw_info.last.match(/Episode (\d+)/)[1].to_i rescue nil
     end
 
     # Returns an integer containing the year (CCYY) the movie was released in.
     def year
-      document.at("a[@href^='/year/']").content.to_i rescue nil
+      if series?
+        document.at('h1//span').children.last.content.gsub(/[ )(]*/, '').to_i
+      else
+        document.at("a[@href^='/year/']").content.to_i rescue nil
+      end
     end
 
     # Returns release date for the movie.
     def release_date
-      sanitize_release_date(document.at("h5[text()*='Release Date'] ~ div").content) rescue nil
+      if episode?
+        sanitize_release_date(episode_raw_info.first)
+      else
+        sanitize_release_date(document.at("h5[text()*='Release Date'] ~ div").content) rescue nil
+      end
     end
 
     # Returns filming locations from imdb_url/locations
@@ -210,6 +244,13 @@ module Imdb
 
     def sanitize_release_date(the_release_date)
       the_release_date.gsub(/see|more|\u00BB|\u00A0/i, '').strip
+    end
+
+    # Returns an array containing the lines of raw text in the series info block
+    def episode_raw_info
+      document.at("h5[text()*='Original Air Date'] ~ div").content.
+        split("\n").map(&:strip).
+        select { |line| not line.empty? }
     end
   end # Movie
 end # Imdb
