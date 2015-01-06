@@ -170,7 +170,7 @@ module Imdb
 
     # Returns an integer containing the year (CCYY) the movie was released in.
     def year
-      if series?
+      if episode?
         document.at('h1//span').children.last.content.gsub(/[ )(]*/, '').to_i
       else
         document.at("a[@href^='/year/']").content.to_i rescue nil
