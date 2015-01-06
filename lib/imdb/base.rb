@@ -148,9 +148,8 @@ module Imdb
     end
   
     # Returns the serie of this episode
-    def episode_serie
-      id = document.at("h5[text()*='TV Series:'] ~ div//a")['href'].match('\d+')[0]
-      Imdb::Serie.new id
+    def episode_serie_id
+      document.at("h5[text()*='TV Series:'] ~ div//a")['href'].match('\d+')[0] rescue nil
     end
 
     # Returns the episode title

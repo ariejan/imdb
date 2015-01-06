@@ -310,5 +310,9 @@ describe 'Imdb::Movie' do
     it 'should give the proper release date' do
       @movie.release_date.should eql('20 April 2014')
     end
+
+    it 'should give the proper serie id' do
+      @movie.episode_serie_id.should eql('0944947')
+    end
   end
 end
