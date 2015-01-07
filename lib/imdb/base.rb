@@ -1,5 +1,4 @@
 module Imdb
-
   # Represents something on IMDB.com
   class Base
     attr_accessor :id, :url, :title, :also_known_as
@@ -15,31 +14,29 @@ module Imdb
     def initialize(imdb_id, title = nil)
       @id = imdb_id
       @url = "http://akas.imdb.com/title/tt#{imdb_id}/combined"
-      @title = title.gsub(/"/, "").strip if title
+      @title = title.gsub(/"/, '').strip if title
     end
 
     # Returns an array with cast members
     def cast_members
-      document.search("table.cast td.nm a").map { |link| link.content.strip } rescue []
+      document.search('table.cast td.nm a').map { |link| link.content.strip } rescue []
     end
 
     def cast_member_ids
-      document.search("table.cast td.nm a").map {|l| l['href'].sub(%r{^/name/(.*)/}, '\1') }
+      document.search('table.cast td.nm a').map { |l| l['href'].sub(%r{^/name/(.*)/}, '\1') }
     end
 
     # Returns an array with cast characters
     def cast_characters
-      document.search("table.cast td.char").map { |link| link.content.strip } rescue []
+      document.search('table.cast td.char').map { |link| link.content.strip } rescue []
     end
 
     # Returns an array with cast members and characters
     def cast_members_characters(sep = '=>')
-      memb_char = Array.new
-      i = 0
-      self.cast_members.each{|m|
-        memb_char[i] = "#{self.cast_members[i]} #{sep} #{self.cast_characters[i]}"
-        i=i+1
-      }
+      memb_char = []
+      cast_members.each_with_index do |_m, i|
+        memb_char[i] = "#{cast_members[i]} #{sep} #{cast_characters[i]}"
+      end
       memb_char
     end
 
@@ -52,10 +49,20 @@ module Imdb
       document.search("h5[text()^='Director'] ~ div a").map { |link| link['href'].sub(%r{^/name/(.*)/}, '\1') } rescue []
     end
 
+    # Returns the names of Writers
+    def writers
+      writers_list = []
+
+      fullcredits_document.search("h4[text()^='Writing Credits'] + table tbody tr td[class='name']").each_with_index do |name, i|
+        writers_list[i] = name.content.strip unless writers_list.include? name.content.strip
+      end rescue []
+
+      writers_list
+    end
 
     # Returns the url to the "Watch a trailer" page
     def trailer_url
-      'http://imdb.com' + document.at("a[@href*='/video/screenplay/']")["href"] rescue nil
+      'http://imdb.com' + document.at("a[@href*='/video/screenplay/']")['href'] rescue nil
     end
 
     # Returns an array of genres (as strings)
@@ -96,7 +103,7 @@ module Imdb
 
     def plot_summary
       doc = Nokogiri::HTML(Imdb::Movie.find_by_id(@id, :plotsummary))
-      doc.at("p.plotpar").inner_html.gsub(/<i.*/im, '').strip.imdb_unescape_html rescue nil
+      doc.at('p.plotSummary').inner_html.gsub(/<i.*/im, '').strip.imdb_unescape_html rescue nil
     end
 
     # Returns a string containing the URL to the movie poster.
@@ -104,20 +111,20 @@ module Imdb
       src = document.at("a[@name='poster'] img")['src'] rescue nil
       case src
       when /^(http:.+@@)/
-        $1 + '.jpg'
+        Regexp.last_match[1] + '.jpg'
       when /^(http:.+?)\.[^\/]+$/
-        $1 + '.jpg'
+        Regexp.last_match[1] + '.jpg'
       end
     end
 
     # Returns a float containing the average user rating
     def rating
-      document.at(".starbar-meta b").content.split('/').first.strip.to_f rescue nil
+      document.at('.starbar-meta b').content.split('/').first.strip.to_f rescue nil
     end
 
     # Returns an int containing the number of user ratings
     def votes
-      document.at("#tn15rating .tn15more").content.strip.gsub(/[^\d+]/, "").to_i rescue nil
+      document.at('#tn15rating .tn15more').content.strip.gsub(/[^\d+]/, '').to_i rescue nil
     end
 
     # Returns a string containing the tagline
@@ -135,7 +142,7 @@ module Imdb
       if @title && !force_refresh
         @title
       else
-        @title = document.at("h1").inner_html.split('<span').first.strip.imdb_unescape_html rescue nil
+        @title = document.at('h1').inner_html.split('<span').first.strip.imdb_unescape_html rescue nil
       end
     end
 
@@ -151,7 +158,17 @@ module Imdb
 
     # Returns filming locations from imdb_url/locations
     def filming_locations
-      locations_document.search("#filming_locations_content .soda dt a").map { |link| link.content.strip } rescue []
+      locations_document.search('#filming_locations_content .soda dt a').map { |link| link.content.strip } rescue []
+    end
+
+    # Returns alternative titles from imdb_url/releaseinfo
+    def also_known_as
+      releaseinfo_document.search('#akas tr').map do |aka|
+        {
+          version: aka.search('td:nth-child(1)').text,
+          title:   aka.search('td:nth-child(2)').text
+        }
+      end rescue []
     end
 
     private
@@ -162,7 +179,15 @@ module Imdb
     end
 
     def locations_document
-      @locations_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "locations"))
+      @locations_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, 'locations'))
+    end
+
+    def releaseinfo_document
+      @releaseinfo_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, 'releaseinfo'))
+    end
+
+    def fullcredits_document
+      @fullcredits_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, 'fullcredits'))
     end
 
     # Use HTTParty to fetch the raw HTML for this movie.
@@ -180,17 +205,15 @@ module Imdb
     end
 
     def sanitize_plot(the_plot)
-      the_plot = the_plot.gsub(/add\ssummary|full\ssummary/i, "")
-      the_plot = the_plot.gsub(/add\ssynopsis|full\ssynopsis/i, "")
-      the_plot = the_plot.gsub(/see|more|\u00BB|\u00A0/i, "")
-      the_plot = the_plot.gsub(/\|/i, "")
+      the_plot = the_plot.gsub(/add\ssummary|full\ssummary/i, '')
+      the_plot = the_plot.gsub(/add\ssynopsis|full\ssynopsis/i, '')
+      the_plot = the_plot.gsub(/see|more|\u00BB|\u00A0/i, '')
+      the_plot = the_plot.gsub(/\|/i, '')
       the_plot.strip
     end
 
     def sanitize_release_date(the_release_date)
-      the_release_date.gsub(/see|more|\u00BB|\u00A0/i, "").strip
+      the_release_date.gsub(/see|more|\u00BB|\u00A0/i, '').strip
     end
-
   end # Movie
-
 end # Imdb

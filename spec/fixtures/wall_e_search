@@ -1,23 +1,15 @@
 HTTP/1.1 200 OK
-Date: Fri, 31 Jan 2014 10:08:09 GMT
+Date: Fri, 31 Jan 2014 10:08:25 GMT
 Server: Server
 X-Frame-Options: SAMEORIGIN
 Content-Type: text/html;charset=UTF-8
 Content-Language: en-US
 Vary: Accept-Encoding,User-Agent
-Set-Cookie: uu=BCYlOjAk4h7CBaDJ9fB7tBbRFDv1QidOCmaVaY3C-viiXnUHgMV9tHiRA91wQq9Jj_XTt8Ox1qt4%0D%0AQeaNin7AQekkgfj2a5b2e0JV06ximTfOugiMqH24H6SxyO7hHmKT4PlUmvguQ2Y7SQOhNlaR1_Io%0D%0AAJdxeX0JtEIJzMOFUFJHD9UaS89TSlnuwdDwTLe8DiYv6Yvofxbyab2AIjE0eExzCXvZf_7-cTuT%0D%0AvJ6YMv0i5WDWP8jF6CSyJMZ7DN_9LIw9bi9qdYS6CoFPdwaWpSuIwQ%0D%0A; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:16 GMT; Path=/
-Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:16 GMT; Path=/
-Set-Cookie: session-id-time=1548842889; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:16 GMT; Path=/
+Set-Cookie: uu=BCYmHGVTc5180EWsmabwZe1-0g9-aUqE-ebLO6_0BXGtDHZyzyrzHNoAkPkdzi9f6INngRKhFewS%0D%0AIuJLBc9xppazAUhwXC7-n8F8JosDzaOueMQxOjUCDqd3qx_GUk1xGCm7oo3W0hPdzBnxqRQk74Fb%0D%0ANmil287rYz1NDP3TpCNFtG6UwhgkEB2ELmD_bKtgEVpdvEtkEzFdJvLuauC5wcnu2xqB0J5a7ZHJ%0D%0Afv_E6h589kiw4IN9E_5Du345wXQZzUUwswlFxDq1eDWiLWPBAjl5rQ%0D%0A; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:32 GMT; Path=/
+Set-Cookie: session-id=000-0000000-0000000; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:32 GMT; Path=/
+Set-Cookie: session-id-time=1548842905; Domain=.imdb.com; Expires=Wed, 18-Feb-2082 13:22:32 GMT; Path=/
 P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
 Transfer-Encoding: chunked
-
-
-
-
-<!-- 
-TODO: need to get correct meta keywords and description.  Currently using what's in prod.
--->
-
 
 
 
@@ -34,7 +26,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
                 var ue_sn = "www.imdb.com";  
                 var ue_furl = "fls-na.amazon.com";
                 var ue_sid = "000-0000000-0000000";
-                var ue_id = "06PD8G06ZCW8AQTBPF5P";
+                var ue_id = "0KP2X86X3KRXQGDDEY3K";
                 (function(e){var c=e,a={main_scope:"mainscopecsm",q:[],t0:c.ue_t0||+new Date(),d:g};function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(k,j,h){var i={m:k,f:j,l:h,fromOnError:1,args:arguments};c.ueLogError(i);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-ef584a44e8ea58e3d4d928956600a9b6._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){b()}a.uels=c;e.ue=a})(window,document);
             </script>
  
@@ -43,12 +35,12 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
         <script type="text/javascript">var IMDbTimer={starttime: new Date().getTime(),pt:'java'};</script>
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
-        <title>Die Hard (1988) - Filming Locations - IMDb</title>
+        <title>Find - IMDb</title>
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
         
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-            <link rel="canonical" href="http://www.imdb.com/title/tt0095016/locations" />
-            <meta property="og:url" content="http://www.imdb.com/title/tt0095016/locations" />
+            <link rel="canonical" href="http://www.imdb.com/find" />
+            <meta property="og:url" content="http://www.imdb.com/find" />
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
         <link rel="icon" type="image/ico" href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._V379387995_.ico" />
@@ -58,25 +50,24 @@ xmlns:fb="http://www.facebook.com/2008/fbml">
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
         
     
-        <link rel='image_src' href="http://ia.media-imdb.com/images/M/MV5BMTY4ODM0OTc2M15BMl5BanBnXkFtZTcwNzE0MTk3OA@@._V1_SY500_SX335_.jpg">
-        <meta property='og:image' content="http://ia.media-imdb.com/images/M/MV5BMTY4ODM0OTc2M15BMl5BanBnXkFtZTcwNzE0MTk3OA@@._V1_SY500_SX335_.jpg" />
+        <link rel='image_src' href="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V379391653_.png">
+        <meta property='og:image' content="http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._V379391653_.png" />
     
-        <meta property='og:type' content="video.movie" />
     <meta property='fb:app_id' content='115109575169727' />
-    <meta property='og:title' content="Die Hard (1988)" />
+    <meta property='og:title' content="" />
     <meta property='og:site_name' content='IMDb' />
-    <meta name="title" content="Die Hard (1988) - IMDb" />
-        <meta name="description" content="Die Hard (1988) Movies, TV, Celebs, and more..." />
-        <meta property="og:description" content="Die Hard (1988) Movies, TV, Celebs, and more..." />
-        <meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
-        <meta name="request_id" content="06PD8G06ZCW8AQTBPF5P" />
+    <meta name="title" content="IMDb" />
+        <meta name="description" content="" />
+        <meta property="og:description" content="" />
+        <meta name="request_id" content="0KP2X86X3KRXQGDDEY3K" />
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/consumersite-1747819599._V363851122_.css" />
 <!-- h=ics-1a-i-584b9e79.us-east-1 -->
+<link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-3538633082._V355276482_.css" />
+<link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/app/consumersite/find-2392946780._V379391851_.css" />
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/ie-1918465287._V354866480_.css" /><![endif]-->
 
-            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-2125033518._V363851123_.css" />
-            <!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/ie-1918465287._V354866480_.css" /><![endif]-->
-            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-mega-3538633082._V355276482_.css" />
   <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
         
   <script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
@@ -148,7 +139,7 @@ onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"
   <div id="nb_search">
     <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
     <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
-    <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more...">
+    <input type="text" autocomplete="off" value="Wall-E" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more...">
     <div class="quicksearch_dropdown_wrapper">
       <select name="s" id="quicksearch" class="quicksearch_dropdown navbarSprite"
               onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
@@ -426,461 +417,103 @@ imageUrl : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu
       uet("ne");
     }
 </script>
-                    <div id="pagecontent" itemscope itemtype="http://schema.org/Movie">
+                    <div id="pagecontent">
 	
 	<!-- no content received for slot: injected_billboard -->
 	
+<div id="content-2-wide">
+    <div id="main">
+        <div class="article">
+       <h1 class="findHeader">Results for <span class="findSearchTerm">"Wall-E"</span></h1>
 
-<div id="content-2-wide" class="redesign">
-<div id="main">
-  <div class="article listo">
-    <span class=rightcornerlink >
-            <a href="/register/login?why=edit&ref_=ttloc_loc_edt" rel="login">Edit</a>
-    </span>
-<div class="subpage_title_block">
-<a href="/title/tt0095016/?ref_=ttloc_loc_tt" > <img itemprop="image"
-class="poster"
-height="98"
-width="67"
-alt="Die Hard (1988) Poster"
-src="http://ia.media-imdb.com/images/M/MV5BMTY4ODM0OTc2M15BMl5BanBnXkFtZTcwNzE0MTk3OA@@._V1_SX67_CR0,0,67,98_.jpg" />
-</a>  <div class="parent">   
-    <h3 itemprop="name">
-<a href="/title/tt0095016/?ref_=ttloc_loc_tt" itemprop='url'>Die Hard</a>         <span class="nobr">
-             (1988)
-         </span>
-    </h3>
-  </div>
-  <script>
-    if ('csm' in window) {
-      csm.measure('csm_body_delivery_started');
-    }
-  </script>
-  <h1 class="header">Filming Locations</h1>
+
+        <div id="findSubHeader"><span id="findSubHeaderLabel">Jump to:</span>
+              <a href="#tt">Titles</a> 
+              <span class="ghost">|</span>
+              <a href="#nm">Names</a> 
+              <span class="ghost">|</span>
+              <a href="#co">Companies</a> 
+              
+        </div>
+
+<div class="findSection">
+<h3 class="findSectionHeader"><a name="tt"></a>Titles</h3>
+<table class="findList">
+<tr class="findResult odd"> <td class="primary_photo"> <a href="/title/tt0910970/?ref_=fn_al_tt_1" ><img src="http://ia.media-imdb.com/images/M/MV5BMTczOTA3MzY2N15BMl5BanBnXkFtZTcwOTYwNjE2MQ@@._V1_SX32_CR0,0,32,44_.jpg" /></a> </td> <td class="result_text"> <a href="/title/tt0910970/?ref_=fn_al_tt_1" >WALL·E</a> (2008) <br/>aka <i>"Wall-E"</i> </td> </tr><tr class="findResult even"> <td class="primary_photo"> <a href="/title/tt1799689/?ref_=fn_al_tt_2" ><img src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/film-3119741174._V379391527_.png" /></a> </td> <td class="result_text"> <a href="/title/tt1799689/?ref_=fn_al_tt_2" >Wall-E</a> (2008) (TV Episode) <br/><small>- <a href="/title/tt1798328/?ref_=fn_al_tt_2a" >Bum Reviews</a> (2008) (TV Series) </small> </td> </tr><tr class="findResult odd"> <td class="primary_photo"> <a href="/title/tt1336292/?ref_=fn_al_tt_3" ><img src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/film-3119741174._V379391527_.png" /></a> </td> <td class="result_text"> <a href="/title/tt1336292/?ref_=fn_al_tt_3" >Wall-E</a> (2008) (TV Episode) <br/><small>- <a href="/title/tt0984168/?ref_=fn_al_tt_3a" >Disney's Really Short Report</a> (2007) (TV Series) </small> </td> </tr><tr class="findResult even"> <td class="primary_photo"> <a href="/title/tt2978964/?ref_=fn_al_tt_4" ><img src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/film-3119741174._V379391527_.png" /></a> </td> <td class="result_text"> <a href="/title/tt2978964/?ref_=fn_al_tt_4" >La fois où il a prié Wall-e</a> (2013) (TV Episode) <br/><small>- <a href="/title/tt2040020/?ref_=fn_al_tt_4a" >Platane</a> (2011) (TV Series) </small> </td> </tr><tr class="findResult odd"> <td class="primary_photo"> <a href="/title/tt0094291/?ref_=fn_al_tt_5" ><img src="http://ia.media-imdb.com/images/M/MV5BMzUzNTI5MDMwM15BMl5BanBnXkFtZTgwNjk0MzkxMDE@._V1_SX32_CR0,0,32,44_.jpg" /></a> </td> <td class="result_text"> <a href="/title/tt0094291/?ref_=fn_al_tt_5" >Wall Street</a> (1987) </td> </tr><tr class="findResult even"> <td class="primary_photo"> <a href="/title/tt1650554/?ref_=fn_al_tt_6" ><img src="http://ia.media-imdb.com/images/M/MV5BMTQ4OTQxNzc0N15BMl5BanBnXkFtZTcwOTQxOTU5OQ@@._V1_SX32_CR0,0,32,44_.jpg" /></a> </td> <td class="result_text"> <a href="/title/tt1650554/?ref_=fn_al_tt_6" >Kick-Ass 2</a> (2013) </td> </tr><tr class="findResult odd"> <td class="primary_photo"> <a href="/title/tt1657681/?ref_=fn_al_tt_7" ><img src="http://ia.media-imdb.com/images/M/MV5BMjExMjU1MTQ3Nl5BMl5BanBnXkFtZTgwNzQ2Njk3MDE@._V1_SX32_CR0,0,32,44_.jpg" /></a> </td> <td class="result_text"> <a href="/title/tt1657681/?ref_=fn_al_tt_7" >Wanted/Trumbo/Wall-E</a> (2008) (TV Episode) <br/><small>- <a href="/title/tt0439073/?ref_=fn_al_tt_7a" >Hollywood on Set</a> (2003) (TV Series) </small> </td> </tr><tr class="findResult even"> <td class="primary_photo"> <a href="/title/tt1299212/?ref_=fn_al_tt_8" ><img src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/film-3119741174._V379391527_.png" /></a> </td> <td class="result_text"> <a href="/title/tt1299212/?ref_=fn_al_tt_8" >Jo Bros, Wall.E and All-New Hannah!</a> (2008) (TV Episode) <br/><small>- <a href="/title/tt0388640/?ref_=fn_al_tt_8a" >Saturday Disney</a> (1990) (TV Series) </small> </td> </tr><tr class="findResult odd"> <td class="primary_photo"> <a href="/title/tt1744163/?ref_=fn_al_tt_9" ><img src="http://ia.media-imdb.com/images/M/MV5BMjA1Njg1MjA1OV5BMl5BanBnXkFtZTcwMjYyODEwNA@@._V1_SX32_CR0,0,32,44_.jpg" /></a> </td> <td class="result_text"> <a href="/title/tt1744163/?ref_=fn_al_tt_9" >WALL-E-NATOR/Extreme Renovation: House Edition - Superman's Fortress of Solitude</a> (2010) (TV Episode) <br/><small>- <a href="/title/tt1718438/?ref_=fn_al_tt_9a" >Mad</a> (2010) (TV Series) </small> </td> </tr><tr class="findResult even"> <td class="primary_photo"> <a href="/title/tt1292608/?ref_=fn_al_tt_10" ><img src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/film-3119741174._V379391527_.png" /></a> </td> <td class="result_text"> <a href="/title/tt1292608/?ref_=fn_al_tt_10" >Wall-E</a> (TV Episode) <br/><small>- <a href="/title/tt0295122/?ref_=fn_al_tt_10a" >Movie Surfers</a> (1998) (TV Series) </small> </td> </tr></table>
+<div class="findMoreMatches">
+        View:&nbsp; <a href="/find?q=Wall-E&amp;s=tt&ref_=fn_al_tt_mr" >More title matches</a>
+            &nbsp;or&nbsp;
+            <a href="/find?q=Wall-E&amp;s=tt&amp;exact=true&ref_=fn_al_tt_ex" >Exact title matches</a>
 </div>
-    <div id="filming_locations_content" class="header">
-<div class="header"><div class="nav"><div class="desc">Showing all 4 filming locations</div></div></div>
-          <div class="soda odd">
-            <dt>
-<a href="/search/title?locations=Fox%20Plaza%20-%202121%20Avenue%20of%20the%20Stars%2C%20Century%20City%2C%20Los%20Angeles%2C%20California%2C%20USA&ref_=ttloc_loc_1" itemprop='url'>Fox Plaza - 2121 Avenue of the Stars, Century City, Los Angeles, California, USA
-</a>            </dt>
-            <dd>
-(Nakatomi building)            </dd>
-            <div class="did-you-know-actions">
-<a href="?item=lc0087324" class="interesting-count-text" > 4 of 4 found this interesting</a>
-  <span class='interesting-cast-vote' data-item-id="lc0087324" data-item-type="locations">
-    Interesting? <button class="cast-vote" value="up">Yes</button><button class="cast-vote" value="down">No</button>
-  </span>
-            </div>
-          </div>
-          <div class="soda even">
-            <dt>
-<a href="/search/title?locations=29th-35th%20Floors%2C%20Fox%20Plaza%20-%202121%20Avenue%20of%20the%20Stars%2C%20Century%20City%2C%20Los%20Angeles%2C%20California%2C%20USA&ref_=ttloc_loc_2" itemprop='url'>29th-35th Floors, Fox Plaza - 2121 Avenue of the Stars, Century City, Los Angeles, California, USA
-</a>            </dt>
-            <dd>
-(interiors)            </dd>
-            <div class="did-you-know-actions">
-<a href="?item=lc0087323" class="interesting-count-text" > 3 of 3 found this interesting</a>
-  <span class='interesting-cast-vote' data-item-id="lc0087323" data-item-type="locations">
-    Interesting? <button class="cast-vote" value="up">Yes</button><button class="cast-vote" value="down">No</button>
-  </span>
-            </div>
-          </div>
-          <div class="soda odd">
-            <dt>
-<a href="/search/title?locations=Alpena%20Airport%2C%20Alpena%2C%20Michigan%2C%20USA&ref_=ttloc_loc_3" itemprop='url'>Alpena Airport, Alpena, Michigan, USA
-</a>            </dt>
-            <dd>
-            </dd>
-            <div class="did-you-know-actions">
-<a href="?item=lc0749255" class="interesting-count-text" > 1 of 1 found this interesting</a>
-  <span class='interesting-cast-vote' data-item-id="lc0749255" data-item-type="locations">
-    Interesting? <button class="cast-vote" value="up">Yes</button><button class="cast-vote" value="down">No</button>
-  </span>
-            </div>
-          </div>
-          <div class="soda even">
-            <dt>
-<a href="/search/title?locations=Stage%2015%2C%2020th%20Century%20Fox%20Studios%20-%2010201%20Pico%20Blvd.%2C%20Century%20City%2C%20Los%20Angeles%2C%20California%2C%20USA&ref_=ttloc_loc_4" itemprop='url'>Stage 15, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA
-</a>            </dt>
-            <dd>
-(studio)            </dd>
-            <div class="did-you-know-actions">
-<a href="?item=lc0087325" class="interesting-count-text" > 1 of 1 found this interesting</a>
-  <span class='interesting-cast-vote' data-item-id="lc0087325" data-item-type="locations">
-    Interesting? <button class="cast-vote" value="up">Yes</button><button class="cast-vote" value="down">No</button>
-  </span>
-            </div>
-          </div>
-    </div>
-  </div> 
-
-
-
-    <div class="article" id="see_also">
-        <h2>See also</h2>
-        <p>
-                            <span class="nobr">
-<a href="/title/tt0095016/fullcredits?ref_=ttloc_sa_1" class="link" >Full Cast and Crew</a>
-<span class="ghost">|</span></span>                            <span class="nobr">
-<a href="/title/tt0095016/releaseinfo?ref_=ttloc_sa_2" class="link" >Release Dates</a>
-<span class="ghost">|</span></span>                            <span class="nobr">
-<a href="/title/tt0095016/officialsites?ref_=ttloc_sa_3" class="link" >Official Sites</a>
-<span class="ghost">|</span></span>                            <span class="nobr">
-<a href="/title/tt0095016/business?ref_=ttloc_sa_4" class="link" >Box Office/Business</a>
-<span class="ghost">|</span></span>                            <span class="nobr">
-<a href="/title/tt0095016/companycredits?ref_=ttloc_sa_5" class="link" >Company Credits</a>
-<span class="ghost">|</span></span>                            <span class="nobr">
-<a href="/title/tt0095016/technical?ref_=ttloc_sa_6" class="link" >Technical Specs</a>
-<span class="ghost">|</span></span>                            <span class="nobr">
-<a href="/title/tt0095016/literature?ref_=ttloc_sa_7" class="link ghost" >Literature</a>
-</span>        </p>
-    </div>
-    
-  <script>
-    if ('csm' in window) {
-      csm.measure('csm_TitleContributeWidget_started');
-    }
-  </script>
-
-    <div class="article contribute">
-        <div class="rightcornerlink">
-<a href="/help/?adding/&ref_=ttloc_cn_hlp" >Getting Started</a>
-            <span>|</span>
-<a href="/czone/?ref_=ttloc_cn_cz" >Contributor Zone</a>&nbsp;&raquo;</div>
-        <h2>Contribute to This Page</h2>
-
-            <div class="button-box">
-                <form method="post" action="/updates?ref_=ttloc_cn_edt">
-                    <input type="hidden" name="auto" value="legacy/title/tt0095016/locations">
-                        <button class="btn primary large" rel="login" type="submit">Edit page</button>
-                </form>
-            </div>
-        
-
-    
-
-    
-    
-    
+</div>
+<div class="findSection">
+<h3 class="findSectionHeader"><a name="nm"></a>Names</h3>
+<table class="findList">
+<tr class="findResult odd"> <td class="primary_photo"> <a href="/name/nm0908413/?ref_=fn_al_nm_1" ><img src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V379389446_.png" /></a> </td> <td class="result_text"> <a href="/name/nm0908413/?ref_=fn_al_nm_1" >James E. Wall</a> <small>(Actor, <a href="/title/tt0047718/?ref_=fn_al_nm_1a" >Captain Kangaroo</a> (1955))</small></td> </tr><tr class="findResult even"> <td class="primary_photo"> <a href="/name/nm1577090/?ref_=fn_al_nm_2" ><img src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V379389446_.png" /></a> </td> <td class="result_text"> <a href="/name/nm1577090/?ref_=fn_al_nm_2" >Frank E. Wall</a> <small>(<a href="/title/tt0057878/?ref_=fn_al_nm_2a" >Bedtime Story</a> (1964))</small></td> </tr><tr class="findResult odd"> <td class="primary_photo"> <a href="/name/nm1234847/?ref_=fn_al_nm_3" ><img src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V379389446_.png" /></a> </td> <td class="result_text"> <a href="/name/nm1234847/?ref_=fn_al_nm_3" >Laura E. Walls</a> <small>(Actress, <a href="/title/tt0303714/?ref_=fn_al_nm_3a" >Barbershop</a> (2002))</small></td> </tr><tr class="findResult even"> <td class="primary_photo"> <a href="/name/nm2126227/?ref_=fn_al_nm_4" ><img src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._V379389446_.png" /></a> </td> <td class="result_text"> <a href="/name/nm2126227/?ref_=fn_al_nm_4" >Diane Fawcett Walls</a> <small>(<a href="/title/tt0123835/?ref_=fn_al_nm_4a" >Playboy: Farrah Fawcett, All of Me</a> (1997))</small></td> </tr><tr class="findResult odd"> <td class="primary_photo"> <a href="/name/nm0908384/?ref_=fn_al_nm_5" ><img src="http://ia.media-imdb.com/images/M/MV5BMjA5NDIzMDI4N15BMl5BanBnXkFtZTcwNTAyMTMwOQ@@._V1_SX32_CR0,0,32,44_.jpg" /></a> </td> <td class="result_text"> <a href="/name/nm0908384/?ref_=fn_al_nm_5" >Charles Wall</a> <small>(Actor, <a href="/title/tt1323947/?ref_=fn_al_nm_5a" >Road Reps</a> (2008))</small></td> </tr></table>
+<div class="findMoreMatches">
+        View:&nbsp; <a href="/find?q=Wall-E&amp;s=nm&ref_=fn_al_nm_mr" >More name matches</a>
+</div>
+</div>
+<div class="findSection">
+<h3 class="findSectionHeader"><a name="co"></a>Companies</h3>
+<table class="findList">
+<tr class="findResult odd"> <td class="result_text" colspan="2"> <a href="/company/co0181118/?ref_=fn_al_co_1" >Allie-Way Films</a> [us] (Production) </td> </tr><tr class="findResult even"> <td class="result_text" colspan="2"> <a href="/company/co0422599/?ref_=fn_al_co_2" >Where There's A Will Productions</a> [us] (Production) </td> </tr><tr class="findResult odd"> <td class="result_text" colspan="2"> <a href="/company/co0006440/?ref_=fn_al_co_3" >El Deseo S.A.</a> [es] (Production) </td> </tr><tr class="findResult even"> <td class="result_text" colspan="2"> <a href="/company/co0404888/?ref_=fn_al_co_4" >Yo Valley Media</a> [us] (Production) </td> </tr><tr class="findResult odd"> <td class="result_text" colspan="2"> <a href="/company/co0091397/?ref_=fn_al_co_5" >Coop Vidéo de Montréal</a> [ca] (Production) </td> </tr></table>
+<div class="findMoreMatches">
+        View:&nbsp; <a href="/find?q=Wall-E&amp;s=co&ref_=fn_al_co_mr" >More company matches</a>
+</div>
+</div>
+        </div>
     </div>
 
-  <script>
-    if ('csm' in window) {
-      csm.measure('csm_TitleContributeWidget_finished');
-    }
-  </script>
-    
-</div> 
-
-
-<div id="sidebar">
+    <div id="sidebar">
 	
 	<!-- no content received for slot: top_rhs -->
 	
-            
-    
-    
-    <div class="aux-content-widget-3 links subnav" div="quicklinks">
 
-<a href="/title/tt0095016/?ref_=ttloc_ql" class="subnav_heading" >Die Hard</a>                <hr/>
+<div class="aux-content-widget-3">
+<h3>Category Search</h3>
+<p>Search for "Wall-E" within a specific category:
+<ul class="findFilterList">
+<li class="filterActive">All</li>
+<li ><a href="/find?q=Wall-E&amp;s=nm&ref_=fn_nm" >Name</a> <span>(actor, writer, director, etc)</span></li>
+<li ><a href="/find?q=Wall-E&amp;s=tt&ref_=fn_tt" >Title</a> <span>(movie, TV, video game)</span></li>
+   <ul class="findTitleSubfilterList">
+       <li ><a href="/find?q=Wall-E&amp;s=tt&amp;ttype=ft&ref_=fn_ft" >Movie</a></li>
+       <li ><a href="/find?q=Wall-E&amp;s=tt&amp;ttype=tv&ref_=fn_tv" >TV</a></li>
+       <li ><a href="/find?q=Wall-E&amp;s=tt&amp;ttype=ep&ref_=fn_ep" >TV Episode</a></li>
+       <li ><a href="/find?q=Wall-E&amp;s=tt&amp;ttype=vg&ref_=fn_vg" >Video Game</a></li>
+   </ul>
+<li ><a href="/find?q=Wall-E&amp;s=ch&ref_=fn_ch" >Character</a></li>
+<li ><a href="/find?q=Wall-E&amp;s=co&ref_=fn_co" >Company</a></li>
+<li ><a href="/find?q=Wall-E&amp;s=kw&ref_=fn_kw" >Keyword</a></li>
 
-
-        <h4>Details</h4>
-    <ul class="quicklinks">
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/fullcredits?ref_=ttloc_ql_1" class="link" >Full Cast and Crew</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/releaseinfo?ref_=ttloc_ql_2" class="link" >Release Dates</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/officialsites?ref_=ttloc_ql_3" class="link" >Official Sites</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/business?ref_=ttloc_ql_4" class="link" >Box Office/Business</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/companycredits?ref_=ttloc_ql_5" class="link" >Company Credits</a>
-                </li>
-                <li class="subnav_item_main subnav_selected">
-<a href="/title/tt0095016/locations?ref_=ttloc_ql_6" class="link" >Filming Locations</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/technical?ref_=ttloc_ql_7" class="link" >Technical Specs</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/literature?ref_=ttloc_ql_8" class="link ghost" >Literature</a>
-                </li>
+<li><a href="/search/videos/?q=Wall-E&ref_=fn_vi" >Videos</a></li>
+<li><a href="/search/text?realm=title&amp;field=plot&amp;q=Wall-E&ref_=fn_pl" >Plot Summaries</a></li>
+<li><a href="/search/text?realm=name&amp;field=bio&amp;q=Wall-E&ref_=fn_bi" >Biographies</a></li>
+<li><a href="/search/text?realm=title&amp;field=quotes&amp;q=Wall-E&ref_=fn_qu" >Quotes</a></li>
+</ul>
+</div>
+	
+	<!-- no content received for slot: rhs_cornerstone -->
+	
+<div class="aux-content-widget-3">
+    <h3>Additional Search Options</h3>
+    <ul class="findSearchOptionsList">
+        <li><a href="/search/?ref_=fn_asr" >Advanced Search</a></li>
+        <li><a href="/search/title?ref_=fn_asr_tt" >Advanced Title Search</a></li>
+        <li><a href="/search/name?ref_=fn_asr_nm" >Advanced Name Search</a></li>
     </ul>
-        <hr/>
+    <hr />
+<div class="findEnableAdultToggle">
+    <a href="/register/login?ref_=fn_ad" >Log in</a> to enable adult titles/names in your searches.
+</div>
+</div>
 
-        <div id="full_subnav">
-
-
-
-        <h4>Storyline</h4>
-    <ul class="quicklinks">
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/taglines?ref_=ttloc_ql_stry_1" class="link" >Taglines</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/plotsummary?ref_=ttloc_ql_stry_2" class="link" >Plot Summary</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/synopsis?ref_=ttloc_ql_stry_3" class="link" >Synopsis</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/keywords?ref_=ttloc_ql_stry_4" class="link" >Plot Keywords</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/parentalguide?ref_=ttloc_ql_stry_5" class="link" >Parents Guide</a>
-                </li>
-    </ul>
-
-
-        <h4>Did You Know?</h4>
-    <ul class="quicklinks">
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/trivia?ref_=ttloc_ql_trv_1" class="link" >Trivia</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/goofs?ref_=ttloc_ql_trv_2" class="link" >Goofs</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/crazycredits?ref_=ttloc_ql_trv_3" class="link ghost" >Crazy Credits</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/quotes?ref_=ttloc_ql_trv_4" class="link" >Quotes</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/alternateversions?ref_=ttloc_ql_trv_5" class="link" >Alternate Versions</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/movieconnections?ref_=ttloc_ql_trv_6" class="link" >Connections</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/soundtrack?ref_=ttloc_ql_trv_7" class="link" >Soundtracks</a>
-                </li>
-    </ul>
-
-
-        <h4>Photo & Video</h4>
-    <ul class="quicklinks">
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/mediaindex?ref_=ttloc_ql_pv_1" class="link" >Photo Gallery</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/videogallery?ref_=ttloc_ql_pv_2" class="link" >Trailers and Videos</a>
-                </li>
-    </ul>
-
-
-        <h4>Opinion</h4>
-    <ul class="quicklinks">
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/awards?ref_=ttloc_ql_op_1" class="link" >Awards</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/faq?ref_=ttloc_ql_op_2" class="link" >FAQ</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/reviews?ref_=ttloc_ql_op_3" class="link" >User Reviews</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/ratings?ref_=ttloc_ql_op_4" class="link" >User Ratings</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/externalreviews?ref_=ttloc_ql_op_5" class="link" >External Reviews</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/criticreviews?ref_=ttloc_ql_op_6" class="link" >Metacritic Reviews</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/board/?ref_=ttloc_ql_op_7" class="link" >Message Board</a>
-                </li>
-    </ul>
-
-
-        <h4>TV</h4>
-    <ul class="quicklinks">
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/tvschedule?ref_=ttloc_ql_tv_1" class="link" >TV Schedule</a>
-                </li>
-    </ul>
-
-
-        <h4>Related Items</h4>
-    <ul class="quicklinks">
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/news?ref_=ttloc_ql_rel_1" class="link" >NewsDesk</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/showtimes/title/tt0095016?ref_=ttloc_ql_rel_2" class="link ghost" >Showtimes</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="/title/tt0095016/externalsites?ref_=ttloc_ql_rel_3" class="link" >External Sites</a>
-                </li>
-    </ul>
-
-
-        <h4>Professional Services</h4>
-    <ul class="quicklinks">
-                <li class="subnav_item_main">
-<a href="/r/tt_moviemeter_why/title/tt0095016?ref_=ttloc_ql_pro_1" class="link" >Get more at IMDbPro</a>
-                </li>
-                <li class="subnav_item_main">
-<a href="https://secure.imdb.com/store/photos/?ref_=ttloc_ql_pro_2" class="link" >Add posters & stills to this title</a>
-                </li>
-    </ul>
-            <hr/>
-        </div>
-
-        <div class="show_more"><span class="titlePageSprite arrows show"></span>Explore More</div>
-        <div class="show_less"><span class="titlePageSprite arrows hide"></span>Show Less</div>
-    </div>
-  <div class="aux-content-widget-2" id="social-share-widget"> 
-    <div class="social">
-      <div class="social_networking"> 
-       <span><strong>Share</strong> this page:</span>
-  <a onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F', 'newWindow', 'width=626, height=436'); return false;" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
-  <a onclick="window.open('http://twitter.com/intent/tweet?text=Die%20Hard%20(1988)%20-%20http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F', 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/intent/tweet?text=Die%20Hard%20(1988)%20-%20http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F" target="_blank" title="Share on Twitter" class="share_icon twitter"></a>
-  <a onclick="$('div.social input[name=share-link]').show().select(); return false;" title="Share the page" class="share_icon share_url_link" href="http://www.imdb.com/title/tt0095016/"></a>
-      </div>
-      <input type="text" name="share-link" value="http://www.imdb.com/title/tt0095016/" readonly>
-    </div>
-  <script type="text/javascript">generic.monitoring.start_timing("facebook_like_iframe");</script>
-  <div class="social_networking_like">
-    <iframe
-      id="iframe_like"
-      name="fbLikeIFrame_0"
-      class="social-iframe"
-      scrolling="no"
-      frameborder="0"
-      allowTransparency="allowTransparency"
-      ref="http://www.imdb.com/title/tt0095016/"
-      width=280
-      height=65></iframe>
-  </div>
-  </div>
-        <div class="aux-content-widget-2">
-            <div id="relatedListsWidget">
-                <div class="rightcornerlink">
-                    <a href="/list/create?ref_=ttloc_rls" >Create a list</a>&nbsp;&raquo;
-                </div>
-                <h3>User Lists</h3>
-                <p>Related lists from IMDb users</p>
-                
-                    <div class="list-preview even">
-                        <div class="list-preview-item-narrow">
-<a href="/list/94AxxdmHt3k/?ref_=ttloc_rls_1" >
-<img height="86" width="86" alt="list image" title="list image"
-src="/images/nopicture/medium/film.png"
-class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMjE0Mjc3ODAwNV5BMl5BanBnXkFtZTgwMDM3ODI1MDE@._V1_SX86_CR0,0,86,86_.jpg" />
-<noscript>
-<img height="86" width="86" alt="list image" title="list image"
-src="http://ia.media-imdb.com/images/M/MV5BMjE0Mjc3ODAwNV5BMl5BanBnXkFtZTgwMDM3ODI1MDE@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
-</noscript>
-</a>                        </div>
-                        <div class="list_name">
-                            <b><a href="/list/94AxxdmHt3k/?ref_=ttloc_rls_1" >Great Movie Quotes from the 1980s</a></b>
-                        </div>
-                        <div class="list_meta">
-                            a list of 44 titles 
-                             created 16&nbsp;Oct&nbsp;2010
-                        </div>
-                        <div class="clear">&nbsp;</div>
-                    </div>
-                    <div class="list-preview odd">
-                        <div class="list-preview-item-narrow">
-<a href="/list/yJU7d0IpOjQ/?ref_=ttloc_rls_2" >
-<img height="86" width="86" alt="list image" title="list image"
-src="/images/nopicture/medium/film.png" class="rec_poster_img" />
-</a>                        </div>
-                        <div class="list_name">
-                            <b><a href="/list/yJU7d0IpOjQ/?ref_=ttloc_rls_2" >The League of Extremely Frightening Men</a></b>
-                        </div>
-                        <div class="list_meta">
-                            a list of 31 images 
-                             created 10&nbsp;Nov&nbsp;2012
-                        </div>
-                        <div class="clear">&nbsp;</div>
-                    </div>
-                    <div class="list-preview even">
-                        <div class="list-preview-item-narrow">
-<a href="/list/yuanCaiOWiE/?ref_=ttloc_rls_3" >
-<img height="86" width="86" alt="list image" title="list image"
-src="/images/nopicture/medium/film.png"
-class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@._V1_SX86_CR0,0,86,86_.jpg" />
-<noscript>
-<img height="86" width="86" alt="list image" title="list image"
-src="http://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
-</noscript>
-</a>                        </div>
-                        <div class="list_name">
-                            <b><a href="/list/yuanCaiOWiE/?ref_=ttloc_rls_3" >Movies I've watched</a></b>
-                        </div>
-                        <div class="list_meta">
-                            a list of 383 titles 
-                             created 11&nbsp;months&nbsp;ago
-                        </div>
-                        <div class="clear">&nbsp;</div>
-                    </div>
-                    <div class="list-preview odd">
-                        <div class="list-preview-item-narrow">
-<a href="/list/A_1NRcSpi4c/?ref_=ttloc_rls_4" >
-<img height="86" width="86" alt="list image" title="list image"
-src="/images/nopicture/medium/film.png"
-class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQxMTAwMDQ3Nl5BMl5BanBnXkFtZTcwODMwNTgzMQ@@._V1_SX86_CR0,0,86,86_.jpg" />
-<noscript>
-<img height="86" width="86" alt="list image" title="list image"
-src="http://ia.media-imdb.com/images/M/MV5BMTQxMTAwMDQ3Nl5BMl5BanBnXkFtZTcwODMwNTgzMQ@@._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
-</noscript>
-</a>                        </div>
-                        <div class="list_name">
-                            <b><a href="/list/A_1NRcSpi4c/?ref_=ttloc_rls_4" >Top 50 movies</a></b>
-                        </div>
-                        <div class="list_meta">
-                            a list of 38 titles 
-                             created 11&nbsp;months&nbsp;ago
-                        </div>
-                        <div class="clear">&nbsp;</div>
-                    </div>
-                    <div class="list-preview even">
-                        <div class="list-preview-item-narrow">
-<a href="/list/gkFvKWNuLZQ/?ref_=ttloc_rls_5" >
-<img height="86" width="86" alt="list image" title="list image"
-src="/images/nopicture/medium/film.png"
-class="loadlate hidden rec_poster_img" loadlate="http://ia.media-imdb.com/images/M/MV5BMTQ3MDA4MDIyN15BMl5BanBnXkFtZTYwOTg0Njk4._V1_SX86_CR0,0,86,86_.jpg" />
-<noscript>
-<img height="86" width="86" alt="list image" title="list image"
-src="http://ia.media-imdb.com/images/M/MV5BMTQ3MDA4MDIyN15BMl5BanBnXkFtZTYwOTg0Njk4._V1_SX86_CR0,0,86,86_.jpg" class="rec_poster_img" />
-</noscript>
-</a>                        </div>
-                        <div class="list_name">
-                            <b><a href="/list/gkFvKWNuLZQ/?ref_=ttloc_rls_5" >Top Action Flicks</a></b>
-                        </div>
-                        <div class="list_meta">
-                            a list of 37 titles 
-                             created 3&nbsp;months&nbsp;ago
-                        </div>
-                        <div class="clear">&nbsp;</div>
-                    </div>
-                <div class="see-more">
-                    <a href="/lists/tt0095016?ref_=ttloc_rls_sm" >See all related lists</a>&nbsp;&raquo;
-                </div>
-            </div>
-        </div>
 	
 	<!-- no content received for slot: bottom_rhs -->
 	
-</div> 
-
-</div> 
-
-<div id="content-1" class="redesign clear">
+    </div>
 </div>
-
                    <br class="clear" />
                 </div>
 
@@ -1084,31 +717,18 @@ href="//www.amazon.com/InterestBasedAds"
 	
             </div>
         </div>
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/jquery-4133058748._V354516613_.js"></script>
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/consumersite-1090587575._V354100634_.js"></script>
 
-<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/title-36935490._V363304090_.js"></script>
 
 <script type="text/imdblogin-js" id="login">
 jQuery(document).ready(function(){
-    window.imdb.login_lightbox("https://secure.imdb.com", "http://www.imdb.com/title/tt0095016/locations");
+    window.imdb.login_lightbox("https://secure.imdb.com", "http://www.imdb.com/find?q=Wall-E");
 });
 </script>
 
-        <script type="text/javascript">
-                jQuery(
-                             function() {
-           var facebookTheme = (window.custom && window.custom.full_page && window.custom.full_page.theme) ? window.custom.full_page.theme : "light",
-               url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0095016%2F&colorscheme=" + facebookTheme,
-               like = document.getElementById('iframe_like');
-           if (like) {
-              like.src = url;
-              like.onload = function () { generic.monitoring.stop_timing('facebook_like_iframe', '', false); };
-           }
-        }
 
-                );
-        </script>
-
-<div id="servertime" time="53"/>
+<div id="servertime" time="651"/>
 
 
 
@@ -1119,3 +739,4 @@ jQuery(document).ready(function(){
 </script>
     </body>
 </html>
+

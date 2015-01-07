@@ -1,0 +1,1505 @@
+HTTP/1.1 200 OK
+Date: Fri, 31 Jan 2014 10:08:24 GMT
+Server: HTTPDaemon
+X-Frame-Options: SAMEORIGIN
+Cache-Control: private
+Content-Type: text/html; charset=iso-8859-1
+Set-Cookie: uu=BCYtK88nTz2RIZqYqdswl80quPlbCj7kQ46s3fV_4oQJZW1Dwwl9TdYrXHa5YvUEOhx-inyIqHWtQqhzL4qnKy3zIcN2eyJTHBKEncsnTaZPxT8gYQHnyuwGC0-ddMefAiMUoX7GxK10wnf1_lCRVf5e_r6EQZJm2MlDiQclSPi0W7U;expires=Thu, 30 Dec 2037 00:00:00 GMT;path=/;domain=.imdb.com
+Set-Cookie: cs=8veUXK1PKycute+wZMR0iwenOqqgkW26kBl9MsOy/rnjAn6pwDHOqZCRbbqXx+36gJFtjOeHjiqjhmlIR9HNOdCRWyxAGW26oKdbraCRbbqgsW26oJFt+uDBHYqg==;expires=Sat, 01 Feb 2014 08:00:00 GMT;path=/;domain=.imdb.com
+Vary: Accept-Encoding,User-Agent
+P3P: policyref="http://i.imdb.com/images/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Transfer-Encoding: chunked
+
+
+<!DOCTYPE html>
+<html xmlns:og="http://opengraphprotocol.org/schema/"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<script type="text/javascript">var IMDbTimer={starttime: new Date().getTime()};</script>
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
+<script>
+var addClickstreamHeadersToAjax = function(xhr) {
+    xhr.setRequestHeader("x-imdb-parent-id", "0P2FBDZW4GBWTMZN3DJ1");
+};
+</script>
+
+<title>&#x22;The Big Bang Theory&#x22; (2007)</title>
+<script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
+<link rel="canonical" href="http://www.imdb.com/title/tt0898266/combined" /><meta property="og:url" content="http://www.imdb.com/title/tt0898266/combined" />
+
+<meta name="title" content="&#x22;The Big Bang Theory&#x22; (2007)">
+<meta name="description" content="Created by Chuck Lorre, Bill Prady. With Johnny Galecki, Jim Parsons, Simon Helberg. A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory. Visit IMDb for Photos, Showtimes, Cast, Crew, Reviews, Plot Summary, Comments, Discussions, Taglines, Trailers, Posters, Fan Sites">
+<link rel="image_src" href="http://ia.media-imdb.com/images/M/MV5BMjQzMTYyODM4M15BMl5BanBnXkFtZTcwMTAxMDU1MQ@@._V1._SX100_SY135_.jpg"><meta property="og:image" content="http://ia.media-imdb.com/images/M/MV5BMjQzMTYyODM4M15BMl5BanBnXkFtZTcwMTAxMDU1MQ@@._V1._SX100_SY135_.jpg">
+<meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits">
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFfbfec648bbc579f7eabb35fb29cced63/css/min/title.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF7b8b11c6ebd55d6d832218bf519571ff/css2/site/consumer-navbar-mega.css" ><script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
+
+
+<meta name="application-name" content="IMDb" />
+<meta name="msapplication-tooltip" content="IMDb Web App" />
+<meta name="msapplication-window" content="width=1500;height=900" />
+<meta name="msapplication-task" content="name=Find Movie Showtimes;action-uri=/showtimes/;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<meta name="msapplication-task" content="name=Watch HD Trailers;action-uri=/features/hdgallery;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<meta name="msapplication-task" content="name=What's On TV Tonight;action-uri=/sections/tv/;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<meta name="msapplication-task" content="name=Get Latest Entertainment News;action-uri=/news/top;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<meta name="msapplication-task" content="name=Sign-in;action-uri=/register/login;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+<link rel="icon" type="image/ico"
+      href="http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico" />
+<link rel="shortcut icon" type="image/x-icon"
+      href="http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/desktop-favicon.ico" />
+<link rel="apple-touch-icon"
+      href="http://i.media-imdb.com/images/SFc8a0bc1039862e1386365008f0507ea9/apple-touch-icon.png" />
+<link rel="search" type="application/opensearchdescription+xml"
+      href="http://i.media-imdb.com/images/SFccbe1e4d909ef8b8077201c3c5aac349/imdbsearch.xml" title="IMDb" />
+<script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+<script type="text/javascript">var __vkey = '9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX';var __vrtg = '8.7';</script>
+<meta property="og:type" content="tv_show" />
+<meta property="fb:app_id" content="115109575169727" />
+<meta property="og:title" content="&#x22;The Big Bang Theory&#x22; (2007)" />
+<meta property="og:site_name" content="IMDb" />
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
+<!-- start m/s/a/_g_a_s , head -->
+<script>
+window.ads_js_start = new Date().getTime();
+var imdbads = imdbads || {}; imdbads.cmd = imdbads.cmd || [];
+</script>
+<!-- begin SRA -->
+<script>
+(function(){var d=function(o){return Object.prototype.toString.call(o)==="[object Array]";},g=function(q,p){var o;for(o=0;o<q.length;o++){if(o in q){p.call(null,q[o],o);}}},h=[],k,b,l=false,n=false,f=function(){var o=[],p=[],q={};g(h,function(s){var r="";g(s.dartsite.split("/"),function(t){if(t!==""){if(t in q){}else{q[t]=o.length;o.push(t);}r+="/"+q[t];}});p.push(r);});return{iu_parts:o,enc_prev_ius:p};},c=function(){var o=[];g(h,function(q){var p=[];g(q.sizes,function(r){p.push(r.join("x"));});o.push(p.join("|"));});return o;},m=function(){var o=[];g(h,function(p){o.push(a(p.targeting));});return o.join("|");},a=function(r,o){var q,p,s=[];for(q in r){p=[];for(j=0;j<r[q].length;j++){p.push(encodeURIComponent(r[q][j]));}if(o){s.push(q+"="+encodeURIComponent(p.join(",")));}else{s.push(q+"="+p.join(","));}}return s.join("&");},e=function(){var o=+new Date();if(n){return;}if(!this.readyState||"loaded"===this.readyState){n=true;if(l){imdbads.cmd.push(function(){for(i=0;i<h.length;i++){generic.monitoring.record_metric(h[i].name+".fail",csm.duration(o));}});}}};window.tinygpt={define_slot:function(r,q,o,p){h.push({dartsite:r.replace(/\/$/,""),sizes:q,name:o,targeting:p});},set_targeting:function(o){k=o;},callback:function(p){var q,o={},s,r=+new Date();l=false;for(q=0;q<h.length;q++){s=h[q].dartsite;name=h[q].name;if(p[q][s]){o[name]=p[q][s];}else{window.console&&console.error&&console.error("Unable to correlate GPT response for "+name);}}imdbads.cmd.push(function(){for(q=0;q<h.length;q++){ad_utils.slot_events.trigger(h[q].name,"request",{timestamp:b});ad_utils.slot_events.trigger(h[q].name,"tagdeliver",{timestamp:r});}ad_utils.gpt.handle_response(o);});},send:function(){var r=[],q=function(s,t){if(d(t)){t=t.join(",");}if(t){r.push(s+"="+encodeURIComponent(""+t));}},o,p;if(h.length===0){tinygpt.callback({});return;}q("gdfp_req","1");q("correlator",Math.floor(4503599627370496*Math.random()));q("output","json_html");q("callback","tinygpt.callback");q("impl","fifs");q("json_a","1");result=f();q("iu_parts",result.iu_parts);q("enc_prev_ius",result.enc_prev_ius);q("prev_iu_szs",c());q("prev_scp",m());q("cust_params",a(k,true));o=document.createElement("script");p=document.getElementsByTagName("script")[0];o.async=true;o.type="text/javascript";o.src="http://pubads.g.doubleclick.net/gampad/ads?"+r.join("&");o.id="tinygpt";o.onload=o.onerror=o.onreadystatechange=e;l=true;p.parentNode.insertBefore(o,p);b=+new Date();}};})();</script>
+<script>
+tinygpt.define_slot('/4215/imdb2.consumer.tv/',
+[[300,250],[300,600],[11,1]],
+'top_rhs',
+{
+'p': ['tr']
+});
+tinygpt.define_slot('/4215/imdb2.consumer.tv/',
+[[728,90],[2,1]],
+'bottom_ad',
+{
+'p': ['b']
+});
+tinygpt.define_slot('/4215/imdb2.consumer.tv/',
+[[728,90],[1008,150],[1008,200],[1008,30],[970,250],[9,1]],
+'top_ad',
+{
+'p': ['top','t']
+});
+tinygpt.set_targeting({
+'g' : ['co'],
+'tt' : ['tv'],
+'m' : [],
+'coo' : ['us'],
+'b' : [],
+'b' : ['t250a'],
+'b' : ['glbst','friencom','glbs14','falltv'],
+'fv' : ['1'],
+'id' : ['tt0898266'],
+'u': ['368278368501'],
+'oe': ['utf-8']
+});
+tinygpt.send();
+</script>
+<!-- begin ads header -->
+<script src="http://ia.media-imdb.com/images/G/01/imdbads/js/collections/ads-2541920348._V362495264_.js"></script>
+<script>
+doWithAds = function(){};
+</script>
+<script>
+doWithAds = function(inside, failureMessage){
+if ('consoleLog' in window &&
+'generic' in window &&
+'ad_utils' in window &&
+'custom' in window &&
+'monitoring' in generic &&
+'document_is_ready' in generic) {
+try{
+inside.call(this);
+}catch(e) {
+if ( window.ueLogError ) {
+if(typeof failureMessage !== 'undefined'){
+e.message = failureMessage;
+}
+e.attribution = "Advertising";
+e.logLevel = "ERROR";
+ueLogError(e);
+}
+if( (document.location.hash.match('debug=1')) &&
+(typeof failureMessage !== 'undefined') ){
+console.error(failureMessage);
+}
+}
+} else {
+if( (document.location.hash.match('debug=1')) &&
+(typeof failureMessage !== 'undefined') ){
+console.error(failureMessage);
+}
+}
+};
+</script><script>
+doWithAds(function(){
+generic.monitoring.record_metric("ads_js_request_to_done", (new Date().getTime()) - window.ads_js_start);
+ad_utils.weblab.set_treatment('gpt single-request', 'Use GPT ad requests.');
+generic.monitoring.enable_weblab_metrics('107', '2', [
+'csm_core_ads_load', 'csm_core_ads_iframe', 'csm_core_ads_reflow', 'csm_core_ads_tagdeliver', 'csm_core_ads_request',
+'csm_top_ad_load', 'csm_top_ad_iframe', 'csm_top_ad_reflow', 'csm_top_ad_tagdeliver', 'csm_top_ad_request',
+'csm_top_rhs_load', 'csm_top_rhs_iframe', 'csm_top_rhs_reflow', 'csm_top_rhs_tagdeliver', 'csm_top_rhs_request',
+'top_ad.got_ad', 'top_rhs.got_ad', 'injected_billboard.got_ad', 'injected_navstrip.got_ad', 'bottom_ad.got_ad',
+'top_ad.blank', 'top_rhs.blank', 'injected_billboard.blank', 'injected_navstrip.blank', 'bottom_ad.blank',
+'top_ad.null', 'top_rhs.null', 'injected_billboard.null', 'injected_navstrip.null', 'bottom_ad.null',
+'page_load'
+]);
+generic.monitoring.set_forester_info("title");
+generic.monitoring.set_twilight_info(
+"title_subpage",
+"Other",
+"2f431ab487b9a99158f5d43360055943218aa7df",
+"2014-01-31T10%3A08%3A24GMT",
+"http://s.media-imdb.com/twilight/?",
+"consumer");
+generic.send_csm_head_metrics && generic.send_csm_head_metrics();
+generic.monitoring.start_timing("page_load");
+generic.seconds_to_midnight = 78696;
+generic.days_to_midnight = 0.9108333587646484;
+ad_utils.set_slots_on_page({ 'injected_navstrip':1, 'top_ad':1, 'top_rhs':1, 'bottom_ad':1, 'injected_billboard':1 });
+custom.full_page.data_url = "http://ia.media-imdb.com/images/G/01/imdbads/js/graffiti_data-3829634352._V355702536_.js";
+consoleLog('advertising initialized','ads');
+},"ads js missing, skipping ads setup.");
+</script>
+<script>doWithAds(function() { ad_utils.ads_header.done(); });</script>
+<!-- end ads header --><!-- end m/s/a/_g_a_s , head -->
+
+</head>
+
+<body bgcolor="#ffffff" text="#000000" id="styleguide-v2" class="fixed">
+<!-- start m/s/a/_g_a_s , body -->
+<!-- end m/s/a/_g_a_s , body -->
+
+<div id="wrapper">
+  
+<div id="root">
+<layer name="root">
+  
+
+
+
+
+<div id="nb20" class="navbarSprite">
+    <div id="supertab">
+
+
+<!-- begin TOP_AD -->
+<div id="top_ad_wrapper" class="dfp_slot">
+<script type="text/javascript">
+doWithAds(function(){
+ad_utils.register_ad('top_ad');
+});
+</script>
+<iframe data-dart-params="#imdb2.consumer.tv/;!TILE!;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;g=co;tt=tv;coo=us;b=t250a;b=glbst;b=friencom;b=glbs14;b=falltv;fv=1;id=tt0898266;oe=utf-8;[CLIENT_SIDE_KEYVALUES];u=368278368501;ord=368278368501?" id="top_ad" name="top_ad" class="yesScript" width="0" height="85" data-original-width="0" data-original-height="85" data-config-width="0" data-config-height="85" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });"></iframe>
+<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.consumer.tv/;tile=0;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;g=co;tt=tv;coo=us;b=t250a;b=glbst;b=friencom;b=glbs14;b=falltv;fv=1;id=tt0898266;ord=368278368501?" target="_blank"><img src="http://ad.doubleclick.net/N4215/ad/imdb2.consumer.tv/;tile=0;sz=728x90,1008x150,1008x200,1008x30,970x250,9x1;p=top;p=t;g=co;tt=tv;coo=us;b=t250a;b=glbst;b=friencom;b=glbs14;b=falltv;fv=1;id=tt0898266;ord=368278368501?" border="0" alt="advertisement" /></a></noscript>
+</div>
+<div id="top_ad_reflow_helper"></div>
+<script>
+doWithAds(function(){
+ad_utils.gpt.render_ad('top_ad');
+}, "ad_utils not defined, unable to render client-side GPT ad.");
+</script>
+<!-- End TOP_AD --><!-- _get_ad_for_slot(TOP_AD) -->
+</div>
+	<div id="navbar">
+        <noscript><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF52e6b9f11712d3ec552179f6c869b63a/css2/site/consumer-navbar-no-js.css"></noscript>
+		<span id="home_img_holder">            <a    onclick="(new Image()).src='/rg/home/navbar/images/b.gif?link=%2F%3Fref_%3Dnv_home';"     href="/?ref_=nv_home"    id='home_img' class='navbarSprite' title='Home' ></a>
+
+            <span class="alt_logo">
+                <a    onclick="(new Image()).src='/rg/home/navbar/images/b.gif?link=%2F%3Fref_%3Dnv_home';"     href="/?ref_=nv_home"    title='Home' >IMDb</a>
+            </span>
+        </span>
+
+
+<form    onsubmit="(new Image()).src='/rg/SEARCH-BOX/HEADER/images/b.gif?link=/find';"    action="/find"    method="get" id="navbar-form" class="nav-searchbar-inner" accept-charset="utf-8" >
+
+<div id="nb_search" >
+
+  <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+  <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+  <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more..." >
+  <div class="quicksearch_dropdown_wrapper">
+
+<select
+    class="quicksearch_dropdown navbarSprite"
+    name="s"
+    id="quicksearch"
+    onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+
+    <option  
+     value="all">All</option>
+    <option  
+     value="tt">Titles</option>
+    <option  
+     value="ep">TV Episodes</option>
+    <option  
+     value="nm">Names</option>
+    <option  
+     value="co">Companies</option>
+    <option  
+     value="kw">Keywords</option>
+    <option  
+     value="ch">Characters</option>
+    <option  
+     value="vi">Videos</option>
+    <option  
+     value="qu">Quotes</option>
+    <option  
+     value="bi">Bios</option>
+    <option  
+     value="pl">Plots</option>
+</select>
+
+  </div>
+
+<div id="navbar-suggestionsearch"></div>
+</div>
+
+</form>
+
+
+<div id="megaMenu">
+    <ul id="consumer_main_nav" class="main_nav">
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navTitleMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="/movies-in-theaters/?ref_=nv_tp_inth_1"    >Movies</a>,
+                <a     href="/tv/?ref_=nv_tp_tvhm_2"    >TV</a><br />
+                & <a     href="/showtimes/?ref_=nv_tp_sh_3"    >Showtimes</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu1" class="sub_nav">
+                <div id="titleAd"></div>
+                <div class="subNavListContainer">
+                    <h5>MOVIES</h5>
+                    <ul>
+                        
+                        <li><a     href="/movies-in-theaters/?ref_=nv_mv_inth_1"    >In Theaters</a></li>
+                        <li><a     href="/showtimes/?ref_=nv_mv_sh_2"    >Showtimes & Tickets</a></li>
+                        <li><a     href="/trailers/?ref_=nv_mv_tr_3"    >Latest Trailers</a></li>
+                        <li><a     href="/movies-coming-soon/?ref_=nv_mv_cs_4"    >Coming Soon</a></li>
+                        <li><a     href="/calendar/?ref_=nv_mv_cal_5"    >Release Calendar</a></li>
+                    </ul>
+                    <h5>CHARTS & TRENDS</h5>
+                    <ul>
+                        <li><a     href="/search/title?count=100&title_type=feature,tv_series&ref_=nv_ch_mm_1"    >Popular Movies & TV</a></li>
+                        <li><a     href="/chart/?ref_=nv_ch_cht_2"    >Box Office</a></li>
+                        <li><a     href="/search/title?count=100&groups=oscar_best_picture_winners&sort=year,desc&ref_=nv_ch_osc_3"    >Oscar Winners</a></li>
+                        <li><a     href="/chart/top?ref_=nv_ch_250_4"    >Top 250</a></li>
+                        <li><a     href="/genre/?ref_=nv_ch_gr_5"    >Most Popular by Genre</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>TV & VIDEO</h5>
+                    <ul>
+                        <li><a     href="/tv/?ref_=nv_tvv_hm_1"    >TV Home</a></li>
+                        <li><a     href="/tvgrid/?ref_=nv_tvv_ls_2"    >On Tonight</a></li>
+                        <li><a     href="/watchnow/?ref_=nv_tvv_wn_3"    >Watch Now on Amazon</a></li>
+                        <li><a     href="/sections/dvd/?ref_=nv_tvv_dvd_4"    >DVD & Blu-Ray</a></li>
+                        <li><a     href="/tv/blog?ref_=nv_tvv_blog_5"    >TV Blog</a></li>
+                    </ul>
+                    <h5>SPECIAL FEATURES</h5>
+                    <ul>
+                        <li><a     href="/year-in-review/?ref_=nv_sf_best_1"    >Best of 2013</a></li>
+                        <li><a     href="/oscars/?ref_=nv_sf_rto_2"    >Road to the Oscars 2014</a></li>
+                        <li><a     href="/x-ray/?ref_=nv_sf_xray_3"    >X-Ray for Movies & TV</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNameMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="/search/name?gender=male,female&ref_=nv_tp_cel_1"    >Celebs</a>,
+                <a     href="/event/?ref_=nv_tp_ev_2"    >Events</a><br />
+                & <a     href="/media/index/rg1176148480?ref_=nv_tp_ph_3"    >Photos</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu2" class="sub_nav">
+                <div id="nameAd"></div>
+                <div class="subNavListContainer">
+                    <h5>CELEBS</h5>
+                    <ul>
+                        <li><a     href="/search/name?birth_monthday=1-31&refine=birth_monthday&ref_=nv_cel_brn_1"    >Born Today</a></li>
+                        <li><a     href="/news/celebrity?ref_=nv_cel_nw_2"    >Celebrity News</a></li>
+                        <li><a     href="/search/name?gender=male,female&ref_=nv_cel_m_3"    >Most Popular Celebs</a></li>
+                    </ul>
+                    <h5>PHOTOS</h5>
+                    <ul>
+                        <li><a     href="/media/index/rg1176148480?ref_=nv_ph_ls_1"    >Latest Stills</a></li>
+                        <li><a     href="/media/index/rg1528338944?ref_=nv_ph_lp_2"    >Latest Posters</a></li>
+                        <li><a     href="/sections/photos/premieres/?ref_=nv_ph_prem_3"    >Movie & TV Premieres</a></li>
+                        <li><a     href="/sections/photos/red_carpet/?ref_=nv_ph_red_4"    >On the Red Carpet</a></li>
+                        <li><a     href="/sections/photos/special_galleries/?ref_=nv_ph_sp_5"    >Special Galleries</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>EVENTS</h5>
+                    <ul>
+                        <li><a     href="/oscars/?ref_=nv_ev_rto_1"    >Road to the Oscars</a></li>
+                        <li><a     href="/emmys/?ref_=nv_ev_rte_2"    >Road to the Emmys</a></li>
+                        <li><a     href="/comic-con/?ref_=nv_ev_comic_3"    >Comic-Con</a></li>
+                        <li><a     href="/cannes/?ref_=nv_ev_can_4"    >Cannes</a></li>
+                        <li><a     href="/tribeca/?ref_=nv_ev_tri_5"    >Tribeca</a></li>
+                        <li><a     href="/sundance/?ref_=nv_ev_sun_6"    >Sundance</a></li>
+                        <li><a     href="/event/?ref_=nv_ev_all_7"    >More Popular Events</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNewsMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="/news/top?ref_=nv_tp_nw_1"    >News</a> &<br />
+                <a     href="/boards/?ref_=nv_tp_bd_2"    >Community</p>
+            <span class="downArrow"></span>
+            <div id="navMenu3" class="sub_nav">
+                <div id="latestHeadlines">
+                    <div class="subNavListContainer">
+                        <h5>LATEST HEADLINES</h5>
+                        
+<ul>
+    <li itemprop="headline">
+        <a     href="/news/ni56738656/?ref_=nb_nwt_1"    >
+            &#x27;Neighbors&#x27; with Seth Rogen, &#x27;Space Station 76,&#x27; more join SXSW features lineup</a><br />
+            <span class="time">14 hours ago
+</span>
+    </li>
+    <li itemprop="headline">
+        <a     href="/news/ni56738234/?ref_=nb_nwt_2"    >
+            Oscars: Michael B. Jordan, Kristen Bell to Host Sci-Tech Awards</a><br />
+            <span class="time">15 hours ago
+</span>
+    </li>
+    <li itemprop="headline">
+        <a     href="/news/ni56737830/?ref_=nb_nwt_3"    >
+            Jerry Seinfeld Sorta Confirms Seinfeld Reunion, Gives Details on Secret Project With Jason Alexander</a><br />
+            <span class="time">16 hours ago
+</span>
+    </li>
+</ul>
+
+                    </div>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>NEWS</h5>
+                    <ul>
+                        <li><a     href="/news/top?ref_=nv_nw_tp_1"    >Top News</a></li>
+                        <li><a     href="/news/movie?ref_=nv_nw_mv_2"    >Movie News</a></li>
+                        <li><a     href="/news/tv?ref_=nv_nw_tv_3"    >TV News</a></li>
+                        <li><a     href="/news/celebrity?ref_=nv_nw_cel_4"    >Celebrity News</a></li>
+                        <li><a     href="/news/indie?ref_=nv_nw_ind_5"    >Indie News</a></li>
+                    </ul>
+                    <h5>COMMUNITY</h5>
+                    <ul>
+                        <li><a     href="/boards/?ref_=nv_cm_bd_1"    >Message Boards</a></li>
+                        <li><a     href="/czone/?ref_=nv_cm_cz_2"    >Contributor Zone</a></li>
+                        <li><a     href="/games/guess?ref_=nv_cm_qz_3"    >Quiz Game</a></li>
+                        <li><a     href="/poll/?ref_=nv_cm_pl_4"    >Polls</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navWatchlistMenu" aria-haspopup="true">
+            
+<p class="navCategory singleLine watchlist"><a     href="/list/watchlist?ref_=nv_wl_all_0"    >Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div id="navMenu4" class="sub_nav">
+    <h5>
+        RECENTLY ADDED
+    </h5> 
+    <ul id="navWatchlist">
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.watchlistTeaserData = [
+        {
+            href : "/register/login",
+            id : "wlLogin",
+        src  : "http://i.media-imdb.com/images/SF77aec4b719e703a39cac8d5566a9a0e0/navbar/watchlist_slot1_logged_out.jpg"
+        }
+,        {
+        href : "/search/title?count=100&title_type=feature,tv_series",
+        src  : "http://i.media-imdb.com/images/SF58fa0cd127839460ec17b7302830564f/navbar/watchlist_slot2_popular.jpg"
+        }
+,        {
+        href : "/chart/top",
+        src  : "http://i.media-imdb.com/images/SFe1df4328a14bfcbe6b5cf6fad771c2e4/navbar/watchlist_slot3_top250.jpg"
+        }
+    ];
+    </script>
+</div>
+
+        </li>
+        <li class="spacer"></li>
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.navbarAdSlots = {"titleAd":{"secondaryClickTrackers":[{"url":"http://s.amazon-adsystem.com/click?d=forester-did&ex-fch=416719&rd=http%3A//www.imdb.com/images/b.gif&cb=8,669,532,877,035,588,533&ex-fargs=%3Fi%3D8g5k61-sF8DjCLJQYnnO3g%26a%3D4769006773958%26c%3D6849980845715%26s%3Dpda%26e%3DsecondaryClick&769355737777559576"}],"titleDisplayBase":{"displayTitleTypeOriginal":"movie","primaryTitleText":"The Big Lebowski","titleId":"tt0118715","displayTitleType":"movie","regionalTitleTexts":[{"region":"AR","title":"El gran Lebowski"},{"region":"AT","title":"The Big Lebowski"},{"language":"bg","region":"BG","title":"Големият Лебовски"},{"region":"BR","title":"O Grande Lebowski"},{"language":"fr","region":"CA","title":"Erreur sur la personne"},{"region":"CZ","title":"Big Lebowski"},{"region":"DE","title":"The Big Lebowski"},{"region":"EE","title":"Suur Lebowski"},{"region":"ES","title":"El gran Lebowski"},{"region":"FI","title":"Big Lebowski"},{"region":"FR","title":"The Big Lebowski"},{"region":"GR","title":"Ο Μεγάλος Λεμπόφσκι"},{"region":"HR","title":"Veliki Lebowski"},{"region":"HU","title":"A nagy Lebowski"},{"region":"IT","title":"Il grande Lebowski"},{"region":"JP","title":"Biggu ribousuki"},{"region":"MX","title":"El gran Lebowski"},{"region":"NO","title":"Den store Lebowski"},{"region":"PE","title":"Identidad peligrosa"},{"region":"PL","title":"Big Lebowski"},{"region":"PT","title":"O Grande Lebowski"},{"region":"RO","title":"Marele Lebowski"},{"region":"RS","title":"Veliki Lebovski"},{"region":"RU","title":"Большой Лебовски"},{"region":"SI","title":"Veliki Lebowski"},{"region":"SK","title":"Big Lebowski"},{"language":"tr","region":"TR","title":"Büyük Lebowski"},{"region":"US","title":"The Big Lebowski"},{"region":"UY","title":"El gran Lebowski"}],"year":"1998"},"impressionTrackers":[{"url":"http://aax-us-east.amazon-adsystem.com/e/loi/imp?b=767c1762-1d6d-4625-bab5-2396e67521d6"}],"clickThru":"http://www.imdb.com/title/tt0118715/","imageUrl":"http://ia.media-imdb.com/images/M/MV5BMTMyMDAwMDM4OF5BMl5BanBnXkFtZTcwMDgzNDE0NQ@@._V1._SY345_CR35,20,410,315_.jpg","clickTrackers":[{"url":"http://s.amazon-adsystem.com/click?d=forester-did&ex-fch=416719&rd=http%3A//www.imdb.com/images/b.gif&cb=4,326,692,970,080,252,598&ex-fargs=%3Fi%3D8g5k61-sF8DjCLJQYnnO3g%26a%3D4769006773958%26c%3D6849980845715%26s%3Dpda%26e%3Dclick&-8533992319782826344"}],"rank":"143","titleYears":"1998","headline":"The Big Lebowski"},"nameAd":{"clickThru":"http://www.imdb.com/chart/top","imageUrl":"http://i.media-imdb.com/images/SFe0ce208008022d832c3c6dcf5c52ac6d/navbar/celebs_fallback.png","secondaryClickTrackers":[{"url":"http://s.amazon-adsystem.com/click?d=forester-did&ex-fch=416719&rd=http%3A//www.imdb.com/images/b.gif&cb=5,021,917,955,383,025,261&ex-fargs=%3Fi%3DgjGM0neJFZzH.AK7MoAX9w%26a%3D7033606028354%26c%3D6849980845715%26s%3Dpda%26e%3DsecondaryClick&6660058713321960791"}],"clickTrackers":[{"url":"http://s.amazon-adsystem.com/click?d=forester-did&ex-fch=416719&rd=http%3A//www.imdb.com/images/b.gif&cb=3,321,800,431,169,742,290&ex-fargs=%3Fi%3DgjGM0neJFZzH.AK7MoAX9w%26a%3D7033606028354%26c%3D6849980845715%26s%3Dpda%26e%3Dclick&976233922703902475"}],"impressionTrackers":[{"url":"http://aax-us-east.amazon-adsystem.com/e/loi/imp?b=b97025bf-cb71-4f05-a354-1ff85cfba57d"}]}};
+    </script>
+</div>
+
+
+
+<div id="nb_extra">
+    <ul id="nb_extra_nav" class="main_nav">
+        <li class="css_nav_item" id="navProMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a    onclick="(new Image()).src='/rg/imdbprohome/navbar/images/b.gif?link=%2Fr%2FIMDbTabNV%2F';"     href="/r/IMDbTabNV/"    >
+                    <img alt="IMDbPro Menu" src="http://i.media-imdb.com/images/SF4a741137cf9a260e127fef64455ebfbc/navbar/imdbpro_logo_nb.png" />
+                </a>
+            </p>
+            <span class="downArrow"></span>
+            <div id="navMenuPro" class="sub_nav">
+                <a    onclick="(new Image()).src='/rg/imdbprohome/navbar/images/b.gif?link=%2Fr%2FIMDbTabNV%2F';"     href="/r/IMDbTabNV/"    id='proLink' >
+                    <div id="proAd">
+                    </div>
+                    <div class="subNavListContainer">
+                        <img alt="Go to IMDbPro" title="Go to IMDbPro" src="http://i.media-imdb.com/images/SF8104186305d957dd4ee4455f5434b40c/navbar/imdbpro_logo_menu.png" />
+                        <h5>GET INFORMED</h5>
+                        <p>Industry information at your fingertips</p>
+                        <h5>GET CONNECTED</h5>
+                        <p>Over 200,000 Hollywood insiders</p>
+                        <h5>GET DISCOVERED</h5>
+                        <p>Enhance your IMDb Page</p>
+                        <p><strong>Go to IMDbPro &raquo;</strong></p>
+                    </div>
+                </a>
+            </div>
+        </li>
+        <li><span class="ghost">|</span></li>
+        <li>
+            <a     href="/apps/?ref_=nb_app"    >
+                IMDb Apps</a>
+        </li>
+        <li><span class="ghost">|</span></li>
+        <li>
+            <a     href="/help/?ref_=nb_hlp"    >
+                Help</a>
+        </li>
+    </ul>
+    <script>
+        if (!('imdb' in window)) { window.imdb = {}; }
+        window.imdb.proMenuTeaser = {
+            imageUrl : "http://i.media-imdb.com/images/SF2345fb7eb51cd4cf2158ed364c263a05/navbar/imdbpro_menu_user.jpg"
+        };
+    </script> 
+</div>
+
+
+<div id="nb_personal">
+
+<ul id="consumer_user_nav" class="main_nav">
+    <li class="css_nav_item" id="navUserMenu" aria-haspopup="true">
+        <p class="navCategory singleLine">        
+            <a    id="nblogin"    rel=login href="/register/login?ref_=nv_usr_lgin_1"    >
+                Login
+            </a>
+        </p>
+        <span class="downArrow"></span>
+        <div class="sub_nav">
+            <div class="subNavListContainer">
+                <br />
+                <ul>
+                    <li>
+                        <a     href="https://secure.imdb.com/register-imdb/form-v2?ref_=nv_usr_reg_2"    >
+                            Register
+                        </a>
+                    </li>
+                    <li>
+                        <a    id="nblogin"    rel=login href="/register/login?ref_=nv_usr_lgin_3"    >
+                            Login
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </li>
+</ul>
+
+
+</div>
+
+    </div>
+</div>
+
+        
+
+
+
+
+
+
+
+  
+
+
+
+<!-- begin injectable INJECTED_NAVSTRIP -->
+<div id="injected_navstrip_wrapper" class="injected_slot">
+<iframe id="injected_navstrip" name="injected_navstrip" class="yesScript" width="0" height="0" data-original-width="0" data-original-height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });"></iframe> </div>
+<script>
+doWithAds(function(){
+ad_utils.inject_ad.register('injected_navstrip');
+}, "ad_utils not defined, unable to render injected ad.");
+</script>
+<div id="injected_navstrip_reflow_helper"></div>
+<!-- end injectable INJECTED_NAVSTRIP --><!-- _get_ad_for_slot(INJECTED_NAVSTRIP) -->
+
+<div id="pagecontent">
+
+
+
+<!-- begin injectable INJECTED_BILLBOARD -->
+<div id="injected_billboard_wrapper" class="injected_slot">
+<iframe id="injected_billboard" name="injected_billboard" class="yesScript" width="0" height="0" data-original-width="0" data-original-height="0" data-config-width="0" data-config-height="0" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });"></iframe> </div>
+<script>
+doWithAds(function(){
+ad_utils.inject_ad.register('injected_billboard');
+}, "ad_utils not defined, unable to render injected ad.");
+</script>
+<div id="injected_billboard_reflow_helper"></div>
+<!-- end injectable INJECTED_BILLBOARD --><!-- _get_ad_for_slot(INJECTED_BILLBOARD) -->
+
+<div id="tn15" class="combined">
+<div id="tn15crumbs">
+<a href="/">IMDb</a> &gt;
+<b>&#x22;The Big Bang Theory&#x22; (2007)</b>
+</div>
+<div id="tn15lhs">
+
+    
+<div class="photo">
+<a name="poster" href="/rg/action-box-title/primary-photo/media/rm2148373248/tt0898266" title="&#x22;The Big Bang Theory&#x22;"><img border="0" id="primary-poster" alt="&#x22;The Big Bang Theory&#x22;" title="&#x22;The Big Bang Theory&#x22;" src="http://ia.media-imdb.com/images/M/MV5BMjQzMTYyODM4M15BMl5BanBnXkFtZTcwMTAxMDU1MQ@@._V1._SX100_SY135_.jpg" /></a>
+</div>
+
+<div id="action-box" class="action-box">
+
+<a class="linkasbutton-primary" href="/rg/watch-it/summary/title/tt0898266/videogallery/content_type-Full Episode">
+Watch It</a>
+
+  <p>at Amazon</p>
+
+<p><img src="/images/wheel/or-graphic.png" /></p>
+        
+         
+       
+   
+      
+                 
+     
+                 
+      
+        
+         
+   
+<a class="linkasbutton-secondary" href="/rg/action-box-title/buy-at-amazon/r/50703000000050a0904747038393832363630000001036a03046674600000010d6a02057370000001037a0104700000010f5a0a096d64626d2164626f6870000001047" target="_new">Buy it at Amazon</a>    
+        
+        
+       
+
+<hr />
+<a class="linkasbutton-secondary" href="/r/tt_shop/http://pro.imdb.com/title/tt0898266/" onclick="(new Image()).src='/rg/tt_shop/prosystem/images/b.gif?link=/rg/tt_shop/prosystem/http://pro.imdb.com/title/tt0898266/';">More at IMDb Pro</a>
+
+<a class="linkasbutton-secondary" href="/rg/action-box-title/boards-link/title/tt0898266/board">Discuss in Boards</a>
+
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFae8ea8aab5fbc8d97e571652dc015797/wheel/btn2.css" >
+<span class="wlb_wrapper" data-tconst="tt0898266" data-size="small" data-caller-name="legacy_title_lhs" data-classes="linkasbutton-secondary"
+></span>
+
+<a class="linkasbutton-secondary" href="/rg/action-box-title/update-data/updates?auto=legacy/title/tt0898266/">Update Data</a>
+
+</div>
+
+<h6 style="margin-top: 4px">Quicklinks</h6><form><select id="quicklinks_select" onchange="document.location = this.options[this.selectedIndex].value">
+<option value="maindetails">main details</option><option value="combined" selected>combined details</option><option value="companycredits">company credits</option><option value="episodes">episode list</option><option value="epcast">episodes cast</option><option value="epdate">episode ratings</option><option value="eprate">... by rating</option><option value="epvote">... by votes</option><option value="reviews">reviews</option><option value="externalreviews">external reviews</option><option value="awards">awards</option><option value="ratings">user ratings</option><option value="board">message board</option><option value="plotsummary">plot summary</option><option value="keywords">plot keywords</option><option value="quotes">memorable quotes</option><option value="trivia">trivia</option><option value="goofs">goofs</option><option value="soundtrack">soundtrack listing</option><option value="crazycredits">crazy credits</option><option value="movieconnections">movie connections</option><option value="faq">FAQ</option><option value="business">box office/business</option><option value="releaseinfo">release dates</option><option value="locations">filming locations</option><option value="technical">technical specs</option><option value="literature">literature listings</option><option value="news">NewsDesk</option><option value="taglines">taglines</option><option value="videogallery">trailers and videos</option><option value="posters">posters</option><option value="photogallery">photo gallery</option><option value="officialsites">official sites</option><option value="miscsites">miscellaneous</option><option value="photosites">photographs</option><option value="soundsites">sound clips</option><option value="videosites">video clips</option>
+</select></form>
+<h6>Top Links</h6>
+<a onclick="(new Image()).src='/rg/title-top-links/videogallery/images/b.gif?link=/title/tt0898266/videogallery';" href="/title/tt0898266/videogallery" class="link">trailers and videos</a><a onclick="(new Image()).src='/rg/title-top-links/fullcredits/images/b.gif?link=/title/tt0898266/fullcredits';" href="/title/tt0898266/fullcredits" class="link empty">full cast and crew</a><a onclick="(new Image()).src='/rg/title-top-links/trivia/images/b.gif?link=/title/tt0898266/trivia';" href="/title/tt0898266/trivia" class="link">trivia</a><a onclick="(new Image()).src='/rg/title-top-links/officialsites/images/b.gif?link=/title/tt0898266/officialsites';" href="/title/tt0898266/officialsites" class="link">official sites</a><a onclick="(new Image()).src='/rg/title-top-links/quotes/images/b.gif?link=/title/tt0898266/quotes';" href="/title/tt0898266/quotes" class="link">memorable quotes</a>
+<h6>Overview</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/maindetails/images/b.gif?link=/title/tt0898266/maindetails';"href="maindetails" class="link">main details</a><a onclick="(new Image()).src='/rg/title-nav-item/combined/images/b.gif?link=/title/tt0898266/combined';"href="combined" class="link selected">combined details</a><a onclick="(new Image()).src='/rg/title-nav-item/fullcredits/images/b.gif?link=/title/tt0898266/fullcredits';"href="fullcredits" class="link empty">full cast and crew</a><a onclick="(new Image()).src='/rg/title-nav-item/companycredits/images/b.gif?link=/title/tt0898266/companycredits';"href="companycredits" class="link">company credits</a><a onclick="(new Image()).src='/rg/title-nav-item/episodes/images/b.gif?link=/title/tt0898266/episodes';"href="episodes" class="link">episode list</a><a onclick="(new Image()).src='/rg/title-nav-item/epcast/images/b.gif?link=/title/tt0898266/epcast';"href="epcast" class="link">episodes cast</a><a onclick="(new Image()).src='/rg/title-nav-item/epdate/images/b.gif?link=/title/tt0898266/epdate';"href="epdate" class="link">episode ratings</a><a onclick="(new Image()).src='/rg/title-nav-item/eprate/images/b.gif?link=/title/tt0898266/eprate';"href="eprate" class="link">... by rating</a><a onclick="(new Image()).src='/rg/title-nav-item/epvote/images/b.gif?link=/title/tt0898266/epvote';"href="epvote" class="link">... by votes</a>
+<h6>Awards &#x26; Reviews</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/reviews/images/b.gif?link=/title/tt0898266/reviews';"href="reviews" class="link">user reviews</a><a onclick="(new Image()).src='/rg/title-nav-item/externalreviews/images/b.gif?link=/title/tt0898266/externalreviews';"href="externalreviews" class="link">external reviews</a><a onclick="(new Image()).src='/rg/title-nav-item/awards/images/b.gif?link=/title/tt0898266/awards';"href="awards" class="link">awards</a><a onclick="(new Image()).src='/rg/title-nav-item/ratings/images/b.gif?link=/title/tt0898266/ratings';"href="ratings" class="link">user ratings</a><a onclick="(new Image()).src='/rg/title-nav-item/board/images/b.gif?link=/title/tt0898266/board';"href="board" class="link">message board</a>
+<h6>Plot &#x26; Quotes</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/plotsummary/images/b.gif?link=/title/tt0898266/plotsummary';"href="plotsummary" class="link">plot summary</a><a onclick="(new Image()).src='/rg/title-nav-item/keywords/images/b.gif?link=/title/tt0898266/keywords';"href="keywords" class="link">plot keywords</a><a onclick="(new Image()).src='/rg/title-nav-item/quotes/images/b.gif?link=/title/tt0898266/quotes';"href="quotes" class="link">memorable quotes</a>
+<h6>Did You Know?</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/trivia/images/b.gif?link=/title/tt0898266/trivia';"href="trivia" class="link">trivia</a><a onclick="(new Image()).src='/rg/title-nav-item/goofs/images/b.gif?link=/title/tt0898266/goofs';"href="goofs" class="link">goofs</a><a onclick="(new Image()).src='/rg/title-nav-item/soundtrack/images/b.gif?link=/title/tt0898266/soundtrack';"href="soundtrack" class="link">soundtrack listing</a><a onclick="(new Image()).src='/rg/title-nav-item/crazycredits/images/b.gif?link=/title/tt0898266/crazycredits';"href="crazycredits" class="link">crazy credits</a><a onclick="(new Image()).src='/rg/title-nav-item/alternateversions/images/b.gif?link=/title/tt0898266/alternateversions';"href="alternateversions" class="link empty">alternate versions</a><a onclick="(new Image()).src='/rg/title-nav-item/movieconnections/images/b.gif?link=/title/tt0898266/movieconnections';"href="movieconnections" class="link">movie connections</a><a onclick="(new Image()).src='/rg/title-nav-item/faq/images/b.gif?link=/title/tt0898266/faq';"href="faq" class="link">FAQ</a>
+<h6>Other Info</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/business/images/b.gif?link=/title/tt0898266/business';"href="business" class="link">box office/business</a><a onclick="(new Image()).src='/rg/title-nav-item/releaseinfo/images/b.gif?link=/title/tt0898266/releaseinfo';"href="releaseinfo" class="link">release dates</a><a onclick="(new Image()).src='/rg/title-nav-item/locations/images/b.gif?link=/title/tt0898266/locations';"href="locations" class="link">filming locations</a><a onclick="(new Image()).src='/rg/title-nav-item/technical/images/b.gif?link=/title/tt0898266/technical';"href="technical" class="link">technical specs</a><a onclick="(new Image()).src='/rg/title-nav-item/literature/images/b.gif?link=/title/tt0898266/literature';"href="literature" class="link">literature listings</a><a onclick="(new Image()).src='/rg/title-nav-item/news/images/b.gif?link=/title/tt0898266/news';"href="news" class="link">NewsDesk</a>
+  <h6>Promotional</h6>
+  <a onclick="(new Image()).src='/rg/title-nav-item/taglines/images/b.gif?link=/title/tt0898266/taglines';"href="taglines" class="link">taglines</a>
+  <a onclick="(new Image()).src='/rg/title-nav-item/videogallery/images/b.gif?link=/title/tt0898266/videogallery';"href="videogallery" class="link">trailers and videos</a>
+  <a onclick="(new Image()).src='/rg/title-nav-item/posters/images/b.gif?link=/title/tt0898266/posters';"href="posters" class="link">posters</a>
+  <a onclick="(new Image()).src='/rg/title-nav-item/photogallery/images/b.gif?link=/title/tt0898266/photogallery';"href="photogallery" class="link">photo gallery</a>
+  
+
+<h6>External Links</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/cinemashowtimes/images/b.gif?link=/title/tt0898266/cinemashowtimes';"href="cinemashowtimes" class="link empty">showtimes</a><a onclick="(new Image()).src='/rg/title-nav-item/officialsites/images/b.gif?link=/title/tt0898266/officialsites';"href="officialsites" class="link">official sites</a><a onclick="(new Image()).src='/rg/title-nav-item/miscsites/images/b.gif?link=/title/tt0898266/miscsites';"href="miscsites" class="link">miscellaneous</a><a onclick="(new Image()).src='/rg/title-nav-item/photosites/images/b.gif?link=/title/tt0898266/photosites';"href="photosites" class="link">photographs</a><a onclick="(new Image()).src='/rg/title-nav-item/soundsites/images/b.gif?link=/title/tt0898266/soundsites';"href="soundsites" class="link">sound clips</a><a onclick="(new Image()).src='/rg/title-nav-item/videosites/images/b.gif?link=/title/tt0898266/videosites';"href="videosites" class="link">video clips</a>  
+</div>
+<div id="tn15main">
+
+<div id="tn15title">
+<h1>
+    
+    
+    &#x22;The Big Bang Theory&#x22; <span>(<a href="/year/2007/">2007</a>) <span class="pro-link"><a href="http://pro.imdb.com/rg/combined-title/tconst-pro-header-link/title/tt0898266/">More at <strong>IMDbPro</strong></a>&nbsp;&raquo;</span><span class="title-extra"><span class="tv-extra">TV series 2007-</span></span></span>
+    
+</h1>
+</div>
+
+<div id="tn15content">
+ 
+ 
+ 
+ 
+
+<div id="title-media-strip">
+<table style="border-collapse:collapse;">
+<tr>
+
+<td width="40%" class="media_strip_header">
+<b>Photos</b>
+<span>(<a href="/rg/photos-title/gallery-link/title/tt0898266/mediaindex">See all 991</a> | <a href="/rg/photos-title/slideshow-link/media/rm2836910336/tt0898266?slideshow=1">slideshow</a>)</span>
+</td>
+
+<td width="40%" class="media_strip_header">
+
+
+<b>Videos</b>
+
+<span>(<a href="/rg/videos-title/gallery-link/title/tt0898266/videogallery">see all 267</a>)</span>
+</td>
+
+</tr>
+<tr>
+
+<td>
+<div class="media_strip_thumbs">
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-1/media/rm2836910336/tt0898266"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTgxNTI4NDA1Ml5BMl5BanBnXkFtZTgwMTQ3MTI5MDE@._V1._CR133,0,533,533_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-2/media/rm3050164224/tt0898266"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTUxNTQ0OTk1NV5BMl5BanBnXkFtZTgwODUxNDQ3MDE@._V1._CR121,0,557,557_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/event-3/media/rm3654396672/tt0898266"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTY3MTE1MzA3MV5BMl5BanBnXkFtZTcwMDA2MzIxOA@@._V1._CR287,0,1474,1474_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-4/media/rm755489792/tt0898266"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjIzOTIxNzkwNF5BMl5BanBnXkFtZTgwMzI4NjQ0MDE@._V1._CR128,0,544,544_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-5/media/rm2853687552/tt0898266"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjM2MDA5NjYyMl5BMl5BanBnXkFtZTgwMDQ3MTI5MDE@._V1._CR133,0,533,533_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-6/media/rm3161579264/tt0898266"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTQ1OTM0MDY0N15BMl5BanBnXkFtZTgwMzYwNjIzMDE@._V1._CR0,0,534,534_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-7/media/rm705158144/tt0898266"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjA2MDAxNTY4NV5BMl5BanBnXkFtZTgwNjI4NjQ0MDE@._V1._CR133,0,534,534_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-8/media/rm3674659840/tt0898266"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMjE1MjAzMDM4NF5BMl5BanBnXkFtZTgwMDE4NjQ0MDE@._V1._CR169,0,462,462_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-9/media/rm2724909312/tt0898266"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BMTgxNjE5ODg0NF5BMl5BanBnXkFtZTgwMjQ0Njc4MDE@._V1._CR133,0,534,534_SS90_.jpg" border="0"></a></div>
+<div class="media_strip_thumb"><a href="/rg/photos-title/still_frame-10/media/rm721935360/tt0898266"><img height="90" width="90" src="http://ia.media-imdb.com/images/M/MV5BNDg0MDUyMTIwNl5BMl5BanBnXkFtZTgwNTI4NjQ0MDE@._V1._CR142,0,516,516_SS90_.jpg" border="0"></a></div>
+</div>
+</td>
+
+<td>
+<div class="media_strip_thumbs">
+<div class="media_strip_thumb">
+
+
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fwb%2Fvi35366937%2F';window.open(this.href+'offsite','_blank');
+                 return false;"     href="/video/wb/vi35366937/"    data-rid="0P2FBDZW4GBWTMZN3DJ1" data-video="vi35366937" data-context="wb" ><img 
+     height="90" 
+     width="120"
+     alt="The Big Bang Theory -- Watch the clip &#x22;Big Bang Theory Holiday&#x22; from The Big Bang Theory." title="The Big Bang Theory -- Watch the clip &#x22;Big Bang Theory Holiday&#x22; from The Big Bang Theory."
+     viconst="vi35366937"
+
+     src="http://ia.media-imdb.com/images/M/MV5BMTUzNzcwNzQ1NV5BMl5BanBnXkFtZTgwNzEzNDM3MDE@._V1_SP198,198,0,C,0,0,0_CR39,54,120,90_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,120,90_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAClip,2,61,16,118,verdenab,8,255,255,255,1_ZAat%2520The%2520WB%2520%25BB,2,1,14,118,verdenab,7,255,255,255,1_ZA02%253A02,84,1,14,36,verdenab,7,255,255,255,1_.jpg" class="video" /></a>
+
+</div>
+<div class="media_strip_thumb">
+
+
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fwb%2Fvi708683801%2F';window.open(this.href+'offsite','_blank');
+                 return false;"     href="/video/wb/vi708683801/"    data-rid="0P2FBDZW4GBWTMZN3DJ1" data-video="vi708683801" data-context="wb" ><img 
+     height="90" 
+     width="120"
+     alt="The Big Bang Theory -- Watch this clip from Season 2 of The Big Bang Theory." title="The Big Bang Theory -- Watch this clip from Season 2 of The Big Bang Theory."
+     viconst="vi708683801"
+
+     src="http://ia.media-imdb.com/images/M/MV5BMTk5OTA2NzU1OV5BMl5BanBnXkFtZTgwODE4MDU2MDE@._V1_SP198,198,0,C,0,0,0_CR39,54,120,90_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,120,90_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAClip,2,61,16,118,verdenab,8,255,255,255,1_ZAat%2520The%2520WB%2520%25BB,2,1,14,118,verdenab,7,255,255,255,1_ZA00%253A24,84,1,14,36,verdenab,7,255,255,255,1_.jpg" class="video" /></a>
+
+</div>
+<div class="media_strip_thumb">
+
+
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fwb%2Fvi691906585%2F';window.open(this.href+'offsite','_blank');
+                 return false;"     href="/video/wb/vi691906585/"    data-rid="0P2FBDZW4GBWTMZN3DJ1" data-video="vi691906585" data-context="wb" ><img 
+     height="90" 
+     width="120"
+     alt="The Big Bang Theory -- Watch this clip from Season 2 of The Big Bang Theory." title="The Big Bang Theory -- Watch this clip from Season 2 of The Big Bang Theory."
+     viconst="vi691906585"
+
+     src="http://ia.media-imdb.com/images/M/MV5BMTcyODE5MzI3NF5BMl5BanBnXkFtZTcwNDk5MTY3Mw@@._V1_SP198,198,0,C,0,0,0_CR39,54,120,90_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,120,90_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAClip,2,61,16,118,verdenab,8,255,255,255,1_ZAat%2520The%2520WB%2520%25BB,2,1,14,118,verdenab,7,255,255,255,1_ZA00%253A30,84,1,14,36,verdenab,7,255,255,255,1_.jpg" class="video" /></a>
+
+</div>
+<div class="media_strip_thumb">
+
+
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fwb%2Fvi675129369%2F';window.open(this.href+'offsite','_blank');
+                 return false;"     href="/video/wb/vi675129369/"    data-rid="0P2FBDZW4GBWTMZN3DJ1" data-video="vi675129369" data-context="wb" ><img 
+     height="90" 
+     width="120"
+     alt="The Big Bang Theory -- Watch this clip from Season 2 of The Big Bang Theory." title="The Big Bang Theory -- Watch this clip from Season 2 of The Big Bang Theory."
+     viconst="vi675129369"
+
+     src="http://ia.media-imdb.com/images/M/MV5BNzM5NTE2MjIzOF5BMl5BanBnXkFtZTgwNjE4MDU2MDE@._V1_SP198,198,0,C,0,0,0_CR39,54,120,90_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,120,90_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAClip,2,61,16,118,verdenab,8,255,255,255,1_ZAat%2520The%2520WB%2520%25BB,2,1,14,118,verdenab,7,255,255,255,1_ZA00%253A24,84,1,14,36,verdenab,7,255,255,255,1_.jpg" class="video" /></a>
+
+</div>
+<div class="media_strip_thumb">
+
+
+<a    onclick="(new Image()).src='/rg/video-link/default/images/b.gif?link=%2Fvideo%2Fwb%2Fvi926787609%2F';window.open(this.href+'offsite','_blank');
+                 return false;"     href="/video/wb/vi926787609/"    data-rid="0P2FBDZW4GBWTMZN3DJ1" data-video="vi926787609" data-context="wb" ><img 
+     height="90" 
+     width="120"
+     alt="The Big Bang Theory -- Watch this clip from Season 2 of The Big Bang Theory." title="The Big Bang Theory -- Watch this clip from Season 2 of The Big Bang Theory."
+     viconst="vi926787609"
+
+     src="http://ia.media-imdb.com/images/M/MV5BNTY5NDM0MTEzNl5BMl5BanBnXkFtZTgwNDE4MDU2MDE@._V1_SP198,198,0,C,0,0,0_CR39,54,120,90_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,120,90_PIimdb-bluebutton-big,BottomRight,-1,-1_ZAClip,2,61,16,118,verdenab,8,255,255,255,1_ZAat%2520The%2520WB%2520%25BB,2,1,14,118,verdenab,7,255,255,255,1_ZA00%253A27,84,1,14,36,verdenab,7,255,255,255,1_.jpg" class="video" /></a>
+
+</div>
+</div>
+</td>
+
+</tr>
+</table>
+
+
+
+
+</div>
+
+<hr/>
+
+<div id="tn15adrhs">
+<div class="social_networking"><span>
+    <strong>Share</strong> this page:
+</span>
+
+
+<a onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F3%2Ftitle%2Ftt0898266%2Fcombined', 'newWindow', 'width=626, height=436'); return false;" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F3%2Ftitle%2Ftt0898266%2Fcombined" target="_blank" title="Share on Facebook" class="share_icon facebook"></a>
+<a onclick="window.open('http://twitter.com/home?status=The%20Big%20Bang%20Theory%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Ftitle%2Ftt0898266%2Fcombined', 'newWindow', 'width=815, height=436'); return false;" href="http://twitter.com/home?status=The%20Big%20Bang%20Theory%20-%20http%3A%2F%2Fwww.imdb.com%2Frg%2Fs%2F1%2Ftitle%2Ftt0898266%2Fcombined" target="_blank" title="Share on Twitter" class="share_icon twitter"></a></div><script type="text/javascript">
+generic.monitoring.start_timing("facebook_like_iframe");
+</script>
+<div class="social_networking_like" ><iframe  id="iframe_like" name="fbLikeIFrame_0" class="social-iframe" scrolling="no" frameborder="0" allowTransparency="allowTransparency" width=280 height=65></iframe></div>
+
+
+
+<!-- begin TOP_RHS -->
+<div id="top_rhs_wrapper" class="dfp_slot">
+<script type="text/javascript">
+doWithAds(function(){
+ad_utils.register_ad('top_rhs');
+});
+</script>
+<iframe data-dart-params="#imdb2.consumer.tv/;!TILE!;sz=300x250,300x600,11x1;p=tr;g=co;tt=tv;coo=us;b=t250a;b=glbst;b=friencom;b=glbs14;b=falltv;fv=1;id=tt0898266;oe=utf-8;[CLIENT_SIDE_KEYVALUES];u=368278368501;ord=368278368501?" id="top_rhs" name="top_rhs" class="yesScript" width="300" height="250" data-original-width="300" data-original-height="250" data-config-width="300" data-config-height="250" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });"></iframe>
+<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.consumer.tv/;tile=1;sz=300x250,300x600,11x1;p=tr;g=co;tt=tv;coo=us;b=t250a;b=glbst;b=friencom;b=glbs14;b=falltv;fv=1;id=tt0898266;ord=368278368501?" target="_blank"><img src="http://ad.doubleclick.net/N4215/ad/imdb2.consumer.tv/;tile=1;sz=300x250,300x600,11x1;p=tr;g=co;tt=tv;coo=us;b=t250a;b=glbst;b=friencom;b=glbs14;b=falltv;fv=1;id=tt0898266;ord=368278368501?" border="0" alt="advertisement" /></a></noscript>
+</div>
+<div id="top_rhs_reflow_helper"></div>
+<div id="top_rhs_after" class="after_ad" style="visibility:hidden;">
+<a class="yesScript" href="#" onclick="ad_utils.show_ad_feedback('top_rhs');return false;" id="ad_feedback_top_rhs">ad feedback</a>
+</div>
+<script>
+doWithAds(function(){
+ad_utils.gpt.render_ad('top_rhs');
+}, "ad_utils not defined, unable to render client-side GPT ad.");
+</script>
+<!-- End TOP_RHS --><!-- _get_ad_for_slot(TOP_RHS) -->
+  
+  
+</div>
+  
+<h3>Overview</h3>
+
+<div id="tn15rating" class="one guest">
+  <div class="general">
+    <div class="info stars">
+      <h5>User Rating:</h5>
+  
+      
+        
+      
+  
+      <div class="starbar">
+        <div class="outer">
+          <div id="general-voting-stars" class="inner" style="width: 174px"></div>
+          <div class="starbar-votes">
+            <a title="10" href="vote?v=10;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+          </div>
+        </div>
+      </div>
+  
+      <div class="starbar-meta">
+        <b>8.7/10</b> 
+           
+           
+           &nbsp;&nbsp;<a href="ratings" class="tn15more">331,857 votes</a>&nbsp;&raquo;
+        
+        
+      </div>
+    </div>
+  </div>
+  <div class="personal">
+    <div class="info stars">
+      <h5>Your Rating:</h5>
+      <div class="starbar">
+        <div class="outer">
+          <div id="personal-voting-stars" class="inner" style="width: 0px"></div>
+          <div class="starbar-votes">
+            <a title="10" href="vote?v=10;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(10)" class="s10"></a><a title="9" href="vote?v=9;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(9)" class="s9"></a><a title="8" href="vote?v=8;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(8)" class="s8"></a><a title="7" href="vote?v=7;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(7)" class="s7"></a><a title="6" href="vote?v=6;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(6)" class="s6"></a><a title="5" href="vote?v=5;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(5)" class="s5"></a><a title="4" href="vote?v=4;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(4)" class="s4"></a><a title="3" href="vote?v=3;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(3)" class="s3"></a><a title="2" href="vote?v=2;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(2)" class="s2"></a><a title="1" href="vote?v=1;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote(1)" class="s1"></a>
+          </div>
+        </div>
+      </div>
+      <div class="message starbar-meta">
+        <div class="save">Saving vote...</div>
+        <div class="delete">Deleting vote...</div>
+        <div class="user">
+          <div class="extra">
+            <b><span id="voteuser"></span>/10</b>
+            &nbsp;&nbsp;(<a class="del" href="vote?v=X;k=9J6VxC6DFKu1Gziy7y93xgB%2FqjlzCVo5c%2FrZGhcuGTrwfhqZ4ylaOXMKeapzWskqZzn6mmBpWjlgaVoJIDkqCX" onclick="return vote('X')">delete</a>
+             | <a href="/list/ratings">history</a>)
+          </div>
+        </div>
+        <div class="error">Sorry, there was a problem</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="info"><h5>MOVIEmeter: <a href="/help/show_leaf?prowhatisstarmeter"><img src="http://i.media-imdb.com/images//help13x10.gif" width="13" height="10" border="0" alt="?"></a></h5><div class="info-content"><b>Up 7%</b> in popularity this week. See <a href="/r/movie/rg/title-tease/meter-why/title/tt0898266/graph-data">why</a> on <a href="/r/movie/rg/title-tease/meter-prolink/">IMDbPro</a>.</div></div>
+
+    
+    <div class="info">
+    <h5>Creators:</h5>
+    <div class="info-content">
+    
+    
+        
+        
+        <a href="/name/nm0521143/" onclick="(new Image()).src='/rg/creatorlist/position-1/images/b.gif?link=name/nm0521143/';">Chuck Lorre</a><br/>
+    
+        
+        
+        <a href="/name/nm0695080/" onclick="(new Image()).src='/rg/creatorlist/position-2/images/b.gif?link=name/nm0695080/';">Bill Prady</a><br/>
+    
+    <a href="fullcredits#writers">(more)</a>
+    </div>
+    </div>
+
+<div class="info">
+<h5>Contact:</h5>
+<div class="info-content">
+View <a href="/r/contact/rg/title-overview/company-contact/title/tt0898266/companycredits">company</a> 
+contact information for The Big Bang Theory on 
+<a href="/r/contact/rg/title-overview/pro-contact/">IMDbPro</a>.
+</div>
+</div>
+
+<div class="info">
+<h5>Seasons:</h5>
+<div class="info-content">
+
+  <a href="episodes?season=1">1</a>
+ | 
+  <a href="episodes?season=2">2</a>
+ | 
+  <a href="episodes?season=3">3</a>
+ | 
+  <a href="episodes?season=4">4</a>
+ | 
+  <a href="episodes?season=5">5</a>
+ | 
+  <a href="episodes?season=6">6</a>
+ | 
+  <a href="episodes?season=7">7</a>
+
+</div>
+</div>
+
+<div class="info">
+<h5>Release Date:</h5>
+<div class="info-content">
+24 September 2007 (USA)
+ <a class="tn15more inline" href="/title/tt0898266/releaseinfo" onClick="(new Image()).src='/rg/title-tease/releasedates/images/b.gif?link=/title/tt0898266/releaseinfo';">See more</a>&nbsp;&raquo;
+</div>
+</div>
+
+<div class="info">
+<h5>Genre:</h5>
+<div class="info-content">
+<a href="/Sections/Genres/Comedy/">Comedy</a> <a class="tn15more inline" href="/title/tt0898266/keywords" onClick="(new Image()).src='/rg/title-tease/keywords/images/b.gif?link=/title/tt0898266/keywords';">See more</a>&nbsp;&raquo;
+</div>
+</div>
+
+<div class="info">
+<h5>Tagline:</h5>
+<div class="info-content">
+Smart Is The New Sexy. <a class="tn15more inline" href="/title/tt0898266/taglines" onClick="(new Image()).src='/rg/title-tease/taglines/images/b.gif?link=/title/tt0898266/taglines';">See more</a>&nbsp;&raquo;
+</div>
+</div>
+
+<div class="info">
+<h5>Plot:</h5>
+<div class="info-content">
+A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory. <a class="tn15more inline" href="/title/tt0898266/plotsummary" onClick="(new Image()).src='/rg/title-tease/plotsummary/images/b.gif?link=/title/tt0898266/plotsummary';">Full summary</a>&nbsp;&raquo;
+</div>
+</div>
+
+<div class="info">
+<h5>Plot Keywords:</h5>
+<div class="info-content">
+<div id="tn15plotkeywords" style="display:inline;"><span>
+
+<a href="/keyword/apartment/">Apartment</a>
+ | 
+<a href="/keyword/physicist/">Physicist</a>
+ | 
+<a href="/keyword/friend/">Friend</a>
+ | 
+<a href="/keyword/california/">California</a>
+ | 
+<a href="/keyword/astrophysicist/">Astrophysicist</a>
+
+</span></div>
+
+<a class="tn15more inline" href="/title/tt0898266/keywords" onClick="(new Image()).src='/rg/title-tease/keywords/images/b.gif?link=/title/tt0898266/keywords';">See more</a>&nbsp;&raquo;
+
+</div>
+</div>
+
+<script type="text/javascript">
+var k = document.getElementById("tn15plotkeywords");
+k.className = "keyword-spoiler";
+k.onmouseover = function() {if (!window.hasVoted) this.className += ' hover';};
+k.onmouseout=   function() {if (!window.hasVoted) this.className='keyword-spoiler';}
+</script>
+
+<div class="info">
+<h5>Awards:</h5>
+<div class="info-content">
+Won Golden Globe.
+ Another 23 wins
+&amp;
+79 nominations
+<a class="tn15more inline" href="/title/tt0898266/awards" onClick="(new Image()).src='/rg/title-tease/awards/images/b.gif?link=/title/tt0898266/awards';">See more</a>&nbsp;&raquo;
+</div>
+</div>
+<div class="info">
+<h5>NewsDesk<span>:</span><br/>
+<small>(<a onClick="(new Image()).src='/rg/maindetails-count/newsdesk/images/b.gif?link=    %2Ftitle%2Ftt0898266%2Fnews';"     href="/title/tt0898266/news"    >7178 articles</a>)</small>
+</h5>
+<div class="info-content">
+<strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=    %2Ftitle%2Ftt0898266%2Fnews%23ni56740583';"     href="/title/tt0898266/news#ni56740583"    >Vampire Diaries&#x27; Damon Takes a Dark and Deadly Turn, Big Bang&#x27;s Star Wars Reunion and More Omg TV Moments</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=    %2Fnews%2Fns0000141%2F';"     href="/news/ns0000141/"    >E! Online</a>. 30 January 2014, 7:58 PM, PST)</small>
+<br/>
+<strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=    %2Ftitle%2Ftt0898266%2Fnews%23ni56740596';"     href="/title/tt0898266/news#ni56740596"    >&#x27;Big Bang Theory&#x27; Season 7, episode 14: 12 best moments from James Earl Jones and &#x27;The Convention Conundrum&#x27;</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=    %2Fnews%2Fns0000065%2F';"     href="/news/ns0000065/"    >Zap2It - From Inside the Box</a>. 30 January 2014, 6:45 PM, PST)</small>
+<br/>
+<strong><a onClick="(new Image()).src='/rg/maindetails-headline/newsdesk/images/b.gif?link=    %2Ftitle%2Ftt0898266%2Fnews%23ni56740324';"     href="/title/tt0898266/news#ni56740324"    >The Big Bang Theory Complete Reviews: S1E1, &#x27;Pilot&#x27;</a></strong> <small><br />&nbsp;(From <a onClick="(new Image()).src='/rg/maindetails-source/newsdesk/images/b.gif?link=    %2Fnews%2Fns0004009%2F';"     href="/news/ns0004009/"    >Shadowlocked</a>. 30 January 2014, 4:23 PM, PST)</small>
+<br/>
+<div style="width:1px;height:0.5em;"></div></div>
+</div>
+
+<div class="info">
+<h5>User Reviews:</h5>
+<div class="info-content">
+CBS, please keep this on the air!!!!
+<a class="tn15more inline" href="#comment">See more (270 total)</a>&nbsp;&raquo;
+</div>
+</div>
+<hr/><div class="headerinline"><h3>Cast</h3>&nbsp;<small style="position: relative; bottom: 1px">(Series Cast Summary - 7 of 48)</small></div><div class="info-content block"><table class="cast"> <tr class="odd"><td class="hs"><a href="/name/nm0301959/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm0301959/';"><img src="http://ia.media-imdb.com/images/M/MV5BNzQ2ODY0MTIwMV5BMl5BanBnXkFtZTcwNDQ2NzMzMw@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm0301959/">Johnny Galecki</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0034093/">Leonard Hofstadter</a> (151 episodes, 2007-2014)</td></tr><tr class="even"><td class="hs"><a href="/name/nm1433588/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm1433588/';"><img src="http://ia.media-imdb.com/images/M/MV5BMTcwOTE0NzMzOV5BMl5BanBnXkFtZTcwMzcwMTI5Nw@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm1433588/">Jim Parsons</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0064640/">Sheldon Cooper</a> (151 episodes, 2007-2014)</td></tr><tr class="odd"><td class="hs"><a href="/name/nm0374865/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm0374865/';"><img src="http://ia.media-imdb.com/images/M/MV5BMjAyNzAwMTg1MV5BMl5BanBnXkFtZTcwOTY5MjU3Mg@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm0374865/">Simon Helberg</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0072070/">Howard Wolowitz</a> (151 episodes, 2007-2014)</td></tr><tr class="even"><td class="hs"><a href="/name/nm2471798/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm2471798/';"><img src="http://ia.media-imdb.com/images/M/MV5BMTQzMzQyMTYyM15BMl5BanBnXkFtZTcwNjYyMDI5Mg@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm2471798/">Kunal Nayyar</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0073337/">Raj Koothrappali</a> (151 episodes, 2007-2014)</td></tr><tr class="odd"><td class="hs"><a href="/name/nm0192505/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm0192505/';"><img src="http://ia.media-imdb.com/images/M/MV5BMTc4OTI0Njc2MV5BMl5BanBnXkFtZTcwMTQ3NjYyMw@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm0192505/">Kaley Cuoco</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0034106/">Penny</a> (150 episodes, 2007-2014)</td></tr><tr class="even"><td class="hs"><a href="/name/nm1851981/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm1851981/';"><img src="http://ia.media-imdb.com/images/M/MV5BMTI3MTg3NTQzMF5BMl5BanBnXkFyZXN1bWU@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm1851981/">Melissa Rauch</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0240081/">Bernadette Rostenkowski</a> (80 episodes, 2009-2014)</td></tr><tr class="odd"><td class="hs"><a href="/name/nm0080524/" onClick="(new Image()).src='/rg/title-tease/tinyhead/images/b.gif?link=/name/nm0080524/';"><img src="http://ia.media-imdb.com/images/M/MV5BMTc0NTEwNzI3MF5BMl5BanBnXkFtZTcwNzQ3MjYxNQ@@._V1._SX23_SY30_.jpg" width="23" height="32" border="0"></a><br></td><td class="nm"><a href="/name/nm0080524/">Mayim Bialik</a></td><td class="ddd"> ... </td><td class="char"><a href="/character/ch0204146/">Amy Farrah Fowler</a> (74 episodes, 2010-2014)</td></tr></table> <a href="fullcredits#cast">(more)</a></div>   <br><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="directors" href="/glossary/D#director">Series Directed by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0148252/">Mark Cendrowski</a></td><td valign="top">&#160;</td><td valign="top">(131 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0149803/">Peter Chakos</a></td><td valign="top">&#160;</td><td valign="top">(6 episodes, 2009-2012)</td></tr><tr><td valign="top"><a href="/name/nm0723597/">Anthony Joseph Rich</a></td><td valign="top">&#160;</td><td valign="top">(5 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm0123273/">James Burrows</a></td><td valign="top">&#160;</td><td valign="top">(2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm0614975/">Howard Murray</a></td><td valign="top">&#160;</td><td valign="top">(2 episodes, 2011)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="writers" href="/glossary/W#writer">Series Writing credits</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0521143/">Chuck Lorre</a></td><td valign="top">&#160;</td><td valign="top">(149 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0695080/">Bill Prady</a></td><td valign="top">&#160;</td><td valign="top">(149 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0596429/">Steven Molaro</a></td><td valign="top">&#160;</td><td valign="top">(121 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm1479331/">Maria Ferrari</a></td><td valign="top">&#160;</td><td valign="top">(72 episodes, 2009-2014)</td></tr><tr><td valign="top"><a href="/name/nm2257577/">Steve Holland</a></td><td valign="top">&#160;</td><td valign="top">(71 episodes, 2009-2014)</td></tr><tr><td valign="top"><a href="/name/nm1931044/">Jim Reynolds</a></td><td valign="top">&#160;</td><td valign="top">(66 episodes, 2009-2014)</td></tr><tr><td valign="top"><a href="/name/nm0438235/">Eric Kaplan</a></td><td valign="top">&#160;</td><td valign="top">(63 episodes, 2008-2014)</td></tr><tr><td valign="top"><a href="/name/nm0036950/">Lee Aronsohn</a></td><td valign="top">&#160;</td><td valign="top">(44 episodes, 2007-2011)</td></tr><tr><td valign="top"><a href="/name/nm0324477/">David Goetsch</a></td><td valign="top">&#160;</td><td valign="top">(40 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0742711/">Richard Rosenstock</a></td><td valign="top">&#160;</td><td valign="top">(19 episodes, 2008-2010)</td></tr><tr><td valign="top"><a href="/name/nm3388740/">Tara Hernandez</a></td><td valign="top">&#160;</td><td valign="top">(14 episodes, 2011-2014)</td></tr><tr><td valign="top"><a href="/name/nm0257145/">Stephen Engel</a></td><td valign="top">&#160;</td><td valign="top">(10 episodes, 2008-2009)</td></tr><tr><td valign="top"><a href="/name/nm1945862/">Anthony Del Broccolo</a></td><td valign="top">&#160;</td><td valign="top">(9 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm0322800/">Jennifer Glickman</a></td><td valign="top">&#160;</td><td valign="top">(6 episodes, 2007-2008)</td></tr><tr><td valign="top"><a href="/name/nm0331212/">Eddie Gorodetsky</a></td><td valign="top">&#160;</td><td valign="top">(5 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm0169712/">Robert Cohen</a></td><td valign="top">&#160;</td><td valign="top">(4 episodes, 2007-2008)</td></tr><tr><td valign="top"><a href="/name/nm0236506/">Tim Doyle</a></td><td valign="top">&#160;</td><td valign="top">(4 episodes, 2008-2009)</td></tr><tr><td valign="top"><a href="/name/nm1148625/">Adam Faberman</a></td><td valign="top">&#160;</td><td valign="top">(4 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm3154374/">Nicole Lorre</a></td><td valign="top">&#160;</td><td valign="top">(3 episodes, 2008-2010)</td></tr><tr><td valign="top"><a href="/name/nm0514439/">David Litt</a></td><td valign="top">&#160;</td><td valign="top">(2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm1029902/">Daley Haggar</a></td><td valign="top">&#160;</td><td valign="top">(2 episodes, 2008-2009)</td></tr><tr><td valign="top"><a href="/name/nm3433037/">Jessica Ambrosetti</a></td><td valign="top">&#160;</td><td valign="top">(2 episodes, 2009-2010)</td></tr><tr><td valign="top"><a href="/name/nm2044831/">Jeremy Howe</a></td><td valign="top">&#160;</td><td valign="top">(2 episodes, 2012-2013)</td></tr></table><br><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="producers" href="/glossary/P#producer">Series Produced by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0521143/">Chuck Lorre</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">executive producer (149 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0695080/">Bill Prady</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">executive producer (149 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0703514/">Mary T. Quigley</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-producer (149 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0149803/">Peter Chakos</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">supervising producer&#160;/ producer&#160;/ ... (148 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0324477/">David Goetsch</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-executive producer (148 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0596429/">Steven Molaro</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">executive producer&#160;/ co-executive producer&#160;/ ... (148 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0069780/">Faye Oshima Belyeu</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">producer&#160;/ co-executive producer (148 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm2542154/">Kristy Cecil</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-producer&#160;/ associate producer&#160;/ ... (137 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0438235/">Eric Kaplan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-executive producer (131 episodes, 2008-2014)</td></tr><tr><td valign="top"><a href="/name/nm2257577/">Steve Holland</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-executive producer&#160;/ producer&#160;/ ... (108 episodes, 2009-2014)</td></tr><tr><td valign="top"><a href="/name/nm1931044/">Jim Reynolds</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-executive producer&#160;/ supervising producer&#160;/ ... (108 episodes, 2009-2014)</td></tr><tr><td valign="top"><a href="/name/nm0497661/">Kelly Lee</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-producer (93 episodes, 2009-2014)</td></tr><tr><td valign="top"><a href="/name/nm0036950/">Lee Aronsohn</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">executive producer&#160;/ consulting producer (87 episodes, 2007-2011)</td></tr><tr><td valign="top"><a href="/name/nm1067951/">Ryan Berdan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">associate producer (85 episodes, 2010-2014)</td></tr><tr><td valign="top"><a href="/name/nm1479331/">Maria Ferrari</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-producer&#160;/ producer&#160;/ ... (85 episodes, 2010-2014)</td></tr><tr><td valign="top"><a href="/name/nm0331212/">Eddie Gorodetsky</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">consulting producer&#160;/ co-executive producer (71 episodes, 2010-2014)</td></tr><tr><td valign="top"><a href="/name/nm4360952/">Suzanne McCormack</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">coordinating producer (61 episodes, 2011-2014)</td></tr><tr><td valign="top"><a href="/name/nm1861180/">Robinson Green</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">associate producer (59 episodes, 2011-2013)</td></tr><tr><td valign="top"><a href="/name/nm3433037/">Jessica Ambrosetti</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">coordinating producer (48 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm1865552/">Mona Garcea</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">coordinating producer (46 episodes, 2008-2010)</td></tr><tr><td valign="top"><a href="/name/nm0742711/">Richard Rosenstock</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">consulting producer (46 episodes, 2008-2010)</td></tr><tr><td valign="top"><a href="/name/nm0257145/">Stephen Engel</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">consulting producer (35 episodes, 2007-2009)</td></tr><tr><td valign="top"><a href="/name/nm0322800/">Jennifer Glickman</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">consulting producer (25 episodes, 2007-2008)</td></tr><tr><td valign="top"><a href="/name/nm0236506/">Tim Doyle</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">consulting producer (23 episodes, 2008-2009)</td></tr><tr><td valign="top"><a href="/name/nm0313365/">Brian George</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">associate producer (20 episodes, 2009-2010)</td></tr><tr><td valign="top"><a href="/name/nm0169712/">Robert Cohen</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-executive producer (17 episodes, 2007-2008)</td></tr><tr><td valign="top"><a href="/name/nm0514439/">David Litt</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-executive producer&#160;/ consulting producer (14 episodes, 2007-2008)</td></tr><tr><td valign="top"><a href="/name/nm0820136/">Mea Squires</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">associate producer (3 episodes, 2009)</td></tr><tr><td valign="top"><a href="/name/nm0068614/">Joe Bella</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">co-producer (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm0171945/">Michael Collier</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">producer (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm0505976/">Toti Levine</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">associate producer (2 episodes, 2007)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="cinematographers" href="/glossary/C#cinematographer">Series Cinematography by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0798799/">Steven V. Silver</a></td><td valign="top">&#160;</td><td valign="top">(149 episodes, 2007-2014)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="editors" href="/glossary/E#editor">Series Film Editing by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0149803/">Peter Chakos</a></td><td valign="top">&#160;</td><td valign="top">(148 episodes, 2007-2014)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="casting_directors" href="/glossary/C#casting_director">Series Casting by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0588734/">Ken Miller</a></td><td valign="top">&#160;</td><td valign="top">(149 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0884814/">Nikki Valko</a></td><td valign="top">&#160;</td><td valign="top">(149 episodes, 2007-2014)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="production_designers" href="/glossary/P#production_designer">Series Production Design by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0787343/">John Shaffner</a></td><td valign="top">&#160;</td><td valign="top">(148 episodes, 2007-2014)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="art_directors" href="/glossary/A#art_director">Series Art Direction by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0156075/">Francoise Cherry-Cohen</a></td><td valign="top">&#160;</td><td valign="top">(85 episodes, 2010-2014)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="set_decorators" href="/glossary/S#set_decorator">Series Set Decoration by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0790251/">Ann Shea</a></td><td valign="top">&#160;</td><td valign="top">(149 episodes, 2007-2014)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="costume_designers" href="/glossary/C#costume_designer">Series Costume Design by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0703514/">Mary T. Quigley</a></td><td valign="top">&#160;</td><td valign="top">(149 episodes, 2007-2014)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="make_up_department" href="/glossary/M#makeup">Series Makeup Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0629689/">Peggy Nichols</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">make-up artist&#160;/ makeup artist (148 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0940601/">Faye Woods</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">hair stylist (148 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0565036/">Vikki McCarter</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">makeup artist (61 episodes, 2011-2014)</td></tr><tr><td valign="top"><a href="/name/nm0839573/">Sylvia Surdu</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">hair stylist (57 episodes, 2011-2014)</td></tr><tr><td valign="top"><a href="/name/nm0006688/">Clinton Wayne</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">prosthetic supply&#160;/ special makeup effects artist&#160;/ ... (5 episodes, 2008-2014)</td></tr><tr><td valign="top"><a href="/name/nm2159716/">Koji Ohmura</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">prosthetic key sculptor&#160;/ special makeup effects: W.M. Creations (4 episodes, 2010-2014)</td></tr><tr><td valign="top"><a href="/name/nm0642525/">Beth O&#x27;Rourke</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key makeup artist (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm0882128/">Kim Urgel</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">hair stylist (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm0957653/">Janice Zoladz</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">hair stylist (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm0612817/">Matthew W. Mungle</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special makeup effects artist (2 episodes, 2008)</td></tr><tr><td valign="top"><a href="/name/nm1004894/">Richard Redlefsen</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special makeup effects artist: morlocks (2 episodes, 2008)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="production_managers" href="/glossary/P#production_manager">Series Production Management</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0497661/">Kelly Lee</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">unit production manager (124 episodes, 2007-2013)</td></tr><tr><td valign="top"><a href="/name/nm1067951/">Ryan Berdan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post production supervisor (21 episodes, 2009-2010)</td></tr><tr><td valign="top"><a href="/name/nm1106001/">Jay O&#x27;Connell</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">unit production manager (19 episodes, 2008-2013)</td></tr><tr><td valign="top"><a href="/name/nm3486564/">Charles Back</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post-production supervisor (8 episodes, 2012-2014)</td></tr><tr><td valign="top"><a href="/name/nm1142082/">Dennis R. McElroy</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post-production supervisor (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm0588044/">Carol Anne Miller</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">unit production manager (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm0069780/">Faye Oshima Belyeu</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">unit production manager (2 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm1861180/">Robinson Green</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">unit production manager (2 episodes, 2014)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="assistant_directors" href="/glossary/A#assistant_director">Series Second Unit Director or Assistant Director</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0458415/">Chris Klausen</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second assistant director&#160;/ second second assistant director&#160;/ ... (143 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0723597/">Anthony Joseph Rich</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">first assistant director (142 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0614975/">Howard Murray</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">associate director (86 episodes, 2007-2011)</td></tr><tr><td valign="top"><a href="/name/nm1464599/">Gay Linvill</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">associate director (56 episodes, 2011-2014)</td></tr><tr><td valign="top"><a href="/name/nm3154374/">Nicole Lorre</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second assistant director (25 episodes, 2010-2014)</td></tr><tr><td valign="top"><a href="/name/nm0229525/">Pat Fischer-Doak</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">associate director (7 episodes, 2009-2011)</td></tr><tr><td valign="top"><a href="/name/nm1132324/">Bill Ghaffary</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second assistant director (5 episodes, 2007-2008)</td></tr><tr><td valign="top"><a href="/name/nm1212782/">Lisa Chu</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">additional second assistant director (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm0760493/">Mark K. Samuels</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">first assistant director (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm0821307/">Joseph Stafford</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second assistant director (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm0277310/">Peter Filsinger</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">associate director (2 episodes, 2011-2013)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="art_department" href="/glossary/A#art_department">Series Art Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm2365555/">Scott L. London</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">property master (148 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0156075/">Francoise Cherry-Cohen</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set designer&#160;/ assistant art director (64 episodes, 2007-2010)</td></tr><tr><td valign="top"><a href="/name/nm0404151/">Sam Huston</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant property master (44 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0736757/">Bryan Rogers</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set dresser (41 episodes, 2007-2009)</td></tr><tr><td valign="top"><a href="/name/nm1918148/">Justin Freibrun</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set dresser (23 episodes, 2009)</td></tr><tr><td valign="top"><a href="/name/nm3893097/">Samantha Englender</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">art department assistant (20 episodes, 2009-2010)</td></tr><tr><td valign="top"><a href="/name/nm0367807/">Christopher Harwood</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">leadman (20 episodes, 2009-2010)</td></tr><tr><td valign="top"><a href="/name/nm4711395/">Rick Puccio</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">construction coordinator (11 episodes, 2011-2014)</td></tr><tr><td valign="top"><a href="/name/nm2771468/">Justin Hetzel</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">art department production assistant (10 episodes, 2008)</td></tr><tr><td valign="top"><a href="/name/nm0903387/">Jeffry C. Voorhees</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">on-set dresser (5 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm3015747/">Jem Elsner</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">props (4 episodes, 2013)</td></tr><tr><td valign="top"><a href="/name/nm3020494/">Stephen Gibson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set dresser (3 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm0008535/">G. Roger Abell</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">leadman (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm0047891/">Lee Lee Baird</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">property master (2 episodes, 2007)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="sound_department" href="/glossary/S#sound_crew">Series Sound Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0478714/">Bob La Masney</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">re-recording mixer&#160;/ sound re-recording mixer (149 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0567380/">Charlie McDaniel</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">re-recording mixer&#160;/ sound re-recording mixer (149 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0676350/">Bruce Peters</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production sound mixer (149 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm2761645/">Brian Seagrave</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">audio post-conform (34 episodes, 2007-2011)</td></tr><tr><td valign="top"><a href="/name/nm0470883/">Michael Kreple</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">foley mixer (9 episodes, 2007-2008)</td></tr><tr><td valign="top"><a href="/name/nm5450048/">Mike Truong</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">sound editor (3 episodes, 2013-2014)</td></tr><tr><td valign="top"><a href="/name/nm0646152/">Kathy Oldham</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">re-recording mixer (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm1825929/">Eric Raber</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">audio sweetening mixer (2 episodes, 2008)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="special_effects_department" href="/glossary/S#special_effects">Series Special Effects by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0285400/">Scott Forbes</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">special effects coordinator (19 episodes, 2009-2014)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="visual_effects_department" href="/glossary/V#visual_effects">Series Visual Effects by</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0924244/">Bryan Whitaker</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">flame artist&#160;/ Flame artist&#160;/ ... (31 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0181268/">Rick Cortes</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects artist&#160;/ digital compositor (28 episodes, 2009-2011)</td></tr><tr><td valign="top"><a href="/name/nm0140557/">Dan Carrington</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">Flame artist&#160;/ flame artist&#160;/ ... (19 episodes, 2007-2010)</td></tr><tr><td valign="top"><a href="/name/nm0587465/">Scott Milne</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects supervisor (15 episodes, 2007-2011)</td></tr><tr><td valign="top"><a href="/name/nm0714901/">Rick Redick</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects producer (5 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm0779779/">Sean M. Scott</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">visual effects artist (2 episodes, 2013-2014)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="stunts" href="/glossary/S#stunt_performer">Series Stunts</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0105743/">Eddie Braun</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt coordinator (106 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0241535/">Jayson Dumenigo</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunts&#160;/ utility stunts (4 episodes, 2008-2010)</td></tr><tr><td valign="top"><a href="/name/nm2122219/">Casey Adams</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunts (2 episodes, 2013-2014)</td></tr><tr><td valign="top"><a href="/name/nm1597946/">Zac Henry</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">stunt double: Johnny Galecki (2 episodes, 2013-2014)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="camera_department" href="/glossary/C#camera_department">Series Camera and Electrical Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0639622/">John O&#x27;Brien</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">video controller&#160;/ video operator (130 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm2582451/">David Pearce</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key grip (54 episodes, 2008-2014)</td></tr><tr><td valign="top"><a href="/name/nm1332743/">John Greene</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">gaffer (52 episodes, 2008-2014)</td></tr><tr><td valign="top"><a href="/name/nm1230252/">Ron Ervin</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">grip (11 episodes, 2007-2008)</td></tr><tr><td valign="top"><a href="/name/nm2003222/">Benjamin Steeples</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second assistant camera (10 episodes, 2013-2014)</td></tr><tr><td valign="top"><a href="/name/nm1476503/">Greg Gayne</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">still photographer (7 episodes, 2007-2009)</td></tr><tr><td valign="top"><a href="/name/nm0415486/">Ron P. Jaffe</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">still photographer (3 episodes, 2008-2009)</td></tr><tr><td valign="top"><a href="/name/nm1755218/">Lyndel Crosley</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">digital imaging technician&#160;/ digital technician (2 episodes, 2008)</td></tr><tr><td valign="top"><a href="/name/nm1366178/">Matt Kennedy</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">still photographer (2 episodes, 2011)</td></tr><tr><td valign="top"><a href="/name/nm0763872/">George Santo Pietro</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">dolly grip (2 episodes, 2013-2014)</td></tr><tr><td valign="top"><a href="/name/nm3127279/">Chloe Weaver</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">second assistant camera (2 episodes, 2013-2014)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="casting_department" href="/glossary/C#casting_department">Series Casting Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm1576709/">Tara Treacy</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">casting associate (116 episodes, 2008-2014)</td></tr><tr><td valign="top"><a href="/name/nm2417095/">Adam Hochfeld</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">extras casting (40 episodes, 2007-2009)</td></tr><tr><td valign="top"><a href="/name/nm2226025/">Peter Pappas</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">casting associate (18 episodes, 2007-2008)</td></tr><tr><td valign="top"><a href="/name/nm3198727/">Candace Miller</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">extras casting (3 episodes, 2009)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="costume_department" href="/glossary/C#costume_department">Series Costume and Wardrobe Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0372667/">Julie Heath</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key costumer (50 episodes, 2007-2010)</td></tr><tr><td valign="top"><a href="/name/nm0548742/">Sara Markowitz</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">costume supervisor (38 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0282949/">Suzanne Flores</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">key costumer (22 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm0271665/">Nicole Felts</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set costumer&#160;/ costumer (15 episodes, 2008-2009)</td></tr><tr><td valign="top"><a href="/name/nm0112777/">Pamela Broussard</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set costumer (3 episodes, 2008)</td></tr><tr><td valign="top"><a href="/name/nm2990037/">Richard Boitano</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set costumer (3 episodes, 2010)</td></tr><tr><td valign="top"><a href="/name/nm2382715/">Heather Carleton</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">set costumer (2 episodes, 2007)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="editorial_department" href="/glossary/E#editorial_department">Series Editorial Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm0606979/">Todd Morris</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant editor (139 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm2014813/">Tony D&#x27;Amore</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">final colorist (87 episodes, 2007-2011)</td></tr><tr><td valign="top"><a href="/name/nm1067951/">Ryan Berdan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post-production coordinator&#160;/ post production coordinator (41 episodes, 2007-2009)</td></tr><tr><td valign="top"><a href="/name/nm5234739/">Briana Roecks</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post-production assistant (11 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm3465038/">Megan Certo</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post production coordinator&#160;/ post-production coordinator (8 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm3486564/">Charles Back</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post-production coordinator (4 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm2179750/">Ahmadu Garba</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post-production associate (2 episodes, 2007)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="music_department" href="/glossary/M#music_department">Series Music Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm1327375/">Barenaked Ladies</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">theme written and performed by&#160;/ performer: theme music&#160;/ ... (149 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm3817833/">Gregory Sweeney</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">music coordinator (78 episodes, 2008-2011)</td></tr><tr><td valign="top"><a href="/name/nm0278988/">Joe Fischer</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">music manager (6 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm3892603/">Benson Taylor</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">composer: additional music (4 episodes, 2012)</td></tr><tr><td valign="top"><a href="/name/nm2828201/">Tim Helisek</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">composer: stock music (2 episodes, 2011)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="transportation_department" href="/glossary/T#transportation_department">Series Transportation Department</a></h5></td></tr><tr><td valign="top"><a href="/name/nm1266667/">Cyril O&#x27;Neil</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">picture car consultant (85 episodes, 2010-2014)</td></tr><tr><td valign="top"><a href="/name/nm0824131/">Brian Steagall</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">transportation coordinator&#160;/ transportation captain (75 episodes, 2010-2014)</td></tr><tr><td valign="top"><a href="/name/nm1211786/">Joel Larson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">transportation (59 episodes, 2011-2014)</td></tr><tr><td colspan="4">&#160;</td></tr></table><table border="0" cellpadding="1" cellspacing="1"><tr><td colspan="3" align="left"><h5><a class="glossary" name="miscellaneous" href="/glossary/C#crewmembers">Series Other crew</a></h5></td></tr><tr><td valign="top"><a href="/name/nm2934564/">David Saltzberg</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">science consultant (149 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0287774/">Don Foster</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">executive consultant (136 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm2771468/">Justin Hetzel</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production assistant&#160;/ assistant to producer&#160;/ ... (92 episodes, 2008-2014)</td></tr><tr><td valign="top"><a href="/name/nm0281490/">Julie Fleischer</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">script supervisor (78 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm0331212/">Eddie Gorodetsky</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">executive consultant (65 episodes, 2007-2010)</td></tr><tr><td valign="top"><a href="/name/nm0731393/">Mark Roberts</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">executive consultant (63 episodes, 2007-2010)</td></tr><tr><td valign="top"><a href="/name/nm2116787/">Russell Eida</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant: lee aronsohn&#160;/ assistant: Lee Aronsohn (60 episodes, 2008-2011)</td></tr><tr><td valign="top"><a href="/name/nm5935480/">Jason T. Welden</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">computer/video playback&#160;/ computer playback (55 episodes, 2007-2014)</td></tr><tr><td valign="top"><a href="/name/nm4572962/">Maile Gerken</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant to producer (49 episodes, 2007-2011)</td></tr><tr><td valign="top"><a href="/name/nm3388740/">Tara Hernandez</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant to executive producer&#160;/ story editor (44 episodes, 2010-2014)</td></tr><tr><td valign="top"><a href="/name/nm1948719/">Mindy Stevenson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">accounting auditor (40 episodes, 2007-2010)</td></tr><tr><td valign="top"><a href="/name/nm1945862/">Anthony Del Broccolo</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">story editor&#160;/ executive story editor (37 episodes, 2012-2014)</td></tr><tr><td valign="top"><a href="/name/nm2833663/">Kristen Kimmick</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant to Steven V. Silver&#160;/ assistant: Steven V. Silver (33 episodes, 2010-2012)</td></tr><tr><td valign="top"><a href="/name/nm3265488/">Jacob Murray</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production assistant (32 episodes, 2007-2011)</td></tr><tr><td valign="top"><a href="/name/nm0313365/">Brian George</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production coordinator (31 episodes, 2008-2009)</td></tr><tr><td valign="top"><a href="/name/nm2331640/">Anthony S. Robinson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production assistant&#160;/ gaming coordinator (30 episodes, 2007-2012)</td></tr><tr><td valign="top"><a href="/name/nm1287882/">Lisa Maniker</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">product placement (29 episodes, 2007-2009)</td></tr><tr><td valign="top"><a href="/name/nm1475259/">Jennifer Shaklan</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">writers assistant (23 episodes, 2008-2009)</td></tr><tr><td valign="top"><a href="/name/nm3956950/">Mackenzie Gabriel</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant to executive producer (23 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm2997642/">Marla DuMont</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant to producer (21 episodes, 2010-2011)</td></tr><tr><td valign="top"><a href="/name/nm1811065/">Bethany Phillips</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant: executive producer (20 episodes, 2008-2009)</td></tr><tr><td valign="top"><a href="/name/nm1858935/">Susan Kesser</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">publicist (19 episodes, 2008-2009)</td></tr><tr><td valign="top"><a href="/name/nm1865552/">Mona Garcea</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">executive assistant&#160;/ assistant to executive producer (18 episodes, 2007-2008)</td></tr><tr><td valign="top"><a href="/name/nm1861180/">Robinson Green</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production coordinator (13 episodes, 2008-2011)</td></tr><tr><td valign="top"><a href="/name/nm2666416/">Charles Chen</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">audience coordinator (11 episodes, 2009)</td></tr><tr><td valign="top"><a href="/name/nm0608282/">Gregg Moscot</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production coordinator (7 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm3478833/">Shawn Cloninger</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">post production assistant&#160;/ production assistant (6 episodes, 2008-2012)</td></tr><tr><td valign="top"><a href="/name/nm0361312/">Kevin Hanson</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">phaser weapon supplier&#160;/ bat&#x27;leth supplier&#160;/ ... (5 episodes, 2010-2013)</td></tr><tr><td valign="top"><a href="/name/nm1523128/">Gwendolyn Files</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production accountant (3 episodes, 2011-2012)</td></tr><tr><td valign="top"><a href="/name/nm0046716/">Marilyn Bagley</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">script supervisor (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm1531552/">Nicole Eberhardt</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant to producer (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm2179750/">Ahmadu Garba</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant to writer (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm1536030/">Kathy Nawabi</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">production coordinator (2 episodes, 2007)</td></tr><tr><td valign="top"><a href="/name/nm1933044/">Derick Green</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">audience page (2 episodes, 2008)</td></tr><tr><td valign="top"><a href="/name/nm3975473/">Samantha Silver</a></td><td valign="top" nowrap="1"> .... </td><td valign="top">assistant to producer (2 episodes, 2013-2014)</td></tr><tr><td colspan="4">&#160;</td></tr></table><br><b class="blackcatheader">Production Companies</b><ul><li><a href="/company/co0004981/">Chuck Lorre Productions</a></li><li><a href="/company/co0005035/">Warner Bros. Television</a></li></ul><b class="blackcatheader">Distributors</b><ul><li><a href="/company/co0070627/">Columbia Broadcasting System (CBS)</a> (2007-) (USA) (TV)</li><li><a href="/company/co0080139/">Canadian Television (CTV)</a> (2007-) (Canada) (TV)</li><li><a href="/company/co0395828/">AXN White</a> (2012) (Spain) (TV)</li><li><a href="/company/co0031085/">Argentina Video Home</a> (2008) (Argentina) (DVD)</li><li><a href="/company/co0216584/">Cool TV</a> (2009-2012) (Hungary) (TV) (seasons 1 - 4)</li><li><a href="/company/co0106185/">E4</a> (2008-) (UK) (TV)</li><li><a href="/company/co0059891/">ProSieben Television</a> (2009-) (Germany) (TV)</li><li><a href="/company/co0379571/">RTL 2</a> (2013) (Hungary) (TV) (season 5)</li><li><a href="/company/co0005774/">RTL Klub Telev&#xED;zi&#xF3;</a> (2012) (Hungary) (TV) (repeats)</li><li><a href="/company/co0420621/">Sony Entertainment Television</a> (2008) (Portugal) (TV)</li><li><a href="/company/co0260673/">Sub</a> (2013) (Finland) (TV)</li><li><a href="/company/co0203290/">Super! Drama TV</a> (2009-) (Japan) (TV)</li><li><a href="/company/co0023299/">Veronica</a> (2009-) (Netherlands) (TV)</li><li><a href="/company/co0252812/">Warner Home Video</a> (2008) (South Korea) (DVD)</li><li><a href="/company/co0189793/">Warner Home Video</a> (2009) (Netherlands) (DVD) (season 1)</li><li><a href="/company/co0189793/">Warner Home Video</a> (2010) (Netherlands) (DVD) (season 2)</li><li><a href="/company/co0189793/">Warner Home Video</a> (2011) (Netherlands) (DVD) (seasons 3 and 4)</li><li><a href="/company/co0059995/">Warner Home Video</a> (2008) (USA) (DVD) (season 1)</li><li><a href="/company/co0059995/">Warner Home Video</a> (2009) (USA) (DVD) (season 2)</li><li><a href="/company/co0059995/">Warner Home Video</a> (2010) (USA) (DVD) (season 3)</li><li><a href="/company/co0059995/">Warner Home Video</a> (2011) (USA) (DVD) (complete fourth season)</li><li><a href="/company/co0059995/">Warner Home Video</a> (2012) (USA) (DVD) (complete fifth season)</li></ul><b class="blackcatheader">Other Companies</b><ul><li><a href="/company/co0033524/">Central Casting</a>&nbsp;&nbsp;extras casting</li><li><a href="/company/co0296111/">Direct Tools &#x26; Fasteners</a>&nbsp;&nbsp;expendables</li><li><a href="/company/co0128626/">MFX</a>&nbsp;&nbsp;visual effects</li><li><a href="/company/co0204953/">Movie Movers</a>&nbsp;&nbsp;wardrobe trailer</li><li><a href="/company/co0009149/">Pacific Studios Inc.</a>&nbsp;&nbsp;chromatrans background</li><li><a href="/company/co0041930/">Panavision</a>&nbsp;&nbsp;cameras</li><li><a href="/company/co0130124/">Picture Mill, The</a>&nbsp;&nbsp;main title design</li><li><a href="/company/co0244989/">Pigfactory</a>&nbsp;&nbsp;music provided by</li><li><a href="/company/co0092783/">Technicolor Creative Services</a>&nbsp;&nbsp;post-production services</li><li><a href="/company/co0022896/">Warner Brothers Post-Production Services</a>&nbsp;&nbsp;sound services</li></ul>  
+<hr />      <h3>Additional Details</h3><div class="info"><h5>Also Known As:</h5><div class="info-content">                                "&#x160;treberi" - Serbia<br>      "&#x422;&#x435;&#x43E;&#x440;&#x438;&#x44F; &#x431;&#x43E;&#x43B;&#x44C;&#x448;&#x43E;&#x433;&#x43E; &#x432;&#x437;&#x440;&#x44B;&#x432;&#x430;" - Russia<br>     "&#x422;&#x435;&#x43E;&#x440;&#x438;&#x44F; &#x437;&#x430; &#x413;&#x43E;&#x43B;&#x435;&#x43C;&#x438;&#x44F; &#x432;&#x437;&#x440;&#x438;&#x432;" - Bulgaria <em>(Bulgarian title)</em><br>    "A Teoria do Big Bang" - Portugal <em>(imdb display title)</em><br>    "Agymen&#x151;k" - Hungary<br>    "Big Bang" - Spain <em>(imdb display title)</em><br>    "Big Bang: A Teoria" - Brazil <em>(imdb display title)</em><br>    "Didziojo sprogimo teorija" - Lithuania <em>(imdb display title)</em><br>    "Enfejare Bozorg" - Iran <em>(Persian title)</em> <em>(imdb display title)</em><br>    "Hamapats hagadol" - Israel <em>(Hebrew title)</em> <em>(imdb display title)</em><br>    "Rillit huurussa" - Finland<br>    "Teoria wielkiego podrywu" - Poland <em>(imdb display title)</em><br>    "Teorie velk&#xE9;ho tresku" - Czech Republic <em>(imdb display title)</em><br>    "Teorija velikog praska" - Croatia <em>(imdb display title)</em><br>    "The Big Bang Theory" - Brazil <em>(cable TV title)</em><br>    "The Big Bang Theory" - Greece <em>(imdb display title)</em><br>    "Veliki pokovci" - Slovenia <em>(imdb display title)</em><br>    "Vu No Lon" - Vietnam <em>(imdb display title)</em><br> <a class="tn15more" href="/title/tt0898266/releaseinfo#akas" onClick="(new Image()).src='/rg/title-tease/akas/images/b.gif?link=/title/tt0898266/releaseinfo#akas';">See more</a>&nbsp;&raquo;</div></div>   <div class="info"><h5>Runtime:</h5><div class="info-content">21 min </div></div><div class="info"><h5>Country:</h5><div class="info-content"><a href="/country/us">USA</a></div></div><div class="info"><h5>Language:</h5><div class="info-content"><a href="/language/en">English</a> | <a href="/language/hi">Hindi</a> | <a href="/language/it">Italian</a> | <a href="/language/ru">Russian</a> | <a href="/language/de">German</a></div></div><div class="info"><h5>Color:</h5><div class="info-content"><a href="/search/title?colors=color">Color</a> </div></div><div class="info"><h5>Aspect Ratio:</h5><div class="info-content">1.33 : 1 <a class="tn15more inline" href="/title/tt0898266/technical" onClick="(new Image()).src='/rg/title-tease/aspect/images/b.gif?link=/title/tt0898266/technical';">See more</a>&nbsp;&raquo;</div></div><div class="info"><h5>Sound Mix:</h5><div class="info-content"><a href="/search/title?sound_mixes=stereo">Stereo</a> </div></div><div class="info"><h5>Certification:</h5><div class="info-content"><a href="/search/title?certificates=ar:13">Argentina:13</a>  | <a href="/search/title?certificates=au:m">Australia:M</a> <i>(some episodes)</i> | <a href="/search/title?certificates=au:pg">Australia:PG</a> <i>(some episodes)</i> | <a href="/search/title?certificates=br:10">Brazil:10</a>  | <a href="/search/title?certificates=ca:pg">Canada:PG</a>  | <a href="/search/title?certificates=ca:g">Canada:G</a> <i>(Quebec)</i> | <a href="/search/title?certificates=fi:s">Finland:S</a>  | <a href="/search/title?certificates=fi:k_11">Finland:K-11</a> <i>(season 1) (DVD release)</i> | <a href="/search/title?certificates=fi:k_13">Finland:K-13</a> <i>(season 2) (season 4) (DVD release)</i> | <a href="/search/title?certificates=ie:12">Ireland:12</a>  | <a href="/search/title?certificates=it:t">Italy:T</a>  | <a href="/search/title?certificates=nz:m">New Zealand:M</a> <i>(DVD Rating)</i> | <a href="/search/title?certificates=nz:pg">New Zealand:PG</a> <i>(TV rating)</i> | <a href="/search/title?certificates=sg:nc_16">Singapore:NC-16</a> <i>(season 4) (season 5)</i> | <a href="/search/title?certificates=sg:pg13">Singapore:PG13</a> <i>(season 6)</i> | <a href="/search/title?certificates=sg:pg">Singapore:PG</a> <i>(seasons 1-3)</i> | <a href="/search/title?certificates=kr:15">South Korea:15</a> <i>(cable rating)</i> | <a href="/search/title?certificates=kr:12">South Korea:12</a> <i>(seasons 1-2) (DVD rating)</i> | <a href="/search/title?certificates=gb:12">UK:12</a> <i>(season 1)</i> | <a href="/search/title?certificates=gb:15">UK:15</a> <i>(season 2)</i> | <a href="/search/title?certificates=us:tv_14">USA:TV-14</a> <i>(some episodes)</i> | <a href="/search/title?certificates=us:tv_pg">USA:TV-PG</a> <i>(some episodes)</i></div></div><div class="info"><h5>Filming Locations:</h5><div class="info-content"><a  href="/search/title?locations=Stage%2025,%20Warner%20Brothers%20Burbank%20Studios%20-%204000%20Warner%20Boulevard,%20Burbank,%20California,%20USA">Stage 25, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA</a></div></div><div class="info"><h5>Company:</h5><div class="info-content"><a href="/company/co0004981/">Chuck Lorre Productions</a><a class="tn15more inline" href="/title/tt0898266/companycredits">See more</a>&nbsp;&raquo;</div></div><hr/><h3>Did You Know?</h3> <div class="info"><h5>Trivia:</h5><div class="info-content">The original working title of the show was &#x22;Lenny, Penny, and Kenny.&#x22;<a class="tn15more inline" href="/title/tt0898266/trivia" onClick="(new Image()).src='/rg/title-tease/trivia/images/b.gif?link=/title/tt0898266/trivia';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Goofs:</h5><div class="info-content">Errors made by characters (possibly deliberate errors by the filmmakers): In one of the episodes when Sheldon moves in with Raj, Raj is watching an Indian movie. The actress of that movie is referred to as &#x27;Aishvarya Rai&#x27;, but it&#x27;s actually &#x27;Amisha Patel&#x27;.<a class="tn15more inline"href="/title/tt0898266/trivia?tab=gf&" onClick="(newImage()).src='/rg/title-tease/goofs/images/b.gif?link=/title/tt0898266/trivia?tab=gf&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Quotes:</h5><div class="info-content">[<i class="fine">repeated line when someone accuses Sheldon of being crazy</i>] <br><b><a href="/name/nm1433588/">Sheldon</a></b>:I&#x27;m not crazy. My mother had me tested!<br><a class="tn15more" href="/title/tt0898266/quotes" onClick="(new Image()).src='/rg/title-tease/quotes/images/b.gif?link=/title/tt0898266/quotes';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Movie Connections:</h5><div class="info-content">Referenced in <a href="/title/tt1641324/">&#x22;Late Show with David Letterman: Eddie Murphy/Kaley Cuoco/Jakob Dylan (#17.121)&#x22;</a> (2010)<a class="tn15more inline"href="/title/tt0898266/trivia?tab=mc&" onClick="(newImage()).src='/rg/title-tease/movieconnections/images/b.gif?link=/title/tt0898266/trivia?tab=mc&';">See more</a>&nbsp;&raquo;</div></div> <div class="info"><h5>Soundtrack:</h5><div class="info-content">History of Everything (The Big Bang Theory Theme)<a class="tn15more inline" href="/title/tt0898266/soundtrack" onClick="(new Image()).src='/rg/title-tease/soundtrack/images/b.gif?link=/title/tt0898266/soundtrack';">See more</a>&nbsp;&raquo;</div></div> 
+<hr/>
+<h3>FAQ</h3>
+
+<a href="/title/tt0898266/faq#.2.1.6" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0898266/faq#.2.1.6';">Does Penny Have a Last Name?</a>
+<br/>
+
+<a href="/title/tt0898266/faq#.2.1.12" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0898266/faq#.2.1.12';">How can I audition for The Big Bang Theory or even work as an extra?</a>
+<br/>
+
+<a href="/title/tt0898266/faq#.2.1.1" onClick="(new Image()).src='/rg/title-tease/faq-question/images/b.gif?link=/title/tt0898266/faq#.2.1.1';">What are the lyrics of the theme song?</a>
+<br/>
+
+<a class="tn15more" href="/title/tt0898266/faq" onClick="(new Image()).src='/rg/title-tease/faq-more/images/b.gif?link=/title/tt0898266/faq';">See more</a>&nbsp;&raquo;
+
+<hr/>
+<div class="headerinline">
+<a name="comment"><h3>User Reviews</h3></a>&nbsp;&nbsp;&nbsp;<span>(<a rel="login" href="reviews-enter">Review this title</a>)</span>
+</div>
+<div class="comment">
+<script type="text/javascript">
+<!--
+function yn(id, vote) {
+  if (!document.getElementById || !document.createElement || !document.removeChild || !document.appendChild || !document.childNodes || !document.createTextNode) return true;
+  var i = new Image();
+  i.onload =  function() { ynd(id, 1) };
+  i.onerror = function() { ynd(id, 0) };
+  i.src = 'reviews-vote?yni_'+id+'='+vote;
+  return false;
+}
+function ynd(id, status) {
+  var d, s, t;
+  if (!(d = document.getElementById('ynd_'+id))) return true;
+  while (d.childNodes.length) d.removeChild(d.childNodes[0]);
+  var s = document.createElement('span');
+  if (!status) s.setAttribute('class', 'error');
+  s.innerHTML = status ? 'Thank you, your vote will be counted and appear on this page within 24 hours.' : 'Sorry, there was a problem collecting your vote.';
+  d.appendChild(s);
+}
+//-->
+</script>
+<div class="small">
+497 out of 649 people found the following review useful.
+</div>
+
+<b>CBS, please keep this on the air!!!!</b>, 1 October 2007
+<br>
+
+<div class="tinystarbar" title="10/10"><div style="width: 100px;"><a></a></div></div>
+
+<div class="small">
+Author:
+<a href="/user/ur3769621/comments">Awakening124</a>
+
+<small>
+from United States
+</small>
+
+</div>
+
+
+</p>
+<p>
+When my boyfriend tuned into the premiere I thought the show was going
+to be stupid. I was so surprised. This is the first TV show to really
+showcase nerds with pretty much dead on accuracy. This has a sparkling
+cast (Jim Parsons is the new and improved David Hyde Pierce) and
+fantastic humor that ranges from light slapstick to seriously quick
+wit. This show is a great love letter to nerds, and as such any nerd
+should give this a try. With a bunch of new (and very lame) shows
+debuting, it&#39;s good to see something worth watching! This premise isn&#39;t
+exactly new but the execution is nothing short of brilliant. Give it a
+shot!!
+</p>
+
+<div class="yn" id="ynd_1739834">
+<form method="get" action="/register/">
+<input type="hidden" name="why" value="comment_vote">
+Was the above review useful to you?
+
+<input type="submit" style="font-weight: bold; font-size: 10px; padding: 0px 4px 8px;" class="click linkasbutton-secondary" value="Yes"  >
+
+<input type="submit" style="font-weight: bold; font-size: 10px; padding: 0px 4px 8px;" class="click linkasbutton-secondary" value="No"  >
+</form>
+</div>
+</div>
+
+
+<a class="tn15more" href="/title/tt0898266/reviews" onClick="(new Image()).src='/rg/title-tease/comments-bottom/images/b.gif?link=/title/tt0898266/reviews';">See more (270 total)</a>&nbsp;&raquo;
+
+<hr/>
+<h3>Message Boards</h3>
+Discuss this movie with other users on <a href="/title/tt0898266/board" onClick="(new Image()).src='/rg/title-tease/boards-top/images/b.gif?link=/title/tt0898266/board';">IMDb message board for &#x22;The Big Bang Theory&#x22; (2007)</a>
+
+<table class="boards">
+<tr><th class="left">Recent Posts (updated daily)</th><th class="right">User</th></tr>
+
+<tr class="odd">
+<td><a href="/rg/title-tease/boards-subject/title/tt0898266/board/nest/225223877">Does Sheldon find Amy physically attractive at all?</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur45266984/boards/profile">TheFemaleMustache</a></td>
+</tr>
+
+<tr class="even">
+<td><a href="/rg/title-tease/boards-subject/title/tt0898266/board/nest/224472840">OT: Is this a real photo or is it photoshopped?</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur47465111/boards/profile">teamfreewillforever</a></td>
+</tr>
+
+<tr class="odd">
+<td><a href="/rg/title-tease/boards-subject/title/tt0898266/board/nest/225194475">Female nerds not into nerd culture?</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur3360761/boards/profile">jon7057</a></td>
+</tr>
+
+<tr class="even">
+<td><a href="/rg/title-tease/boards-subject/title/tt0898266/board/nest/225121822">Man some people really hate this show</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur48193242/boards/profile">WildcatsRule03</a></td>
+</tr>
+
+<tr class="odd">
+<td><a href="/rg/title-tease/boards-subject/title/tt0898266/board/nest/225006166">What plots would you like to see in future episodes?</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur0786518/boards/profile">monkeyalien</a></td>
+</tr>
+
+<tr class="even">
+<td><a href="/rg/title-tease/boards-subject/title/tt0898266/board/nest/225072911">Howard's long lost dad should be played by...</a></td>
+<td><a href="/rg/title-tease/boards-user/user/ur2546846/boards/profile">Janus822</a></td>
+</tr>
+
+</table>
+<a class="tn15more" href="/title/tt0898266/board" onClick="(new Image()).src='/rg/title-tease/boards-bottom/images/b.gif?link=/title/tt0898266/board';">See more</a>&nbsp;&raquo;
+
+<hr/>
+
+
+<h3>Recommendations</h3>
+
+<div class="strip">
+If you enjoyed this title, our database also recommends:
+
+<table class="recs">
+<tbody>
+    <tr class="poster">
+        
+        <td>
+            <a href="/rg/tt-recs/image/title/tt0343135/">
+<img class="poster"     alt="-"     width="93"     height="138"     src="http://ia.media-imdb.com/images/M/MV5BMTcxMDMwODg3Nl5BMl5BanBnXkFtZTYwMTM4NTY3._V1._SX93_.jpg" ></a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/image/title/tt0419843/">
+<img class="poster"     alt="-"     width="93"     height="139"     src="http://ia.media-imdb.com/images/M/MV5BMTQ4MDQ3NTExMV5BMl5BanBnXkFtZTcwMTA0OTM0MQ@@._V1._SX93_.jpg" ></a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/image/title/tt1285016/">
+<img class="poster"     alt="-"     width="93"     height="147"     src="http://ia.media-imdb.com/images/M/MV5BMTM2ODk0NDAwMF5BMl5BanBnXkFtZTcwNTM1MDc2Mw@@._V1._SX93_.jpg" ></a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/image/title/tt0443453/">
+<img class="poster"     alt="-"     width="93"     height="138"     src="http://ia.media-imdb.com/images/M/MV5BMTk0MTQ3NDQ4Ml5BMl5BanBnXkFtZTcwOTQ3OTQzMw@@._V1._SX93_.jpg" ></a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/image/title/tt0842926/">
+<img class="poster"     alt="-"     width="93"     height="138"     src="http://ia.media-imdb.com/images/M/MV5BMjE4NTMwNDg5MF5BMl5BanBnXkFtZTcwNDY2ODE0Mw@@._V1._SX93_.jpg" ></a>
+        </td>
+    
+    </tr>
+    <tr>
+        
+        <td>
+            <a href="/rg/tt-recs/link/title/tt0343135/">Along Came Polly</a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/link/title/tt0419843/">In the Land of Women</a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/link/title/tt1285016/">The Social Network</a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/link/title/tt0443453/">Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan</a>
+        </td>
+
+        <td>
+            <a href="/rg/tt-recs/link/title/tt0842926/">The Kids Are All Right</a>
+        </td>
+
+    </tr>
+    <tr class="rating">
+        
+        <td class="first">
+            <small>IMDb User Rating:</small><br/>
+            <div class="tinystarbar" title="5.9/10"><div style="width: 59px;"><a></a></div></div>
+        </td>
+
+        <td class="first">
+            <small>IMDb User Rating:</small><br/>
+            <div class="tinystarbar" title="6.6/10"><div style="width: 66px;"><a></a></div></div>
+        </td>
+
+        <td class="first">
+            <small>IMDb User Rating:</small><br/>
+            <div class="tinystarbar" title="7.8/10"><div style="width: 78px;"><a></a></div></div>
+        </td>
+
+        <td class="first">
+            <small>IMDb User Rating:</small><br/>
+            <div class="tinystarbar" title="7.3/10"><div style="width: 73px;"><a></a></div></div>
+        </td>
+
+        <td class="first">
+            <small>IMDb User Rating:</small><br/>
+            <div class="tinystarbar" title="7.1/10"><div style="width: 71px;"><a></a></div></div>
+        </td>
+
+    </tr>
+</tbody>
+</table>
+
+<a onclick="(new Image()).src='/rg/title-tease/recommendations/images/b.gif?link=/title/tt0898266/recommendations';" href="/title/tt0898266/recommendations">Show more recommendations</a>
+
+</div>
+
+<h3>Related Links</h3><table>
+<tr><td width="33%" style="width: 400px"> <a href="/title/tt0898266/episodes" onClick="(new Image()).src='/rg/title-related/maindetails-episodes/images/b.gif?link=/title/tt0898266/episodes';">Episode guide</a></td><td width="33%" style="width: 400px"> <a href="/title/tt0898266/companycredits" onClick="(new Image()).src='/rg/title-related/maindetails-companycredits/images/b.gif?link=/title/tt0898266/companycredits';">Company credits</a></td><td width="33%" style="width: 400px"> <a href="/title/tt0898266/externalreviews" onClick="(new Image()).src='/rg/title-related/maindetails-externalreviews/images/b.gif?link=/title/tt0898266/externalreviews';">External reviews</a></td></tr><tr><td width="33%" style="width: 400px"> <a href="/title/tt0898266/news" onClick="(new Image()).src='/rg/title-related/maindetails-news/images/b.gif?link=/title/tt0898266/news';">News articles</a></td><td width="33%" style="width: 400px"> <a href="/sections/tv/" onClick="(new Image()).src='/rg/title-related/maindetails-tv/images/b.gif?link=/sections/tv/';">IMDb TV section</a></td><td width="33%" style="width: 400px"> <a href="/Sections/Genres/Comedy/" onClick="(new Image()).src='/rg/title-related/maindetails-genre/images/b.gif?link=/Sections/Genres/Comedy/';">IMDb Comedy section</a></td></tr><tr><td width="33%" style="width: 400px"> <a href="/country/us" onClick="(new Image()).src='/rg/title-related/maindetails-country/images/b.gif?link=/country/us';">IMDb USA section</a></td>
+</table>
+<div id="tn15bot">
+ <div class="left">
+  <p><form method="post" action="/updates"><input type="hidden" name="auto" value="legacy/title/tt0898266/combined"><button type="submit" class="primary" onclick="(new Image()).src='/rg/maindetails-title/tconst-update/images/b.gif'">Edit page</button></p><p><i>You may report errors and omissions on this page to the IMDb database managers. They will be examined and if approved will be included in a future update. Clicking the 'Edit page' button  will take you through a step-by-step process.</i></p></form>
+
+  <div><form method="post" action="/updates"><input type="hidden" name="update" value="episode" /><input type="hidden" name="parent" value="tt0898266" /><button type="submit" class="primary" onclick="(new Image()).src='/rg/addepisode-title/tconst-update/images/b.gif'">Add episode</button></form><p><i>You may add a new episode for this TV series by clicking the 'add episode' button
+</i></p></div>
+
+ </div>
+</div>
+
+<div id="servertime" time="410.321" treatment="control"></div>
+
+<div id="criticalcontent" data-selector="#primary-poster, #title-media-strip img"></div>
+
+</div>
+</div> 
+</div> 
+<br style="clear:both;" />
+</div>
+<div id="footer" class="ft">
+<hr width="100%" size=1>
+  <div id="rvi-div">
+    <div class="recently-viewed">&nbsp;</div>
+    <br class="clear">
+    <hr width="100%" size="1">            
+  </div>
+
+<p class="footer" align="center">
+<a    onclick="(new Image()).src='/rg/home/footer/images/b.gif?link=%2F';"     href="/"    >Home</a>
+  | <a    onclick="(new Image()).src='/rg/search/footer/images/b.gif?link=%2Fsearch';"     href="/search"    >Search</a>
+  | <a    onclick="(new Image()).src='/rg/siteindex/footer/images/b.gif?link=%2Fa2z';"     href="/a2z"    >Site Index</a>
+  | <a    onclick="(new Image()).src='/rg/intheaters/footer/images/b.gif?link=%2Fmovies-in-theaters%2F';"     href="/movies-in-theaters/"    >In Theaters</a>
+  | <a    onclick="(new Image()).src='/rg/comingsoon/footer/images/b.gif?link=%2Fmovies-coming-soon%2F';"     href="/movies-coming-soon/"    >Coming Soon</a>
+  | <a    onclick="(new Image()).src='/rg/topmovies/footer/images/b.gif?link=%2Fchart%2F';"     href="/chart/"    >Top Movies</a>
+  | <a    onclick="(new Image()).src='/rg/top250/footer/images/b.gif?link=%2Fchart%2Ftop';"     href="/chart/top"    >Top 250</a>
+  | <a    onclick="(new Image()).src='/rg/tv/footer/images/b.gif?link=%2Fsections%2Ftv%2F';"     href="/sections/tv/"    >TV</a>
+  | <a    onclick="(new Image()).src='/rg/news/footer/images/b.gif?link=%2Fnews%2F';"     href="/news/"    >News</a>
+  | <a    onclick="(new Image()).src='/rg/messageboards/footer/images/b.gif?link=%2Fboards%2F';"     href="/boards/"    >Message Boards</a>
+  | <a    onclick="(new Image()).src='/rg/pressroom/footer/images/b.gif?link=%2Fpressroom%2F';"     href="/pressroom/"    >Press Room</a>
+<br>
+
+<a    onclick="(new Image()).src='/rg/register-v2/footer/images/b.gif?link=https%3A%2F%2Fsecure.imdb.com%2Fregister-imdb%2Fform-v2';"     href="https://secure.imdb.com/register-imdb/form-v2"    >Register</a>
+
+  | <a    onclick="(new Image()).src='/rg/advertising/footer/images/b.gif?link=%2Fadvertising%2F';"     href="/advertising/"    >Advertising</a>
+  | <a    onclick="(new Image()).src='/rg/helpdesk/footer/images/b.gif?link=%2Fhelpdesk%2Fcontact';"     href="/helpdesk/contact"    >Contact Us</a>
+  | <a    onclick="(new Image()).src='/rg/jobs/footer/images/b.gif?link=%2Fjobs';"     href="/jobs"    >Jobs</a>
+  | <a href="https://secure.imdb.com/r/IMDbFooter/register/subscribe?c=a394d4442664f6f6475627" onClick="(new Image()).src='/rg/IMDbFooter/prosystem/images/b.gif?link=https://secure.imdb.com/register/subscribe?c=a394d4442664f6f6475627';">IMDbPro</a>
+  | <a href="http://www.boxofficemojo.com" onClick="(new Image()).src='/rg/BOXOFFICEMOJO/FOOTER/images/b.gif?link=http://www.boxofficemojo.com';">Box Office Mojo</a>
+  | <a href="http://www.withoutabox.com" onClick="(new Image()).src='/rg/WITHOUTABOX/FOOTER/images/b.gif?link=http://www.withoutabox.com';">Withoutabox</a>
+ <br /><br />
+ IMDb Mobile: 
+    <a    onclick="(new Image()).src='/rg/mobile-ios/footer/images/b.gif?link=%2Fapps%2Fios%2F';"     href="/apps/ios/"    >iPhone/iPad</a>
+  | <a    onclick="(new Image()).src='/rg/mobile-android/footer/images/b.gif?link=%2Fandroid';"     href="/android"    >Android</a>
+  | <a    onclick="(new Image()).src='/rg/mobile-web/footer/images/b.gif?link=http%3A%2F%2Fm.imdb.com';"     href="http://m.imdb.com"    >Mobile site</a>
+  | <a    onclick="(new Image()).src='/rg/mobile-win7/footer/images/b.gif?link=%2Fwindowsphone';"     href="/windowsphone"    >Windows Phone 7</a>
+  | IMDb Social:
+    <a    onclick="(new Image()).src='/rg/facebook/footer/images/b.gif?link=http%3A%2F%2Fwww.facebook.com%2Fimdb';"     href="http://www.facebook.com/imdb"    >Facebook</a>
+  | <a    onclick="(new Image()).src='/rg/twitter/footer/images/b.gif?link=http%3A%2F%2Ftwitter.com%2Fimdb';"     href="http://twitter.com/imdb"    >Twitter</a>
+<br><br>
+</p>
+<p class="footer" align="center">
+
+<a href="/help/show_article?conditions">Copyright &copy;</a> 1990-2014
+<a href="/help/">IMDb.com, Inc.</a>
+<br>
+<a href="/help/show_article?conditions">Conditions of Use</a> | <a href="/privacy">Privacy Policy</a> | <a href="//www.amazon.com/InterestBasedAds">Interest-Based Ads</a>
+<br>
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF75f161ebbfc922250664ab159771f349/wheel/logo.css" >
+An <img id="amazon_logo" align="middle" style="width:80px;height:19px;border:0 none" src="http://i.media-imdb.com/images/SF9bb191c6827273aa978cab39a3587950/b.gif"/> company.
+
+</p>
+<table class="footer" id="amazon-affiliates">
+  <tr>
+    <td colspan="8">
+      Amazon Affiliates
+    </td>
+  </tr>
+  <tr>
+    <td class="amazon-affiliate-site-first">
+      <a class="amazon-affiliate-site-link"
+      href="http://www.amazon.com/b?ie=UTF8&node=2858778011&tag=imdbpr1-20">
+        <span class="amazon-affiliate-site-name">Amazon Instant Video</span><br>
+        <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link"
+      href="http://www.amazon.com/b?ie=UTF8&node=2676882011&tag=imdbpr1-20">
+        <span class="amazon-affiliate-site-name">Prime Instant Video</span><br>
+        <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link"
+      href="http://www.amazon.de/b?ie=UTF8&node=284266&tag=imdbpr1-de-21">
+        <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+        <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link"
+      href="http://www.amazon.it/b?ie=UTF8&node=412606031&tag=imdbpr1-it-21">
+        <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+        <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link"
+      href="http://www.amazon.fr/b?ie=UTF8&node=405322&tag=imdbpr1-fr-21">
+        <span class="amazon-affiliate-site-name">Amazon France</span><br>
+        <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link"
+      href="http://www.amazon.in/movies-tv-shows/b/?ie=UTF&node=976416031&tag=imdbpr1-in-21">
+        <span class="amazon-affiliate-site-name">Amazon India</span><br>
+        <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link" href="http://www.dpreview.com">
+        <span class="amazon-affiliate-site-name">DPReview</span><br>
+        <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
+      </a>
+    </td>
+    <td class="amazon-affiliate-site-item-nth">
+      <a class="amazon-affiliate-site-link" href="http://www.audible.com">
+        <span class="amazon-affiliate-site-name">Audible</span><br>
+      <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+
+<!-- begin BOTTOM_AD -->
+<div id="bottom_ad_wrapper" class="dfp_slot">
+<script type="text/javascript">
+doWithAds(function(){
+ad_utils.register_ad('bottom_ad');
+});
+</script>
+<iframe data-dart-params="#imdb2.consumer.tv/;!TILE!;sz=728x90,2x1;p=b;g=co;tt=tv;coo=us;b=t250a;b=glbst;b=friencom;b=glbs14;b=falltv;fv=1;id=tt0898266;oe=utf-8;[CLIENT_SIDE_KEYVALUES];u=368278368501;ord=368278368501?" id="bottom_ad" name="bottom_ad" class="yesScript" width="728" height="90" data-original-width="728" data-original-height="90" data-config-width="728" data-config-height="90" data-cookie-width="null" data-cookie-height="null" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });"></iframe>
+<noscript><a href="http://ad.doubleclick.net/N4215/jump/imdb2.consumer.tv/;tile=2;sz=728x90,2x1;p=b;g=co;tt=tv;coo=us;b=t250a;b=glbst;b=friencom;b=glbs14;b=falltv;fv=1;id=tt0898266;ord=368278368501?" target="_blank"><img src="http://ad.doubleclick.net/N4215/ad/imdb2.consumer.tv/;tile=2;sz=728x90,2x1;p=b;g=co;tt=tv;coo=us;b=t250a;b=glbst;b=friencom;b=glbs14;b=falltv;fv=1;id=tt0898266;ord=368278368501?" border="0" alt="advertisement" /></a></noscript>
+</div>
+<div id="bottom_ad_reflow_helper"></div>
+<script>
+doWithAds(function(){
+ad_utils.gpt.render_ad('bottom_ad');
+}, "ad_utils not defined, unable to render client-side GPT ad.");
+</script>
+<!-- End BOTTOM_AD --><!-- _get_ad_for_slot(BOTTOM_AD) -->
+  
+  
+  
+</layer>
+</div>
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a08023031343031333130000001037a040379646370000001047&cb=139116290414478" width="1" height="1" alt="" border="0">
+</div> <!-- id="wrapper" -->
+<!-- h=iop105 i=2014-01-30 s=legacy(akas) t='Fri Jan 31 02:08:24 2014' -->
+<script src="http://i.media-imdb.com/images/SF539be3987208630802e712857c51a6c9/js/jquery.js" ></script><script src="http://i.media-imdb.com/images/SF9fbbc90d4bc733181aab872862e796f8/js/cc/title/main.js" ></script><script src="http://i.media-imdb.com/images/SF4f789f206c87a31b26eb8666da48322e/js/app/win7/sitemode.js" ></script><script src="http://i.media-imdb.com/images/SF72867cac47f3d7e883837477537ab0a1/js/vote.js" ></script><!-- begin ads footer -->
+
+<!-- Begin SIS code --> 
+<iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" style="display: none;"></iframe>
+<script>
+    setTimeout(function(){
+        try{
+            //sis3.0 pixel
+            var url_sis3 = 'http://s.amazon-adsystem.com/iu3?',
+                params_sis3 = [
+                    "d=imdb.com",
+                    "a1=",
+                    "a2=",
+                    "pId=",
+                    "r=1",
+                    "rP=http%3A%2F%2Fakas.imdb.com%2Ftitle%2Ftt0898266%2Fcombined",
+                    "encoding=server",
+                    "cb=368278368501"  
+                ];
+        
+            (document.getElementById('sis_pixel_sitewide')).src = url_sis3 + params_sis3.join('&');
+        }
+        catch(e){
+            if ('consoleLog' in window){
+                consoleLog('Pixel failure ' + e.toString(),'sis');
+            }
+            if (window.ueLogError) { 
+                window.ueLogError(e);
+            }
+        }
+    }, 5);
+</script>
+<!-- End SIS code -->
+
+<!-- begin comscore beacon -->
+<script type="text/javascript" src='http://ia.media-imdb.com/images/G/01/imdbads/js/beacon-58460835._V379390778_.js'></script>
+<script type="text/javascript">
+if(window.COMSCORE){
+COMSCORE.beacon({
+c1: 2,
+c2:"6034961",
+c3:"",
+c4:"http://akas.imdb.com/title/tt0898266/combined",
+c5:"",
+c6:"",
+c15:""
+});
+}
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6034961&c3=&c4=http%3A%2F%2Fakas.imdb.com%2Ftitle%2Ftt0898266%2Fcombined&c5=c6=&15=&cj=1"/>
+</noscript>
+<!-- end comscore beacon -->
+
+<script>
+    doWithAds(function(){
+        (new Image()).src = "http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=368278368501&ord=368278368501";
+    },"unable to request AAN pixel");
+</script>
+
+<script>
+    doWithAds(function(){
+           window.jQuery && jQuery(function(){
+              generic.document_is_ready()
+           });
+           generic.monitoring.stop_timing('page_load','',true);
+           generic.monitoring.all_events_started();
+       }, "No monitoring or document_is_ready object in generic");
+</script>
+<!-- end ads footer -->
+<script src="http://i.media-imdb.com/images/SF478cec6a48c8de4413dbc404879752d1/js/jquery/plugins/jquery.colorbox-min.js" ></script><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF73051487323537a6449a6bb75bc86d43/css/min/lightbox.css" ><script type="text/imdblogin-js" id="login">
+    jQuery(document).ready(function(){
+        window.imdb.login_lightbox("https://secure.imdb.com",
+                       "http://akas.imdb.com/title/tt0898266/combined");
+    });
+</script>
+<script src="http://i.media-imdb.com/images/SFa158298d71e09af8642759d3e6ea6805/js/cc/loginbox.js" ></script><script src="http://i.media-imdb.com/images/SF5f938bdbdb70146c608bda5689780999/js/cc/suggestionsearch.js" charset="UTF-8"></script><script src="http://i.media-imdb.com/images/SFb762c590afd141254ab36f8212ac0f29/js/jquery/ui-current-custom.js" ></script><script src="http://i.media-imdb.com/images/SF9e6cf22ed900f2e6a7be58a90ed0397d/js/cc/wlb-lite.js" ></script>
+<script>
+(function($){
+    $('.wlb_wrapper')
+    .wlb_lite();
+})(jQuery);
+</script>
+<script type="text/javascript">setTimeout(
+        function() { 
+            var url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0898266%2F";
+            var like = document.getElementById('iframe_like');
+            if (like) {
+                like.src = url; 
+                like.onload = function () { 
+                    generic.monitoring.stop_timing('facebook_like_iframe', '', false); 
+                }; 
+            }
+        }
+        , 5
+);
+</script><script src="http://i.media-imdb.com/images/SFe6b8b05cea724dcd192ca6c674f606cc/js/framecheck.js" ></script>
+</body>
+</html>
