@@ -1,40 +1,43 @@
 require 'spec_helper'
 
 describe 'Imdb::Search with multiple search results' do
-  before(:each) do
-    @search = Imdb::Search.new('Star Trek: TOS')
-  end
+  context 'Star Trek: TOS' do
+    subject { Imdb::Search.new('Star Trek: TOS') }
 
-  it 'should remember the query' do
-    @search.query.should == 'Star Trek: TOS'
-  end
+    it 'remembers the query' do
+      expect(subject.query).to eq('Star Trek: TOS')
+    end
 
-  it 'should find 14 results' do
-    @search.movies.size.should eql(14)
-  end
+    it 'finds 14 results' do
+      expect(subject.movies.size).to eq(14)
+    end
 
-  it 'should return Imdb::Movie objects only' do
-    @search.movies.each { |movie| movie.should be_an(Imdb::Movie) }
-  end
+    it 'returns Imdb::Movie objects only' do
+      subject.movies.each { |movie| expect(movie).to be_a(Imdb::Movie) }
+    end
 
-  it 'should not return movies with no title' do
-    @search.movies.each { |movie| movie.title.should_not be_blank }
-  end
+    it 'does not return movies with no title' do
+      subject.movies.each { |movie| expect(movie.title).to_not be_blank }
+    end
 
-  it 'should return only the title of the result' do
-    @search.movies.first.title.should eql('Star Trek (1966) (TV Series)')
+    it 'returns only the title of the result' do
+      expect(subject.movies.first.title).to eq('Star Trek (1966) (TV Series)')
+    end
   end
 end
 
 describe 'Imdb::Search with an exact match and no poster' do
-  it 'should not raise an exception' do
+  it 'does not raise an exception' do
     expect do
-      @search = Imdb::Search.new('Kannethirey Thondrinal').movies
+      subject = Imdb::Search.new('Kannethirey Thondrinal').movies
     end.not_to raise_error
   end
 
-  it 'should return the movie id correctly' do
-    @search = Imdb::Search.new('Kannethirey Thondrinal')
-    @search.movies.first.id.should eql('0330508')
+  context 'Kannethirey Thondrinal' do
+    subject { Imdb::Search.new('Kannethirey Thondrinal') }
+
+    it 'returns the movie id correctly' do
+      expect(subject.movies.first.id).to eq('0330508')
+    end
   end
 end

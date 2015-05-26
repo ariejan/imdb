@@ -1,41 +1,38 @@
 require 'spec_helper'
 
 describe 'Imdb::Season' do
-  before(:each) do
-    @serie = Imdb::Serie.new('1520211')
-    @season = @serie.seasons.first
-  end
+  subject      { Imdb::Serie.new('1520211') }
+  let(:season) { subject.seasons.first }
 
   it 'has 6 episodes' do
-    @season.episodes.size.should eql(6)
+    expect(season.episodes.size).to eq(6)
   end
 
   it 'can fetch a specific episode' do
-    @season.episode(1).title.should =~ /Days Gone By/i
-    @season.episode(1).episode.should eq(1)
-    @season.episode(1).season.should eq(1)
+    episode = season.episode(1)
+    expect(episode.title).to match(/Days Gone By/i)
+    expect(episode.episode).to eq(1)
+    expect(episode.season).to eq(1)
   end
 end
 
 describe 'Imdb::Season starting with episode 0' do
-  before(:each) do
-    @serie = Imdb::Serie.new('0898266')
-    @season = @serie.season(1)
-    @episodes = @serie.season(1).episodes
+  subject        { Imdb::Serie.new('0898266') }
+  let(:season)   { subject.season(1) }
+  let(:episodes) { season.episodes }
+
+  it 'indexes episode correctly' do
+    expect(episodes[0].episode).to eq(0)
+    expect(episodes[1].episode).to eq(1)
   end
 
-  it 'should index episode correctly' do
-    @episodes[0].episode.should eql(0)
-    @episodes[1].episode.should eql(1)
+  it 'returns the correct title' do
+    expect(episodes[0].title).to eq('Unaired Pilot')
+    expect(episodes[1].title).to eq('Pilot')
   end
 
-  it 'should return the correct title' do
-    @episodes[0].title.should eql('Unaired Pilot')
-    @episodes[1].title.should eql('Pilot')
-  end
-
-  it 'should fetch the correct episode' do
-    @season.episode(0).episode.should eql(0)
-    @season.episode(1).episode.should eql(1)
+  it 'fetches the correct episode' do
+    expect(season.episode(0).episode).to eq(0)
+    expect(season.episode(1).episode).to eq(1)
   end
 end

@@ -1,21 +1,20 @@
 require 'spec_helper'
 
 describe Imdb::BoxOffice do
-  before(:each) do
-    @movies = Imdb::BoxOffice.new.movies
+  subject { Imdb::BoxOffice.new.movies }
+
+  it 'is list of movies' do
+    subject.each do |movie|
+      expect(movie).to be_a(Imdb::Movie)
+    end
   end
 
-  it 'should be a list of movies' do
-    @movies.each { |movie| movie.should be_an_instance_of(Imdb::Movie) }
+  it 'returns the box office movies from IMDB.com' do
+    expect(subject.length).to eq(10)
   end
 
-  it 'should return the box office movies from IMDB.com' do
-    @movies.size.should eq(10)
-  end
-
-  it 'should provide array like access to the movies' do
-    @movies[0].title.should eq('Big Hero 6')
-    @movies[1].title.should eq('Interstellar')
-    @movies[2].title.should eq('Gone Girl')
+  it 'is an array like access to the movies' do
+    expected_movies = ['Big Hero 6', 'Interstellar', 'Gone Girl']
+    expect(subject.map(&:title)).to include(*expected_movies)
   end
 end
