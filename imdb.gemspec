@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'nokogiri', '= 1.6.5'
 
   s.add_development_dependency 'rake', '~> 10.0.3'
-  s.add_development_dependency 'rspec', '~> 2.13.0'
+  s.add_development_dependency 'rspec', '~> 3.0.0'
   s.add_development_dependency 'gokdok'
   s.add_development_dependency 'rdoc', '~> 4.0'
   s.add_development_dependency 'fakeweb'

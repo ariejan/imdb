@@ -1,21 +1,19 @@
 require 'spec_helper'
 
 describe 'Imdb::Serie' do
-  before(:each) do
-    @serie = Imdb::Serie.new('1520211')
-  end
+  subject { Imdb::Serie.new('1520211') }
 
   # Double check from Base.
-  it 'should find title' do
-    @serie.title.should =~ /The Walking Dead/
+  it 'finds the title' do
+    expect(subject.title).to match(/The Walking Dead/)
   end
 
   it 'reports the number of seasons' do
-    @serie.seasons.size.should eql(5)
+    expect(subject.seasons.size).to eq(5)
   end
 
   it 'can fetch a specific season' do
-    @serie.season(1).season_number.should eq(1)
-    @serie.season(1).episodes.size.should eq(6)
+    expect(subject.season(1).season_number).to eq(1)
+    expect(subject.season(1).episodes.size).to eq(6)
   end
 end
