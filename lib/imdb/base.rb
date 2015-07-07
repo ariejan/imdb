@@ -117,6 +117,11 @@ module Imdb
     def rating
       document.at('.starbar-meta b').content.split('/').first.strip.to_f rescue nil
     end
+    
+    # Returns an int containing the Metascore
+    def metascore
+      criticreviews_document.at('//span[@itemprop="ratingValue"]').content.to_i rescue nil
+    end
 
     # Returns an int containing the number of user ratings
     def votes
@@ -185,7 +190,11 @@ module Imdb
     def fullcredits_document
       @fullcredits_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, 'fullcredits'))
     end
-
+    
+    def criticreviews_document
+      @criticreviews_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, 'criticreviews'))
+    end
+    
     # Use HTTParty to fetch the raw HTML for this movie.
     def self.find_by_id(imdb_id, page = :combined)
       open("http://akas.imdb.com/title/tt#{imdb_id}/#{page}")

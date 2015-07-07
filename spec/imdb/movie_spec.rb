@@ -120,7 +120,11 @@ describe 'Imdb::Movie' do
     it 'finds the rating' do
       expect(subject.rating).to eq(8.3)
     end
-
+    
+    it 'finds the metascore' do
+      expect(subject.metascore).to eq(70)
+    end
+    
     it 'finds number of votes' do
       expect(subject.votes).to be_within(10_000).of(420_900)
     end
