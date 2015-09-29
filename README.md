@@ -58,6 +58,13 @@ you can do with this gem.
     i.movies.size
     #=> 97
 
+Or, you can filter the results by type where the supported types are :movie, :tv, :episode, :videogame
+
+    i = Imdb::Search.new("Star Trek", :tv)
+
+    i.movies.size
+    #=> 42
+
 ## Installation
 
     gem install imdb
@@ -69,7 +76,7 @@ Or, if you're using this in a project with Bundler:
 ## Running Tests
 
 As this gem uses content from imdb.com, the test suite uses a set of
-pre-defined fixute files in `spec/fixtures`. These fixtures are 
+pre-defined fixture files in `spec/fixtures`. These fixtures are
 copies of imdb page used in tests. 
 
 Run bundle install to install all dependencies, including fakeweb, which

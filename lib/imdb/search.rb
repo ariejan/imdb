@@ -1,7 +1,15 @@
 module Imdb
   # Search IMDB for a title
   class Search < MovieList
+    TYPES = {
+      :movie     => 'ft',
+      :tv        => 'tv',
+      :episode   => 'ep',
+      :videogame => 'vg',
+    }
+
     attr_reader :query
+    attr_reader :type
 
     # Initialize a new IMDB search with the specified query
     #
@@ -10,8 +18,9 @@ module Imdb
     # Imdb::Search is lazy loading, meaning that unless you access the +movies+
     # attribute, no query is made to IMDB.com.
     #
-    def initialize(query)
+    def initialize(query, type = nil)
       @query = query
+      @type  = type
     end
 
     # Returns an array of Imdb::Movie objects for easy search result yielded.
@@ -23,11 +32,13 @@ module Imdb
     private
 
     def document
-      @document ||= Nokogiri::HTML(Imdb::Search.query(@query))
+      @document ||= Nokogiri::HTML(submit_query)
     end
 
-    def self.query(query)
-      open("http://akas.imdb.com/find?q=#{CGI.escape(query)};s=tt")
+    def submit_query
+      url = "http://akas.imdb.com/find?q=#{CGI.escape(query)}&s=tt"
+      url << "&ttype=#{TYPES[type]}" if type && TYPES.include?(type)
+      open(url)
     end
 
     def parse_movie
