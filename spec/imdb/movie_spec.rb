@@ -12,6 +12,18 @@ describe 'Imdb::Movie' do
     # Get Die Hard (1988)
     subject { Imdb::Movie.new('0095016') }
 
+    it 'finds the starring actors' do
+      stars = subject.stars
+      expected_stars = [
+        'Bruce Willis',
+        'Alan Rickman',
+        'Bonnie Bedelia',
+      ]
+
+      expect(stars).to be_an(Array)
+      expect(stars).to include(*expected_stars)
+    end
+
     it 'finds the cast members' do
       cast = subject.cast_members
       expected_cast = [

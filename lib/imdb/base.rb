@@ -123,6 +123,11 @@ module Imdb
       criticreviews_document.at('//span[@itemprop="ratingValue"]').content.to_i rescue nil
     end
 
+    # Returns a list of the staring actors
+    def stars
+      apex_document.search('//div[@itemprop="actors"]//span[@itemprop="name"]/text()').map(&:content) rescue []
+    end
+
     # Returns an int containing the number of user ratings
     def votes
       document.at('#tn15rating .tn15more').content.strip.gsub(/[^\d+]/, '').to_i rescue nil
@@ -193,6 +198,10 @@ module Imdb
     
     def criticreviews_document
       @criticreviews_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, 'criticreviews'))
+    end
+
+    def apex_document
+      @apex_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, ''))
     end
     
     # Use HTTParty to fetch the raw HTML for this movie.
