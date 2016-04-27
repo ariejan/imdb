@@ -9,7 +9,7 @@ describe 'Imdb::Serie' do
   end
 
   it 'reports the number of seasons' do
-    expect(subject.seasons.size).to eq(5)
+    expect(subject.seasons.size).to eq(7)
   end
 
   it 'can fetch a specific season' do
