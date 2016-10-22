@@ -106,9 +106,9 @@ module Imdb
     def poster
       src = document.at("a[@name='poster'] img")['src'] rescue nil
       case src
-      when /^(http:.+@@)/
+      when /^(https?:.+@@)/
         Regexp.last_match[1] + '.jpg'
-      when /^(http:.+?)\.[^\/]+$/
+      when /^(https?:.+?)\.[^\/]+$/
         Regexp.last_match[1] + '.jpg'
       end
     end
