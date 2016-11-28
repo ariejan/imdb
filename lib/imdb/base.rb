@@ -115,7 +115,8 @@ module Imdb
 
     # Returns a float containing the average user rating
     def rating
-      document.at('.starbar-meta b').content.split('/').first.strip.to_f rescue nil
+      doc = Nokogiri::HTML(Imdb::Movie.find_by_id(@id, :ratings))
+      doc.css('div#tn15.ratings div#tn15main div#tn15content p')[0].text.match(/IMDb users have given a weighted average vote of (\d[\d.]+) \/ 10/).captures[0] rescue nil
     end
     
     # Returns an int containing the Metascore
@@ -125,7 +126,8 @@ module Imdb
 
     # Returns an int containing the number of user ratings
     def votes
-      document.at('#tn15rating .tn15more').content.strip.gsub(/[^\d+]/, '').to_i rescue nil
+      doc = Nokogiri::HTML(Imdb::Movie.find_by_id(@id, :ratings))
+      doc.css('div#tn15.ratings div#tn15main div#tn15content p')[0].text.match(/(\d+) IMDb users have given/).captures[0] rescue nil
     end
 
     # Returns a string containing the tagline
@@ -212,7 +214,7 @@ module Imdb
     def sanitize_plot(the_plot)
       the_plot = the_plot.gsub(/add\ssummary|full\ssummary/i, '')
       the_plot = the_plot.gsub(/add\ssynopsis|full\ssynopsis/i, '')
-      the_plot = the_plot.gsub(/see|more|\u00BB|\u00A0/i, '')
+      the_plot = the_plot.gsub(/\u00BB|\u00A0/i, '')
       the_plot = the_plot.gsub(/\|/i, '')
       the_plot.strip
     end
