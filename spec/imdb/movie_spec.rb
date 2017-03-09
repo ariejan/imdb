@@ -53,6 +53,16 @@ describe 'Imdb::Movie' do
       expect(cast_char[-2]).to eq("#{cast[-2]} as #{char[-2]}")
     end
 
+    it 'can get the user reviews' do
+      reviews = subject.user_reviews
+
+      expect(reviews).to be_an(Enumerator)
+      expect(reviews.first.first[:title]).not_to be_blank
+      expect(reviews.first.first[:rating]).to be_an(Integer)
+      expect(reviews.first.first[:rating]).to be_between(0, 10)
+      expect(reviews.first.first[:review]).not_to be_blank
+    end
+
     describe 'fetching a list of imdb actor ids for the cast members' do
       it 'does not require arguments' do
         expect { subject.cast_member_ids }.not_to raise_error
