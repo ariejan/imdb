@@ -117,6 +117,28 @@ module Imdb
     def rating
       document.at('.starbar-meta b').content.split('/').first.strip.to_f rescue nil
     end
+
+    def user_reviews
+      Enumerator.new do |enum|
+        start = 0
+        loop do
+          ratings = userreviews_document(start)
+                      .search('//div[contains(@id, "tn15content")]//div[@class="yn"]//preceding-sibling::*[self::div and not(contains(@class, "yn")) or self::p]')
+                      .each_slice(2).map do |head, review|
+                        rating = head.children.search('img')[1]
+                        {
+                          title: head.at('h2').text,
+                          rating: rating ? rating['alt'].to_s.gsub('/10', '').to_i : nil,
+                          review: review.text
+                        }
+          end.compact
+          break if ratings.empty?
+          enum.yield(ratings)
+          start += 10
+          sleep 1
+        end
+      end
+    end
     
     # Returns an int containing the Metascore
     def metascore
@@ -193,6 +215,10 @@ module Imdb
     
     def criticreviews_document
       @criticreviews_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, 'criticreviews'))
+    end
+
+    def userreviews_document(start=0)
+      Nokogiri::HTML(Imdb::Movie.find_by_id(@id, "reviews?start=#{start}"))
     end
     
     # Use HTTParty to fetch the raw HTML for this movie.
