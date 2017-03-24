@@ -160,6 +160,16 @@ describe 'Imdb::Movie' do
           expect(subject.director).to match_array(%w(Lana\ Wachowski Andy\ Wachowski))
         end
       end
+      
+      it 'should find multiple directors when other directors would be displayed as (more) in combined view' do
+        # The Big Lebowski (1998)
+        movie = Imdb::Movie.new('0118715')
+
+        movie.director.should be_an(Array)
+        movie.director.size.should eql(2)
+        movie.director.should include('Joel Coen')
+        movie.director.should include('Ethan Coen')
+      end
 
       context 'Waar' do
         # Waar (2013)
