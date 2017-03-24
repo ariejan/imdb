@@ -5,4 +5,5 @@ rdoc/*
 .bundle
 Gemfile.lock
 .rvmrc
+.ruby-*
 .gh_pages

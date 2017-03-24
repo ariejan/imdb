@@ -18,10 +18,10 @@ def read_fixture(path)
 end
 
 IMDB_SAMPLES = {
-  'http://akas.imdb.com:80/find?q=Kannethirey+Thondrinal;s=tt' => 'search_kannethirey_thondrinal',
+  'http://akas.imdb.com:80/find?q=Kannethirey+Thondrinal&s=tt' => 'search_kannethirey_thondrinal',
   'http://akas.imdb.com/title/tt0330508/?fr=c2M9MXxsbT01MDB8ZmI9dXx0dD0xfG14PTIwfGh0bWw9MXxjaD0xfGNvPTF8cG49MHxmdD0xfGt3PTF8cXM9S2FubmV0aGlyZXkgVGhvbmRyaW5hbHxzaXRlPWFrYXxxPUthbm5ldGhpcmV5IFRob25kcmluYWx8bm09MQ__;fc=1;ft=1' => 'tt0330508',
-  'http://akas.imdb.com:80/find?q=I+killed+my+lesbian+wife;s=tt' => 'search_killed_wife',
-  'http://akas.imdb.com/find?q=Star+Trek%3A+TOS;s=tt' => 'search_star_trek',
+  'http://akas.imdb.com:80/find?q=I+killed+my+lesbian+wife&s=tt' => 'search_killed_wife',
+  'http://akas.imdb.com/find?q=Star+Trek%3A+TOS&s=tt' => 'search_star_trek',
   'http://akas.imdb.com:80/title/tt0117731/combined' => 'tt0117731',
   'http://akas.imdb.com:80/title/tt0095016/combined' => 'tt0095016',
   'http://akas.imdb.com/title/tt0095016/criticreviews' => 'criticreviews',
@@ -47,7 +47,8 @@ IMDB_SAMPLES = {
   'http://akas.imdb.com/title/tt1628064/combined' => 'thewalkingdead-s1e2',
   'http://akas.imdb.com/title/tt0898266/episodes?season=1' => 'tbbt-s1',
   'http://akas.imdb.com/title/tt0898266/combined' => 'tt0898266',
-  'http://akas.imdb.com/find?q=Wall-E;s=tt' => 'wall_e_search'
+  'http://akas.imdb.com/find?q=Wall-E&s=tt' => 'wall_e_search',
+  'http://akas.imdb.com/find?q=Star+Trek%3A+TOS&s=tt&ttype=tv' => 'search_star_trek_tv',
 }
 
 unless ENV['LIVE_TEST']

@@ -41,3 +41,21 @@ describe 'Imdb::Search with an exact match and no poster' do
     end
   end
 end
+
+describe 'Imdb::Search with a type filter' do
+  context 'TV shows' do
+    subject { Imdb::Search.new('Star Trek: TOS', :tv) }
+
+    it 'finds 10 results' do
+      expect(subject.movies.size).to eq(10)
+    end
+  end
+
+  context 'unsupported type' do
+    subject { Imdb::Search.new('Star Trek: TOS', :unsupported) }
+
+    it 'finds the regular results' do
+      expect(subject.movies.size).to eq(14)
+    end
+  end
+end
