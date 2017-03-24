@@ -194,6 +194,21 @@ module Imdb
       end rescue []
     end
 
+    # Returns awards from imdb_url/awards
+    def awards
+      awards = []
+      awards_document.search('table.awards').each do |table|
+        name = table.search('span.award_category').text.strip
+        winner = table.search('b').text['Nominated'] ? false : true
+        table.search('tr').each do |tr|
+          category = tr.search('td.award_description').inner_html[/[^<]*/].strip 
+          nominees = tr.search('td a').map { |link| link.content.strip }
+          awards << Imdb::Award.new(name, winner: winner, category: category, nominees: nominees)
+        end
+      end rescue []
+      awards
+    end
+
     private
 
     # Returns a new Nokogiri document for parsing.
@@ -203,6 +218,10 @@ module Imdb
 
     def locations_document
       @locations_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, 'locations'))
+    end
+
+    def awards_document
+      @awards_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, 'awards'))
     end
 
     def releaseinfo_document
