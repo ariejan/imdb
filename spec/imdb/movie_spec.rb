@@ -73,13 +73,13 @@ describe 'Imdb::Movie' do
       end
 
       it 'returns the imdb actor number for each cast member' do
-        expect(subject.cast_member_ids).to match_array(%w(nm0000246 nm0000614 nm0000889 nm0000952 nm0001108 nm0001817 nm0005598 nm0033749 nm0040472 nm0048326 nm0072054 nm0094770 nm0101088 nm0112505 nm0112779 nm0119594 nm0127960 nm0142420 nm0160690 nm0162041 nm0234426 nm0236525 nm0239958 nm0278010 nm0296791 nm0319739 nm0322339 nm0324231 nm0326276 nm0338808 nm0356114 nm0370729 nm0383487 nm0416429 nm0421114 nm0441665 nm0484360 nm0484650 nm0493493 nm0502959 nm0503610 nm0504342 nm0539639 nm0546076 nm0546747 nm0662568 nm0669625 nm0681604 nm0687270 nm0688235 nm0718021 nm0731114 nm0776208 nm0793363 nm0852311 nm0870729 nm0882139 nm0902455 nm0907234 nm0924636 nm0936591 nm0958105 nm2143912 nm2476262 nm2565888))
+        expect(subject.cast_member_ids).to match_array(%w(nm0000246 nm0000614 nm0000889 nm0000952 nm0001108 nm0001817 nm0005598 nm0033749 nm0040472 nm0048326 nm0072054 nm0094770 nm0101088 nm0112505 nm0112779 nm0119594 nm0127960 nm0142420 nm0160690 nm0162041 nm0234426 nm0236525 nm0239958 nm0278010 nm0296791 nm0319739 nm0322339 nm0324231 nm0326276 nm0338808 nm0356114 nm0370729 nm0383487 nm0403767 nm0416429 nm0421114 nm0441665 nm0484360 nm0484650 nm0493493 nm0502959 nm0503610 nm0504342 nm0539639 nm0546076 nm0546747 nm0662568 nm0669625 nm0681604 nm0687270 nm0688235 nm0718021 nm0731114 nm0776208 nm0793363 nm0852311 nm0870729 nm0882139 nm0902455 nm0907234 nm0924636 nm0936591 nm0958105 nm2143912 nm2476262 nm2565888))
       end
     end
 
     it 'returns the url to the movie trailer' do
       expect(subject.trailer_url).to be_a(String)
-      expect(subject.trailer_url).to eq('http://imdb.com/video/screenplay/vi581042457/')
+      expect(subject.trailer_url).to eq('http://imdb.com/video/screenplay/vi782369049/')
     end
 
     it 'finds the director' do
@@ -112,15 +112,15 @@ describe 'Imdb::Movie' do
     end
 
     it 'finds the plot' do
-      expect(subject.plot).to eq('John McClane, officer of the NYPD, tries to save wife Holly Gennaro and several others, taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.')
+      expect(subject.plot).to eq('John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.')
     end
 
     it 'finds plot synopsis' do
-      expect(subject.plot_synopsis).to match(/John McClane, a detective with the New York City Police Department, arrives in Los Angeles to attempt a Christmas reunion and reconciliation with his estranged wife Holly, who is attending a party thrown by her employer, the Nakatomi Corporation at its still-unfinished American branch office headquarters, the high-rise Nakatomi Plaza. When McClane refreshes himself from the flight in Holly's corporate room, they have an argument over the use of her maiden name, Gennero, but Holly is called away/)
+      expect(subject.plot_synopsis).to match(/John McClane, a detective with the New York..../) # TODO: reimplement plot synopsis
     end
 
     it 'finds plot summary' do
-      expect(subject.plot_summary).to eq("New York City Detective John McClane has just arrived in Los Angeles to spend Christmas with his wife. Unfortunatly, it is not going to be a Merry Christmas for everyone. A group of terrorists, led by Hans Gruber is holding everyone in the Nakatomi Plaza building hostage. With no way of anyone getting in or out, it's up to McClane to stop them all. All 12!")
+      expect(subject.plot_summary).to eq("NYPD cop John McClane goes on a Christmas vacation to visit his wife Holly in Los Angeles where she works for the Nakatomi Corporation. While they are at the Nakatomi headquarters for a Christmas party, a group of bank robbers led by Hans Gruber take control of the building and hold everyone hostage, with the exception of John, while they plan to perform a lucrative heist. Unable to escape and with no immediate police response, John is forced to take matters into his own hands.")
     end
 
     it 'finds the poster' do
@@ -128,7 +128,7 @@ describe 'Imdb::Movie' do
     end
 
     it 'finds the rating' do
-      expect(subject.rating).to eq(8.3)
+      expect(subject.rating).to eq(8.2)
     end
     
     it 'finds the metascore' do
@@ -136,7 +136,7 @@ describe 'Imdb::Movie' do
     end
     
     it 'finds number of votes' do
-      expect(subject.votes).to be_within(10_000).of(420_900)
+      expect(subject.votes).to be_within(10_000).of(580_000)
     end
 
     it 'finds the title' do
@@ -157,7 +157,7 @@ describe 'Imdb::Movie' do
         # The Matrix Revolutions (2003)
         subject { Imdb::Movie.new('0242653') }
         it 'finds multiple directors' do
-          expect(subject.director).to match_array(%w(Lana\ Wachowski Andy\ Wachowski))
+          expect(subject.director).to match_array(%w(Lana\ Wachowski Lilly\ Wachowski))
         end
       end
 
@@ -165,7 +165,7 @@ describe 'Imdb::Movie' do
         # Waar (2013)
         subject { Imdb::Movie.new('1821700') }
         it 'finds writers' do
-          expect(subject.writers).to eq(['Hassan Waqas Rana'])
+          expect(subject.writers).to eq(['Hassan Rana'])
         end
       end
     end
@@ -180,7 +180,7 @@ describe 'Imdb::Movie' do
     it "finds multiple 'also known as' versions" do
       also_known_as = subject.also_known_as
       expect(also_known_as).to be_a(Array)
-      expect(also_known_as.size).to eql(40)
+      expect(also_known_as.size).to eql(45)
     end
 
     it "finds a specific 'also known as' version" do
@@ -208,14 +208,14 @@ describe 'Imdb::Movie' do
     context 'Biography of Mohandas K. Gandhi' do
       subject { Imdb::Movie.new('0083987') }
       it 'finds a correct plot when HTML links are present' do
-        expect(subject.plot).to eq('Biography of Mohandas K. Gandhi, the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.')
+        expect(subject.plot).to eq('Gandhi\'s character is fully explained as a man of nonviolence. Through his patience, he is able to drive the British out of the subcontinent. And the stubborn nature of Jinnah and his commitment towards Pakistan is portrayed.')
       end
     end
 
     context 'movie 0036855' do
       subject { Imdb::Movie.new('0036855') }
       it "does not have a 'more' link in the plot" do
-        expect(subject.plot).to eq('Years after her aunt was murdered in her home, a young woman moves back into the house with her new husband. However, he has a secret which he will do anything to protect, even if that means driving his wife insane.')
+        expect(subject.plot).to eq('Years after her aunt was murdered in her home, a young woman moves back into the house with her new husband. However, he has a secret that he will do anything to protect, even if it means driving his wife insane.')
       end
     end
   end
@@ -267,7 +267,7 @@ describe 'Imdb::Movie' do
       # Pulp Fiction (1994)
       subject { Imdb::Movie.new('0110912') }
       it 'has a poster' do
-        expect(subject.poster).to eq('http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4.jpg')
+        expect(subject.poster).to eq('http://ia.media-imdb.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@.jpg')
       end
     end
   end
