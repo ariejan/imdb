@@ -143,7 +143,7 @@ module Imdb
       if @title && !force_refresh
         @title
       else
-        @title = document.at("div[@id='tn15title']/h1/text()") rescue nil
+        @title = document.at("div[@id='tn15title']/h1/text()").text.strip rescue nil
       end
     end
 
