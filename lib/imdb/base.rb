@@ -143,7 +143,7 @@ module Imdb
       if @title && !force_refresh
         @title
       else
-        @title = document.at('h1').inner_html.split('<span').first.strip.imdb_unescape_html rescue nil
+        @title = document.at("div[@id='tn15title']/h1/text()") rescue nil
       end
     end
 
