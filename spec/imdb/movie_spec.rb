@@ -151,6 +151,10 @@ describe 'Imdb::Movie' do
       expect(subject.year).to eq(1988)
     end
 
+    it 'finds the MPAA letter rating' do
+      expect(subject.mpaa_letter_rating).to eq("R")
+    end
+
     describe 'special scenarios' do
 
       context 'The Matrix Revolutions' do
