@@ -144,7 +144,7 @@ describe 'Imdb::Movie' do
     end
 
     it 'finds the tagline' do
-      expect(subject.tagline).to match(/It will blow you through the back wall of the theater/)
+      expect(subject.tagline).to eq("It will blow you through the back wall of the theater!")
     end
 
     it 'finds the year' do
