@@ -147,7 +147,7 @@ module Imdb
     
     # Returns an int containing the Metascore
     def metascore
-      criticreviews_document.at('//span[@itemprop="ratingValue"]').content.to_i rescue nil
+      apex_document.at('div[@class*="metacriticScore"]/span').content.to_i rescue nil
     end
 
     # Returns an int containing the number of user ratings
@@ -218,10 +218,6 @@ module Imdb
       @fullcredits_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, 'fullcredits'))
     end
     
-    def criticreviews_document
-      @criticreviews_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, 'criticreviews'))
-    end
-
     def apex_document
       @apex_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, ''))
     end
