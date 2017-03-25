@@ -53,6 +53,11 @@ describe 'Imdb::Movie' do
       expect(cast_char[-2]).to eq("#{cast[-2]} as #{char[-2]}")
     end
 
+    it 'finds the starring actors' do
+      stars = subject.starring_actors
+      expect(stars).to eq(["Bruce Willis", "Alan Rickman", "Bonnie Bedelia"])
+    end
+
     it 'can get the user reviews' do
       reviews = subject.user_reviews
 

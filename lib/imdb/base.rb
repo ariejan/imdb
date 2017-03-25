@@ -40,6 +40,11 @@ module Imdb
       memb_char
     end
 
+    # Returns an array of starring actors as strings
+    def starring_actors
+      apex_document.search('//span[@itemprop="actors"]//span[@itemprop="name"]/text()').map(&:content) rescue []
+    end
+
     # Returns the name of the director
     def director
       document.search("h5[text()^='Director'] ~ div a").map { |link| link.content.strip } rescue []
@@ -215,6 +220,10 @@ module Imdb
     
     def criticreviews_document
       @criticreviews_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, 'criticreviews'))
+    end
+
+    def apex_document
+      @apex_document ||= Nokogiri::HTML(Imdb::Movie.find_by_id(@id, ''))
     end
 
     def userreviews_document(start=0)
