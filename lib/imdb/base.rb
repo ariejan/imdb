@@ -160,6 +160,11 @@ module Imdb
       document.at("//a[starts-with(.,'MPAA')]/../following-sibling::*").content.strip rescue nil
     end
 
+    # Returns a string containing the MPAA letter rating
+    def mpaa_letter_rating
+      document.at("a[@href*='certificates=us:']").content.gsub(/^USA:/, '') rescue nil
+    end
+
     # Returns a string containing the title
     def title(force_refresh = false)
       if @title && !force_refresh
