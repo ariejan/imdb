@@ -102,10 +102,14 @@ module Imdb
       doc.at('p.plotSummary').inner_html.gsub(/<i.*/im, '').strip.imdb_unescape_html rescue nil
     end
 
+    # Returns a string containing the URL for a thumbnail sized movie poster.
+    def poster_thumbnail
+      document.at("a[@name='poster'] img")['src'] rescue nil
+    end
+
     # Returns a string containing the URL to the movie poster.
     def poster
-      src = document.at("a[@name='poster'] img")['src'] rescue nil
-      case src
+      case poster_thumbnail
       when /^(https?:.+@@)/
         Regexp.last_match[1] + '.jpg'
       when /^(https?:.+?)\.[^\/]+$/

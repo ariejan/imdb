@@ -123,6 +123,10 @@ describe 'Imdb::Movie' do
       expect(subject.plot_summary).to eq("New York City Detective John McClane has just arrived in Los Angeles to spend Christmas with his wife. Unfortunatly, it is not going to be a Merry Christmas for everyone. A group of terrorists, led by Hans Gruber is holding everyone in the Nakatomi Plaza building hostage. With no way of anyone getting in or out, it's up to McClane to stop them all. All 12!")
     end
 
+    it 'finds the poster thumbnail' do
+      expect(subject.poster_thumbnail).to eq('http://ia.media-imdb.com/images/M/MV5BMTY4ODM0OTc2M15BMl5BanBnXkFtZTcwNzE0MTk3OA@@._V1._SX94_SY140_.jpg')
+    end
+
     it 'finds the poster' do
       expect(subject.poster).to eq('http://ia.media-imdb.com/images/M/MV5BMTY4ODM0OTc2M15BMl5BanBnXkFtZTcwNzE0MTk3OA@@.jpg')
     end
