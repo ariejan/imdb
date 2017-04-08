@@ -58,7 +58,7 @@ module Imdb
 
     # Returns the url to the "Watch a trailer" page
     def trailer_url
-      'http://imdb.com' + document.at("a[@href*='/video/screenplay/']")['href'] rescue nil
+      'http://imdb.com' + document.at("a[@href*='/video/']")['href'] rescue nil
     end
 
     # Returns an array of genres (as strings)
