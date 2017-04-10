@@ -32,7 +32,7 @@ module Imdb
 
     def parse_movie
       id    = document.at("head/link[@rel='canonical']")['href'][/\d+/]
-      title = document.at('h1').inner_html.split('<span').first.strip.imdb_unescape_html
+      title = document.at('.combined h1').inner_html.split('<span').first.strip.imdb_unescape_html
 
       [Imdb::Movie.new(id, title)]
     end
